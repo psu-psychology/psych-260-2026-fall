@@ -1,0 +1,115 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "slides/*.qmd"
+    - "*.qmd"
+  lib-dir: site_libs
+  
+# execute:
+#   freeze: auto
+
+website:
+  title: "PSYCH 260.001"
+  # announcement: 
+  #   content: "Please complete the end-of-semester [course evaluations](https://rateteaching.psu.edu/). Thank you!" 
+  #   position: below-navbar
+  #   icon: info-circle
+  #   dismissable: true
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - schedule.qmd
+      - evaluation.qmd
+      - deadlines.qmd
+      - policies.qmd
+      # - section: "Slides"
+      #   contents:
+      #     - text: "Wk 01 • Tue Aug 26"
+      #       href: slides/wk-01-2025-08-26-intro.qmd
+      #     - text: "Wk 01 • Thu Aug 28"
+      #       href: slides/wk-01-2025-08-28-hist-methods.qmd
+      #     - text: "Wk 02 • Tue Sep 02"
+      #       href: slides/wk-02-2025-09-02-methods.qmd
+      #     - text: "Wk 02 • Thu Sep 04"
+      #       href: slides/wk-02-2025-09-04-anatomy-I.qmd
+      #     - text: "Wk 03 • Tue Sep 09"
+      #       href: slides/wk-03-2025-09-09-anatomy-II.qmd
+      #     - text: "Wk 03 • Thu Sep 11"
+      #       href: slides/wk-03-2025-09-11-anatomy-III.qmd
+      #     - text: "Wk 04 • Tue Sep 16"
+      #       href: slides/wk-04-2025-09-16-cellular-neuro.qmd
+      #     - text: "Wk 04 • Thu Sep 18"
+      #       href: slides/wk-04-2025-09-18-neurophys.qmd
+      #     - text: "Wk 05 • Tue Sep 23"
+      #       href: slides/wk-05-2025-09-23-exam-rev.qmd
+      #     - text: "Wk 06 • Tue Sep 30"
+      #       href: slides/wk-06-2025-09-30-neurochem.qmd
+      #     - text: "Wk 07 • Tue Oct 07"
+      #       href: slides/wk-07-2025-10-07-neurochem-II.qmd
+      #     - text: "Wk 07 • Thu Oct 09"
+      #       href: slides/wk-07-2025-10-09-hormones.qmd
+      #     - text: "Wk 08 • Tue Oct 14"
+      #       href: slides/wk-08-2025-10-14-evolution.qmd
+      #     - text: "Wk 08 • Thu Oct 16"
+      #       href: slides/wk-08-2025-10-16-development.qmd
+      #     - text: "Wk 09 • Tue Oct 21"
+      #       href: slides/wk-09-2025-10-21-exam-rev.qmd
+      #     - text: "Wk 10 • Tue Oct 28"
+      #       href: slides/wk-10-2025-10-28-psychopathology-I.qmd
+      #     - text: "Wk 10 • Thu Oct 30"
+      #       href: slides/wk-10-2025-10-30-psychopathology-II.qmd
+      #     - text: "Wk 11 • Thu Nov 6"
+      #       href: slides/wk-11-2025-11-06-emotion-I.qmd
+      #     - text: "Wk 12 • Tue Nov 11"
+      #       href: slides/wk-12-2025-11-11-emotion-II.qmd
+      #     - text: "Wk 12 • Thu Nov 13"
+      #       href: slides/wk-12-2025-11-13-sensory-systems.qmd
+      #     - text: "Wk 13 • Tue Nov 18"
+      #       href: slides/wk-13-2025-11-18-somatosensation.qmd
+      #     - text: "Wk 13 • Thu Nov 20"
+      #       href: slides/wk-13-2025-11-20-action-I.qmd
+      #     - text: "Wk 15 • Tue Dec 09"
+      #       href: slides/wk-15-2025-12-09-memory.qmd
+      #     - text: "Wk 15 • Thu Dec 11"
+      #       href: slides/wk-15-2025-12-11-cerebral-symphony.qmd
+  repo-url: https://github.com/psu-psychology/psych-260-2026-fall
+  repo-actions: [edit, issue]
+  repo-subdir: src
+  page-footer:
+    left: "Copyright © Rick Gilmore • [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    center: "Built with [Quarto](https://quarto.org/)"
+    right: 
+      - icon: github
+        href: https://github.com/psu-psychology/psych-260-2026-fall
+    background: light
+    border: true
+  page-navigation: true
+  bread-crumbs: false
+  reader-mode: false
+  
+bibliography: [include/bib/psych-260.bib]
+csl: include/bib/apa.csl
+
+format:
+  html:
+    theme: [cosmo, include/css/psu.scss]
+    mainfont: roboto
+    fontsize: 1.1em
+    toc: true
+    toc-depth: 4
+    fig-align: center
+    number-sections: false
+    citations-hover: true
+    footnotes-hover: true
+    link-external: true
+    code-tools: true
+    code-fold: true
+    date-modified: last-modified
+    date: today
+    # html-math-method: mathjax
+
+  # pdf:
+  #   documentclass: scrreprt
