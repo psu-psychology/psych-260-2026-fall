@@ -1,6 +1,6 @@
 ---
 title: "PSYCH 260.001"
-subtitle: "Fall 2025"
+subtitle: "Fall 2026"
 date: last-modified
 format: pdf
 bibliography:
