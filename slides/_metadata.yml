@@ -1,0 +1,30 @@
+subtitle: "PSYCH 260.001 Fall 26"
+execute:
+  freeze: auto  # re-render only when source changes
+format:
+  revealjs:
+    footer: "[PSY 260.001](https://psu-psychology.github.io/psych-260-2026-fall) | © 2026 Rick Gilmore under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    slide-number: true
+    fig-align: center
+    logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
+    theme: [serif, ../include/css/psu.scss]
+    mainfont: roboto
+    code-fold: true
+    code-tools: true
+    chalkboard: true
+    link-external-icon: true
+    citations-hover: true
+    author: "Rick Gilmore"
+    institute: "Department of Psychology"
+    reference-location: document
+    lightbox: true
+    engine: knitr
+custom-callout:
+  question:
+    icon-symbol: "fa-question"
+    color: "pink"
+  answer:
+    icon-symbol: "fa-brain"
+    color: "blue"
+filters:
+  - custom-callout

@@ -10,226 +10,266 @@ That said, you may find it interesting to learn and know about anyway.
 
 ## Week 01 {- #week-01}
 
-### Monday, August 24
+### Mon, Aug 24
 
-*`{r} sched_df$class_1_theme[1]`*
+*Course Introduction*
 
 - *Read*: MM pp 3-16
-- *Slides*: | [html](slides/wk-01-2026-08-24-intro.qmd) |
+- *Slides*: | [html](slides/) |
 
-### Wednesday, August 26 {-}
+### Wed, Aug 26 {-}
 
-*`{r} sched_df$class_2_theme[1]`*
+*History of neuroscience, levels of analysis, methods*
 
 - *Read*: MM pp 3-16
 - *Watch*: @National_Geographic2014-gv, @NeuroBriefs2011-pd, @Eames_Office2010-xd
-- *Slides*: | [html](slides/wk-01-2025-08-26-hist-methods.qmd) |
+- *Slides*: | [html](slides/) |
 
-### Friday, August 28 {-}
+### Fri, Aug 28 {-}
 
-## Week 02 {- #week-02}
-
-### Monday, August 31, 2026 {-}
-
-*`{r} sched_df$class_1_theme[2]`*
+*Methods*
 
 - *Read*: MM pp 44-50
 - *Watch*: @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz, @Video2010-jw, @Understanding_Animal_Research2009-vq
-- *Slides*: | [html](slides/wk-02-2025-09-02-methods.qmd) |
+- *Slides*: | [html](slides/) |
 
-### Wednesday, September 2 {-}
+## Week 02 {- #week-02}
 
-*`{r} sched_df$class_2_theme[2]`*
+### Mon, Aug 31, 2026 {-}
+
+*Neuroanatomy I*
 
 - *Read*: MM pp 27-44
-- Extra credit assignment due: [Canvas dropbox](https://psu.instructure.com/courses/2415710/assignments/17605818)
-- *Slides*:  | [html](slides/wk-02-2025-09-04-anatomy-I.qmd) |
+- Extra credit assignment due: [Canvas dropbox]()
+- *Slides*:  | [html](slides/) |
 
-### Friday, September 04 {-}
+### Wed, Sep 2 {-}
+
+*Neuroanatomy II*
+
+- *Read*: MM pp 16-27
+- *Slides*:  | [html](slides/) |
+
+### Fri, Sep 04 {-}
+
+*Neuroanatomy III*
 
 ## Week 03 {- #week-03}
 
-### Monday, September 07 {-}
+### Mon, Sep 07 {-}
 
 **NO CLASS: Labor Day**
 
-### Wednesday, September 09 {-}
+### Wed, Sep 09 {-}
 
-*`{r} sched_df$class_1_theme[3]`*
+*Quiz 1; Cells of the nervous system*
 
-- *Read*: MM pp 16-27
-- *Slides*:  | [html](slides/wk-03-2025-09-09-anatomy-II.qmd) |
+- *Read*: MM pp 20-27
+- *Slides*:  | [html](slides/) |
 
-### Friday, September 11 {-}
+### Fri, Sep 11 {-}
 
-*`{r} sched_df$class_2_theme[3]`*
+*Neurophysiology I*
 
-- *Slides*:  | [html](slides/wk-03-2025-09-11-anatomy-III.qmd) |
+- *Read*: MM pp 58-74
+- *Slides*:  | [html](slides/) |
 
 ## Week 04 {- #week-04}
 
-### Monday, September 14 {-}
+### Mon, Sep 14 {-}
 
-*`{r} sched_df$class_1_theme[4]`*
+*Neurophysiology II*
 
-- *Read*: MM pp 20-27
-- *Slides*:  | [html](slides/wk-04-2025-09-16-cellular-neuro.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, September 16 {-}
+### Wed, Sep 16 {-}
 
-*`{r} sched_df$class_2_theme[4]`*
+*Neurophysiology III*
 
-- *Read*: MM pp 58-74
-- *Slides*:  | [html](slides/wk-04-2025-09-18-neurophys.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Friday, September 18 {-}
+### Fri, Sep 18 {-}
+
+*Catch-up; Exam 1 review*
 
 ## Week 05 {- #week-05}
 
-### Monday, September 21 {-}
+### Mon, Sep 21 {-}
 
-*`{r} sched_df$class_1_theme[5]`*
+<!-- Yom Kippur -->
 
-- *Slides*: | [html](slides/wk-05-2025-09-23-exam-rev.qmd) |
+*Exam 1*
 
-### Wednesday, September 23 {-}
+### Wed, Sep 23 {-}
 
-*`{r} sched_df$class_2_theme[5]`*
+*Neurochemistry I*
 
-### Friday, September 25 {-}
+- *Read*: MM pp 86-100
+- *Slides*:  | [html](slides/) |
+
+### Fri, Sep 25 {-}
+
+*Neurochemistry II*
+
+- *Read*: MM pp 102-106, 122-123
+- *Slides*:  | [html](slides/) |
 
 ## Week 06 {- #week-06}
 
-### Monday, September 28 {-}
+### Mon, Sep 28 {-}
 
-*`{r} sched_df$class_1_theme[6]`*
+*Hormones*
 
-- *Read*: MM pp 86-100
-- *Slides*:  | [html](slides/wk-06-2025-09-30-neurochem.qmd) |
+- *Read*: MM pp 248-266
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, September 30 {-}
+### Wed, Sep 30 {-}
 
-*`{r} sched_df$class_2_theme[6]`*
+*Evolution*
 
-### Friday, October 02 {-}
+- *Slides*:  | [html](slides/) |
+- *Watch*: @Scale-2023-gp
+
+### Fri, Oct 02 {-}
+
+*Development*
+
+- *Read*: MM pp 124-134, 145
+- *Slides*:  | [html](slides/) |
 
 ## Week 07 {- #week-07}
 
-### Monday, October 05 {-}
+### Mon, Oct 05 {-}
 
-*`{r} sched_df$class_1_theme[7]`*
+*Quiz 2; Exam 1 results*
 
-- *Read*: MM pp 102-106, 122-123
-- *Slides*:  | [html](slides/wk-07-2025-10-07-neurochem-II.qmd) |
+### Wed, Oct 07 {-}
 
-### Wednesday, October 07 {-}
+*Psychopathology I*
 
-*`{r} sched_df$class_2_theme[7]`*
+- *Read*: MM pp 106-108, 412-405
+- *Slides*:  | [html](slides/) |
 
-- *Read*: MM pp 248-266
-- *Slides*:  | [html](slides/wk-07-2025-10-09-hormones.qmd) |
+### Fri, Oct 09 {-}
 
-### Friday, October 09 {-}
+*Psychopathology II*
+
+- *Read*: MM pp 106-108, 386-394
+- *Slides*:  | [html](slides/) |
 
 ## Week 08 {- #week-08}
 
-### Monday, October 12 {-}
+### Mon, Oct 12 {-}
 
-*`{r} sched_df$class_1_theme[8]`*
+*Psychopathology III*
 
-- *Slides*:  | [html](slides/wk-08-2025-10-14-evolution.qmd) |
-- *Watch*: @Scale-2023-gp
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, October 14 {-}
+### Wed, Oct 14 {-}
 
-*`{r} sched_df$class_2_theme[8]`*
+*Emotion I*
 
-- *Read*: MM pp 124-134, 145
-- *Slides*:  | [html](slides/wk-08-2025-10-16-development.qmd) |
+- *Read*: MM pp 356-369
+- *Slides*:  | [html](slides/) |
 
-### Friday, October 16 {-}
+### Fri, Oct 16 {-}
+
+*Emotion II*
+
+- *Read*: MM pp 375-383
+- *Slides*:  | [html](slides/) |
 
 ## Week 09 {- #week-09}
 
-### Monday, October 19 {-}
+### Mon, Oct 19 {-}
 
-*`{r} sched_df$class_1_theme[9]`*
+*Catch up; Exam 2 review*
 
-- *Slides*:  | [html](slides/wk-09-2025-10-21-exam-rev.qmd) |
+### Wed, Oct 21 {-}
 
-### Wednesday, October 21 {-}
+*Exam 2*
 
-*`{r} sched_df$class_2_theme[9]`*
+### Fri, Oct 23 {-}
 
-### Friday, October 23 {-}
+*Emotion III*
 
 ## Week 10 {- #week-10}
 
-### Monday, October 26 {-}
+### Mon, Oct 26 {-}
 
-*`{r} sched_df$class_1_theme[10]`*
+*Sleep I*
 
-- *Read*: MM pp 106-108, 412-405
-- *Slides*:  | [html](slides/wk-10-2025-10-28-psychopathology-I.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, October 28 {-}
+### Wed, Oct 28 {-}
 
-*`{r} sched_df$class_2_theme[10]`*
+*Sleep II*
 
-- *Read*: MM pp 106-108, 386-394
-- *Slides*:  | [html](slides/wk-10-2025-10-30-psychopathology-II.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Friday, October 30 {-}
+### Fri, Oct 30 {-}
+
+*Sleep III*
+
+- *Slides*:  | [html](slides/) |
 
 ## Week 11 {- #week-11}
 
-### Monday, November 02 {-}
+### Mon, Nov 02 {-}
 
-*`{r} sched_df$class_1_theme[11]`*
+*Vision I*
 
-### Wednesday, November 04 {-}
+- *Slides*:  | [html](slides/) |
 
-*`{r} sched_df$class_2_theme[11]`*
+### Wed, Nov 04 {-}
 
-- *Read*: MM pp 356-369
-- *Slides*:  | [html](slides/wk-11-2025-11-06-emotion-I.qmd) |
+*Vision II*
 
-### Friday, November 06
+- *Slides*:  | [html](slides/) |
+
+### Fri, Nov 06
+
+*Quiz 3; Exam 2 results*
 
 ## Week 12 {- #week-12}
 
-### Monday, November 09 {-}
+### Mon, Nov 09 {-}
 
-*`{r} sched_df$class_1_theme[12]`*
+*Vision III*
 
-- *Read*: MM pp 375-383
-- *Slides*:  | [html](slides/wk-12-2025-11-11-emotion-II.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, November 11 {-}
+### Wed, Nov 11 {-}
 
-*`{r} sched_df$class_2_theme[12]`*
+*Audition*
 
-- *Read*: MM pp 148-157
-- *Slides*:  | [html](slides/wk-12-2025-11-13-sensory-systems.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Friday, November 13
+### Fri, Nov 13
+
+*Sensory Systems*
+
+- *Slides*:  | [html](slides/) |
 
 ## Week 13 {- #week-13}
 
-### Monday, November 16 {-}
+### Mon, Nov 16 {-}
 
-*`{r} sched_df$class_1_theme[13]`*
+*Somatosensation*
 
-- *Slides*:  | [html](slides/wk-13-2025-11-18-somatosensation.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, November 18 {-}
+### Wed, Nov 18 {-}
 
-*`{r} sched_df$class_2_theme[13]`*
+*Action I*
 
 - *Read*: MM pp 148-157
-- *Slides*:  | [html](sliwk-13-2025-11-20-action-I.qmd) |
 
-### Friday, November 20
+### Fri, Nov 20
+
+*Quiz 4; Action II*
+
+- *Slides*:  | [html](slides/) |
 
 ## Thanksgiving Break
 
@@ -237,40 +277,35 @@ That said, you may find it interesting to learn and know about anyway.
 
 ## Week 14 {- #week-14}
 
-### Monday, November 30 {-}
+### Mon, Nov 30 {-}
 
-~~Exam 3~~ (rescheduled for Thursday)
+*Exam 3 review*
 
-### Wednesday, December 02 {-}
+### Wed, Dec 02 {-}
 
 *Exam 3*
 
-::: {.callout-note}
-Slides and material for the following topic are provide here for students' reference.
+### Fri, Dec 04
 
-*Action II*
-
-- *Slides*:  | [html](slides/wk-15-2025-11-04-action-II.qmd) |
-
-:::
-
-### Friday, December 04
+*Cognition*
 
 ## Week 15 {- #week-16}
 
-### Monday, December 07 {-}
+### Mon, Dec 07 {-}
 
-*`{r} sched_df$class_1_theme[16]`*
+*Memory I*
 
-- *Slides*:  | [html](slides/wk-15-2025-12-09-memory.qmd) |
+- *Slides*:  | [html](slides/) |
 
-### Wednesday, December 09 {-}
+### Wed, Dec 09 {-}
 
-*`{r} sched_df$class_2_theme[16]`*
+*Memory II; Exam 3 results*
 
-- *Slides*:  | [html](slides/wk-15-2025-12-11-cerebral-symphony.qmd) |
+### Fri, Dec 11
 
-### Friday, December 11
+*Exam 4 (final) review; The Cerebral Symphony*
+
+- *Slides*:  | [html](slides/) |
 
 ## Finals Week {- #finals-week}
 

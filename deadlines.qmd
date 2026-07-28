@@ -2,13 +2,35 @@
 title: "Deadlines"
 ---
 
+::: {.callout-warning}
+This page is under construction.
+:::
+
 | Date      | What's due/happening | Questions | Scores |
 |-----------|----------------------|----------|-----|
-| [Thu Sep 11](schedule.qmd#thu-sep-11-2025) | Quiz 1 | [Key](exams/quiz-01.qmd) | [Scores](exams/img/quiz-01-hist.jpg) |
-| [Thu Sep 25](schedule.qmd#thu-sep-25-2025) | Exam 1 | [Key](exams/exam-01.qmd) | [Scores](exams/img/exam-01-hist.jpg) | 
-| [Tue Oct 14](schedule.qmd#tue-oct-14-2025) | Quiz 2 | [Key](exams/quiz-02.qmd) | [Scores](exams/img/quiz-02-hist.jpg) | 
-| [Thu Oct 23](schedule.qmd#thu-oct-23-2025) | Exam 2 | [Key](exams/exam-02.qmd) | [Scores](exams/img/exam-02-hist.jpg)| 
-| [Tue Nov 11](schedule.qmd#tue-nov-11-2025) | Quiz 3 | [Key](exams/quiz-03.qmd) | [Scores](exams/img/quiz-02-hist.jpg)
-| [Tue Dec 02](schedule.qmd#tue-dec-2-2025) | Exam 3 | [Key](exams/exam-03.qmd) | [Scores](exams/img/exam-03-hist.jpg)
-| [Tue Dec 09](schedule.qmd#tue-dec-9-2025) | Quiz 4 | [Questions](slides/wk-15-2025-12-09-memory.qmd#/quiz-4) | [Scores](exams/img/quiz-04-hist.jpg) |
-| [Tue Dec 16](schedule.qmd#tue-dec-16-2025) | Exam 4 | [Key](exams/exam-04.qmd) | [Scores](exams/img/exam-04-hist.jpg) | 
+| [Wed Sep 09](schedule.qmd#wed-sep-09) | Quiz 1 | [Key](exams/) | [Scores](exams/) |
+| [Mon Sep 21](schedule.qmd#mon-sep-21) | Exam 1 | [Key](exams/) | [Scores](exams/) | 
+| [Mon Oct 05](schedule.qmd#mon-oct-05) | Quiz 2 | [Key](exams/) | [Scores](exams/) | 
+| [Wed Oct 21](schedule.qmd#wed-oct-21) | Exam 2 | [Key](exams/) | [Scores](exams/)| 
+| [Fri Nov 06](schedule.qmd#fri-nov-06) | Quiz 3 | [Key](exams/) | [Scores](exams/)
+| [Fri Nov 20](schedule.qmd#fri-nov-20) | Quiz 4 | [Key](slides/) | [Scores](exams/) |
+| [Wed Dec 02](schedule.qmd#wed-dec-02) | Exam 3 | [Key](exams/) | [Scores](exams/)
+| [Finals Week; TBD](schedule.qmd#finals-week) | Exam 4 | [Key](exams/) | [Scores](exams/) | 
+
+@fig-deadlines-by-week-day shows a depiction of the same information in a more graphic form.
+
+```{r}
+#| label: fig-deadlines-by-week-day
+#| fig-cap: "A graphic depiction of the quizzes and exams in PSYCH 260.001. The letter (q, e) refers to a quiz or an exam. The week of the semester is indicated on the vertical axis. The day of the week is indicated on the horizontal axis. Each month is in a different color."
+#| echo: false
+library(ggplot2)
+sched_df <- readr::read_csv("include/csv/schedule-matrix.csv", show_col_types = FALSE)
+sched_df |>
+  dplyr::mutate(day = ordered(day, labels = c("Mon", "Wed", "Fri"))) |>
+  ggplot() +
+  geom_text(aes(x = day, y = wk, label = evt, color = mo)) +
+  theme_classic() +
+  theme(axis.title.x.bottom = element_blank()) +
+  theme(legend.position = "none") +
+  scale_y_reverse()
+```
