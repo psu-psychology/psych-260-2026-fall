@@ -1,9 +1,9 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - "slides/*.qmd"
-    - "*.qmd"
+  # render:
+  #   - "slides/*.qmd"
+  #   - "*.qmd"
   lib-dir: site_libs
   
 # execute:
@@ -25,10 +25,10 @@ website:
       - evaluation.qmd
       - deadlines.qmd
       - policies.qmd
-      # - section: "Slides"
-      #   contents:
-      #     - text: "Wk 01 • Tue Aug 26"
-      #       href: slides/wk-01-2025-08-26-intro.qmd
+      - section: "Slides"
+        contents:
+          - text: "Wk 01 • Mon Aug 24"
+            href: slides/wk-01-2026-08-24-intro.qmd
       #     - text: "Wk 01 • Thu Aug 28"
       #       href: slides/wk-01-2025-08-28-hist-methods.qmd
       #     - text: "Wk 02 • Tue Sep 02"
@@ -90,7 +90,7 @@ website:
   bread-crumbs: false
   reader-mode: false
   
-bibliography: [include/bib/psych-260.bib include/bib/grateful-refs.bib]
+bibliography: [include/bib/psych-260.bib, include/bib/grateful-refs.bib]
 csl: include/bib/apa.csl
 
 format:

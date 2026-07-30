@@ -35,7 +35,7 @@ That said, you may find it interesting to learn and know about anyway.
 
 ## Week 02 {- #week-02}
 
-### Mon, Aug 31, 2026 {-}
+### Mon, Aug 31 {-}
 
 *Neuroanatomy I*
 
