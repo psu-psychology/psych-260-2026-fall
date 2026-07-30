@@ -7,6 +7,12 @@ format: revealjs
 
 ## For fun
 
+::: {#fig-stevie-wonder-superstition}
+<iframe width="1240" height="450" src="https://www.youtube.com/embed/97hwNY3ni10?si=2k0feL7PKLxzhtNm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@Musikladen2020-id
+:::
+
 ## Announcements
 
 ## Today's topics

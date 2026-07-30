@@ -90,7 +90,7 @@ website:
   bread-crumbs: false
   reader-mode: false
   
-bibliography: [include/bib/psych-260.bib]
+bibliography: [include/bib/psych-260.bib include/bib/grateful-refs.bib]
 csl: include/bib/apa.csl
 
 format:

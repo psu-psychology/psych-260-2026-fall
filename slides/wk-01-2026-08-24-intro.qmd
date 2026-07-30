@@ -7,11 +7,13 @@ format: revealjs
 
 ## For fun
 
-{{< video https://www.youtube.com/embed/JB7jSFeVz1U height="70%" width="100%">}}
+::: {#fig-ode-to-the-brain}
 
-<p style="text-align:center;">
+<iframe width="1240" height="450" src="https://www.youtube.com/embed/JB7jSFeVz1U?si=EtOirLlbWKNhGK9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @Melodysheep2011-wg
-</p>
+:::
+
 
 ---
 

@@ -15,7 +15,7 @@ That said, you may find it interesting to learn and know about anyway.
 *Course Introduction*
 
 - *Read*: MM pp 3-16
-- *Slides*: | [html](slides/) |
+- *Slides*: | [html](slides/wk-01-2026-08-24-intro.qmd) |
 
 ### Wed, Aug 26 {-}
 
