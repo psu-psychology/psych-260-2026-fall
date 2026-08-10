@@ -1,12 +1,12 @@
 
-::: {.callout-note}
-Textbook reading assignments in the Watson & Breedlove text, *The Mind's Machine* will be indicated by the following shorthand: 'MM pp 3-15'.
-This means to read pages 3 to 15.
+<!-- ::: {.callout-note} -->
+<!-- Textbook reading assignments in the Watson & Breedlove text, *The Mind's Machine* will be indicated by the following shorthand: 'MM pp 3-15'. -->
+<!-- This means to read pages 3 to 15. -->
 
-Note that the text covers material we won't cover in class.
-If we don't cover material in class, you aren't responsible for it.
-That said, you may find it interesting to learn and know about anyway.
-:::
+<!-- Note that the text covers material we won't cover in class. -->
+<!-- If we don't cover material in class, you aren't responsible for it. -->
+<!-- That said, you may find it interesting to learn and know about anyway. -->
+<!-- ::: -->
 
 ## Week 01 {- #week-01}
 
@@ -14,14 +14,14 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Course Introduction*
 
-- *Read*: MM pp 3-16
+<!-- - *Read*: MM pp 3-16 -->
 - *Slides*: | [html](slides/wk-01-2026-08-24-intro.qmd) |
 
 ### Wed, Aug 26 {-}
 
 *History of neuroscience, levels of analysis, methods*
 
-- *Read*: MM pp 3-16
+- *Read*: <https://en.wikipedia.org/wiki/History_of_neuroscience>, <https://en.wikipedia.org/wiki/Level_of_analysis>
 - *Watch*: @National_Geographic2014-gv, @NeuroBriefs2011-pd, @Eames_Office2010-xd
 - *Slides*: | [html](slides/) |
 
@@ -29,7 +29,8 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Methods*
 
-- *Read*: MM pp 44-50
+<!-- - *Read*: MM pp 44-50 -->
+- *Explore*: <https://en.wikipedia.org/wiki/List_of_neurological_research_methods>
 - *Watch*: @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz, @Video2010-jw, @Understanding_Animal_Research2009-vq
 - *Slides*: | [html](slides/) |
 
@@ -39,7 +40,8 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Neuroanatomy I*
 
-- *Read*: MM pp 27-44
+<!-- - *Read*: MM pp 27-44 -->
+- *Read*: <https://en.wikipedia.org/wiki/Neuroanatomy>
 - Extra credit assignment due: [Canvas dropbox]()
 - *Slides*:  | [html](slides/) |
 
@@ -47,7 +49,6 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Neuroanatomy II*
 
-- *Read*: MM pp 16-27
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Sep 04 {-}
@@ -64,14 +65,15 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Quiz 1; Cells of the nervous system*
 
-- *Read*: MM pp 20-27
+<!-- - *Read*: MM pp 20-27 -->
+- *Read*: <https://en.wikipedia.org/wiki/Neuron>, <https://en.wikipedia.org/wiki/Glia>
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Sep 11 {-}
 
 *Neurophysiology I*
 
-- *Read*: MM pp 58-74
+- *Read*: <https://en.wikipedia.org/wiki/Resting_potential>
 - *Slides*:  | [html](slides/) |
 
 ## Week 04 {- #week-04}
@@ -86,6 +88,7 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Neurophysiology III*
 
+- *Read*: <https://en.wikipedia.org/wiki/Action_potential>
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Sep 18 {-}
@@ -104,14 +107,15 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Neurochemistry I*
 
-- *Read*: MM pp 86-100
+<!-- - *Read*: MM pp 86-100 -->
+- *Read*: <https://en.wikipedia.org/wiki/Neurotransmitter>
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Sep 25 {-}
 
 *Neurochemistry II*
 
-- *Read*: MM pp 102-106, 122-123
+<!-- - *Read*: MM pp 102-106, 122-123 -->
 - *Slides*:  | [html](slides/) |
 
 ## Week 06 {- #week-06}
@@ -120,21 +124,23 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Hormones*
 
-- *Read*: MM pp 248-266
+<!-- - *Read*: MM pp 248-266 -->
 - *Slides*:  | [html](slides/) |
 
 ### Wed, Sep 30 {-}
 
 *Evolution*
 
-- *Slides*:  | [html](slides/) |
+- *Read*: <https://en.wikipedia.org/wiki/Evolution_of_the_brain>
 - *Watch*: @Scale-2023-gp
+- *Slides*:  | [html](slides/) |
 
 ### Fri, Oct 02 {-}
 
 *Development*
 
-- *Read*: MM pp 124-134, 145
+<!-- - *Read*: MM pp 124-134, 145 -->
+- *Skim*: <https://en.wikipedia.org/wiki/Development_of_the_nervous_system>
 - *Slides*:  | [html](slides/) |
 
 ## Week 07 {- #week-07}
@@ -147,14 +153,14 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Psychopathology I*
 
-- *Read*: MM pp 106-108, 412-405
+<!-- - *Read*: MM pp 106-108, 412-405 -->
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Oct 09 {-}
 
 *Psychopathology II*
 
-- *Read*: MM pp 106-108, 386-394
+<!-- - *Read*: MM pp 106-108, 386-394 -->
 - *Slides*:  | [html](slides/) |
 
 ## Week 08 {- #week-08}
@@ -169,14 +175,14 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Emotion I*
 
-- *Read*: MM pp 356-369
+<!-- - *Read*: MM pp 356-369 -->
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Oct 16 {-}
 
 *Emotion II*
 
-- *Read*: MM pp 375-383
+<!-- - *Read*: MM pp 375-383 -->
 - *Slides*:  | [html](slides/) |
 
 ## Week 09 {- #week-09}
@@ -263,7 +269,8 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Action I*
 
-- *Read*: MM pp 148-157
+<!-- - *Read*: MM pp 148-157 -->
+- *Slides*:  | [html](slides/) |
 
 ### Fri, Nov 20
 

@@ -1,0 +1,28 @@
+---
+format: revealjs
+---
+
+## Elections!
+
+- PA voter registration deadline: *Monday, October 19, 2026*
+- Election Day: *Tuesday, November 2, 2026*
+- Options
+  - Vote in person (polling place near the address you used to register)
+  - Vote by mail (in PA, ballot must be received by 8:00 pm on Election Day)
+  
+## Why vote?
+
+- What direction do you want your city, county, state, country to take?
+- How should tax dollars be collected & spent?
+
+---
+
+![@UnknownUnknown-jy](../include/img/civics-center-voting-registration.png){#fig-voter-registration-rates-by-state}
+
+---
+
+![@PyramidsUnknown-zy](../include/img/pa-population-pyramid.png){#fig-pa-population-pyramid-2024}
+
+## More info
+
+- [Handout from Penn State](../student-voting-registration-penn-state.html)

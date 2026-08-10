@@ -38,11 +38,9 @@ Watson, N.V. & Breedlove, S.M. (2024), *The Mind's Machine: Foundations of Brain
 
 ## Canvas site
 
-We will use Canvas to submit assignments and grade them.
+Most of the course content will be found on the current site.
+
+However, we will use Canvas to submit assignments and grade them.
 The Canvas site may be found here: 
 
-<LINK-TO-CANVAS-SITE>
-
-<!-- <https://psu.instructure.com/courses/2415710> -->
-
-Most of the course content will be found on this site.
+<https://psu.instructure.com/courses/2484891>

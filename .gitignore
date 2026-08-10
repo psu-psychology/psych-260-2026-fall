@@ -4,6 +4,6 @@
 .Ruserdata
 psych-260-2026-fall.Rproj
 private
-
 /.quarto/
 **/*.quarto_ipynb
+AGENTS.md
