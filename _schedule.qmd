@@ -23,7 +23,7 @@
 
 - *Read*: <https://en.wikipedia.org/wiki/History_of_neuroscience>, <https://en.wikipedia.org/wiki/Level_of_analysis>
 - *Watch*: @National_Geographic2014-gv, @NeuroBriefs2011-pd, @Eames_Office2010-xd
-- *Slides*: | [html](slides/) |
+- *Slides*: | [html](slides/wk-01-2026-08-26-hist-methods.qmd) |
 
 ### Fri, Aug 28 {-}
 
@@ -32,7 +32,7 @@
 <!-- - *Read*: MM pp 44-50 -->
 - *Explore*: <https://en.wikipedia.org/wiki/List_of_neurological_research_methods>
 - *Watch*: @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz, @Video2010-jw, @Understanding_Animal_Research2009-vq
-- *Slides*: | [html](slides/) |
+- *Slides*: | [html](slides/wk-01-2026-08-28-methods.qmd) |
 
 ## Week 02 {- #week-02}
 

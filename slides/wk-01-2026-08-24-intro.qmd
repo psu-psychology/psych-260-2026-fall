@@ -31,8 +31,8 @@ format: revealjs
 ## Today's topics
 
 - Warm-up
-- Topic 1
-- Topic 2
+- Introductions
+- Structure of the course
 
 # Warm-up
 
@@ -57,6 +57,7 @@ format: revealjs
 - Introductions
 - Structure of the course
 - What's this course about?
+- Why is biology essential for the science of behavior?
 
 # Introductions
 
@@ -102,7 +103,7 @@ format: revealjs
 
 ## Neurons {-}
 
-![](https://i.pinimg.com/originals/4d/6f/52/4d6f5259aacce4588beb564b693b55b0.jpg){fig-align="center"}
+![](https://i.pinimg.com/originals/4d/6f/52/4d6f5259aacce4588beb564b693b55b0.jpg){fig-align="center"width="80%"}
 
 ## Networks {-}
 
@@ -110,7 +111,7 @@ format: revealjs
 
 ## Brains {-}
 
-![](https://i.pinimg.com/originals/ee/b8/84/eeb88466dc592d26748329ab6a9d57e8.jpg){fig-align="center"}
+![](https://i.pinimg.com/originals/ee/b8/84/eeb88466dc592d26748329ab6a9d57e8.jpg){fig-align="center"width="50%"}
 
 ## Behavior {-}
 
@@ -120,10 +121,13 @@ format: revealjs
 
 - Study the figures, not just the text.
 - Study regularly -- don't cram.
+  - 5-6 hrs/week outside of class time
 - Come to class.
 - Participate!
 
-## Why is biology essential for the science of behavior? {-}
+# Why is biology essential for the science of behavior? {-}
+
+---
 
 - What is science?
     - What distinguishes sciences?
@@ -152,7 +156,7 @@ format: revealjs
 
 ## Science alone...
 
-- Not well-suited to *prescribing* (recommending) or *proscribing* (prohibiting)
+- Not especially well-suited to *prescribing* (recommending) or *proscribing* (prohibiting)
     - little to say about what is good, just, right, moral, etc.
     - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...)
 
@@ -172,6 +176,9 @@ format: revealjs
 - reproducible, robust, transparent
   - others can get the same answer if they follow the same procedures
 - but see [PSYCH 490.003](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring)
+- Don't just "trust the science"
+  - demand rigorous and transparent processes
+  - insist on data/evidence & logical argument
 
 ## Science...
 
@@ -189,17 +196,16 @@ format: revealjs
 ::: {.incremental}
 + Science will be essential for maintaining & extending these advances in the future
 - We all pay (taxes) for scientific research [@Unknown2022-fu]^[$48B for NIH in FY26 [@UnknownUnknown-av], or ~\$140 per person [@UnknownUnknown-gh]].
-- Do we want more scientific advances in the future?
-- Who do we want to own the knowledge?
+- We all have a stake in questions like:
+  - Do we want more scientific advances in the future?
+  - Who do we want to own the knowledge?
 :::
 
 ---
 
 ::: {.question}
 ## Your turn
-
 What scientific advances about the neurological bases of human behavior are important for *your* future? For everyone's?
-
 :::
     
 ## Similarities among sciences {-}
@@ -221,39 +227,38 @@ What scientific advances about the neurological bases of human behavior are impo
 
 ![@tree-of-life](https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png)
 
-## Differences among sciences {-}
+<!-- ## Differences among sciences {-} -->
 
-- Phenomena of interest (studying *what*)
-- Methods or tools (studying it *how*)
-- At what *level(s) of analysis*
-    - Spatial scale (nanometers $10^{-9}m$ to light-years $10^{15}m$)
-    - Temporal scale (milliseconds $10^{-3}s$ to millenia $10^3s$)
-    
-## What is neuroscience? {-}
+<!-- - Phenomena of interest (studying *what*) -->
+<!-- - Methods or tools (studying it *how*) -->
+<!-- - At what *level(s) of analysis* -->
+<!--     - Spatial scale (nanometers $10^{-9}m$ to light-years $10^{15}m$) -->
+<!--     - Temporal scale (milliseconds $10^{-3}s$ to millenia $10^3s$) -->
 
-- The study of the nervous system
-    - And the behavior it makes possible
-- Questions neuroscience asks...
-    - What are the parts of the nervous system?
-    - How do the parts work?  What do they do?
-    - Where did they come from?
+<!-- ## What is neuroscience? {-} -->
 
-## Spatial and temporal scales {-}
+<!-- - The study of the nervous system -->
+<!--     - And the behavior it makes possible -->
+<!-- - Questions neuroscience asks... -->
+<!--     - What are the parts of the nervous system? -->
+<!--     - How do the parts work?  What do they do? -->
+<!--     - Where did they come from? -->
 
-![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+<!-- ## Spatial and temporal scales {-} -->
+
+<!-- ![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg) -->
 
 ## Why neuroscience is harder than physics {-}
 
 ![](../include/img/psych-harder-1.jpg){fig-align="center"}
 
----
+## Why neuroscience is harder than physics {-}
 
 ![](../include/img/psych-harder-2.jpg){fig-align="center"}
 
-
 ## Take homes
 
-- Evaluation: 3 exams/4; 3 quizzes/4.
+- Evaluation: best 3 exams scores/4; best 3 quizzes/4.
 - Systematic description and study of the nervous system touches on multiple aspects of behavior and mental experience
 
 ## Next time

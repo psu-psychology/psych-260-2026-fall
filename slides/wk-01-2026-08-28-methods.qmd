@@ -1,0 +1,558 @@
+---
+title: "Neuroscience methods"
+format: revealjs
+---
+
+# Preliminaries
+
+## For fun
+
+::: {#fig-stevie-wonder-superstition}
+<iframe width="1240" height="450" src="https://www.youtube.com/embed/97hwNY3ni10?si=2k0feL7PKLxzhtNm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@Musikladen2020-id
+:::
+
+## Announcements
+
+## Today's topics
+
+- Warm-up
+- Evaluating methods
+- Structural methods
+- Functional methods
+
+# Warm-up
+
+---
+
+::: question
+## What historical figure believed that the pineal gland caused fluid from the cerebral ventricles to inflate the muscles?
+
+- A. Galen
+- B. Descartes
+- C. Aristotle
+:::
+
+::: fragment
+::: answer
+- ~~A. Galen~~
+- **B. Descartes**
+- ~~C. Aristotle~~
+:::
+:::
+
+---
+
+::: {.question}
+## What historical figure observed the consequences of head injuries on behavior?
+
+- A. Galen
+- B. Descartes
+- C. Aristotle
+:::
+
+::: {.fragment}
+::: {.answer}
+- **A. Galen**
+- ~~B. Descartes~~
+- ~~C. Aristotle~~
+:::
+:::
+
+# Evaluating methods
+
+---
+
+![Churchland](../include/img/churchland-levels-of-analysis.gif){width="70%"}
+
+---
+
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg){width="70%"}
+
+## What are we measuring?
+
++ Structure
++ Activity (function?)
+    
+## Evaluating methods
+
++ Spatial/temporal resolution
+  - high/fine (small details, fast events)
+  - low/poor (big picture, slow events)
++ Cost (time/$)
++ Invasiveness (surgery vs. no)
+
+## Types of methods
+
+- Structural
+    + What are the parts?
+    + How do they connect?
+- Functional
+    + How do the parts *respond*?
+    - What do the parts *do*?
+    
+# Structural methods
+    
+## Cellular methods
+  
+- Golgi, Nissl stains
+- Tract-tracing
+- Whole brain cellular, e.g. CLARITY
+
+## Golgi stain
+
+:::: {.columns}
+::: {.column width=60%}
+- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}
+- [Complete nerve cells, but only 1-5\% of total]{.blue-text}
+<!-- - Soak tissue in Potassium Dichromate ($K_2Cr_2O_7$) then apply Silver Nitrate ($AgNO_3$) -->
+:::
+::: {.column width=40%}
+![http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
+:::
+::::
+
+## Do neurons connect like pipes?
+
+:::: {.columns}
+::: {.column width=33%}
+- Yes!
+- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}
+:::
+::: {.column width=33%}
+![](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
+:::
+::: {.column width=33%}
+- No!
+- [Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal){preview-link="true"}
+:::
+::::
+
+## [Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=60%}
+- *Neuron doctrine*: there are gaps between neurons
+- Something passes between
+- Shared 1906 Nobel Prize with Golgi
+:::
+::: {.column width=40%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/00/Santiago_Ramón_y_Cajal%2C_estudiante_de_medicina_en_Zaragoza_1876.jpg){width="80%" fig-align="right"}
+:::
+::::
+
+## Nissl stain
+
+:::: {.columns}
+::: {.column width=60%}
+- [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl){preview-link="true"}
+- [Only cell bodies]{.blue-text}
+- Cellular distribution, concentration, microanatomy
+- Density of staining ~ cell density/number
+:::
+::: {.column width=40%}
+![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=60%}
+::: {.question}
+## Are neurons distributed evenly throughout the brain?
+:::
+
+::: {.question}
+## Are neurons more concentrated on the inside or the outside of the brain?
+:::
+:::
+::: {.column width=40%}
+![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
+:::
+::::
+
+## Large-scale cellular techniques
+
+:::: {.columns}
+::: {.column width=50%}
+> *"If understanding everything we need to know about the brain is a mile, how far have we walked?"*
+> -- J. Lichtman
+:::
+::: {.column width=50%}
+
+{{< video https://www.youtube.com/watch?v=nvXuq9jRWKE width="70%" height="40%">}}
+
+@National_Geographic2014-gv
+:::
+::::
+
+## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
+
+{{< video https://www.youtube.com/embed/c-NMfp13Uug width="100%" height="70%" >}}
+
+@Video2013-bj
+
+## Evaluating cellular techniques
+
+- Pros:
+  - High spatial resolution (resolve small details)
+  - e.g., what are the parts, where are they located, how do they connect
+- Cons:
+  - Poor temporal resolution
+  - Invasive
+  
+## Your turn
+
+::: {.question}
+## Why aren't cellular techniques especially useful for studing living humans?
+:::
+
+## Whole-brain methods
+
+- Computed Tomography/Computed Axial Tomography
+- MRI^[Magnetic Resonance Imaging]-related
+    - Diffusion Tensor Imaging (DTI)
+    - *MR Spectroscopy*
+    - Voxel-based Morphometry (VBM)
+    
+## Computed axial tomography (CAT)
+
+:::: {.columns}
+::: {.column width=40%}
+- Computed tomography [CT](https://en.wikipedia.org/wiki/CT_scan)
+- X-ray based
+:::
+::: {.column width=60%}
+![CT scan of stroke](../include/img/mca-inferior-division-infarct-ct-brain.png)
+:::
+::::
+
+## How tomography works
+
+:::: {.columns}
+::: {.column width=50%}
+![http://img.tfd.com/mk/T/X2604-T-22.png](../include/img/tomography.png)
+:::
+::: {.column width=50%}
+![How tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg](https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg)
+:::
+::::
+
+## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+{{< video https://www.youtube.com/embed/1CGzk-nV06g height="70%" width="100%" >}}
+
+<p style="text-align:center;">
+@National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
+</p>
+
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- Some common substances (e.g., H) & complex molecules have magnetic dipole
+- Axes align with strong magnetic field
+:::
+::: {.column width=50%}
+![](../include/img/mri-steps.jpg)
+:::
+::::
+
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- When alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue
+- Realignment emits RF signals
+:::
+::: {.column width=50%}
+![](https://americanhealthimaging.com/wp-content/uploads/2021/04/Understanding-Knee-MRI-Images-2048x1365.jpg)
+:::
+::::
+
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- Types
+    - Structural
+    - Functional (*f*MRI)
+- Reveals tissue density/type differences
+- [Gray matter](https://en.wikipedia.org/wiki/Grey_matter) (neurons & dendrites & axons & glia) vs. [white matter](https://en.wikipedia.org/wiki/White_matter) (mostly axons)
+:::
+::: {.column width=50%}
+![By Asnaebsa - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119327965](https://upload.wikimedia.org/wikipedia/commons/b/b2/MRI_of_Human_Brain.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){width="75%"}
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg){width="75%"}
+:::
+::: {.column width=50%}
+![By Asnaebsa - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119327965](https://upload.wikimedia.org/wikipedia/commons/b/b2/MRI_of_Human_Brain.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){width="75%"}
+:::
+::::
+
+## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- Type of structural MRI
+- Measures patterns of movement/diffusion of $H_{2}O$
+- Reveals integrity/density of axon fibers
+- Measure of connectivity
+- Colors used to visualize *orientation* of fibers
+:::
+::: {.column width=50%}
+![](https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg)
+:::
+::::
+    
+# Functional methods
+
+## Types of functional methods {-}
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+- *Simulating the brain*
+
+## Recording from the brain {-}
+
+- Single/multi unit recording
+    - Microelectrodes
+    - Units -> Small numbers of nerve cells
+
+## Single/multi-unit Recording {auto-animate=true}
+
+:::: {.columns}
+::: {.column width=50%}
+- What does neuron X respond to?
+- High temporal (ms) & spatial resolution (um)
+- Invasive
+- Used in non-human animals for purely research purposes
+:::
+::: {.column width=50%}
+![Figure 1 from @Nishimura2021-ne](https://ars.els-cdn.com/content/image/1-s2.0-S2211124721001996-fx1.jpg)
+:::
+::::
+
+## {auto-animate=true}
+
+![Figure 1 from @Nishimura2021-ne](https://ars.els-cdn.com/content/image/1-s2.0-S2211124721001996-fx1.jpg){width="55%"}
+
+## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)
+
+:::: {.columns}
+::: {.column width=50%}
+- Used in human neurosurgery
+:::
+::: {.column width=50%}
+![](https://sites.uci.edu/alns/files/2015/03/eCOG-stock-photo-22578962-brain-surgery.jpg)
+:::
+::::
+
+## ECoG
+
+{{< video https://www.youtube.com/embed/gFky09ekmzw width="100%" height="70%">}}
+
+@AANSNeurosurgery2019-ik
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
+
+- Radioactive tracers (glucose, oxygen) delivered intravenously 
+- Radioactive decay --> positron emission
+- Experimental condition - control
+- Average across individuals
+
+## More about PET
+
+::: {#fig-how-does-a-pet-scan-work}
+<iframe width="1280" height="435" src="https://www.youtube.com/embed/GHLBcCv4rqk?si=V15ABLIOHfrzXZZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@National-Institute-of-Biomedical-Imaging-and-Bioengineering2013-nc
+:::
+
+## PET
+
+:::: {.columns}
+::: {.column width=50%}
++ Temporal (~ s) and spatial (mm-cm) resolution *worse* than fMRI
++ Radioactive exposures + mildly invasive 
++ Dose < airline crew exposure in 1 yr
+:::
+::: {.column width=50%}
+![@Petersen1988-rc](../include/img/petersen-1988-pet.png)
+:::
+::::
+
+## [Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- Neural activity
+- Greater in some areas than others
+- Local $O_2$ consumption increase
+:::
+::: {.column width=50%}
+![fMRI data on emotion processing: https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg"](https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg)
+:::
+::::
+
+## Blood Oxygen Level Dependent (BOLD) response
+
+:::: {.columns}
+::: {.column width=50%}
++ Oxygenated vs. deoxygenated hemoglobin creates magnetic contrast
++ Do regional blood $O_2$ volumes (and flow) vary with behavior X?
+:::
+::: {.column width=50%}
+![https://mriquestions.com/does-boldbrain-activity.html](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861_orig.png)
+:::
+::::
+
+## Mapping visual cortex
+
+:::: {.columns}
+::: {.column width=40%}
+- "Mapping" = what areas respond to what input
+
+![](../include/img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg)
+:::
+::: {.column width=60%}
+{{< video https://www.youtube.com/embed/DcgHJIlwQCo >}} \
+@Charting2020-gi \
+{{< video https://www.youtube.com/embed/rsykP-9-moA >}} \
+@Charting2020-fi
+:::
+::::
+
+## fMRI
+
++ Non-invasive, but expensive (>$500/hr)
++ Moderate but improving spatial (mm), temporal (~sec) resolution
++ **Indirect** measure of brain activity
+
+## fMRI
+
+:::: {.columns}
+::: {.column width=50%}
+- [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
+    + 1s delay plus 3-6 s 'initial-dip'
+:::
+::: {.column width=50%}
+![@UnknownUnknown-oj](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861.png?347)
+:::
+::::
+
+## Your turn
+
+::: {.question}
+## Why is fMRI considered an *indirect* measure of brain activity?
+:::
+
+## [Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography)
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- How does it work?
+    - Electrodes on scalp or brain surface
+- What do we measure?
+    - Combined activity of huge # of neurons
+- High/fine temporal resolution (detect fast changes) but poor spatial resolution
+:::
+:::
+::: {.column width=50%}
+![Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png)
+:::
+::::
+
+## EEG
+
+:::: {.columns}
+::: {.column width=50%}
+- Activity in different frequency bands
+  + LOW (slow changes): deep sleep
+  + MIDDLE: Quiet, alert state
+  + HIGH (fast changes): “Binding” information across senses
+:::
+::: {.column width=50%}
+![@UnknownUnknown-ie](https://eeglab.org/assets/images/Freqs2.jpg)
+:::
+::::
+
+## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)
+
+:::: {.columns}
+::: {.column width=50%}
+- EEGs related (in time) to some event 
+- Averaged over many repetitions of that event
+:::
+::: {.column width=50%}
+![](https://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif)
+:::
+::::
+
+## Manipulating the brain
+
+- Nature’s “experiments”
+    + Stroke, head injury, tumor
+    + Neuropsychology
+- If damage to X impairs performance on Y -> X critical for/controls Y
+- Poor spatial/temporal resolution, limited experimental control
+
+## The case of [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)
+
+![](http://www.doctorsimpossible.com/wp-content/uploads/2017/11/Phineas-Gage-with-skull-picture.png){fig-align="center" width="60%"}
+
+## Stimulating the brain
+
+- Pharmacological
+- Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
+- Magnetic (Transcranial magnetic stimulation - *TMS*)
+- Optical (optogenetics)
+
+## Evaluating stimulation methods
+
+- Spatial/temporal resolution?
+    + Does stimulation mimic natural activity?
+    + Optogenetic stimulation highly similar, others less so
+- Deep brain stimulation as therapy
+    + Parkinson’s Disease 
+    + Depression 
+    + Epilepsy
+
+# Wrap-up
+
+## Main points
+
+- Structural measures
+- Functional measures
+
+---
+
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+
+## Next time
+
+- Neuroanatomy
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.7.1.147.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References
