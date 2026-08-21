@@ -6,7 +6,7 @@ rog1 AT-SIGN psu PERIOD edu \
 
 ### Office hours
 
-Tuesday & Thursday, 11:00a - 11:45a in 114 Moore or by appointment: <https://doodle.com/mm/rickgilmore/book-a-time></br>
+Monday & Friday, 12:00p - 1:00p in 114 Moore or by appointment: <https://doodle.com/mm/rickgilmore/book-a-time></br>
 
 Lab web site: <https://gilmore-lab.github.io>
 
@@ -14,9 +14,11 @@ Lab web site: <https://gilmore-lab.github.io>
 
 Jingyi He \
 Graduate Student in Developmental Psychology \
-jzh6650@psu.edu@psu.edu AT-SIGN psu PERIOD edu \
+jzh6650@psu.edu AT-SIGN psu PERIOD edu \
 
-Meetings by appointment \
+### Office hours
+
+Thursday 11a-12p in 222 Moore or by appointment (via email)\
 
 ## Meeting time & location {-}
 
