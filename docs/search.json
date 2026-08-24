@@ -1267,11 +1267,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-01-2026-08-24-intro.html#teaching-assistant",
-    "href": "slides/wk-01-2026-08-24-intro.html#teaching-assistant",
+    "objectID": "slides/wk-01-2026-08-24-intro.html#jingyi-he",
+    "href": "slides/wk-01-2026-08-24-intro.html#jingyi-he",
     "title": "Introduction to the course",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant",
+    "section": "Jingyi He",
+    "text": "Jingyi He",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1282,7 +1282,18 @@
     "href": "slides/wk-01-2026-08-24-intro.html#rick-gilmore",
     "title": "Introduction to the course",
     "section": "Rick Gilmore",
-    "text": "Rick Gilmore",
+    "text": "Rick Gilmore\n\nPenn State 1997-\nBrain development, perception & action, open science\nHusband, dad, grandpa, son, brother\nham radio, music, theatre, outdoors",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#links-to-external-resources",
+    "href": "slides/wk-01-2026-08-24-intro.html#links-to-external-resources",
+    "title": "Introduction to the course",
+    "section": "Links to external resources",
+    "text": "Links to external resources\n\nSchedule\nEvaluation",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1359,7 +1370,7 @@
     "href": "slides/wk-01-2026-08-24-intro.html#keys-for-success",
     "title": "Introduction to the course",
     "section": "Keys for success",
-    "text": "Keys for success\n\nStudy the figures, not just the text.\nStudy regularly – don’t cram.\n\n5-6 hrs/week outside of class time\n\nCome to class.\nParticipate!",
+    "text": "Keys for success\n\nStudy the figures, not just the text\nStudy regularly – don’t cram\n\n5-6 hrs/week outside of class time\n\nCome to class\nParticipate!",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1370,7 +1381,18 @@
     "href": "slides/wk-01-2026-08-24-intro.html#what-is-science",
     "title": "Introduction to the course",
     "section": "What is science?",
-    "text": "What is science?\n\nBody of facts or truths\nProcess of acquiring (and verifying) knowledge\n\nSystematic study\nObservation, experiment, description\nAims at reliable, reproducible, general, systematic, universal laws\nStrives for objectivity",
+    "text": "What is science?\n\nBody of facts or truths\nProcess of acquiring (and verifying) knowledge\n\nSystematic study\nObservation, experiment, description",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#science-seeks",
+    "href": "slides/wk-01-2026-08-24-intro.html#science-seeks",
+    "title": "Introduction to the course",
+    "section": "Science seeks",
+    "text": "Science seeks\n\nReliable, reproducible, general, systematic, universal laws\nKnowledge with useful applications that benefit humankind",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1399,11 +1421,22 @@
     ]
   },
   {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#example",
+    "href": "slides/wk-01-2026-08-24-intro.html#example",
+    "title": "Introduction to the course",
+    "section": "Example",
+    "text": "Example\n\nIs vaccine X safe and for whom?\nWhat is likely to happen if people refuse vaccine X?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
     "objectID": "slides/wk-01-2026-08-24-intro.html#science-rests-on-evidence-and-logic",
     "href": "slides/wk-01-2026-08-24-intro.html#science-rests-on-evidence-and-logic",
     "title": "Introduction to the course",
     "section": "Science rests on evidence and logic",
-    "text": "Science rests on evidence and logic\n\nNOT on authorities (e.g., people whose stature is largely or solely based on their position or economic status)\nHowever, some scientific claims (and scientists) are more credible and authoritative than others.\nEveryone has opinions. Are yours supported by evidence?",
+    "text": "Science rests on evidence and logic\n\nNOT on authorities (e.g., people whose stature is largely or solely based on their position or economic status)\nHowever, some scientific claims (and scientists) are more credible and authoritative than others\nEveryone has opinions. Are yours supported by evidence?",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1414,7 +1447,7 @@
     "href": "slides/wk-01-2026-08-24-intro.html#science-respects-tradition",
     "title": "Introduction to the course",
     "section": "Science respects tradition",
-    "text": "Science respects tradition\n\nbut not uncritically\n\nquestions and tests it repeatedly…",
+    "text": "Science respects tradition\n\nbut not uncritically\n\nquestions and tests it repeatedly…\n\n\n\n\nMakes new traditions when evidence and logic demand it\nExample\n\nSchizophrenia is not caused by inadequate parenting or excessive dopamine",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1425,18 +1458,7 @@
     "href": "slides/wk-01-2026-08-24-intro.html#science-should-be",
     "title": "Introduction to the course",
     "section": "Science should be…",
-    "text": "Science should be…\n\nreproducible, robust, transparent\n\nothers can get the same answer if they follow the same procedures\n\nbut see PSYCH 490.003\nDon’t just “trust the science”\n\ndemand rigorous and transparent processes\ninsist on data/evidence & logical argument",
-    "crumbs": [
-      "Slides",
-      "Wk 01 • Mon Aug 24"
-    ]
-  },
-  {
-    "objectID": "slides/wk-01-2026-08-24-intro.html#science",
-    "href": "slides/wk-01-2026-08-24-intro.html#science",
-    "title": "Introduction to the course",
-    "section": "Science…",
-    "text": "Science…\n\n\n\nhas led to huge advances in human health & prosperity\n\n\n\n\n\n(Roser, 2020)",
+    "text": "Science should be…\n\nreproducible, robust, transparent\n\nothers can get the same answer if they follow the same procedures\n\nbut see PSYCH 490.003",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1446,8 +1468,41 @@
     "objectID": "slides/wk-01-2026-08-24-intro.html#gilmores-views",
     "href": "slides/wk-01-2026-08-24-intro.html#gilmores-views",
     "title": "Introduction to the course",
+    "section": "Gilmore’s views",
+    "text": "Gilmore’s views\n\nDon’t just “trust the science”\n\ndemand rigorous and transparent processes\ninsist on data/evidence & logical argument",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#gilmores-views-1",
+    "href": "slides/wk-01-2026-08-24-intro.html#gilmores-views-1",
+    "title": "Introduction to the course",
+    "section": "Gilmore’s views:",
+    "text": "Gilmore’s views:\n\n\n\nhas led to huge advances in human health & prosperity\n\n\n\n\n\n(Roser, 2020)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#gilmores-views-2",
+    "href": "slides/wk-01-2026-08-24-intro.html#gilmores-views-2",
+    "title": "Introduction to the course",
     "section": "Gilmore’s views:",
     "text": "Gilmore’s views:\n\nScience will be essential for maintaining & extending these advances in the future\nWe all pay (taxes) for scientific research (“Who pays for science? - understanding science,” 2022)1.\nWe all have a stake in questions like:\n\nDo we want more scientific advances in the future?\nWho do we want to own the knowledge?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#your-turn",
+    "href": "slides/wk-01-2026-08-24-intro.html#your-turn",
+    "title": "Introduction to the course",
+    "section": "Your turn",
+    "text": "Your turn\n\n\n\n\n\n\nWhat scientific advances about the neurological bases of human behavior are important for your future?\n\n\n\n\n\n\n\n\n\n\n\n\nFor everyone’s?",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1487,6 +1542,28 @@
     ]
   },
   {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#differences-among-sciences",
+    "href": "slides/wk-01-2026-08-24-intro.html#differences-among-sciences",
+    "title": "Introduction to the course",
+    "section": "Differences among sciences",
+    "text": "Differences among sciences\n\nPhenomena of interest (studying what)\nMethods or tools (studying it how)\nAt what level(s) of analysis\n\nSpatial scale (nanometers \\(10^{-9}m\\) to light-years \\(10^{15}m\\))\nTemporal scale (milliseconds \\(10^{-3}s\\) to millenia \\(10^3s\\))",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#what-is-neuroscience",
+    "href": "slides/wk-01-2026-08-24-intro.html#what-is-neuroscience",
+    "title": "Introduction to the course",
+    "section": "What is neuroscience?",
+    "text": "What is neuroscience?\n\nThe study of the nervous system\n\nAnd the behavior it makes possible\n\nQuestions neuroscience asks…\n\nWhat are the parts of the nervous system?\nHow do the parts work? What do they do?\nWhere did they come from?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
     "objectID": "slides/wk-01-2026-08-24-intro.html#why-neuroscience-is-harder-than-physics",
     "href": "slides/wk-01-2026-08-24-intro.html#why-neuroscience-is-harder-than-physics",
     "title": "Introduction to the course",
@@ -1509,11 +1586,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-01-2026-08-24-intro.html#take-homes",
-    "href": "slides/wk-01-2026-08-24-intro.html#take-homes",
+    "objectID": "slides/wk-01-2026-08-24-intro.html#main-points",
+    "href": "slides/wk-01-2026-08-24-intro.html#main-points",
     "title": "Introduction to the course",
-    "section": "Take homes",
-    "text": "Take homes\n\nEvaluation: best 3 exams scores/4; best 3 quizzes/4.\nSystematic description and study of the nervous system touches on multiple aspects of behavior and mental experience",
+    "section": "Main points",
+    "text": "Main points\n\nEvaluation: best 3 exams scores/4; best 3 quizzes/4.\nSystematic description and study of the nervous system touches on multiple aspects of behavior and mental experience",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1546,7 +1623,7 @@
     "href": "slides/wk-01-2026-08-24-intro.html#references",
     "title": "Introduction to the course",
     "section": "References",
-    "text": "References\n\n\n\n\nmelodysheep. (2011, March). Ode to the Brain! By Symphony of Science. YouTube. Retrieved from https://www.youtube.com/watch?v=JB7jSFeVz1U\n\n\nMerton, R. K. (1979). The sociology of science: Theoretical and empirical investigations. (N. W. Storer, Ed.). Chicago, IL: University of Chicago Press. Retrieved from https://play.google.com/store/books/details?id=zPvcHuUMEMwC\n\n\nNational Geographic. (2014, January). Beautiful 3-D brain scans show every synapse | national geographic. YouTube. Retrieved from https://www.youtube.com/watch?v=nvXuq9jRWKE\n\n\nNational institutes of health (NIH) funding: FY1996-FY2026. Retrieved from https://www.congress.gov/crs-product/R43341\n\n\nPopulation clock. (n.d.). Retrieved July 28, 2026, from https://www.census.gov/popclock//\n\n\nRoser, M. (2020). It’s not just about child mortality, life expectancy increased at all ages. Our World in Data.\n\n\nThe tree of life: We are related to every living thing! (n.d.). Retrieved August 18, 2025, from https://www.evogeneao.com/en\n\n\nWho pays for science? - understanding science. (2022, April 18). Retrieved August 18, 2025, from https://undsci.berkeley.edu/who-pays-for-science/",
+    "text": "References\n\n\n\n\nmelodysheep. (2011, March). Ode to the Brain! By Symphony of Science. YouTube. Retrieved from https://www.youtube.com/watch?v=JB7jSFeVz1U\n\n\nMerton, R. K. (1979). The sociology of science: Theoretical and empirical investigations. (N. W. Storer, Ed.). Chicago, IL: University of Chicago Press. Retrieved from https://play.google.com/store/books/details?id=zPvcHuUMEMwC\n\n\nNational Geographic. (2014, January). Beautiful 3-D brain scans show every synapse | national geographic. YouTube. Retrieved from https://www.youtube.com/watch?v=nvXuq9jRWKE\n\n\nNational Institutes of Health (NIH) funding: FY1996-FY2026. Retrieved from https://www.congress.gov/crs-product/R43341\n\n\nPopulation clock. (n.d.). Retrieved July 28, 2026, from https://www.census.gov/popclock//\n\n\nRoser, M. (2020). It’s not just about child mortality, life expectancy increased at all ages. Our World in Data.\n\n\nThe tree of life: We are related to every living thing! (n.d.). Retrieved August 18, 2025, from https://www.evogeneao.com/en\n\n\nWho pays for science? - understanding science. (2022, April 18). Retrieved August 18, 2025, from https://undsci.berkeley.edu/who-pays-for-science/",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"
@@ -1557,7 +1634,18 @@
     "href": "slides/wk-01-2026-08-24-intro.html#footnotes",
     "title": "Introduction to the course",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\n$48B for NIH in FY26 (National institutes of health (NIH) funding, n.d.), or ~$140 per person (“Population clock,” n.d.)",
+    "text": "Footnotes\n\n\n$48B for NIH in FY26 (National Institutes of Health (NIH) funding, n.d.), or ~$140 per person (“Population clock,” n.d.)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Mon Aug 24"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-24-intro.html#section",
+    "href": "slides/wk-01-2026-08-24-intro.html#section",
+    "title": "Introduction to the course",
+    "section": "",
+    "text": "Figure 2: The PSYCH 260.001 home page contains a search bar that indexes the entire course site, including lecture notes.",
     "crumbs": [
       "Slides",
       "Wk 01 • Mon Aug 24"

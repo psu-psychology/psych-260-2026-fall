@@ -44,6 +44,7 @@ format: revealjs
 
 ::: fragment
 ::: answer
+## Some answers
 - A. 3/4 mile
 - B. 1/2 mile
 - C. 1/4 mile
@@ -61,16 +62,21 @@ format: revealjs
 
 # Introductions
 
-## Teaching Assistant {-}
+## Jingyi He {-}
 
-## Rick Gilmore
+## Rick Gilmore {-}
+
+- Penn State 1997-
+- Brain development, perception & action, open science
+- Husband, dad, grandpa, son, brother
+- ham radio, music, theatre, outdoors
 
 # Structure of the course {-}
 
----
+## Links to external resources
 
-- [Schedule](https://psu-psychology.github.io/psych-260-2025-fall/schedule.html){preview-link="true"}
-- [Evaluation](https://psu-psychology.github.io/psych-260-2025-fall/evaluation.html){preview-link="true"}
+- [Schedule](../schedule.qmd){preview-link="true"}
+- [Evaluation](../evaluation.qmd){preview-link="true"}
 
 # What is this course about? {-}
 
@@ -119,11 +125,15 @@ format: revealjs
 
 ## Keys for success {-}
 
-- Study the figures, not just the text.
-- Study regularly -- don't cram.
+- Study the figures, not just the text
+- Study regularly -- don't cram
   - 5-6 hrs/week outside of class time
-- Come to class.
+- Come to class
 - Participate!
+
+## 
+
+![The PSYCH 260.001 home page contains a search bar that indexes the entire course site, including lecture notes.](../include/img/psych-260-search-bar.png){#fig-psych-260-search-bar}
 
 # Why is biology essential for the science of behavior? {-}
 
@@ -131,7 +141,7 @@ format: revealjs
 
 - What is science?
     - What distinguishes sciences?
-    - What is neuroscience?
+    - What is *neuro*science?
 - Why is neuroscience harder than physics?
 
 ## What is [science](http://dictionary.reference.com/browse/science)? {-}
@@ -142,11 +152,13 @@ format: revealjs
 - *Process* of acquiring (and verifying) knowledge
     - Systematic study
     - Observation, experiment, description
-    - Aims at reliable, reproducible, general, systematic, universal laws
-    - *Strives* for objectivity
-
 :::
- 
+
+## Science seeks {-}
+
+- Reliable, reproducible, general, systematic, universal laws
+- Knowledge with useful applications that benefit humankind
+
 ## Science vs. other ways of thinking {-}
 
 - Science is a *way of thinking* and a *set of behaviors*
@@ -157,13 +169,18 @@ format: revealjs
 ## Science alone...
 
 - Not especially well-suited to *prescribing* (recommending) or *proscribing* (prohibiting)
-    - little to say about what is good, just, right, moral, etc.
-    - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...)
+  - little to say about what is good, just, right, moral, etc.
+  - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...)
+  
+## Example
+
+- Is vaccine X safe and for whom?
+- What is likely to happen if people refuse vaccine X?
 
 ## Science rests on **evidence and logic**
 
-- <span class="blue">NOT on authorities</span> (e.g., people whose stature is largely or solely based on their position or economic status)
-- However, some scientific claims (and scientists) are more credible and authoritative than others.
+- NOT on authorities (e.g., people whose stature is largely or solely based on their position or economic status)
+- However, some scientific claims (and scientists) are more credible and authoritative than others
 - Everyone has opinions. Are yours supported by *evidence*?
 
 ## Science respects tradition
@@ -171,16 +188,25 @@ format: revealjs
 - but not uncritically
   - questions and tests it repeatedly...
 
+::: {.fragment}
+- Makes new *traditions* when evidence and logic demand it
+- Example
+  - Schizophrenia is not caused by inadequate parenting or excessive dopamine
+:::
+
 ## Science should be...
 
 - reproducible, robust, transparent
   - others can get the same answer if they follow the same procedures
 - but see [PSYCH 490.003](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring)
+
+## Gilmore's views
+
 - Don't just "trust the science"
   - demand rigorous and transparent processes
   - insist on data/evidence & logical argument
 
-## Science...
+## Gilmore's views:
 
 :::: {.columns}
 ::: {.column width=40%}
@@ -201,11 +227,14 @@ format: revealjs
   - Who do we want to own the knowledge?
 :::
 
----
+## Your turn
 
 ::: {.question}
-## Your turn
-What scientific advances about the neurological bases of human behavior are important for *your* future? For everyone's?
+## What scientific advances about the neurological bases of human behavior are important for *your* future?
+:::
+
+::: {.question}
+##  For everyone's?
 :::
     
 ## Similarities among sciences {-}
@@ -227,22 +256,22 @@ What scientific advances about the neurological bases of human behavior are impo
 
 ![@tree-of-life](https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png)
 
-<!-- ## Differences among sciences {-} -->
+## Differences among sciences {-}
 
-<!-- - Phenomena of interest (studying *what*) -->
-<!-- - Methods or tools (studying it *how*) -->
-<!-- - At what *level(s) of analysis* -->
-<!--     - Spatial scale (nanometers $10^{-9}m$ to light-years $10^{15}m$) -->
-<!--     - Temporal scale (milliseconds $10^{-3}s$ to millenia $10^3s$) -->
+- Phenomena of interest (studying *what*)
+- Methods or tools (studying it *how*)
+- At what *level(s) of analysis*
+    - Spatial scale (nanometers $10^{-9}m$ to light-years $10^{15}m$)
+    - Temporal scale (milliseconds $10^{-3}s$ to millenia $10^3s$)
 
-<!-- ## What is neuroscience? {-} -->
+## What is neuroscience? {-}
 
-<!-- - The study of the nervous system -->
-<!--     - And the behavior it makes possible -->
-<!-- - Questions neuroscience asks... -->
-<!--     - What are the parts of the nervous system? -->
-<!--     - How do the parts work?  What do they do? -->
-<!--     - Where did they come from? -->
+- The study of the nervous system
+    - And the behavior it makes possible
+- Questions neuroscience asks...
+    - What are the parts of the nervous system?
+    - How do the parts work?  What do they do?
+    - Where did they come from?
 
 <!-- ## Spatial and temporal scales {-} -->
 
@@ -256,7 +285,9 @@ What scientific advances about the neurological bases of human behavior are impo
 
 ![](../include/img/psych-harder-2.jpg){fig-align="center"}
 
-## Take homes
+# Wrap-up
+
+## Main points
 
 - Evaluation: best 3 exams scores/4; best 3 quizzes/4.
 - Systematic description and study of the nervous system touches on multiple aspects of behavior and mental experience
