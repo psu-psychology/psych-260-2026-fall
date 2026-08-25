@@ -76,6 +76,10 @@ format: revealjs
 :::
 ::::
 
+## In the news...
+
+![@Branch2026-pn story on @Daneshvar2026-ny](../include/img/nyt-nfl-cte-2026-08-25.png){#fig-nyt-nfl-cte width="80%"}
+
 ---
 
 {{< include _history.qmd >}}
