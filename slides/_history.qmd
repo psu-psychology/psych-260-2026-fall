@@ -2,11 +2,12 @@
 
 ---
 
-{{< video https://www.youtube.com/watch?v=S0HKupSZq8k height="70%" width="100%" >}}
+::: {#fig-history-of-neuroscience}
 
-<p style="text-align:center;">
+<iframe width="1280" height="435" src="https://www.youtube.com/embed/S0HKupSZq8k?si=5OA7DXobn0HcV9E9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @NeuroBriefs2011-pd
-</p>
+:::
 
 ## Why study history? {-}
 
@@ -63,7 +64,7 @@
 - [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates){preview-link="true"}
   - "Father of Medicine"; [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath){preview-link="true"}
   - *Brain* seat of intelligence [@Chudler_undated-lu]
-  - Epilepsy a disease of the brain [@Chudler_undated-lu]
+  - *Epilepsy* a disease of the brain [@Chudler_undated-lu]
 :::
 ::: {.column width=50%}
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hippocrates_rubens.jpg/500px-Hippocrates_rubens.jpg){width="70%"}
@@ -79,7 +80,7 @@
     - brain “cools” the body, *heart* is the mental organ
 :::
 ::: {.column width=50%}
-![Aristotle](http://classicalwisdom.com/wp-content/uploads/2013/02/aristotle-face-1.jpg){width="70%"}
+![Aristotle; By After Lysippos - Jastrow (2006), Public Domain, https://commons.wikimedia.org/w/index.php?curid=1359807](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/960px-Aristotle_Altemps_Inv8575.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail){width="70%"}
 :::
 ::::
 
@@ -96,14 +97,10 @@
 :::
 ::::
 
-## Your turn
+## Your turn...
 
-::: {.callout-important}
-Do modern humans think that individual differences in thought, mood, and behavior relate to biological factors? 
-
-How so?
-
-So, were Galen's ideas prescient^[having or showing knowledge of events before they take place: a *prescient* warning]?
+::: {.question}
+Do modern humans think that individual differences in thought, mood, and behavior relate to biological factors?
 :::
 
 ## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen){preview-link="true"}
@@ -126,12 +123,20 @@ So, were Galen's ideas prescient^[having or showing knowledge of events before t
 - Head injury can impair behavior and thinking
 - Something flows from brain to body via nerves
 
-## Why didn't they know more? {-}
+## Your turn... {-}
 
+::: {.question}
+## Why didn't they know more?
+:::
+
+::: {.fragment}
+::: {.answer}
 ::: {.incremental}
 - Limited technology (tools & techniques)
-- Limited cultural support for systematic observation & description. = **SCIENCE**
+- Limited cultural support for systematic observation & description $\rightarrow$ **SCIENCE**
 - Lack of ability to use knowledge even if it were acquired
+:::
+:::
 :::
 
 ## *Leonardo da Vinci* (~1508) {-}
@@ -199,13 +204,20 @@ So, were Galen's ideas prescient^[having or showing knowledge of events before t
 :::
 ::::
 
-## Your turn
+## Your turn...
 
-- Do you agree with Descartes?
-  - **Yes**, human minds are fundamentally different from animal minds. The human mind is influenced by both physical and extraphysical processes.
-  - **No**, human minds are similar to animal minds. The human mind arises solely from physical processes.
-- Why or why not?
-- How would you _scientifically_ test Descartes' idea about the role of the pineal gland?
+::: {.question}
+## Do you agree with Descartes?
+
+- **Yes**, human minds are fundamentally different from animal minds. The human mind is influenced by both physical and extraphysical processes.
+- **No**, human minds are similar to animal minds. The human mind arises solely from physical processes.
+:::
+
+::: {.fragment}
+::: {.question}
+## How would you _scientifically_ test Descartes' idea about the role of the pineal gland?
+:::
+:::
 
 ## Other critical milestones
 

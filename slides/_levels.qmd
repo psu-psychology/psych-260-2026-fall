@@ -2,9 +2,11 @@
 
 ## Powers of Ten {-}
 
-{{< video https://www.youtube.com/embed/0fKBhvDjuy0 height="70%" width="100%" >}}
+::: {#fig-powers-of-ten}
+<iframe width="1280" height="435" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=SV9LM2W4T06IlE40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @Eames_Office2010-xd
+:::
 
 ## Spatial resolution
 
@@ -14,12 +16,29 @@
 
 ![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
 
-## Your turn
+## Your turn...
 
-- What's a micro (spatially small) influence on/aspect of behavior or mental experience?
-- What's a macro (spatially large)...
-- What's a micro (temporally short)...
-- What's a macro (temporally long)...
+::: {.question}
+## What's a micro (spatially small) influence on/aspect of behavior or mental experience?
+:::
+
+::: {.fragment}
+::: {.question}
+## What's a macro (spatially large)...
+:::
+:::
+
+::: {.fragment}
+::: {.question}
+## What's a micro (temporally short)...
+:::
+:::
+
+::: {.fragment}
+::: {.question}
+## What's a macro (temporally long)...
+:::
+:::
 
 ## Why does this matter?
 

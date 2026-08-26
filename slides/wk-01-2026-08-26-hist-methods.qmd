@@ -1,5 +1,5 @@
 ---
-title: "History, levels of analysis, methods"
+title: "History, levels of analysis"
 subtitle: 2025-08-26
 format: revealjs
 ---
@@ -13,15 +13,6 @@ format: revealjs
 
 
 @SamCookeVEVO2015-my
-:::
-
----
-
-::: {#fig-lichtman}
-
-<iframe width="1280" height="450" src="https://www.youtube.com/embed/nvXuq9jRWKE?si=JUEAH2h_4dKOSVjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-@National_Geographic2014-gv
 :::
 
 ## Today's topics {-}
@@ -88,6 +79,8 @@ format: revealjs
 
 {{< include _levels.qmd >}}
 
+# Wrap-up
+
 ## Take homes
 
 - History of neuroscience -> 
@@ -100,13 +93,20 @@ format: revealjs
 ## Next time...
 
 - Methods to the madness
+- *Explore*
+  - <https://en.wikipedia.org/wiki/List_of_neurological_research_methods>
+- *Watch*: 
+  - @National-Institute-of-Biomedical-Imaging-and-Bioengineering2013-nc
+  - @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
+  - @Video2010-jw
+  - @Understanding_Animal_Research2009-vq
 
 # Resources
 
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2026.7.1.147.
+Integrated Development Environment (IDE), version 2026.8.1.195.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework.
@@ -114,4 +114,3 @@ The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/
 <https://psu-psychology.github.io/psych-260-2026-fall/>
 
 ## References
-

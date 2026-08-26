@@ -31,7 +31,10 @@
 
 <!-- - *Read*: MM pp 44-50 -->
 - *Explore*: <https://en.wikipedia.org/wiki/List_of_neurological_research_methods>
-- *Watch*: @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz, @Video2010-jw, @Understanding_Animal_Research2009-vq
+- *Watch*: 
+  - @National-Institute-of-Biomedical-Imaging-and-Bioengineering2013-nc
+  - @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz           - @Video2010-jw
+  - @Understanding_Animal_Research2009-vq
 - *Slides*: | [html](slides/wk-01-2026-08-28-methods.qmd) |
 
 ## Week 02 {- #week-02}
