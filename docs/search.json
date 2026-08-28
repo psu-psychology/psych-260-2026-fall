@@ -261,7 +261,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#golgi-stain",
     "title": "Neuroscience methods",
     "section": "Golgi stain",
-    "text": "Golgi stain\n\n\n\nCamillo Golgi\nComplete nerve cells, but only 1-5% of total \n\n\n\n\n\nhttp://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg",
+    "text": "Golgi stain\n\n\n\nCamillo Golgi\nComplete nerve cells, but only 1-5% of total \n\n\n\n\n\n\n\n\nFigure 4: http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -283,7 +283,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#santiago-ramon-y-cajal",
     "title": "Neuroscience methods",
     "section": "Santiago Ramon y Cajal",
-    "text": "Santiago Ramon y Cajal\n\n\n\nNeuron doctrine: there are gaps between neurons\nSomething passes between\nShared 1906 Nobel Prize with Golgi\n\n\n\n\n\n\n\n\n\nWikipedia",
+    "text": "Santiago Ramon y Cajal\n\n\n\nNeuron doctrine: there are gaps between neurons\nSomething passes between neurons to cross the gap\nShared 1906 Nobel Prize with Golgi\n\n\n\n\n\n\n\n\nFigure 5: Wikipedia",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -294,7 +294,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#nissl-stain",
     "title": "Neuroscience methods",
     "section": "Nissl stain",
-    "text": "Nissl stain\n\n\n\nFranz Nissl\nOnly cell bodies\nCellular distribution, concentration, microanatomy\nDensity of staining ~ cell density/number\n\n\n\n\n\nhttps://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg",
+    "text": "Nissl stain\n\n\n\nFranz Nissl\nOnly cell bodies\nCellular distribution, concentration, microanatomy\nDensity of staining ~ cell density/number\n\n\n\n\n\n\n\n\nFigure 6: https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -316,7 +316,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#clarity",
     "title": "Neuroscience methods",
     "section": "Clarity",
-    "text": "Clarity\n\nVideo (2013)",
+    "text": "Clarity\n\n\n\n\n\n\n\nFigure 7: Video, Nature (2013)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -337,8 +337,8 @@
     "objectID": "slides/wk-01-2026-08-28-methods.html#your-turn",
     "href": "slides/wk-01-2026-08-28-methods.html#your-turn",
     "title": "Neuroscience methods",
-    "section": "Your turn",
-    "text": "Your turn\n\n\n\n\n\n\nWhy aren’t cellular techniques especially useful for studing living humans?",
+    "section": "Your turn…",
+    "text": "Your turn…\n\n\n\n\n\n\n\n\nAre neurons distributed evenly throughout the brain?\n\n\n\n\n\n\n\n\n\n\n\n\n\nAre neurons more concentrated on the inside or the outside of the brain?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBONUS: What “slice” does the image depict?\n\n\n\n\n\n\n\n\n\n\n\nhttps://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -349,7 +349,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#whole-brain-methods",
     "title": "Neuroscience methods",
     "section": "Whole-brain methods",
-    "text": "Whole-brain methods\n\nComputed Tomography/Computed Axial Tomography\nMRI1-related\n\nDiffusion Tensor Imaging (DTI)\nMR Spectroscopy\nVoxel-based Morphometry (VBM)",
+    "text": "Whole-brain methods\n\nComputed Tomography/Computed Axial Tomography\nMagnetic Resonance Imaging (MRI)-related\n\nDiffusion Tensor Imaging (DTI)\nMR Spectroscopy\nVoxel-based Morphometry (VBM)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -360,7 +360,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#computed-axial-tomography-cat",
     "title": "Neuroscience methods",
     "section": "Computed axial tomography (CAT)",
-    "text": "Computed axial tomography (CAT)\n\n\n\nComputed tomography CT\nX-ray based\n\n\n\n\n\nCT scan of stroke",
+    "text": "Computed axial tomography (CAT)\n\n\n\nComputed tomography CT\nX-ray based\n\n\n\n\n\n\n\n\nFigure 8: CT scan of stroke",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -371,7 +371,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#how-tomography-works",
     "title": "Neuroscience methods",
     "section": "How tomography works",
-    "text": "How tomography works\n\n\n\n\n\nhttp://img.tfd.com/mk/T/X2604-T-22.png\n\n\n\n\n\n\nHow tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg",
+    "text": "How tomography works\n\n\n#fig-tomography}\n\n\n\n\n\n\n\nFigure 9: How tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -393,7 +393,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#mri",
     "title": "Neuroscience methods",
     "section": "MRI",
-    "text": "MRI\n\n\n\nSome common substances (e.g., H) & complex molecules have magnetic dipole\nAxes align with strong magnetic field",
+    "text": "MRI\n\n\n\n\n\n\n\nFigure 10: National Institute on Biomedical Imaging and Bioengineering (n.d.)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -404,7 +404,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#mri-1",
     "title": "Neuroscience methods",
     "section": "MRI",
-    "text": "MRI\n\n\n\nWhen alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue\nRealignment emits RF signals",
+    "text": "MRI\n\n\n\nSome common substances (e.g., H) & complex molecules have magnetic dipole\nAxes align with strong magnetic field\n\n\n\n\n\n\n\n\nFigure 11",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -415,7 +415,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#mri-2",
     "title": "Neuroscience methods",
     "section": "MRI",
-    "text": "MRI\n\n\n\nTypes\n\nStructural\nFunctional (fMRI)\n\nReveals tissue density/type differences\nGray matter (neurons & dendrites & axons & glia) vs. white matter (mostly axons)\n\n\n\n\n\nBy Asnaebsa - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119327965",
+    "text": "MRI\n\n\n\nWhen alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue\nRealignment emits RF signals\n\n\n\n\n\n\n\n\nFigure 12",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -459,7 +459,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#singlemulti-unit-recording",
     "title": "Neuroscience methods",
     "section": "Single/multi-unit Recording",
-    "text": "Single/multi-unit Recording\n\n\n\nWhat does neuron X respond to?\nHigh temporal (ms) & spatial resolution (um)\nInvasive\nUsed in non-human animals for purely research purposes\n\n\n\n\n\nFigure 1 from Nishimura et al. (2021)",
+    "text": "Single/multi-unit Recording\n\n\n\nWhat does neuron X respond to?\nHigh temporal (ms) & spatial resolution (um)\nInvasive\nUsed in non-human animals for purely research purposes\n\n\n\n\n\n\n\n\nFigure 13: Figure 1 from Nishimura, Ikegaya, & Sasaki (2021)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -481,7 +481,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#electrocorticography-ecog",
     "title": "Neuroscience methods",
     "section": "Electrocorticography (ECoG)",
-    "text": "Electrocorticography (ECoG)\n\n\n\nUsed in human neurosurgery",
+    "text": "Electrocorticography (ECoG)\n\n\n\nUsed in human neurosurgery\n\n\n\n\n\n\n\n\nFigure 14",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -514,7 +514,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#more-about-pet",
     "title": "Neuroscience methods",
     "section": "More about PET",
-    "text": "More about PET\n\n\n\n\n\n\n\nFigure 2: National Institute of Biomedical Imaging and Bioengineering (2013)",
+    "text": "More about PET\n\n\n\n\n\n\n\nFigure 14: National Institute of Biomedical Imaging and Bioengineering (2013)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -525,7 +525,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#pet",
     "title": "Neuroscience methods",
     "section": "PET",
-    "text": "PET\n\n\n\nTemporal (~ s) and spatial (mm-cm) resolution worse than fMRI\nRadioactive exposures + mildly invasive\nDose &lt; airline crew exposure in 1 yr\n\n\n\n\n\nPetersen et al. (1988)",
+    "text": "PET\n\n\n\nTemporal (~ s) and spatial (mm-cm) resolution worse than fMRI\nRadioactive exposures + mildly invasive\nDose &lt; airline crew exposure in 1 yr\n\n\n\n\n\n\n\n\nFigure 16: Petersen, Fox, Posner, Mintun, & Raichle (1988)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -536,7 +536,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#functional-magnetic-resonance-imaging-fmri",
     "title": "Neuroscience methods",
     "section": "Functional Magnetic Resonance Imaging (fMRI)",
-    "text": "Functional Magnetic Resonance Imaging (fMRI)\n\n\n\nNeural activity\nGreater in some areas than others\nLocal \\(O_2\\) consumption increase\n\n\n\n\n\nfMRI data on emotion processing: https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg”",
+    "text": "Functional Magnetic Resonance Imaging (fMRI)\n\n\n\nNeural activity\nGreater in some areas than others\nLocal \\(O_2\\) consumption increase\n\n\n\n\n\n\n\n\nFigure 17: fMRI data on emotion processing",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -547,7 +547,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#blood-oxygen-level-dependent-bold-response",
     "title": "Neuroscience methods",
     "section": "Blood Oxygen Level Dependent (BOLD) response",
-    "text": "Blood Oxygen Level Dependent (BOLD) response\n\n\n\nOxygenated vs. deoxygenated hemoglobin creates magnetic contrast\nDo regional blood \\(O_2\\) volumes (and flow) vary with behavior X?\n\n\n\n\n\nhttps://mriquestions.com/does-boldbrain-activity.html",
+    "text": "Blood Oxygen Level Dependent (BOLD) response\n\n\n\nOxygenated vs. deoxygenated hemoglobin creates magnetic contrast\nDo regional blood \\(O_2\\) volumes (and flow) vary with behavior X?\n\n\n\n\n\n\n\n\nFigure 18: https://mriquestions.com/does-boldbrain-activity.html",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -558,7 +558,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#mapping-visual-cortex",
     "title": "Neuroscience methods",
     "section": "Mapping visual cortex",
-    "text": "Mapping visual cortex\n\n\n\n“Mapping” = what areas respond to what input\n\n\n\n\nCharting (2020a)\n\nCharting (2020b)",
+    "text": "Mapping visual cortex\n\n\n\n“Mapping” = what areas respond to what input\n\n\n\n\n\n\n\nFigure 19\n\n\n\n\n\nCharting (2020a)\n\nCharting (2020b)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -580,7 +580,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#fmri-1",
     "title": "Neuroscience methods",
     "section": "fMRI",
-    "text": "fMRI\n\n\n\nHemodynamic Response Function (HRF)\n\n1s delay plus 3-6 s ‘initial-dip’\n\n\n\n\n\n\n“Magnetism” (n.d.)",
+    "text": "fMRI\n\n\n\nHemodynamic Response Function (HRF)\n\n1s delay plus 3-6 s ‘initial-dip’\n\n\n\n\n\n\n\n\n\nFigure 20: “Magnetism” (n.d.)",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -591,7 +591,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#your-turn-1",
     "title": "Neuroscience methods",
     "section": "Your turn",
-    "text": "Your turn\n\n\n\n\n\n\nWhy is fMRI considered an indirect measure of brain activity?",
+    "text": "Your turn\n\n\n\n\n\n\nWhy aren’t cellular techniques especially useful for studing living humans?",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -602,7 +602,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#electroencephalography-eeg",
     "title": "Neuroscience methods",
     "section": "Electroencephalography (EEG)",
-    "text": "Electroencephalography (EEG)\n\n\n\nHow does it work?\n\nElectrodes on scalp or brain surface\n\nWhat do we measure?\n\nCombined activity of huge # of neurons\n\nHigh/fine temporal resolution (detect fast changes) but poor spatial resolution\n\n\n\n\n\nWikimedia",
+    "text": "Electroencephalography (EEG)\n\n\n\nHow does it work?\n\nElectrodes on scalp or brain surface\n\nWhat do we measure?\n\nCombined activity of huge # of neurons\n\nHigh/fine temporal resolution (detect fast changes) but poor spatial resolution\n\n\n\n\n\n\n\n\nFigure 21: Wikimedia",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -624,7 +624,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#event-related-potentials-erps",
     "title": "Neuroscience methods",
     "section": "Event-related potentials (ERPs)",
-    "text": "Event-related potentials (ERPs)\n\n\n\nEEGs related (in time) to some event\nAveraged over many repetitions of that event",
+    "text": "Event-related potentials (ERPs)\n\n\n\nEEGs related (in time) to some event\nAveraged over many repetitions of that event\n\n\n\n\n\n\n\n\nFigure 22",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -646,7 +646,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#the-case-of-phineas-gage",
     "title": "Neuroscience methods",
     "section": "The case of Phineas Gage",
-    "text": "The case of Phineas Gage",
+    "text": "The case of Phineas Gage\n\n\n\n\n\n\nFigure 23",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -701,7 +701,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#about",
     "title": "Neuroscience methods",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.7.1.147.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.8.2.200.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -712,7 +712,7 @@
     "href": "slides/wk-01-2026-08-28-methods.html#references",
     "title": "Neuroscience methods",
     "section": "References",
-    "text": "References\n\n\n\n\nAANSNeurosurgery. (2019). Intraop awake brain mapping & multimodal image-guided resection of dominant side glioma. YouTube. Retrieved from https://www.youtube.com/watch?v=gFky09ekmzw\n\n\nCharting, I. B. (2020a). Retinotopy task – ring-expanding run. YouTube. Retrieved from https://www.youtube.com/watch?v=DcgHJIlwQCo\n\n\nCharting, I. B. (2020b). Retinotopy task – wedge-clockwise run. YouTube. Retrieved from https://www.youtube.com/watch?v=rsykP-9-moA\n\n\nMagnetism. (n.d.). Retrieved August 19, 2025, from http://mriquestions.com/does-boldbrain-activity.html\n\n\nMusikladen. (2020). Stevie Wonder - Superstition (1974). YouTube. Retrieved from https://www.youtube.com/watch?v=97hwNY3ni10\n\n\nNational Geographic. (2014, January). Beautiful 3-D brain scans show every synapse | national geographic. YouTube. Retrieved from https://www.youtube.com/watch?v=nvXuq9jRWKE\n\n\nNational Institute of Biomedical Imaging and Bioengineering. (2013). How does a PET scan work? YouTube. Retrieved from https://www.youtube.com/watch?v=GHLBcCv4rqk\n\n\nNational Institute on Biomedical Imaging and Bioengineering. (n.d.). How does an MRI scan work? YouTube. Retrieved from https://www.youtube.com/embed/1CGzk-nV06g\n\n\nNishimura, Y., Ikegaya, Y., & Sasaki, T. (2021). Prefrontal synaptic activation during hippocampal memory reactivation. Cell Reports, 34(12), 108885. https://doi.org/10.1016/j.celrep.2021.108885\n\n\nPetersen, S. E., Fox, P. T., Posner, M. I., Mintun, M., & Raichle, M. E. (1988). Positron emission tomographic studies of the cortical anatomy of single-word processing. Nature, 331, 585–589. https://doi.org/10.1038/331585a0\n\n\nSejnowski, T. J., Churchland, P. S., & Movshon, J. A. (2014). Putting big data to good use in neuroscience. Nat. Neurosci., 17(11), 1440–1441. https://doi.org/10.1038/nn.3839\n\n\nSpectral analysis. (n.d.). Retrieved August 11, 2026, from https://eeglab.org/tutorials/ConceptsGuide/Time_frequency_tutorial.html\n\n\nVideo, N. (2013). See-through brains. YouTube. Retrieved from https://www.youtube.com/watch?v=c-NMfp13Uug",
+    "text": "References\n\n\n\n\nAANSNeurosurgery. (2019). Intraop awake brain mapping & multimodal image-guided resection of dominant side glioma. YouTube. Retrieved from https://www.youtube.com/watch?v=gFky09ekmzw\n\n\nCharting, I. B. (2020a). Retinotopy task – ring-expanding run. YouTube. Retrieved from https://www.youtube.com/watch?v=DcgHJIlwQCo\n\n\nCharting, I. B. (2020b). Retinotopy task – wedge-clockwise run. YouTube. Retrieved from https://www.youtube.com/watch?v=rsykP-9-moA\n\n\nMagnetism. (n.d.). Retrieved August 19, 2025, from http://mriquestions.com/does-boldbrain-activity.html\n\n\nMusikladen. (2020). Stevie Wonder - Superstition (1974). YouTube. Retrieved from https://www.youtube.com/watch?v=97hwNY3ni10\n\n\nNational Geographic. (2014, January). Beautiful 3-D brain scans show every synapse | national geographic. YouTube. Retrieved from https://www.youtube.com/watch?v=nvXuq9jRWKE\n\n\nNational Institute of Biomedical Imaging and Bioengineering. (2013). How does a PET scan work? YouTube. Retrieved from https://www.youtube.com/watch?v=GHLBcCv4rqk\n\n\nNational Institute on Biomedical Imaging and Bioengineering. (n.d.). How does an MRI scan work? YouTube. Retrieved from https://www.youtube.com/embed/1CGzk-nV06g\n\n\nNishimura, Y., Ikegaya, Y., & Sasaki, T. (2021). Prefrontal synaptic activation during hippocampal memory reactivation. Cell Reports, 34(12), 108885. https://doi.org/10.1016/j.celrep.2021.108885\n\n\nPetersen, S. E., Fox, P. T., Posner, M. I., Mintun, M., & Raichle, M. E. (1988). Positron emission tomographic studies of the cortical anatomy of single-word processing. Nature, 331, 585–589. https://doi.org/10.1038/331585a0\n\n\nSejnowski, T. J., Churchland, P. S., & Movshon, J. A. (2014). Putting big data to good use in neuroscience. Nat. Neurosci., 17(11), 1440–1441. https://doi.org/10.1038/nn.3839\n\n\nSpectral analysis. (n.d.). Retrieved August 11, 2026, from https://eeglab.org/tutorials/ConceptsGuide/Time_frequency_tutorial.html\n\n\nVideo, Nature. (2013). See-through brains. YouTube. Retrieved from https://www.youtube.com/watch?v=c-NMfp13Uug",
     "crumbs": [
       "Slides",
       "Wk 01 • Fri Aug 28"
@@ -1671,6 +1671,28 @@
     "crumbs": [
       "Slides",
       "Wk 01 • Wed Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-28-methods.html#your-turn-2",
+    "href": "slides/wk-01-2026-08-28-methods.html#your-turn-2",
+    "title": "Neuroscience methods",
+    "section": "Your turn",
+    "text": "Your turn\n\n\n\n\n\n\nWhy is fMRI considered an indirect measure of brain activity?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Fri Aug 28"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2026-08-28-methods.html#mri-3",
+    "href": "slides/wk-01-2026-08-28-methods.html#mri-3",
+    "title": "Neuroscience methods",
+    "section": "MRI",
+    "text": "MRI\n\n\n\nTypes\n\nStructural\nFunctional (fMRI)\n\nReveals tissue density/type differences\nGray matter (neurons & dendrites & axons & glia) vs. white matter (mostly axons)\n\n\n\n\n\nBy Asnaebsa - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119327965",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Fri Aug 28"
     ]
   }
 ]

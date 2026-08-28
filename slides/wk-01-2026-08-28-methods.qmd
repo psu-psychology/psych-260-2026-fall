@@ -5,15 +5,13 @@ format: revealjs
 
 # Preliminaries
 
-## For fun
+---
 
 ::: {#fig-stevie-wonder-superstition}
 <iframe width="1240" height="450" src="https://www.youtube.com/embed/97hwNY3ni10?si=2k0feL7PKLxzhtNm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @Musikladen2020-id
 :::
-
-## Announcements
 
 ## Today's topics
 
@@ -64,17 +62,12 @@ format: revealjs
 
 ---
 
-![Churchland](../include/img/churchland-levels-of-analysis.gif){width="70%"}
+![Churchland](../include/img/churchland-levels-of-analysis.gif){#fig-churchland width="70%"}
 
 ---
 
-![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg){width="70%"}
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg){width="75%" #fig-sejnowski-2014}
 
-## What are we measuring?
-
-+ Structure
-+ Activity (function?)
-    
 ## Evaluating methods
 
 + Spatial/temporal resolution
@@ -103,13 +96,13 @@ format: revealjs
 ## Golgi stain
 
 :::: {.columns}
-::: {.column width=60%}
+::: {.column width=40%}
 - [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}
 - [Complete nerve cells, but only 1-5\% of total]{.blue-text}
 <!-- - Soak tissue in Potassium Dichromate ($K_2Cr_2O_7$) then apply Silver Nitrate ($AgNO_3$) -->
 :::
-::: {.column width=40%}
-![http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
+::: {.column width=60%}
+![http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg){#fig-golgi-stain width="60%"}
 :::
 ::::
 
@@ -134,11 +127,11 @@ format: revealjs
 :::: {.columns}
 ::: {.column width=60%}
 - *Neuron doctrine*: there are gaps between neurons
-- Something passes between
+- *Something* passes between neurons to cross the gap
 - Shared 1906 Nobel Prize with Golgi
 :::
 ::: {.column width=40%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/00/Santiago_Ramón_y_Cajal%2C_estudiante_de_medicina_en_Zaragoza_1876.jpg){width="80%" fig-align="right"}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/00/Santiago_Ramón_y_Cajal%2C_estudiante_de_medicina_en_Zaragoza_1876.jpg){#fig-cajal width="80%" fig-align="right"}
 :::
 ::::
 
@@ -152,11 +145,11 @@ format: revealjs
 - Density of staining ~ cell density/number
 :::
 ::: {.column width=40%}
-![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
+![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg){#fig-nissl-stain}
 :::
 ::::
 
----
+## Your turn...
 
 :::: {.columns}
 ::: {.column width=60%}
@@ -164,9 +157,18 @@ format: revealjs
 ## Are neurons distributed evenly throughout the brain?
 :::
 
+::: {.fragment}
 ::: {.question}
 ## Are neurons more concentrated on the inside or the outside of the brain?
 :::
+:::
+
+::: {.fragment}
+::: {.question}
+## BONUS: What "slice" does the image depict?
+:::
+:::
+
 :::
 ::: {.column width=40%}
 ![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
@@ -182,6 +184,7 @@ format: revealjs
 :::
 ::: {.column width=50%}
 
+
 {{< video https://www.youtube.com/watch?v=nvXuq9jRWKE width="70%" height="40%">}}
 
 @National_Geographic2014-gv
@@ -190,9 +193,11 @@ format: revealjs
 
 ## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
 
-{{< video https://www.youtube.com/embed/c-NMfp13Uug width="100%" height="70%" >}}
+::: {#fig-clarity}
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/c-NMfp13Uug?si=DiMnA5otRbgAXjcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @Video2013-bj
+:::
 
 ## Evaluating cellular techniques
 
@@ -212,7 +217,7 @@ format: revealjs
 ## Whole-brain methods
 
 - Computed Tomography/Computed Axial Tomography
-- MRI^[Magnetic Resonance Imaging]-related
+- Magnetic Resonance Imaging (MRI)-related
     - Diffusion Tensor Imaging (DTI)
     - *MR Spectroscopy*
     - Voxel-based Morphometry (VBM)
@@ -225,7 +230,7 @@ format: revealjs
 - X-ray based
 :::
 ::: {.column width=60%}
-![CT scan of stroke](../include/img/mca-inferior-division-infarct-ct-brain.png)
+![CT scan of stroke](../include/img/mca-inferior-division-infarct-ct-brain.png){#fig-ct-stroke}
 :::
 ::::
 
@@ -233,20 +238,20 @@ format: revealjs
 
 :::: {.columns}
 ::: {.column width=50%}
-![http://img.tfd.com/mk/T/X2604-T-22.png](../include/img/tomography.png)
+![http://img.tfd.com/mk/T/X2604-T-22.png](../include/img/tomography.png)#fig-tomography}
 :::
 ::: {.column width=50%}
-![How tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg](https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg)
+![How tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg](https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg){#fig-tomography-shadows}
 :::
 ::::
 
-## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
 
-{{< video https://www.youtube.com/embed/1CGzk-nV06g height="70%" width="100%" >}}
+::: {#fig-mri-video}
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/c-NMfp13Uug?si=DiMnA5otRbgAXjcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p style="text-align:center;">
 @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
-</p>
+:::
 
 ## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
 
@@ -256,7 +261,7 @@ format: revealjs
 - Axes align with strong magnetic field
 :::
 ::: {.column width=50%}
-![](../include/img/mri-steps.jpg)
+![](../include/img/mri-steps.jpg){#fig-mri-steps}
 :::
 ::::
 
@@ -268,7 +273,7 @@ format: revealjs
 - Realignment emits RF signals
 :::
 ::: {.column width=50%}
-![](https://americanhealthimaging.com/wp-content/uploads/2021/04/Understanding-Knee-MRI-Images-2048x1365.jpg)
+![](https://americanhealthimaging.com/wp-content/uploads/2021/04/Understanding-Knee-MRI-Images-2048x1365.jpg){#fig-mri-knee}
 :::
 ::::
 
@@ -324,7 +329,7 @@ format: revealjs
 
 ## Recording from the brain {-}
 
-- Single/multi unit recording
+- Single/multi *unit* recording
     - Microelectrodes
     - Units -> Small numbers of nerve cells
 
@@ -338,7 +343,7 @@ format: revealjs
 - Used in non-human animals for purely research purposes
 :::
 ::: {.column width=50%}
-![Figure 1 from @Nishimura2021-ne](https://ars.els-cdn.com/content/image/1-s2.0-S2211124721001996-fx1.jpg)
+![Figure 1 from @Nishimura2021-ne](https://ars.els-cdn.com/content/image/1-s2.0-S2211124721001996-fx1.jpg){#fig-nishimura-2021}
 :::
 ::::
 
@@ -353,7 +358,7 @@ format: revealjs
 - Used in human neurosurgery
 :::
 ::: {.column width=50%}
-![](https://sites.uci.edu/alns/files/2015/03/eCOG-stock-photo-22578962-brain-surgery.jpg)
+![](https://sites.uci.edu/alns/files/2015/03/eCOG-stock-photo-22578962-brain-surgery.jpg){#fig-ecog}
 :::
 ::::
 
@@ -370,7 +375,7 @@ format: revealjs
 - Experimental condition - control
 - Average across individuals
 
-## More about PET
+---
 
 ::: {#fig-how-does-a-pet-scan-work}
 <iframe width="1280" height="435" src="https://www.youtube.com/embed/GHLBcCv4rqk?si=V15ABLIOHfrzXZZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -387,7 +392,7 @@ format: revealjs
 + Dose < airline crew exposure in 1 yr
 :::
 ::: {.column width=50%}
-![@Petersen1988-rc](../include/img/petersen-1988-pet.png)
+![@Petersen1988-rc](../include/img/petersen-1988-pet.png){#fig-petersen1988}
 :::
 ::::
 
@@ -400,7 +405,7 @@ format: revealjs
 - Local $O_2$ consumption increase
 :::
 ::: {.column width=50%}
-![fMRI data on emotion processing: https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg"](https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg)
+![fMRI [data on emotion processing]( https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg)](https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg){#fig-fmri-cmu}
 :::
 ::::
 
@@ -412,19 +417,19 @@ format: revealjs
 + Do regional blood $O_2$ volumes (and flow) vary with behavior X?
 :::
 ::: {.column width=50%}
-![https://mriquestions.com/does-boldbrain-activity.html](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861_orig.png)
+![https://mriquestions.com/does-boldbrain-activity.html](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861_orig.png){#fig-mriquestions}
 :::
 ::::
 
 ## Mapping visual cortex
 
 :::: {.columns}
-::: {.column width=40%}
+::: {.column width=50%}
 - "Mapping" = what areas respond to what input
 
-![](../include/img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg)
+![](../include/img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg){#fig-doughtery}
 :::
-::: {.column width=60%}
+::: {.column width=50%}
 {{< video https://www.youtube.com/embed/DcgHJIlwQCo >}} \
 @Charting2020-gi \
 {{< video https://www.youtube.com/embed/rsykP-9-moA >}} \
@@ -446,7 +451,7 @@ format: revealjs
     + 1s delay plus 3-6 s 'initial-dip'
 :::
 ::: {.column width=50%}
-![@UnknownUnknown-oj](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861.png?347)
+![@UnknownUnknown-oj](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861.png?347){#fig-mriqs}
 :::
 ::::
 
@@ -469,7 +474,7 @@ format: revealjs
 :::
 :::
 ::: {.column width=50%}
-![Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png)
+![Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png){#fig-spike-waves-wikipedia}
 :::
 ::::
 
@@ -495,7 +500,7 @@ format: revealjs
 - Averaged over many repetitions of that event
 :::
 ::: {.column width=50%}
-![](https://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif)
+![](https://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif){#fig-erps}
 :::
 ::::
 
@@ -509,7 +514,7 @@ format: revealjs
 
 ## The case of [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)
 
-![](http://www.doctorsimpossible.com/wp-content/uploads/2017/11/Phineas-Gage-with-skull-picture.png){fig-align="center" width="60%"}
+![](http://www.doctorsimpossible.com/wp-content/uploads/2017/11/Phineas-Gage-with-skull-picture.png){fig-align="center" width="60%" #fig-phineas-gage}
 
 ## Stimulating the brain
 
@@ -548,7 +553,7 @@ format: revealjs
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2026.7.1.147.
+Integrated Development Environment (IDE), version 2026.8.2.200.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework.

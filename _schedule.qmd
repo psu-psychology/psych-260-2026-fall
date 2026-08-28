@@ -35,6 +35,7 @@
   - @National-Institute-of-Biomedical-Imaging-and-Bioengineering2013-nc
   - @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz           - @Video2010-jw
   - @Understanding_Animal_Research2009-vq
+  - @Video2013-bj
 - *Slides*: | [html](slides/wk-01-2026-08-28-methods.qmd) |
 
 ## Week 02 {- #week-02}
