@@ -102,7 +102,7 @@ format: revealjs
 <!-- - Soak tissue in Potassium Dichromate ($K_2Cr_2O_7$) then apply Silver Nitrate ($AgNO_3$) -->
 :::
 ::: {.column width=60%}
-![http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg){#fig-golgi-stain width="60%"}
+![http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg](../include/img/golgi-stain.jpg){#fig-golgi-stain width="60%"}
 :::
 ::::
 
@@ -114,7 +114,7 @@ format: revealjs
 - [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}
 :::
 ::: {.column width=33%}
-![](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
+![](../include/img/golgi-stain.jpg)
 :::
 ::: {.column width=33%}
 - No!
@@ -248,7 +248,7 @@ format: revealjs
 ## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
 
 ::: {#fig-mri-video}
-<iframe width="1280" height="450" src="https://www.youtube.com/embed/c-NMfp13Uug?si=DiMnA5otRbgAXjcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/1CGzk-nV06g?si=yyA8Xak0MW75BbHV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
 :::
@@ -420,6 +420,8 @@ format: revealjs
 ![https://mriquestions.com/does-boldbrain-activity.html](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861_orig.png){#fig-mriquestions}
 :::
 ::::
+
+<!-- Stopped here 2026-08-28 -->
 
 ## Mapping visual cortex
 
