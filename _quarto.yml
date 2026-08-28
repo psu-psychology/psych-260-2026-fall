@@ -11,11 +11,11 @@ project:
 
 website:
   title: "PSYCH 260.001"
-  # announcement: 
-  #   content: "Please complete the end-of-semester [course evaluations](https://rateteaching.psu.edu/). Thank you!" 
-  #   position: below-navbar
-  #   icon: info-circle
-  #   dismissable: true
+  announcement:
+    content: "Next week we're covering neuroanatomy."
+    position: below-navbar
+    icon: info-circle
+    dismissable: true
   sidebar:
     style: "docked"
     search: true
@@ -34,8 +34,8 @@ website:
             href: slides/wk-01-2026-08-26-hist-methods.qmd
           - text: "Wk 01 • Fri Aug 28"
             href: slides/wk-01-2026-08-28-methods.qmd
-          # - text: "Wk 02 • Tue Sep 02"
-          #   href: slides/wk-02-2025-09-02-methods.qmd
+          - text: "Wk 02 • Mon Aug 31"
+            href: slides/wk-02-2026-08-31-anatomy-I.qmd
       #     - text: "Wk 02 • Thu Sep 04"
       #       href: slides/wk-02-2025-09-04-anatomy-I.qmd
       #     - text: "Wk 03 • Tue Sep 09"
