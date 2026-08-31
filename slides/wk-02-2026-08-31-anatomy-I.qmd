@@ -65,54 +65,85 @@ format: revealjs
 ---
 
 ::: {.question}
-## Which of the following methods measures electromagnetic fields?
+## Which of the following functional methods gives the highest/finest spatial resolution?
 :::
 
 ::: {.answer}
-- A. Event-related potentials (ERP)
-- B. Electroencephalography (EEG)
-- C. Magnetoencephalography (MEG)
-- D. All of the above
+- A. Positron Emission Tomography (PET)
+- B. Computed Axial Tomography (CT/CAT)
+- C. functional Magnetic Resonance Imaging (fMRI)
+- D. Single unit recording
 :::
 
 ---
 
 ::: {.question}
-## Which of the following methods measures electromagnetic fields?
+## Which of the following functional methods gives the highest/finest spatial resolution?
 :::
 
 ::: {.answer}
-- A. Event-related potentials (ERP)
-- B. Electroencephalography (EEG)
-- C. Magnetoencephalography (MEG)
-- **D. All of the above**
+- ~~A. Positron Emission Tomography (PET)~~
+- ~~B. Computed Axial Tomography (CT/CAT)~~
+- ~~C. functional Magnetic Resonance Imaging (fMRI)~~
+- **D. Single unit recording**
 :::
 
----
 
-::: {.question}
-## Why is fMRI an *indirect* measure of brain activity?
-:::
+<!-- --- -->
 
-::: {.answer}
-- A. fMRI measures change in blood oxygen that stem from activity several seconds earlier
-- B. fMRI measures electrical activity of individual neurons
-- C. fMRI measures things inside the head
-:::
+<!-- ::: {.question} -->
+<!-- ## Which of the following methods measures electromagnetic fields? -->
+<!-- ::: -->
 
----
+<!-- ::: {.answer} -->
+<!-- - A. Event-related potentials (ERP) -->
+<!-- - B. Electroencephalography (EEG) -->
+<!-- - C. Magnetoencephalography (MEG) -->
+<!-- - D. All of the above -->
+<!-- ::: -->
 
-::: {.question}
-## Why is fMRI an *indirect* measure of brain activity?
-:::
+<!-- --- -->
 
-::: {.answer}
-- A. **fMRI measures changes in blood oxygen that stem from activity several seconds earlier**
-- B. ~~fMRI measures electrical activity of individual neurons~~
-- C. ~~fMRI measures things inside the head~~
-:::
+<!-- ::: {.question} -->
+<!-- ## Which of the following methods measures electromagnetic fields? -->
+<!-- ::: -->
+
+<!-- ::: {.answer} -->
+<!-- - A. Event-related potentials (ERP) -->
+<!-- - B. Electroencephalography (EEG) -->
+<!-- - C. Magnetoencephalography (MEG) -->
+<!-- - **D. All of the above** -->
+<!-- ::: -->
+
+<!-- --- -->
+
+<!-- ::: {.question} -->
+<!-- ## Why is fMRI an *indirect* measure of brain activity? -->
+<!-- ::: -->
+
+<!-- ::: {.answer} -->
+<!-- - A. fMRI measures change in blood oxygen that stem from activity several seconds earlier -->
+<!-- - B. fMRI measures electrical activity of individual neurons -->
+<!-- - C. fMRI measures things inside the head -->
+<!-- ::: -->
+
+<!-- --- -->
+
+<!-- ::: {.question} -->
+<!-- ## Why is fMRI an *indirect* measure of brain activity? -->
+<!-- ::: -->
+
+<!-- ::: {.answer} -->
+<!-- - A. **fMRI measures changes in blood oxygen that stem from activity several seconds earlier** -->
+<!-- - B. ~~fMRI measures electrical activity of individual neurons~~ -->
+<!-- - C. ~~fMRI measures things inside the head~~ -->
+<!-- ::: -->
 
 # Wrap-up on functional methods
+
+## Last time
+
+- [Link](wk-01-2026-08-28-methods.qmd#mapping-visual-cortex) to stopping point on 2026-08-28
 
 # Anatomy of the brain
 
