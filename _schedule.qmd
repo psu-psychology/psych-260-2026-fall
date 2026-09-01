@@ -52,7 +52,7 @@
 
 *Neuroanatomy II*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-02-2026-09-02-anatomy-II.qmd) |
 
 ### Fri, Sep 04 {-}
 

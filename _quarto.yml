@@ -36,10 +36,8 @@ website:
             href: slides/wk-01-2026-08-28-methods.qmd
           - text: "Wk 02 • Mon Aug 31"
             href: slides/wk-02-2026-08-31-anatomy-I.qmd
-      #     - text: "Wk 02 • Thu Sep 04"
-      #       href: slides/wk-02-2025-09-04-anatomy-I.qmd
-      #     - text: "Wk 03 • Tue Sep 09"
-      #       href: slides/wk-03-2025-09-09-anatomy-II.qmd
+          - text: "Wk 02 • Wed Sep 02"
+            href: slides/wk-02-2026-09-02-anatomy-II.qmd
       #     - text: "Wk 03 • Thu Sep 11"
       #       href: slides/wk-03-2025-09-11-anatomy-III.qmd
       #     - text: "Wk 04 • Tue Sep 16"
