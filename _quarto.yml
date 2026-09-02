@@ -12,7 +12,7 @@ project:
 website:
   title: "PSYCH 260.001"
   announcement:
-    content: "Next week we're covering neuroanatomy."
+    content: "Quiz 1 is on Wednesday, September 9."
     position: below-navbar
     icon: info-circle
     dismissable: true
