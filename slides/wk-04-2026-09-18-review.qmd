@@ -1,0 +1,108 @@
+---
+title: "Catch-up; Exam 1 review"
+format: revealjs
+---
+
+# Preliminaries
+
+## For fun
+
+## Announcements
+
+## Today's topics
+
+- Warm-up
+- Putting the pieces together
+- Exam 1 review
+
+# Warm-up
+
+# Putting the pieces together
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Vision
+  - Eyes
+  - Optic (II cranial)
+  - LGN of thalamus
+  - V1 in occipital lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Audition
+  - Ears
+  - VIIIth cranial nerve
+  - MGN of thalamus
+  - A1 in temporal lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Somatosensory
+  - Skin, muscles, joints
+  - Spinal nerves
+  - Thalamus
+  - S1 in parietal lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Motor
+  - Frontal lobe
+  - III, IV, VI cranial nerves
+    - Eye movements
+  - Spinal cord
+    - Motor neurons that move shoulder, elbow, hand
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+- What happens to that information when it gets to the cerebral cortex?
+- Where and how do behaviors, thoughts, and feelings arise?
+
+# Topic 2
+
+# Wrap-up
+
+## Main points
+
+## Next time
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.8.1.195.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References

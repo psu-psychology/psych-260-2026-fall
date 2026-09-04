@@ -58,6 +58,8 @@
 
 *Neuroanatomy III*
 
+- *Slides*:  | [html](slides/wk-02-2026-09-04-anatomy-III.qmd) |
+
 ## Week 03 {- #week-03}
 
 ### Mon, Sep 07 {-}
