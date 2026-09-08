@@ -21,7 +21,17 @@ format: revealjs
 
 # Quiz 1
 
-# Why should *psychologists* care
+# Why should *psychologists* care?
+
+## We are family
+
+![@tree-of-life](https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png){#fig-tree-of-life}
+
+
+## Single-celled organisms
+
+- Most recent common ancestors ~1-2 B yrs ago
+- Many levels of analysis smaller than human behavior
 
 ## Single-celled organisms
 
@@ -153,7 +163,7 @@ format: revealjs
 
 :::
 ::: {.column width=50%}
-![https://en.wikipedia.org/wiki/Astrocyte](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astrocyte5.jpg/1024px-Astrocyte5.jpg){fig-align="right" #fig-astrocytes-2}
+![](https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png){fig-align="right" #fig-astrocytes-2}
 :::
 ::::
 
@@ -173,7 +183,7 @@ format: revealjs
 
 ![https://en.wikipedia.org/wiki/Astrocyte](https://upload.wikimedia.org/wikipedia/commons/3/3e/Metabolic_interactions_between_astrocytes_and_neurons_with_major_reactions.png){#fig-astrocyte-metabolism width="60%"}
 
-## Myelinating cells
+## Myelinating cells (1 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -187,7 +197,7 @@ format: revealjs
 :::
 ::::
 
-## Myelinating cells
+## Myelinating cells (2 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -202,16 +212,16 @@ format: revealjs
 ## [Oligodendrocytes](https://en.wikipedia.org/wiki/Oligodendrocyte)
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=40%}
 - In brain and spinal cord (Central Nervous System or CNS)
 - 1:many neurons
 :::
-::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg)
+::: {.column width=60%}
+![By Neuron_with_oligodendrocyte_and_myelin_sheath.svg: *Complete_neuron_cell_diagram_en.svg: LadyofHatsderivative work: Andrew c (talk) - Neuron_with_oligodendrocyte_and_myelin_sheath.svg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10888009](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Neuron_with_oligodendrocyte_and_myelin_sheath.svg/1920px-Neuron_with_oligodendrocyte_and_myelin_sheath.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){#fig-oligodendrocyte width="35%"}
 :::
 ::::
 	
-## [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell)
+## [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell) (1 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -223,9 +233,9 @@ format: revealjs
 :::
 ::::
 
-## [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell)
+## [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell) (2 of 2)
 
-![https://www.brainfacts.org/brain-anatomy-and-function/cells-and-circuits/2018/schwann-cells-keep-signals-strong-012918](https://www.brainfacts.org/-/media/Brainfacts2/Brain-Anatomy-and-Function/Cells-and-Circuits/Article-Images/012918-IOTW.png){#fig-schwann-cell-big with="60%"}
+![https://www.brainfacts.org/brain-anatomy-and-function/cells-and-circuits/2018/schwann-cells-keep-signals-strong-012918](https://www.brainfacts.org/-/media/Brainfacts2/Brain-Anatomy-and-Function/Cells-and-Circuits/Article-Images/012918-IOTW.png){#fig-schwann-cell-big width="60%"}
 
 ## TV-show-inspired mnemonic
 
@@ -281,7 +291,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite) (1 of 3)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -292,11 +302,11 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 - Passive (do not regenerate electrical signal) vs. active (regenerate signal)
 :::
 ::: {.column width=50%}
-![@Wikipedia-contributors2009-ii](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anatomy_of_neuron.png/1000px-Anatomy_of_neuron.png)
+![@Wikipedia-contributors2009-ii](https://upload.wikimedia.org/wikipedia/commons/9/9e/Anatomy_of_neuron.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){#fig-dendrites width="65%"}
 :::
 ::::
 
-## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite) (2 of 3)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -307,7 +317,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite) (3 of 3)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -334,7 +344,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## [Axons](https://en.wikipedia.org/wiki/Axon)
+## [Axons](https://en.wikipedia.org/wiki/Axon) (1 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -347,7 +357,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## [Axons](https://en.wikipedia.org/wiki/Axon)
+## [Axons](https://en.wikipedia.org/wiki/Axon) (1 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -361,7 +371,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal)
+## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal) (1 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -375,7 +385,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 ::::
 
 
-## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal)
+## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal) (2 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -402,7 +412,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
     + Multipolar
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Neurons_uni_bi_multi_pseudouni.svg/2000px-Neurons_uni_bi_multi_pseudouni.svg.png)
+![By Hariadhi - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167633902](../include/img/Structural_classification_of_neurons_by_polarity_hariadhi.svg)
 :::
 ::::
 
@@ -421,18 +431,15 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## Classifying neurons
-
-![Pyramidal cell (left) | Stellate cell (right) from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/0c/Pyramsdal-and-Spiny-stellate-cell.JPG){#fig-pyramidal-cell}
-
 # Wrap-up
 
 ## Main points
 
 - Continuity between single-cellular and multicellular organisms
-  - Neurons as specialized cells with unique functions
-  - Evolutionary adaptations for complex behaviors
-  - Integration of cellular and systemic levels of organization
+  - Neurons (and glia) specialized cells with unique functions
+- Glia
+  - Myelinating vs. non-myelinating
+- Neurons
 
 ## Next time
 

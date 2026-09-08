@@ -72,7 +72,7 @@
 
 <!-- - *Read*: MM pp 20-27 -->
 - *Read*: <https://en.wikipedia.org/wiki/Neuron>, <https://en.wikipedia.org/wiki/Glia>
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-03-2026-09-09-cellular-neuro.qmd) |
 
 ### Fri, Sep 11 {-}
 
