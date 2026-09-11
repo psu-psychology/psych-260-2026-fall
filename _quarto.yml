@@ -42,8 +42,8 @@ website:
             href: slides/wk-02-2026-09-04-anatomy-III.qmd
           - text: "Wk 03 • Wed Sep 09"
             href: slides/wk-03-2026-09-09-cellular-neuro.qmd
-      #     - text: "Wk 04 • Thu Sep 18"
-      #       href: slides/wk-04-2025-09-18-neurophys.qmd
+          - text: "Wk 03 • Fri Sep 11"
+            href: slides/wk-03-2026-09-11-neurophys-I.qmd
       #     - text: "Wk 05 • Tue Sep 23"
       #       href: slides/wk-05-2025-09-23-exam-rev.qmd
       #     - text: "Wk 06 • Tue Sep 30"

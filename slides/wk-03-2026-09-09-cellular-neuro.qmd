@@ -357,7 +357,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-## [Axons](https://en.wikipedia.org/wiki/Axon) (1 of 2)
+## [Axons](https://en.wikipedia.org/wiki/Axon) (2 of 2)
 
 :::: {.columns}
 ::: {.column width=50%}

@@ -79,7 +79,7 @@
 *Neurophysiology I*
 
 - *Read*: <https://en.wikipedia.org/wiki/Resting_potential>
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-03-2026-09-11-neurophys-I.qmd) |
 
 ## Week 04 {- #week-04}
 
