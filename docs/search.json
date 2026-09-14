@@ -44,7 +44,7 @@
     "href": "schedule.html#week-04",
     "title": "Schedule",
     "section": "Week 04",
-    "text": "Week 04\n\nMon, Sep 14\nNeurophysiology II\n\nSlides: | html |\n\n\n\nWed, Sep 16\nNeurophysiology III\n\nRead: https://en.wikipedia.org/wiki/Action_potential\nSlides: | html |\n\n\n\nFri, Sep 18\nCatch-up; Exam 1 review",
+    "text": "Week 04\n\nMon, Sep 14\nNeurophysiology II\n\nWatch: khanacademymedicine (2012)\nSlides: | html |\n\n\n\nWed, Sep 16\nNeurophysiology III\n\nRead: https://en.wikipedia.org/wiki/Action_potential\nSlides: | html |\n\n\n\nFri, Sep 18\nCatch-up; Exam 1 review",
     "crumbs": [
       "Schedule"
     ]
@@ -1604,33 +1604,462 @@
     ]
   },
   {
-    "objectID": "evaluation.html",
-    "href": "evaluation.html",
-    "title": "Evaluation",
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#announcements",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#announcements",
+    "title": "Neurophysiology II",
+    "section": "Announcements",
+    "text": "Announcements\n\nExam 1: Monday, September 21, 2026\n\n40 questions, plus bonus",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#todays-topics",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#todays-topics",
+    "title": "Neurophysiology II",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWarm-up\nNeurophysiology II",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#what-were-trying-to-explain",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#what-were-trying-to-explain",
+    "title": "Neurophysiology II",
+    "section": "What we’re trying to explain",
+    "text": "What we’re trying to explain\n\nNeurons generate action potentials\n\nVoltage waves that propagate down axons\n\nAction potentials build on the resting potential\n\nNeuron voltate returns to resting potential after action potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#what-were-trying-to-explain-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#what-were-trying-to-explain-1",
+    "title": "Neurophysiology II",
+    "section": "What we’re trying to explain",
+    "text": "What we’re trying to explain\n\nResting potential arises due to\n\nK+, Na+, A- ions\nNa/K pump\n\nK+ in; Na+ out\n\nPassive (leak) ion channels\nBalance between\n\nForce of diffusion (K+ -&gt; out; Na+ -&gt; in)\nElectrostatic force (+/- voltage)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#metaphor-i",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#metaphor-i",
+    "title": "Neurophysiology II",
+    "section": "Metaphor I",
+    "text": "Metaphor I\n\n\n\n\n\n\nFigure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#na-role",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#na-role",
+    "title": "Neurophysiology II",
+    "section": "\\(Na^+\\) role",
+    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) concentrated outside neuron\nMembrane at rest not very permeable to \\(Na^+\\)\nSome, but not much \\(Na^+\\) flows in\n\\(Na^+\\) has equilibrium potential ~ + 60 mV\n\n\n\n\n\n\n\n\nFigure 3",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#na-role-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#na-role-1",
+    "title": "Neurophysiology II",
+    "section": "\\(Na^+\\) role",
+    "text": "\\(Na^+\\) role\n\n\n\nEquilibrium potential is positive (with respect to outside)\nWould need positive interior to keep \\(Na^+\\) from flowing in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#electrical-circuit-model",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#electrical-circuit-model",
+    "title": "Neurophysiology II",
+    "section": "Electrical circuit model",
+    "text": "Electrical circuit model\n\n\n\n\n\n\nFigure 4: Wikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#summary-of-forces-in-neuron-at-rest",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#summary-of-forces-in-neuron-at-rest",
+    "title": "Neurophysiology II",
+    "section": "Summary of forces in neuron at rest",
+    "text": "Summary of forces in neuron at rest\n\n\n\n\n\n\n\n\n\nIon\nConcentration gradient\nForce of diffusion\nSign of electrostatic force\n\n\n\n\n\\(K^+\\)\n\\([K^+]_{i} &gt;&gt; [K^+]_{o}\\)\noutward\n-\n\n\n\\(Na^+\\)\n\\([Na^+]_{i} &lt;&lt; [Na^+]_{o}\\)\ninward\n-",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#summary-why-is-there-a-membrane-potential",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#summary-why-is-there-a-membrane-potential",
+    "title": "Neurophysiology II",
+    "section": "Summary: Why is there a membrane potential?",
+    "text": "Summary: Why is there a membrane potential?\n\nNa+/K+ pump creates concentration differences\nK+ flows out (slowly), creating charge separation\nCharge separation \\(\\rightarrow\\) voltage (membrane potential)\nVoltage has negative sign (positive \\(K^+\\) exit; negative \\(A^-\\) remain)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#summary-why-is-there-a-membrane-potential-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#summary-why-is-there-a-membrane-potential-1",
+    "title": "Neurophysiology II",
+    "section": "Summary: Why is there a membrane potential?",
+    "text": "Summary: Why is there a membrane potential?\n\nNa+ ions flow in (very slowly, &lt;&lt; \\(K^+\\) flows out)\nReducing charge separation (a bit), makes membrane potential less negative\nNet result\n\nBalance of diffusion and electrostatic forces acting on \\(K^+\\) and \\(Na^+\\)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#aside-khan-academy-video",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#aside-khan-academy-video",
+    "title": "Neurophysiology II",
+    "section": "(Aside) Khan Academy video",
+    "text": "(Aside) Khan Academy video\n\n– khanacademymedicine (2012)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#what-happens-if-something-changes",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#what-happens-if-something-changes",
+    "title": "Neurophysiology II",
+    "section": "What happens if something changes?",
+    "text": "What happens if something changes?\n\n“Something” == ion channels open (or close)\nEasier for \\(Na^+\\) to enter? Or \\(K^+\\) to exit?\nSome action!",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#action-potential",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#action-potential",
+    "title": "Neurophysiology II",
+    "section": "Action potential",
+    "text": "Action potential\n\n\n\n\n\n\nFigure 5: By Original by en:User:Chris 73, updated by en:User:Diberri, converted to SVG by tiZom - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2241513",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential",
+    "title": "Neurophysiology II",
+    "section": "Phases of the action potential",
+    "text": "Phases of the action potential\n\n\n\nThreshold (of excitation)\nDepolarization (rising voltage)\nPeak\n\nat positive voltage\n\nRepolarization (declining voltage)\nRefractory period (return to resting potential)\n\n\n\n\n\n\n\n\n\nWikipedia1",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential-1",
+    "title": "Neurophysiology II",
+    "section": "Phases of the action potential",
+    "text": "Phases of the action potential\n\n\n\n\n\n\n\nPhase\nNeuron State\n\n\n\n\nRise to threshold\n+ input2 makes membrane potential more +\n\n\nRising phase\nVoltage-gated \\(Na^+\\) channels open, \\(Na^+\\) flows in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential-2",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential-2",
+    "title": "Neurophysiology II",
+    "section": "Phases of the action potential",
+    "text": "Phases of the action potential\n\n\n\n\n\n\n\nPhase\nNeuron State\n\n\n\n\nPeak\nVoltage-gated \\(Na^+\\) channels close and deactivate; voltage-gated \\(K^+\\) channels open\n\n\nFalling phase\n\\(K^+\\) flows out",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential-3",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#phases-of-the-action-potential-3",
+    "title": "Neurophysiology II",
+    "section": "Phases of the action potential",
+    "text": "Phases of the action potential\n\n\n\n\n\n\n\nPhase\nNeuron State\n\n\n\n\nRefractory period\n\\(Na^+\\)/\\(K^+\\) pump restores [\\(Na^+\\)], [\\(K^+\\)]; voltage-gated \\(K^+\\) channels close",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#refractory-period-phase",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#refractory-period-phase",
+    "title": "Neurophysiology II",
+    "section": "Refractory period (phase)",
+    "text": "Refractory period (phase)\n\nAbsolute\n\nNo action potential can be generated\n\nRelative\n\nAction potential requires larger input",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#absolute-refractory-phase",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#absolute-refractory-phase",
+    "title": "Neurophysiology II",
+    "section": "Absolute refractory phase",
+    "text": "Absolute refractory phase\n\n\n\nVoltage-gated \\(K^+\\) channels close\n\nDriving force on \\(K^+\\) tiny or absent\n\n\\(Na^+\\)/\\(K^+\\) pump restores concentration balance\nNo AP can be generated",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#relative-refractory-phase",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#relative-refractory-phase",
+    "title": "Neurophysiology II",
+    "section": "Relative refractory phase",
+    "text": "Relative refractory phase\n\n\n\nCan generate AP with larg(er) stimulus\nSome voltage-gated \\(Na^+\\) ‘de-inactivate’\n\ncan open with large input\nmembrane potential is more negative than resting potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#generating-action-potentials",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#generating-action-potentials",
+    "title": "Neurophysiology II",
+    "section": "Generating action potentials",
+    "text": "Generating action potentials\n\n\n\nAxon hillock\n\nPortion of soma adjacent to axon\nSums inputs to soma from many dendrites",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#generating-action-potentials-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#generating-action-potentials-1",
+    "title": "Neurophysiology II",
+    "section": "Generating action potentials",
+    "text": "Generating action potentials\n\n\n\nAxon initial segment\n\nUmyelinated portion of axon adjacent to soma\nVoltage-gated \\(Na^+\\) and \\(K^+\\) channels exposed\nIf sum of input to soma &gt; threshold, voltage-gated \\(Na^+\\) channels open",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#simulating-the-action-potential",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#simulating-the-action-potential",
+    "title": "Neurophysiology II",
+    "section": "Simulating the action potential",
+    "text": "Simulating the action potential\n\nhttps://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#action-potentials-propagate",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#action-potentials-propagate",
+    "title": "Neurophysiology II",
+    "section": "Action potentials propagate",
+    "text": "Action potentials propagate\n\n\n\nPropagation \\(\\rightarrow\\) move\n\nmove down axon, away from soma, toward axon terminals\n\nAxon like an electrical cable",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#propagation",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#propagation",
+    "title": "Neurophysiology II",
+    "section": "Propagation",
+    "text": "Propagation\n\n\n\nUnmyelinated axons\n\nEach segment “excites” the next\n\n\n\n\n\n\n\n\n\n\nWikipedia contributors (2025b)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#propagation-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#propagation-1",
+    "title": "Neurophysiology II",
+    "section": "Propagation",
+    "text": "Propagation\n\n\n\nMyelinated axon\n\nAP “jumps” between Nodes of Ranvier\nvoltage-gated \\(Na^+\\), \\(K^+\\) channels exposed\ncurrent flows through/down myelinated segments\n\n\n\n\n\n\n\n\n\n\nWikipedia contributors (2025b)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#nodes-of-ranvier",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#nodes-of-ranvier",
+    "title": "Neurophysiology II",
+    "section": "Nodes of Ranvier",
+    "text": "Nodes of Ranvier\n\n\n\nRegenerate action potential\n\\(Na^+\\) and \\(K^+\\) channels exposed to extracellular environment\nBetween Nodes of Ranvier, ions can’t move out, so move along\n\n\n\n\n\n\n\n\n\nWikipedia contributors (2025a)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#nodes-of-ranvier-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#nodes-of-ranvier-1",
+    "title": "Neurophysiology II",
+    "section": "Nodes of Ranvier",
+    "text": "Nodes of Ranvier\n\n\n\nAction potentials faster & more reliable for a given axon diameter\n\n\n\n\n\n\n\n\n\nWikipedia contributors (2025a)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#why-does-ap-flow-in-one-direction-away-from-soma",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#why-does-ap-flow-in-one-direction-away-from-soma",
+    "title": "Neurophysiology II",
+    "section": "Why does AP flow in one direction, away from soma?",
+    "text": "Why does AP flow in one direction, away from soma?\n\nSoma does not have (many) voltage-gated Na+ channels.\nSoma is not myelinated.\nRefractory periods mean polarization works only in one direction.",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#why-does-ap-flow-in-one-direction-away-from-soma-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#why-does-ap-flow-in-one-direction-away-from-soma-1",
+    "title": "Neurophysiology II",
+    "section": "Why does AP flow in one direction, away from soma?",
+    "text": "Why does AP flow in one direction, away from soma?\n\nSoma does not have (many) voltage-gated Na+ channels.\nSoma is not myelinated.\nRefractory periods mean polarization works only in one direction.",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#how-fast-are-aps",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#how-fast-are-aps",
+    "title": "Neurophysiology II",
+    "section": "How fast are APs?",
+    "text": "How fast are APs?\n\n\n\nAxons carry information at different rates\n\nMore myelin -&gt; faster\nLarger diameter axon -&gt; faster\n\nSomatosensory information faster than pain (nociception)\n\n\n\n\n\nWikipedia contributors (2025b)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#information-processing",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#information-processing",
+    "title": "Neurophysiology II",
+    "section": "Information processing",
+    "text": "Information processing\n\nAction potential amplitudes don’t vary (much)\n\nAll or none7\n\\(Na^+\\)/\\(K^+\\) pumps working all the time\n\\([K^+]\\) & \\([Na^+]\\) don’t vary much, so\n\\(V_{K^+}\\) & \\(V_{Na^+}\\) don’t vary much",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#information-processing-1",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#information-processing-1",
+    "title": "Neurophysiology II",
+    "section": "Information processing",
+    "text": "Information processing\n\n\n\nAction potential frequency and timing vary\n\nRate vs. timing codes\nNeurons use both\n\n\n\n\n\n\nEyherabide et al. (2009)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#main-points",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#main-points",
+    "title": "Neurophysiology II",
+    "section": "Main points",
+    "text": "Main points\n\nResting potential due to ion concentration differences (thank you Na/K pump), passive outflow of K, balance of forces\nChange in membrane permeability to \\(Na^+\\)–voltage-gated \\(Na^+\\) channels, triggers action potential.\n\nRapid rise to peak, fall, refractory, return to resting potential\n\nAction potentials propagate along the axon from soma to terminal button",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#next-time",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#next-time",
+    "title": "Neurophysiology II",
+    "section": "Next time",
+    "text": "Next time\n\nNeurophysiology III\n\nWhat happens when the action potential runs out of axon",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#about",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#about",
+    "title": "Neurophysiology II",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.9.0.174.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#references",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#references",
+    "title": "Neurophysiology II",
+    "section": "References",
+    "text": "References\n\n\n\n\nEyherabide, H. G., Rokem, A., Herz, A. V. M., Samengo, I., Eyherabide, H. G., Rokem, A., … Samengo, I. (2009). Bursts generate a non-reducible spike-pattern code. Frontiers in Neuroscience, 3, 1. https://doi.org/10.3389/neuro.01.002.2009\n\n\nKaunda, C. S., Kimambo, C. Z., & Nielsen, T. K. (2012). Hydropower in the context of sustainable energy supply: A review of technologies and challenges. ISRN Renewable Energy, 2012, 1–15. https://doi.org/10.5402/2012/730631\n\n\nkhanacademymedicine. (2012). Membrane potentials - part 1 | circulatory system physiology | NCLEX-RN | khan academy. YouTube. Retrieved from https://www.youtube.com/watch?v=PtKAeihnbv0&t=1s\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, August 30). Nerve conduction velocity. Retrieved from https://en.wikipedia.org/wiki/Nerve_conduction_velocity",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2026-09-14-neurophys-II.html#footnotes",
+    "href": "slides/wk-04-2026-09-14-neurophys-II.html#footnotes",
+    "title": "Neurophysiology II",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBy Original by en:User:Chris 73, updated by en:User:Diberri, converted to SVG by tiZom - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2241513\nQ: From where? A: Other neurons.\nBy Original by en:User:Chris 73, updated by en:User:Diberri, converted to SVG by tiZom - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2241513\nBy Original by en:User:Chris 73, updated by en:User:Diberri, converted to SVG by tiZom - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2241513\nBy Original by en:User:Chris 73, updated by en:User:Diberri, converted to SVG by tiZom - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2241513\nBy Laurentaylorj - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26311114\nKind of like the 1s and 0s in a digital computer. There are many interconnections between the fields of computer science and neuroscience.",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Mon Sep 14"
+    ]
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
     "section": "",
     "text": "Warning\n\n\n\nThis page is under construction.",
     "crumbs": [
-      "Evaluation"
+      "Policies"
     ]
   },
   {
-    "objectID": "evaluation.html#eval-components",
-    "href": "evaluation.html#eval-components",
-    "title": "Evaluation",
-    "section": "Elements",
-    "text": "Elements\n\n\n\n\n\n\n\n\nComponent\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You must take the final, butYou may choose to drop (or not take) one of the other three exams.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\n\nTOTAL POINTS POSSIBLE\n150\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
+    "objectID": "policies.html#values",
+    "href": "policies.html#values",
+    "title": "Policies",
+    "section": "Values",
+    "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
     "crumbs": [
-      "Evaluation"
+      "Policies"
     ]
   },
   {
-    "objectID": "evaluation.html#grading-scheme",
-    "href": "evaluation.html#grading-scheme",
-    "title": "Evaluation",
-    "section": "Grading Scheme",
-    "text": "Grading Scheme\n\n\n\nPoints\nPercent\nGrade\n\n\n\n\n141+\n94-100+\nA\n\n\n135-140\n90-93\nA-\n\n\n130-134\n87-89\nB+\n\n\n126-129\n84-86\nB\n\n\n120-125\n80-83\nB-\n\n\n115-119\n77-79\nC+\n\n\n105-114\n70-76\nC\n\n\n90-104\n60-69\nD\n\n\n0-89\n&lt;59\nF",
+    "objectID": "deadlines.html",
+    "href": "deadlines.html",
+    "title": "Deadlines",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\nQuestions\nScores\n\n\n\n\nWed Sep 09\nQuiz 1\nKey\nScores\n\n\nMon Sep 21\nExam 1\nKey\nScores\n\n\nMon Oct 05\nQuiz 2\nKey\nScores\n\n\nWed Oct 21\nExam 2\nKey\nScores\n\n\nFri Nov 06\nQuiz 3\nKey\nScores\n\n\nFri Nov 20\nQuiz 4\nKey\nScores\n\n\nWed Dec 02\nExam 3\nKey\nScores\n\n\nFinals Week; TBD\nExam 4\nKey\nScores\n\n\n\nFigure 1 shows a depiction of the same information in a more graphic form.\n\n\n\n\n\n\n\n\nFigure 1: A graphic depiction of the quizzes and exams in PSYCH 260.001. The letter (q, e) refers to a quiz or an exam. The week of the semester is indicated on the vertical axis. The day of the week is indicated on the horizontal axis. Each month is in a different color.",
     "crumbs": [
-      "Evaluation"
+      "Deadlines"
     ]
   },
   {
@@ -1704,33 +2133,33 @@
     ]
   },
   {
-    "objectID": "deadlines.html",
-    "href": "deadlines.html",
-    "title": "Deadlines",
-    "section": "",
-    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\nQuestions\nScores\n\n\n\n\nWed Sep 09\nQuiz 1\nKey\nScores\n\n\nMon Sep 21\nExam 1\nKey\nScores\n\n\nMon Oct 05\nQuiz 2\nKey\nScores\n\n\nWed Oct 21\nExam 2\nKey\nScores\n\n\nFri Nov 06\nQuiz 3\nKey\nScores\n\n\nFri Nov 20\nQuiz 4\nKey\nScores\n\n\nWed Dec 02\nExam 3\nKey\nScores\n\n\nFinals Week; TBD\nExam 4\nKey\nScores\n\n\n\nFigure 1 shows a depiction of the same information in a more graphic form.\n\n\n\n\n\n\n\n\nFigure 1: A graphic depiction of the quizzes and exams in PSYCH 260.001. The letter (q, e) refers to a quiz or an exam. The week of the semester is indicated on the vertical axis. The day of the week is indicated on the horizontal axis. Each month is in a different color.",
-    "crumbs": [
-      "Deadlines"
-    ]
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Policies",
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "Evaluation",
     "section": "",
     "text": "Warning\n\n\n\nThis page is under construction.",
     "crumbs": [
-      "Policies"
+      "Evaluation"
     ]
   },
   {
-    "objectID": "policies.html#values",
-    "href": "policies.html#values",
-    "title": "Policies",
-    "section": "Values",
-    "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
+    "objectID": "evaluation.html#eval-components",
+    "href": "evaluation.html#eval-components",
+    "title": "Evaluation",
+    "section": "Elements",
+    "text": "Elements\n\n\n\n\n\n\n\n\nComponent\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You must take the final, butYou may choose to drop (or not take) one of the other three exams.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\n\nTOTAL POINTS POSSIBLE\n150\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
     "crumbs": [
-      "Policies"
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#grading-scheme",
+    "href": "evaluation.html#grading-scheme",
+    "title": "Evaluation",
+    "section": "Grading Scheme",
+    "text": "Grading Scheme\n\n\n\nPoints\nPercent\nGrade\n\n\n\n\n141+\n94-100+\nA\n\n\n135-140\n90-93\nA-\n\n\n130-134\n87-89\nB+\n\n\n126-129\n84-86\nB\n\n\n120-125\n80-83\nB-\n\n\n115-119\n77-79\nC+\n\n\n105-114\n70-76\nC\n\n\n90-104\n60-69\nD\n\n\n0-89\n&lt;59\nF",
+    "crumbs": [
+      "Evaluation"
     ]
   },
   {
@@ -3340,11 +3769,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-03-2026-09-11-neurophys-I.html#your-turn",
-    "href": "slides/wk-03-2026-09-11-neurophys-I.html#your-turn",
+    "objectID": "slides/wk-03-2026-09-11-neurophys-I.html#questions-for-next-time",
+    "href": "slides/wk-03-2026-09-11-neurophys-I.html#questions-for-next-time",
     "title": "Neurophysiology I",
-    "section": "Your turn",
-    "text": "Your turn\n\n\n\n\n\n\nWhat would happen if \\(Na^+\\) ions could flow more easily?\n\n\n\n\n\n\n\n\n\n\n\n\nWhat direction (in or out) would \\(Na^+\\) ions flow and why?\n\n\n\n\n\n\n\n\n\n\n\n\nHow would \\(Na^+\\) ion flow change the neuron’s membrane potential?",
+    "section": "Questions for next time",
+    "text": "Questions for next time\n\n\n\n\n\n\nWhat would happen if \\(Na^+\\) ions could flow more easily?\n\n\n\n\n\n\n\n\n\n\n\n\nWhat direction (in or out) would \\(Na^+\\) ions flow and why?\n\n\n\n\n\n\n\n\n\n\n\n\nHow would \\(Na^+\\) ion flow change the neuron’s membrane potential?",
     "crumbs": [
       "Slides",
       "Wk 03 • Fri Sep 11"
@@ -3942,17 +4371,6 @@
     "crumbs": [
       "Slides",
       "Wk 02 • Mon Aug 31"
-    ]
-  },
-  {
-    "objectID": "slides/wk-03-2026-09-11-neurophys-I.html#questions-for-next-time",
-    "href": "slides/wk-03-2026-09-11-neurophys-I.html#questions-for-next-time",
-    "title": "Neurophysiology I",
-    "section": "Questions for next time",
-    "text": "Questions for next time\n\n\n\n\n\n\nWhat would happen if \\(Na^+\\) ions could flow more easily?\n\n\n\n\n\n\n\n\n\n\n\n\nWhat direction (in or out) would \\(Na^+\\) ions flow and why?\n\n\n\n\n\n\n\n\n\n\n\n\nHow would \\(Na^+\\) ion flow change the neuron’s membrane potential?",
-    "crumbs": [
-      "Slides",
-      "Wk 03 • Fri Sep 11"
     ]
   }
 ]
