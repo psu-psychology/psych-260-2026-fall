@@ -23,7 +23,7 @@ format: revealjs
 
 - Quiz 1 next [Wednesday, September 9](../schedule.qmd#wed-sep-09)
 - 10 multiple choice questions + possible bonus
-- Check [deadlines page](../slides/deadlines.qmd)
+- Check [deadlines page](../deadlines.qmd)
 - How to study
   - Structure by structure
   - Where is it; what is it part of; what is its function

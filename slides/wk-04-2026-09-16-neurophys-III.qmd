@@ -1,0 +1,357 @@
+---
+title: "Neurophysiology III"
+format: revealjs
+---
+
+# Preliminaries
+
+## Announcements
+
+- Exam 1: Monday, September 21, 2026
+  - 40 questions, plus bonus
+
+## Today's topics
+
+- Neurophysiology III
+- Neuroanatomy III
+- Putting the pieces together
+
+## Propagation
+
+:::: {.columns}
+::: {.column width=50%}
+- Unmyelinated axons
+  - Each segment "excites" the next
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
+:::
+::::
+
+## Propagation
+
+:::: {.columns}
+::: {.column width=50%}
+- Myelinated axon
+  + AP "jumps" between *Nodes of Ranvier*
+  + voltage-gated $Na^+$, $K^+$ channels exposed
+  + current flows through/down myelinated segments
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
+:::
+::::
+
+## Nodes of Ranvier
+
+:::: {.columns}
+::: {.column width=50%}
+- *Regenerate* action potential
+- $Na^+$ and $K^+$ channels exposed to extracellular environment
+- Between Nodes of Ranvier, ions can't move out, so move along
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
+:::
+::::
+
+## Nodes of Ranvier
+
+:::: {.columns}
+::: {.column width=50%}
+- Action potentials faster & more reliable for a given axon diameter
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
+:::
+::::
+
+## Why does AP flow in one direction, away from soma?
+
++ Soma does not have (many) voltage-gated Na+ channels.
++ Soma is not myelinated.
++ Refractory periods mean polarization works only in one direction.
+
+## Why does AP flow in one direction, away from soma?
+
++ **Soma does not have (many) voltage-gated Na+ channels.**
++ Soma is not myelinated.
++ **Refractory periods mean polarization works only in one direction.**
+
+## How fast are APs?
+
+:::: {.columns}
+::: {.column width=50%}
+- Axons carry information at different rates
+    - More myelin -> faster
+    - Larger diameter axon -> faster
+- Somatosensory information faster than pain (nociception)
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
+:::
+::::
+
+---
+
+![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
+
+## Information processing
+
+- Action potential amplitudes don't vary (much)
+    + All or none^[Kind of like the `1`s and `0`s in a digital computer. There are many interconnections between the fields of computer science and neuroscience.]
+    + $Na^+$/$K^+$ pumps working all the time
+    + $[K^+]$ & $[Na^+]$ don't vary much, so
+    + $V_{K^+}$ & $V_{Na^+}$ don't vary much
+    
+## Information processing
+
+:::: {.columns}
+::: {.column width=50%}
+- Action potential *frequency* and *timing* vary
+  + Rate vs. timing codes
+  + Neurons use both
+:::
+::: {.column width=50%}
+![@eyherabide_bursts_2009](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
+:::
+::::
+
+# Neuroanatomy III
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Rostral/Caudal axis
+    - Spinal column w/ vertebrae
+    - Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+    - Spinal segments & 31 nerve pairs 
+    - Cauda equina
+:::
+::: {.column width=50%}
+![](https://www.researchgate.net/profile/Angela-Laird/publication/265030316/figure/fig3/AS:669545828212755@1536643573783/The-four-divisions-of-the-spinal-cord-cervical-thoracic-lumbar-and-sacral.png){width="50%"}
+:::
+::::
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Nerves map to specific regions of the body
+- [Dermatomes](https://en.wikipedia.org/wiki/Dermatome_(anatomy))
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grant_1962_663.png/960px-Grant_1962_663.png)
+:::
+::::
+
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Dorsal/Ventral
+  + Dorsal root (sensory)
+  + Ventral root (mostly motor)
+- Grey (interior) vs. white matter (exterior)
+:::
+::: {.column width=50%}
+![https://www.britannica.com/science/spinal-cord](https://cdn.britannica.com/75/2975-050-0D5D3A36/views-cross-section-Photograph-cord-segment-drawing.jpg?w=400&h=300&c=crop)
+:::
+::::
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Afferent (input/sensory) and efferent (output/motor) tracts
+:::
+::: {.column width=50%}
+![https://uw.pressbooks.pub/pbio375/chapter/spinal-cord-anatomy/](https://uw.pressbooks.pub/app/uploads/sites/801/2024/09/silverthorn-sc-1.png)
+:::
+::::
+
+## Organization of the PNS  
+
+- Somatic division
+    - Voluntary sensory & motor function
+- Autonomic division
+    - Involuntary sensory & motor function
+- Cranial nerves
+- Spinal nerves
+
+## Cranial nerves
+
+:::: {.columns}
+::: {.column width=50%}
+- Sensory & motor functions of the cranium (head) and neck
+- Afferents (input/sensory), efferents (output/motor), or mixed/both
+  - On Old Olympus' Towering Top...
+  - Some Say Marry Money...
+:::
+::: {.column width=50%}
+![Encyclopedia Britannica](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg)
+:::
+::::
+
+## Cranial nerves
+
+:::: {.columns}
+::: {.column width=50%}
+- Innervate head and neck
+- Olfactory (I), optic (II), (VIII) auditory,
+vagus (X), etc. 
+:::
+::: {.column width=50%}
+![Encyclopedia Britannica](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg)
+:::
+::::
+
+## Autonomic nervous system (ANS) 
+
+:::: {.columns}
+::: {.column width=50%}
+- CNS & PNS components
+- Controls "vegetative functions""
+    + Limited voluntary control
+- Two divisions
+    + Sympathetic
+    + Parasympathetic
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%"}
+:::
+::::
+
+## Sympathetic division 
+
+:::: {.columns}
+::: {.column width=50%}
+- Prepares body for action
+- "Fight or flight"
+- Spinal cord
+    + ganglion chain along spinal column to end organs
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+
+## Sympathetic division
+
+:::: {.columns}
+::: {.column width=50%}
+- Neurotransmitters
+    + Preganglionic: Acetylcholine (ACh) 
+    + Post: Norepinephrine (NE)
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+
+## Parasympathetic division 
+
+:::: {.columns}
+::: {.column width=50%}
+- Para -> "around"
+- Restorative function
+- "Rest & digest"
+- Spinal cord -> ganglia near end organs -> end organ
+    + Neurotransmitter: Acetylcholine (ACh)
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+  
+
+# Putting the pieces together
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Vision
+  - Eyes
+  - Optic (II cranial)
+  - LGN of thalamus
+  - V1 in occipital lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Audition
+  - Ears
+  - VIIIth cranial nerve
+  - MGN of thalamus
+  - A1 in temporal lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Somatosensory
+  - Skin, muscles, joints
+  - Spinal nerves
+  - Thalamus
+  - S1 in parietal lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Motor
+  - Frontal lobe
+  - III, IV, VI cranial nerves
+    - Eye movementS
+  - Spinal cord
+    - Motor neurons that move shoulder, elbow, hand
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+## Putting the pieces together
+
+- What happens to that information when it gets to the cerebral cortex?
+- Where and how do behaviors, thoughts, and feelings arise?
+
+# Wrap-up
+
+## Next time
+
+- Review Quiz 1
+- Exam 1 review
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.9.0.174.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References
