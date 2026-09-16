@@ -17,30 +17,141 @@ format: revealjs
 
 - Exam 1: Monday, September 21, 2026
   - 40 questions, plus bonus
-- This [Friday](slides/wk-04-2026-09-18-exam-rev.qmd)
+- This [Friday](../slides/wk-04-2026-09-18-exam-rev.qmd)
   - Review Quiz 1
   - Exam 1 review
 
 ## Today's topics
 
+- Warm-up
 - Neurophysiology III
 - Catch up
-  - Spinal cord anatomy (not for Exam 1)
-  
+  - Anatomy: Spinal cord & PNS (not for Exam 1)
+
+# Warm-up
+
+---
+
+::: {.question}
+## What *initiates* the action potential?
+
+- A. Rapid influx of K+ ions that makes the membrane potential more negative.
+- B. Rapid outflow of A- ions that makes the membrane potential more negative.
+- C. Input depolarizes (makes positive) the cell to the threshold voltage (~55 mv).
+:::
+
+::: {.fragment}
+::: {.answer}
+- ~~A. Rapid influx of K+ ions that makes the membrane potential more negative.~~
+- ~~B. Rapid outflow of A- ions that makes the membrane potential more negative.~~
+- **C. Input depolarizes (makes positive) the cell to the threshold voltage (~55 mv).**
+:::
+:::
+
+---
+
+::: {.question}
+## The rising (depolarization) phase of the action potential occurs due to
+
+- A. Opening of voltage-gated Na+ channels and Na+ inflow
+- B. Opening of voltage-gated K+ channels and K+ outflow
+- C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow
+:::
+
+::: {.fragment}
+::: {.answer}
+- **A. Opening of voltage-gated Na+ channels and rapid Na+ inflow**
+- ~~B. Opening of voltage-gated K+ channels and rapid K+ outflow~~
+- ~~C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow~~
+:::
+:::
+
+---
+
+::: {.question}
+## The *peak* of the action potential occurs due to
+
+- A. Opening of voltage-gated Na+ channels and Na+ inflow
+- B. Opening of voltage-gated K+ channels and K+ outflow
+- C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow
+:::
+
+::: {.fragment}
+::: {.answer}
+- ~~A. Opening of voltage-gated Na+ channels and rapid Na+ inflow~~
+- ~~B. Opening of voltage-gated K+ channels and rapid K+ outflow~~
+- **C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow**
+:::
+:::
+
+---
+
+::: {.question}
+## The falling (repolarization) phase of the action potential occurs due to
+
+- A. Opening of voltage-gated Na+ channels and Na+ inflow
+- B. Opening of voltage-gated K+ channels and K+ outflow
+- C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow
+:::
+
+::: {.fragment}
+::: {.answer}
+- ~~A. Opening of voltage-gated Na+ channels and rapid Na+ inflow~~
+- **B. Opening of voltage-gated K+ channels and rapid K+ outflow**
+- ~~C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow~~
+:::
+:::
+
+## Key facts
+
+::: {.incremental}
+- Na/K pump creates concentration gradients
+  - [Na+] outside >> inside $\rightarrow$ Na+ flows in
+  - [K+] inside >> outside $\rightarrow$ K+ flows out
+- Ion channels accelerate/slow ion flow
+  - Open ion channel: Accelerate flow
+  - Close ion channel: Slow flow
+
+:::
+
+## Key facts
+
+::: {.incremental}
+- Membrane potential magnitude & sign accelerates/slows ion flow
+  - More - $\rightarrow$ attracts + charges
+  - More + $\rightarrow$ repels + charges
+- Ion flow changes membrane potential
+  - Na+ inflow $\rightarrow$ membrane potential (voltage) more +
+  - K+ outflow $\rightarrow$ membrane potential (voltage) more -
+:::
+
 ## Why should I care?
 
+- Action potentials are the language of thought
+
+::: {.fragment}
 :::: {.columns}
 ::: {.column width=60%}
-::: {.incremental}
 - Practice decomposing complex systems with interacting elements
-- Mastery leads to predictive power
-- Action potentials are the language of thought
-:::
+
 :::
 ::: {.column width=40%}
-![giphy.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJjMzltNnUya3NwZGpwOWtlbzJldWZ4dnlvc3o3ajIybjF4ZzQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif)
+![giphy.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJjMzltNnUya3NwZGpwOWtlbzJldWZ4dnlvc3o3ajIybjF4ZzQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif){width="40%"}
+
 :::
 ::::
+:::
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width=60%}
+- Mastery leads to predictive power
+:::
+::: {.column width=40%}
+![giphy.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZkcWtpam9ucDE1MWJhM29ndTl1bXJienV2aG53d2ZocHRmazl5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIC8lGWvvnwR6XmRhv/giphy.gif){width="40%"}
+:::
+::::
+:::
 
 # Neurophysiology III
 
@@ -111,7 +222,7 @@ format: revealjs
 :::: {.columns}
 ::: {.column width=50%}
 - Axons carry information at different rates
-    - More myelin -> faster
+    - Ticker myelin -> faster
     - Larger diameter axon -> faster
 - Somatosensory information faster than pain (nociception)
 :::
@@ -123,6 +234,48 @@ format: revealjs
 ---
 
 ![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
+
+---
+
+```{r}
+#| label: fig-speed-myelin-axon-diameter
+#| fig-cap: "Myelin and axon diameter vs. action potential speed. Data from @Wikipedia-contributors2025-xk."
+library(ggplot2)
+library(dplyr)
+
+ap <- readr::read_csv("../include/csv/action-potential-speeds.csv",
+                      show_col_types = FALSE)
+
+ap |>
+  mutate(
+    x = (diameter_min + diameter_max) / 2,
+    y = (velocity_min + velocity_max) / 2
+  ) |>
+  ggplot() +
+  aes(
+    x = x,
+    y = y,
+    xmin = diameter_min,
+    xmax = diameter_max,
+    ymin = velocity_min,
+    ymax = velocity_max,
+    color = myelin
+  ) +
+  geom_errorbar(
+    aes(ymin = velocity_min, ymax = velocity_max),
+    orientation = "x",
+    width = 0.2
+  ) +
+  geom_errorbar(
+    aes(ymin = velocity_min, ymax = velocity_max),
+    orientation = "y",
+    width = 0.2
+  ) +
+  xlab("m/s") +
+  ylab("diameter microns") +
+  theme(legend.position = "bottom")
+```
+
 
 ## Information processing
 
@@ -146,8 +299,6 @@ format: revealjs
 :::
 ::::
 
-# Spinal cord anatomy
-
 ---
 
 ::: {.callout-warning}
@@ -155,6 +306,8 @@ format: revealjs
 
 You will _not_ be responsible for this material for Exam 1.
 :::
+
+# Anatomy: Spinal cord & PNS
 
 ## Spinal cord
 

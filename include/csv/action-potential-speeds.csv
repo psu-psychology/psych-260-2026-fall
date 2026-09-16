@@ -1,0 +1,6 @@
+type,diameter_min,diameter_max,myelin,velocity_min,velocity_max
+Ia,13,20,thick,80,120
+Ib,13,20,thick,80,120
+II,6,12,thick,33,75
+III,1,5,thin,3,30
+IV,0.2,1.5,none,0.5,2
