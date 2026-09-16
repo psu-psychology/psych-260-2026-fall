@@ -5,18 +5,17 @@ format: revealjs
 
 ## Today's topics
 
-- Your time is your money
 - Quiz 1 review
 - Exam 1 review
 
-## Your time is your money
+<!-- ## Your time is your money -->
 
-::: {.incremental}
-- Penn State CLA students pay $1,857-1,951/credit hour
-- PSYCH 260.001 cost: ~$5,712/student
-- \$381/week or \$127/class
-- Come to class, come to office hours
-:::
+<!-- ::: {.incremental} -->
+<!-- - Penn State CLA students pay $1,857-1,951/credit hour -->
+<!-- - PSYCH 260.001 cost: ~$5,712/student -->
+<!-- - \$381/week or \$127/class -->
+<!-- - Come to class, come to office hours -->
+<!-- ::: -->
 
 # Quiz 1
 
@@ -103,7 +102,7 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 
 
 
-## 3. The figure illustrates which imaging model?
+## 3. The figure illustrates which imaging mode?
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -119,7 +118,7 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::::
 
-## 3. The figure illustrates which imaging model?
+## 3. The figure illustrates which imaging mode?
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -130,6 +129,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::: {.column width=50%}
 ![](../include/img/quiz-1-figure.png){fig-align="right"}
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=60%}
+![https://abiscans.com/breast-biopsy/ct-scan-vs-mri-scan/](https://abiscans.com/wp-content/uploads/2024/01/CATScanMRIScan.jpg){#fig-cat-mri}
+:::
+::: {.column width=40%}
+- Higher spatial resolution (finer detail)
+- Better gray/white matter contrast
 :::
 ::::
 

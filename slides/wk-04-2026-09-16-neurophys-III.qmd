@@ -5,16 +5,44 @@ format: revealjs
 
 # Preliminaries
 
+---
+
+::: {#fig-the-wave}
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/H0K2dvB-7WY?si=1wSKXkO7tbL7XGk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@ShamRock2008-qo
+:::
+
 ## Announcements
 
 - Exam 1: Monday, September 21, 2026
   - 40 questions, plus bonus
+- This [Friday](slides/wk-04-2026-09-18-exam-rev.qmd)
+  - Review Quiz 1
+  - Exam 1 review
 
 ## Today's topics
 
 - Neurophysiology III
-- Neuroanatomy III
-- Putting the pieces together
+- Catch up
+  - Spinal cord anatomy (not for Exam 1)
+  
+## Why should I care?
+
+:::: {.columns}
+::: {.column width=60%}
+::: {.incremental}
+- Practice decomposing complex systems with interacting elements
+- Mastery leads to predictive power
+- Action potentials are the language of thought
+:::
+:::
+::: {.column width=40%}
+![giphy.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJjMzltNnUya3NwZGpwOWtlbzJldWZ4dnlvc3o3ajIybjF4ZzQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif)
+:::
+::::
+
+# Neurophysiology III
 
 ## Propagation
 
@@ -99,7 +127,7 @@ format: revealjs
 ## Information processing
 
 - Action potential amplitudes don't vary (much)
-    + All or none^[Kind of like the `1`s and `0`s in a digital computer. There are many interconnections between the fields of computer science and neuroscience.]
+    + All or none (fire or don't fire)
     + $Na^+$/$K^+$ pumps working all the time
     + $[K^+]$ & $[Na^+]$ don't vary much, so
     + $V_{K^+}$ & $V_{Na^+}$ don't vary much
@@ -111,13 +139,22 @@ format: revealjs
 - Action potential *frequency* and *timing* vary
   + Rate vs. timing codes
   + Neurons use both
+- Action potentials analogous to 1s and 0s used as bits of information in digital computers
 :::
 ::: {.column width=50%}
 ![@eyherabide_bursts_2009](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
 :::
 ::::
 
-# Neuroanatomy III
+# Spinal cord anatomy
+
+---
+
+::: {.callout-warning}
+## Material for future section of the course
+
+You will _not_ be responsible for this material for Exam 1.
+:::
 
 ## Spinal cord
 
@@ -130,7 +167,7 @@ format: revealjs
     - Cauda equina
 :::
 ::: {.column width=50%}
-![](https://www.researchgate.net/profile/Angela-Laird/publication/265030316/figure/fig3/AS:669545828212755@1536643573783/The-four-divisions-of-the-spinal-cord-cervical-thoracic-lumbar-and-sacral.png){width="50%"}
+![By Sheryl Tan, Faull L, Curtis A - The Anatomical record, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=152594765](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Spinal_cord_details.jpg/1920px-Spinal_cord_details.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){width="75%"}
 :::
 ::::
 
@@ -142,10 +179,9 @@ format: revealjs
 - [Dermatomes](https://en.wikipedia.org/wiki/Dermatome_(anatomy))
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grant_1962_663.png/960px-Grant_1962_663.png)
+![By Grant, John Charles Boileau - An atlas of anatomy, / by regions 1962, Public Domain, https://commons.wikimedia.org/w/index.php?curid=30017222](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grant_1962_663.png/1920px-Grant_1962_663.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){#fig-dermatomes width="65%"}
 :::
 ::::
-
 
 ## Spinal cord
 
@@ -157,7 +193,7 @@ format: revealjs
 - Grey (interior) vs. white matter (exterior)
 :::
 ::: {.column width=50%}
-![https://www.britannica.com/science/spinal-cord](https://cdn.britannica.com/75/2975-050-0D5D3A36/views-cross-section-Photograph-cord-segment-drawing.jpg?w=400&h=300&c=crop)
+![https://www.britannica.com/science/spinal-cord](https://cdn.britannica.com/75/2975-050-0D5D3A36/views-cross-section-Photograph-cord-segment-drawing.jpg?w=400&h=300&c=crop){#fig-spinal-cord-cross-section}
 :::
 ::::
 
@@ -168,7 +204,7 @@ format: revealjs
 - Afferent (input/sensory) and efferent (output/motor) tracts
 :::
 ::: {.column width=50%}
-![https://uw.pressbooks.pub/pbio375/chapter/spinal-cord-anatomy/](https://uw.pressbooks.pub/app/uploads/sites/801/2024/09/silverthorn-sc-1.png)
+![https://med.libretexts.org/Sandboxes/admin/Introduction_to_Neuroscience_%28Hedges%29/04%3A_Nervous_System_Organization/4.06%3A_Spinal_Cord_Structure](https://med.libretexts.org/@api/deki/files/43083/Nerve-Classifications-1024x760.png?revision=1){#fig-spinal-cord-cross-section}
 :::
 ::::
 
@@ -208,6 +244,18 @@ vagus (X), etc.
 :::
 ::::
 
+---
+
+::: {.callout-note}
+You will have to memorize the cranial nerves in other classes, but not this one.
+
+There are a number of mnemonics (memory aids) to assist you in this endeavor.
+
+I learned one in graduate school that is too spicy for this class.
+
+Have fun finding them.
+:::
+
 ## Autonomic nervous system (ANS) 
 
 :::: {.columns}
@@ -220,7 +268,7 @@ vagus (X), etc.
     + Parasympathetic
 :::
 ::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%"}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-ans width="70%"}
 :::
 ::::
 
@@ -234,7 +282,7 @@ vagus (X), etc.
     + ganglion chain along spinal column to end organs
 :::
 ::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-symp width="70%" fig-align="right"}
 :::
 ::::
 
@@ -247,7 +295,7 @@ vagus (X), etc.
     + Post: Norepinephrine (NE)
 :::
 ::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-symp-2 width="70%" fig-align="right"}
 :::
 ::::
 
@@ -262,78 +310,9 @@ vagus (X), etc.
     + Neurotransmitter: Acetylcholine (ACh)
 :::
 ::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-parasymp width="70%" fig-align="right"}
 :::
 ::::
-  
-
-# Putting the pieces together
-
----
-
-:::: {.columns}
-::: {.column width=50%}
-- Vision
-  - Eyes
-  - Optic (II cranial)
-  - LGN of thalamus
-  - V1 in occipital lobe
-:::
-::: {.column width=50%}
-![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
-:::
-::::
-
----
-
-:::: {.columns}
-::: {.column width=50%}
-- Audition
-  - Ears
-  - VIIIth cranial nerve
-  - MGN of thalamus
-  - A1 in temporal lobe
-:::
-::: {.column width=50%}
-![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
-:::
-::::
-
----
-
-:::: {.columns}
-::: {.column width=50%}
-- Somatosensory
-  - Skin, muscles, joints
-  - Spinal nerves
-  - Thalamus
-  - S1 in parietal lobe
-:::
-::: {.column width=50%}
-![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
-:::
-::::
-
----
-
-:::: {.columns}
-::: {.column width=50%}
-- Motor
-  - Frontal lobe
-  - III, IV, VI cranial nerves
-    - Eye movementS
-  - Spinal cord
-    - Motor neurons that move shoulder, elbow, hand
-:::
-::: {.column width=50%}
-![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
-:::
-::::
-
-## Putting the pieces together
-
-- What happens to that information when it gets to the cerebral cortex?
-- Where and how do behaviors, thoughts, and feelings arise?
 
 # Wrap-up
 
