@@ -38,7 +38,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
   xlab("")
 ```
 
-## 1. The image represents what type of slice?
+---
+
+### 1. The image represents what type of slice?
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -54,7 +56,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::::
 
-## 1. The image represents what type of slice?
+---
+
+### 1. The image represents what type of slice?
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -68,7 +72,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::::
 
-## 2. All of the following structures can be seen in the figure EXCEPT
+---
+
+### 2. All of the following structures can be seen in the figure EXCEPT
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -84,7 +90,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::::
 
-## 2. All of the following structures can be seen in the figure EXCEPT
+--- 
+
+### 2. All of the following structures can be seen in the figure EXCEPT
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -100,9 +108,7 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 
 ---
 
-
-
-## 3. The figure illustrates which imaging mode?
+### 3. The figure illustrates which imaging mode?
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -118,7 +124,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::::
 
-## 3. The figure illustrates which imaging mode?
+---
+
+### 3. The figure illustrates which imaging mode?
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -144,7 +152,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 :::
 ::::
 
-## 4. In the mid-1600s, reflexes and animal minds were thought of as ____.
+---
+
+### 4. In the mid-1600s, reflexes and animal minds were thought of as ____.
 
 ::: {.incremental}
 - A. Human minds
@@ -153,14 +163,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Artificial intelligence
 :::
 
-## 4. In the mid-1600s, reflexes and animal minds were thought of as ____.
+---
+
+### 4. In the mid-1600s, reflexes and animal minds were thought of as ____.
 
 - A. Human minds
 - **B. Machines**
 - C. Early computers
 - D. Artificial intelligence
 
-## 5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
+---
+
+### 5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
 
 ::: {.incremental}
 - A. The pons
@@ -169,14 +183,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. The reflexive complex
 :::
 
-## 5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
+---
+
+### 5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
 
 - A. The pons
 - B. The pituitary gland
 - **C. The pineal gland**
 - D. The reflexive complex
 
-## 6. The tongue is _______________ with respect to the nose.
+---
+
+### 6. The tongue is _______________ with respect to the nose.
 
 ::: {.incremental}
 - A. Ventral
@@ -185,14 +203,30 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Medial
 :::
 
-## 6. The tongue is _______________ with respect to the nose.
+---
 
+### 6. The tongue is _______________ with respect to the nose.
+
+:::: {.columns}
+::: {.column width=50%}
 - **A. Ventral**
 - B. Superior
 - C. Dorsal
 - D. Medial
+:::
 
-## 7. Which of the following is NOT MRI-related?
+::: {.column width=50%}
+
+::: {.fragment}
+![](../include/img/quiz-1-figure.png){fig-align="right"}
+:::
+
+:::
+::::
+
+---
+
+### 7. Which of the following is NOT MRI-related?
 
 ::: {.incremental}
 - A. Diffusion Tensor Imaging (DTI)
@@ -201,14 +235,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Magnetic Resonance (MR) spectroscopy
 :::
 
-## 7. Which of the following is NOT MRI-related?
+---
+
+### 7. Which of the following is NOT MRI-related?
 
 - A. Diffusion Tensor Imaging (DTI)
 - B. Voxel-based Morphometry (VBM)
 - **C. Computed Tomography (CT)**
 - D. Magnetic Resonance (MR) spectroscopy
 
-## 8. What animal class is single/multi-unit recording most commonly used in?
+---
+
+### 8. What animal class is single/multi-unit recording most commonly used in?
 
 ::: {.incremental}
 - A. Humans
@@ -217,14 +255,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Neither
 :::
 
-## 8. What animal class is single/multi-unit recording most commonly used in?
+---
+
+### 8. What animal class is single/multi-unit recording most commonly used in?
 
 - A. Humans
 - **B. Non-human Animals**
 - C. Both
 - D. Neither
 
-## 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
+---
+
+### 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
 
 ::: {.incremental}
 - A. better; similar
@@ -233,14 +275,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. worse; similar
 :::
 
-## 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
+---
+
+### 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
 
 - A. better; similar
 - **B. better; worse**
 - C. worse; better
 - D. worse; similar
 
-## 10. Which of these landmarks separates the frontal lobe from the parietal lobe?
+---
+
+### 10. Which of these landmarks separates the frontal lobe from the parietal lobe?
 
 ::: {.incremental}
 - A. Lateral fissure
@@ -249,14 +295,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Central sulcus
 :::
 
-## 10. Which of these landmarks separates the frontal lobe from the parietal lobe?
+---
+
+### 10. Which of these landmarks separates the frontal lobe from the parietal lobe?
 
 - A. Lateral fissure
 - B. Longitudinal fissure
 - C. Anterior cingulate gyrus
 - **D. Central sulcus**
 
-## 11.  Which brain structure means “little brain”?
+---
+
+### 11.  Which brain structure means “little brain”?
 
 ::: {.incremental}
 - A. Tectum
@@ -265,14 +315,18 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Cerebellum
 :::
 
-## 11.  Which brain structure means “little brain”?
+---
+
+### 11.  Which brain structure means “little brain”?
 
 - A. Tectum
 - B. Hippocampus 
 - C. Cerebrum
 - **D. Cerebellum**
 
-## 12. The superior longitudinal fissure divides what from what?
+---
+
+### 12. The superior longitudinal fissure divides what from what?
 
 ::: {.incremental}
 - A. Frontal lobe from the parietal lobe
@@ -281,7 +335,9 @@ readr::read_csv("../private/quizzes/quiz-01/Canvas Report - Exam 23305 - Section
 - D. Temporal lobe from the occipital lobe
 :::
 
-## 12. The superior longitudinal fissure divides what from what?
+---
+
+### 12. The superior longitudinal fissure divides what from what?
 
 - A. Frontal lobe from the parietal lobe
 - B. Pons from the cerebellum 

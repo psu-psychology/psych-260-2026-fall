@@ -1,0 +1,403 @@
+---
+title: "Neurochemistry"
+format: revealjs
+fig-align: "center"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=iTdHQ065A_o&list=RDiTdHQ065A_o&start_radio=1 height="70%" width="100%">}}
+
+-- @LadyGagaVEVO2021-wf
+
+## Today's topics
+
+- Announcements
+- Behavior requires communication
+- Synaptic communication
+- Neurotransmitters
+
+# Behavior requires communication
+
+## Types of communication for behavior
+
+::: {.incremental}
+- Between organisms
+- Within organisms
+  - Sensors (eyes, ears, skin, ...)
+  - Effectors (muscles, glands)
+  - Linked via CNS
+  
+:::
+
+## What do animals need to know to behave?
+
+::: {.incremental}
+- What's out there
+- Where is it
+- What should I do about it
+- Do it
+:::
+
+## Nervous systems are communication systems
+
+::: {.incremental}
+- Chemical communication : short distances
+  - Force of diffusion
+  - Cheap, energy-efficient, "compute with chemistry"
+  
+-- @Sterling2021-yx
+:::
+
+## Nervous systems are communication systems
+
+::: {.incremental}
+- Electrical communication : long distances
+  - Ion flows across membrane $\rightarrow$ propagating voltages
+  - More "expensive" (metabolically-speaking)/less energy-efficient
+  - *Much* faster
+  
+-- @Sterling2021-yx
+:::
+
+
+## Nervous systems are communication systems
+
+::: {.incremental}
+- Synaptic communication
+  - Chemical (via neurotransmitters)
+  - Electrical (via ion flow)
+- Endocrine communication (chemical via hormones released into bloodstream)
+:::
+
+# Synaptic communication
+
+## Steps in synaptic transmission
+
+::: {#fig-synaptic-transmission-1}
+
+| Step |
+|------|
+| Action potential arrives at terminal button. |
+| Voltage-gated $Ca^{++}$ channels open |
+| $Ca^{++}$ ions enter the cell |
+| $Ca^{++}$ ions activate synaptic vesicles & trigger exocytosis |
+
+:::
+
+## Steps in synaptic transmission
+
+::: {#fig-synaptic-transmission-2}
+
+| Step |
+|------|
+| Neurotransmitter diffuses across synaptic cleft |
+| Neurotransmitter binds to post-synaptic receptor(s) |
+| Postsynaptic receptor(s) cause EPSP or IPSP |
+| Neurotransmitter unbinds and is inactivated |
+
+:::
+
+## Action potential propagates from soma
+
+:::: {.columns}
+::: {.column width=50%}
+- Soma receives input from dendrites
+- Axon hillock sums/integrates
+- If sum > threshold, AP "fires"
+:::
+::: {.column width=50%}
+![Wikipedia^[By Curtis Neveu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14527731]](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Temporal_summation.JPG/1920px-Temporal_summation.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){#fig-summation width="70%"}
+:::
+::::
+
+## Action potential propagates from soma
+
+:::: {.columns}
+::: {.column width=50%}
+- AP propagates
+- Quickly: myelinated + thick axon
+- Slowly: unmyelinated or thin
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/watch?v=tOTYO5WrXFU >}}
+
+-- @Neuron2021-uc
+:::
+::::
+
+## Action potential arrives at synaptic terminal
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- How does AP cause chemical release?
+- *Voltage-gated calcium (Ca++) channels* open
+- Ca++ enters
+:::
+:::
+::: {.column width=50%}
+::: {.fragment}
+![](https://www.oatext.com/img/JSIN-16-113-1.jpg){#fig-voltage-gated-ca-channel width="70%"}
+:::
+:::
+::::
+
+## Action potential arrives at synaptic terminal
+
+:::: {.columns}
+::: {.column width=50%}
+- Ca++ causes *synaptic vesicles* to bind with presynaptic membrane & merge with it
+- Neurotransmitters (NTs) released via *exocytosis* ('out' of the cell)
+:::
+::: {.column width=50%}
+![@Hastoy2017-it](https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg){#fig-hastoy-2017}
+:::
+::::
+
+---
+
+![[@Hastoy2017-it]](https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-gr1_lrg.jpg){#fig-hastoy-2017-2 width="60%"}
+
+## NTs cross the synaptic clef
+
+:::: {.columns}
+::: {.column width=50%}
+- NTs bind with *receptors* on *postsynaptic membrane*
+- Receptors respond
+- NTs unbind, are inactivated
+:::
+::: {.column width=50%}
+![Wikipedia^[By Curtis Neveu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14610239]](https://upload.wikimedia.org/wikipedia/commons/1/10/Active_zone3.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){#fig-synapse-schematic width="60%"}
+:::
+::::
+
+## Synaptic vesicles get "recycled"
+
+:::: {.columns}
+::: {.column width=50%}
+- Vesicles reform
+- Get refilled with neurotransmitter
+:::
+::: {.column width=50%}
+![@Haucke2011-ub](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2948/MediaObjects/41583_2011_Article_BFnrn2948_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+---
+
+::: {.callout-tip}
+## Why do NTs move from presynaptic terminal toward postsynaptic cell?
+- ~~Electrostatic force pulls them~~
+- Force of diffusion
+- Synaptic cleft small relative to vesicles, so diffusion time short (< 0.5 ms)
+:::
+
+## Postsynaptic receptor types
+
+:::: {.columns}
+::: {.column width=50%}
+- *Ionotropic* (receptor + ion channel)
+  + Chemical (ligand)-gated
+  + Open/close ion channel
+  + Ions flow in/out depending on membrane voltage and ion type
+  + Fast-responding (< 2 ms), but short-duration effect (< 100 ms)
+:::
+::: {.column width=50%}
+![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+:::
+::::
+
+## Postsynaptic receptor types
+
+:::: {.columns}
+::: {.column width=50%}
+- *Metabotropic* (receptor only, no attached ion channels)
+  + Trigger G-proteins attached to receptor
+  + G-proteins activate 2nd messengers
+:::
+::: {.column width=50%}
+![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+:::
+::::
+
+## Postsynaptic receptor types
+
+:::: {.columns}
+::: {.column width=50%}
+- *Metabotropic* (receptor only, no attached ion channels
+  + 2nd messengers bind to, open/close adjacent channels or change metabolism
+  + Slower, but longer-lasting effects
+:::
+::: {.column width=50%}
+![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+:::
+::::
+
+## Receptors cause response
+
+:::: {.columns}
+::: {.column width=50%}
+- Generate *postsynaptic potentials (PSPs)*
+  - Small voltage changes
+  - Amplitude scales with # of receptors activated
+  - Number of receptors activated ~ # of vesicles released
+:::
+::: {.column width=50%}
+![http://pittmedneuro.com/synaptic.html](http://pittmedneuro.com/img/Psp.png)
+:::
+::::
+
+
+## Two types of postsynaptic potentials (PSPs)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Excitatory PSPs (EPSPs)*
+    + Depolarize neuron (make more +)
+    + Move membrane potential closer to threshold
+:::
+::: {.column width=50%}
+![http://pittmedneuro.com/synaptic.html](http://pittmedneuro.com/img/Psp.png)
+:::
+::::
+
+## Two types of postsynaptic potentials (PSPs)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Inhibitory (IPSPs)*
+    + Hyperpolarize neuron (make more -)
+    + Move membrane potential away from threshold
+:::
+::: {.column width=50%}
+![http://pittmedneuro.com/synaptic.html](http://pittmedneuro.com/img/Psp.png)
+:::
+::::
+
+## Message from dendrites & soma
+
+:::: {.columns}
+::: {.column width=50%}
+- Mixture of IPSPs and EPSPs
+:::
+::: {.column width=50%}
+![Wikipedia^[By Andi schmitt - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=143126741]](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Spatial_summation.svg/1920px-Spatial_summation.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){#fig-summation width="70%"}
+:::
+::::
+
+---
+
+### What sort of PSP would *opening* a Na+ channel produce?
+
+::: {.incremental}
+- Na+ flows in, so Excitatory PSP (EPSP)
+- Na+ flows out, so Excitatory PSP (EPSP)
+- Na+ flows in, so Inhibitory PSP (IPSP)
+- Na+ flows out, so Inhibitory PSP (IPSP)
+:::
+
+---
+
+### What sort of PSP would *opening* a Na+ channel produce?
+
+- **Na+ flows in, so Excitatory PSP (EPSP)**
+- Na+ flows out, so Excitatory PSP (EPSP)
+- Na+ flows in, so Inhibitory PSP (IPSP)
+- Na+ flows out, so Inhibitory PSP (IPSP)
+
+---
+
+### What sort of PSP would *opening* a Cl- channel produce?
+
+Remember $[Cl^-]_{out}>>[Cl^-]_{in}$; Assume resting potential ~-60 mV.
+Cl- is *negatively* charged, so will have opposite effect of positively charged ions.
+
+::: {.incremental}
+- Cl- flows in, so Excitatory PSP (EPSP)
+- Cl- flows out, so Excitatory PSP (EPSP) 
+- Cl- flows in, so Inhibitory PSP (IPSP) 
+- Cl- flows out, so Inhibitory PSP (IPSP) 
+:::
+
+---
+
+### What sort of PSP would *opening* a Cl- channel produce?
+
+Remember $[Cl^-]_{out}>>[Cl^-]_{in}$; Assume resting potential ~-60 mV.
+Cl- is *negatively* charged, so will have opposite effect of positively charged ions.
+
+- Cl- flows in, so Excitatory PSP (EPSP)
+- Cl- flows out, so Excitatory PSP (EPSP) 
+- **Cl- flows in, so Inhibitory PSP (IPSP)** 
+- Cl- flows out, so Inhibitory PSP (IPSP)
+
+## NT inactivated by multiple mechanisms
+
+- *Buffering*
+    + e.g., glutamate into astrocytes [@GLIA:GLIA10]
+- *Reuptake* via *[transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter)*
+    + molecules in membrane that move NTs inside
+    + e.g., serotonin via serotonin transporter (SERT)
+
+## NT inactivated by multiple mechanisms
+
+- *Enzymatic* degradation
+    + e.g., Acetylcholinesterase (AChE) degrades acetylcholine (ACh)
+
+## Why must NTs be inactivated?
+
+- Or what would happen if they weren't?
+- Or weren't quickly?
+
+## Types of synapses
+
+- Axodendritic (axon to dendrite)
+- Axosomatic (axon to soma)
+- Axoaxonic (axon to axon)
+- Axosecretory (axon to bloodstream)
+
+## General synapse properties
+
+:::: {.columns}
+::: {.column width=50%}
+- on dendrites
+  + usually excitatory 
+- on cell bodies
+  + usually inhibitory 
+- on axons 
+  + usually modulatory (change *p*(fire))
+:::
+::: {.column width=50%}
+![](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg)
+:::
+::::
+
+## Wrap-up
+
+## Main points
+
+- Neurons use electrical communication (action potentials) to communicate quickly over long distances
+- Use (slower) chemical communication (diffusion) to communicate over short distances
+- Neurotransmitters are special chemicals that neurons release onto other neurons
+- Ionotropic and metabotropic receptors generate EPSPs and IPSPs
+
+## Next time
+
+- Neurotransmitters
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.9.0.174.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References
