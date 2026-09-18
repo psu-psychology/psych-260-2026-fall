@@ -17,6 +17,7 @@ website:
     icon: info-circle
     dismissable: true
   sidebar:
+    collapse-level: 1
     style: "docked"
     search: true
     contents:
