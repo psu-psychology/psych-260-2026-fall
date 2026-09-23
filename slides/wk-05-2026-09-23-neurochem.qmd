@@ -1,7 +1,6 @@
 ---
 title: "Neurochemistry"
 format: revealjs
-fig-align: "center"
 ---
 
 # Prelude
@@ -219,7 +218,7 @@ fig-align: "center"
   + G-proteins activate 2nd messengers
 :::
 ::: {.column width=50%}
-![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+![https://www.homepages.ucl.ac.uk/~smgxt01/frameh.htm?page=glutamat.htm](https://www.homepages.ucl.ac.uk/~smgxt01/eaareccart.gif)
 :::
 ::::
 
@@ -232,7 +231,7 @@ fig-align: "center"
   + Slower, but longer-lasting effects
 :::
 ::: {.column width=50%}
-![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+![https://www.homepages.ucl.ac.uk/~smgxt01/frameh.htm?page=glutamat.htm](https://www.homepages.ucl.ac.uk/~smgxt01/eaareccart.gif)
 :::
 ::::
 
@@ -371,11 +370,15 @@ Cl- is *negatively* charged, so will have opposite effect of positively charged 
   + usually modulatory (change *p*(fire))
 :::
 ::: {.column width=50%}
-![](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg)
+![](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg){#fig-synapse-brittanica}
 :::
 ::::
 
-## Wrap-up
+---
+
+![](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg){#fig-synapse-brittanica-2}
+
+# Wrap-up
 
 ## Main points
 

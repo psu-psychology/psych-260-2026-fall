@@ -124,7 +124,7 @@
 *Neurochemistry II*
 
 <!-- - *Read*: MM pp 102-106, 122-123 -->
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-05-2026-09-25-neurochem-II.qmd) |
 
 ## Week 06 {- #week-06}
 
