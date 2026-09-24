@@ -5,13 +5,33 @@ format: revealjs
 
 # Prelude
 
----
-
-
 ## Today's topics
 
-- Wrap-up on synapses
+- Exam 01 results
+  - Will go over all questions on [Monday, October 5](../schedule.qmd#mon-oct-05)
+- Warm-up
 - Neurotransmitters
+
+# Exam 1
+
+## Results
+
+```{r}
+#| label: fig-exam-01-histogram
+#| fig-cap: "Histogram of scores for Exam 01. Passing scores are indicated in teal."
+
+library(ggplot2)
+library(dplyr)
+readr::read_csv("../private/exams/exam-01/Canvas Report - Exam 23356 - Section 001.csv", show_col_types = FALSE) |>
+  select(FA26_EXAM_1) |>
+  mutate(passing = FA26_EXAM_1 >= .7*40) |>
+  ggplot() +
+  aes(x = FA26_EXAM_1, fill = passing) +
+  geom_bar() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  xlab("")
+```
 
 # Warm-up
 
@@ -98,8 +118,6 @@ format: revealjs
 - NT flow would be altered
 :::
 
----
-
 # Neurotransmitters
 
 ## What are they?
@@ -126,6 +144,12 @@ format: revealjs
 [![https://www.compoundchem.com/2015/07/30/neurotransmitters/](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1)](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1){#fig-neurotransmitters-2}
 :::
 ::::
+
+## Dale's Principle^[https://en.wikipedia.org/wiki/Dale%27s_principle] (revised)
+
+- Neurons that release >1 neurotransmitter common
+- Release of different combinations of neurotransmitters at different synapses is rare
+- Same neuron making excitatory AND inhibitory contact also rare
 
 ## Amino acids
 
@@ -184,6 +208,20 @@ format: revealjs
 
 ---
 
+### What PSP will occur if we *open* a Cl- channel?
+
+- Cl- flows in, so inhibitory (IPSP)
+- Cl- flows in, so excitatory (EPSP)
+
+---
+
+### What PSP will occur if we *open* a Cl- channel?
+
+- **Cl- flows in, so inhibitory (IPSP)**
+- ~~Cl- flows in, so excitatory (EPSP)~~
+
+---
+
 ### What PSP will occur if we *open* a K+ channel?
 
 - K+ flows out, so excitatory (EPSP)
@@ -202,7 +240,7 @@ format: revealjs
     + Spinal cord interneurons
     + Also inhibitory
 - *Aspartate*
-    + Like Glu, stimulates NMDA receptor
+    + Like Glutamate, stimulates NMDA receptor
 
 ## Acetylcholine (ACh)
 
@@ -368,7 +406,7 @@ format: revealjs
 - Released by Sympathetic branch of Autonomic Nervous System (ANS) onto targets in PNS
 :::
 ::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right" #fig-ne-ans}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="70%" fig-align="right" #fig-ne-ans}
 :::
 ::::
 
@@ -378,12 +416,16 @@ format: revealjs
 ::: {.column width=50%}
 - Monoamine oxidase (MAO) inactivates monoamines in neurons, glial cells
 - <span class="red">Monoamine oxidase inhibitors (MAOIs)</span> *increase* NE, DA
-    + Inhibiting inactivation ~ `-(-1) = + 1`
 :::
 ::: {.column width=50%}
 ![@Youdim2006-wk](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn1883/MediaObjects/41583_2006_Article_BFnrn1883_Fig1_HTML.jpg?as=webp){#fig-ne-youdim}
 :::
 ::::
+
+## Altering NT inactivation
+
+- Enhancement: Decreases net effect of NT
+- Inhibition: Increases net effect of NT
 
 ## Norepinephrine (NE)
 
@@ -458,6 +500,16 @@ format: revealjs
 ::::
 
 # Wrap-up
+
+## Gilmore's "big three"
+
+- Glutamate
+  - Excitation
+  - Learning, memory, plasticity (via NMDA receptor)
+- GABA
+  - Inhibition
+- Acetylcholine
+  - CNS output
 
 ## Key points about monoamines
 
