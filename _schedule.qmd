@@ -124,6 +124,7 @@
 *Neurochemistry II*
 
 <!-- - *Read*: MM pp 102-106, 122-123 -->
+- *Read*: <https://en.wikipedia.org/wiki/Glutamic_acid>, <https://en.wikipedia.org/wiki/GABA>, <https://en.wikipedia.org/wiki/Acetylcholine>, <https://en.wikipedia.org/wiki/Monoamine_neurotransmitter>
 - *Slides*:  | [html](slides/wk-05-2026-09-25-neurochem-II.qmd) |
 
 ## Week 06 {- #week-06}
