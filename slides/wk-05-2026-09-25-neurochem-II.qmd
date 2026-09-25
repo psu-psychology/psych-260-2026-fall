@@ -5,6 +5,12 @@ format: revealjs
 
 # Prelude
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZR64EF3OpA?si=B0JOD4HLpCzefI6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## Today's topics
 
 - Exam 01 results
