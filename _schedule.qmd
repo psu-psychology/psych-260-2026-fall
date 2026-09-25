@@ -133,7 +133,7 @@
 *Hormones*
 
 <!-- - *Read*: MM pp 248-266 -->
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-06-2026-09-28-hormones.qmd) |
 
 ### Wed, Sep 30 {-}
 
