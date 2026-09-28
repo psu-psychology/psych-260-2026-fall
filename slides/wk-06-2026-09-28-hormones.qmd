@@ -101,7 +101,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 :::: {.columns}
 ::: {.column width=30%}
-![Dopamine projections from midbrain](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png)
+![Dopamine projections. Wikipedia^[By User:Slashme; Patrick J. Lynch; User:Fvasconcellos - self-made; re-use File:Brain bulbar region.svg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44402772]](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/3840px-Dopaminergic_pathways.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 :::
 ::: {.column width=5%}
 :::
@@ -116,6 +116,8 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ::::
 
 # Neurochemistry wrap-up
+
+## Last time
 
 - Link to 2026-09-25 [slides](wk-05-2026-09-25-neurochem-II.qmd#serotonin-5-ht)
 
@@ -172,7 +174,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Connect cytoplasm directly
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
+![[Wikipedia](By Mariana Ruiz LadyofHats - the diagram i made myself using the information on this websites as source: [1], [2], [3], and[4]. Made with Adobe Illustrator. Image renamed from File:Gap cell junction.svg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6027074)](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/3840px-Gap_cell_junction-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 :::
 ::::
 
@@ -184,7 +186,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Examples: retina, cardiac muscle
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
+![[Wikipedia](By Mariana Ruiz LadyofHats - the diagram i made myself using the information on this websites as source: [1], [2], [3], and[4]. Made with Adobe Illustrator. Image renamed from File:Gap cell junction.svg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6027074)](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/3840px-Gap_cell_junction-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 :::
 ::::
 
@@ -387,7 +389,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg){fig-align="right"}
+![[Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/1c/1806_The_Hypothalamus-Pituitary_Complex.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)](https://upload.wikimedia.org/wikipedia/commons/1/1c/1806_The_Hypothalamus-Pituitary_Complex.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){fig-align="right"}
 :::
 ::::
 
@@ -431,7 +433,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
     + Releases NE and Epi into bloodstream
 :::
 ::: {.column width=40%}
-![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
+![@Deussing2018-ub Figure 1 ](../include/img/dusssing-2018-fig-01.jpg)
 :::
 ::::
 
@@ -447,7 +449,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
     + Releases *Adrenocorticotropic hormone (ACTH)* 
 :::
 ::: {.column width=40%}
-![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
+![@Deussing2018-ub Figure 1 ](../include/img/dusssing-2018-fig-01.jpg)
 :::
 ::::
 
@@ -461,7 +463,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
   + Releases *Glucocorticoids (e.g., cortisol)*
 :::
 ::: {.column width=40%}
-![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
+![@Deussing2018-ub Figure 1 ](../include/img/dusssing-2018-fig-01.jpg)
 :::
 ::::
 
@@ -476,7 +478,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
   + prolonged exposure unhealthy
 :::
 ::: {.column width=50%}
-![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
+![@Deussing2018-ub Figure 1 ](../include/img/dusssing-2018-fig-01.jpg)
 :::
 ::::
 
@@ -487,13 +489,13 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Via receptors for CRF, cortisol
 :::
 ::: {.column width=50%}
-![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650004.gif)
+![@Deussing2018-ub Figure 8](../include/img/dussing-2018-fig-08.jpeg)
 :::
 ::::
 
 ## Reproductive behavior
 
-![<https://mom.com/baby/15-resources-breastfeeding-moms>](https://mom.com/wp-content/uploads/2024/09/iStock-2152821913-1.jpg){fig-align="center"}
+![<https://www.babycenter.com/baby/breastfeeding/breastfeeding-getting-started_465>](https://assets.babycenter.com/ims/2025/06/Stocksy_5814219_wide.jpg?width=850){fig-align="center"}
 
 ## Reproductive behavior
 
@@ -522,17 +524,17 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 :::
 
-## But, can oxytocin treat social impairments in autism?
+## Treat social impairments in autism?
 
 ![@Sikich2021-az](../include/img/nejmoa2103583_f2.jpg)
 
-## Effects of "knocking-out" oxytocin receptors?
+## Effects of "knocking-out" oxytocin receptors? {.scrollable}
 
 ![@Ledford2023-kg](../include/img/crispr-voles-oxytocin.png)
 
 ## Folk psychology memes
 
-![](../include/img/oxytocin-the-reason-we-fall-in-love.png){fig-align="center"}
+![](../include/img/oxytocin-the-reason-we-fall-in-love.png){fig-align="center" width="45%"}
 
 ## Folk psychology memes
 
@@ -540,7 +542,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 ## Folk psychology memes
 
-![](../include/img/chemistry-of-happiness.png){fig-align="center"}
+![](../include/img/chemistry-of-happiness.png){fig-align="center" width="55%"}
 
 ## Folk psychology memes
 
