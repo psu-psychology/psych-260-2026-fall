@@ -117,6 +117,8 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 # Neurochemistry wrap-up
 
+- Link to 2026-09-25 [slides](wk-05-2026-09-25-neurochem-II.qmd#serotonin-5-ht)
+
 ## Key points about monoamines
 
 - Monoamine neurotransmitters--DA, NE, 5-HT--modulate activity of other neurons
