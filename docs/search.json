@@ -64,7 +64,7 @@
     "href": "schedule.html#week-06",
     "title": "Schedule",
     "section": "Week 06",
-    "text": "Week 06\n\nMon, Sep 28\nHormones\n\n\nSlides: | html |\n\n\n\nWed, Sep 30\nEvolution\n\nRead: https://en.wikipedia.org/wiki/Evolution_of_the_brain\nWatch: Scale: (2023)\nSlides: | html |\n\n\n\nFri, Oct 02\nDevelopment\n\n\nSkim: https://en.wikipedia.org/wiki/Development_of_the_nervous_system\nSlides: | html |",
+    "text": "Week 06\n\nMon, Sep 28\nHormones\n\n\nSlides: | html |\n\n\n\nWed, Sep 30\nEvolution\n\nRead: https://en.wikipedia.org/wiki/Evolution_of_the_brain\nWatch: Scale: (2023), The Economist (2015)\nSlides: | html |\n\n\n\nFri, Oct 02\nDevelopment\n\n\nSkim: https://en.wikipedia.org/wiki/Development_of_the_nervous_system\nSlides: | html |",
     "crumbs": [
       "Schedule"
     ]
@@ -2688,6 +2688,576 @@
     ]
   },
   {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#announcement",
+    "href": "slides/wk-06-2026-09-30-evolution.html#announcement",
+    "title": "Evolution",
+    "section": "Announcement",
+    "text": "Announcement\n\nQuiz 2 next Monday, October 05",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#todays-topics",
+    "href": "slides/wk-06-2026-09-30-evolution.html#todays-topics",
+    "title": "Evolution",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWarm-up\nWrap up on hormones\nEvolution of the nervous system",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#last-time",
+    "href": "slides/wk-06-2026-09-30-evolution.html#last-time",
+    "title": "Evolution",
+    "section": "Last time…",
+    "text": "Last time…\n\nLink to 2026-09-28 slides",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#principles-of-evolution",
+    "href": "slides/wk-06-2026-09-30-evolution.html#principles-of-evolution",
+    "title": "Evolution",
+    "section": "Principles of evolution",
+    "text": "Principles of evolution\n\nLife on Earth has existed for ~3.5 billion years\nLife forms existing in the Earth’s past differed from those living today\nNew generations of life forms inherit properties from their predecessors",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#principles-of-evolution-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#principles-of-evolution-1",
+    "title": "Evolution",
+    "section": "Principles of evolution",
+    "text": "Principles of evolution\n\nNew life forms evolved as a result of mutations, selection pressures, and geological events\nGreater reproductive success (more offspring) for some individuals, not others\nCharacteristics of those who have more offspring increase in relative frequency in the population",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#evidence-for-evolution",
+    "href": "slides/wk-06-2026-09-30-evolution.html#evidence-for-evolution",
+    "title": "Evolution",
+    "section": "Evidence for evolution",
+    "text": "Evidence for evolution\n\nFossil\n\nFossil dating (radiometric)\n\nGeological\n\nWhere fossils are found relative to one another (relative dating)\nHow long it takes to form layers",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#evidence-for-evolution-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#evidence-for-evolution-1",
+    "title": "Evolution",
+    "section": "Evidence for evolution",
+    "text": "Evidence for evolution\n\nChemical\n\nSimilarities between vastly different species (e.g., in neurotransmitters, hormones, receptors, metabolic pathways, etc.)\n\nGenetic\n\nRates of mutation\nDevelopmental patterns of gene expression",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#evidence-for-evolution-2",
+    "href": "slides/wk-06-2026-09-30-evolution.html#evidence-for-evolution-2",
+    "title": "Evolution",
+    "section": "Evidence for evolution",
+    "text": "Evidence for evolution\n\nAnatomical\n\n\n\n\n\n\n\nFigure 2: Wikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#tree-of-life",
+    "href": "slides/wk-06-2026-09-30-evolution.html#tree-of-life",
+    "title": "Evolution",
+    "section": "Tree of life",
+    "text": "Tree of life\n\n\n\n\n\n\nFigure 3: https://www.evogeneao.com/en/explore/tree-of-life-explorer",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#our-story",
+    "href": "slides/wk-06-2026-09-30-evolution.html#our-story",
+    "title": "Evolution",
+    "section": "Our story",
+    "text": "Our story\n\n\n\n\n\n\n\nFigure 4: Scale: (2023)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#looking-back-to-the-dawn-of-time",
+    "href": "slides/wk-06-2026-09-30-evolution.html#looking-back-to-the-dawn-of-time",
+    "title": "Evolution",
+    "section": "Looking back to the dawn of time",
+    "text": "Looking back to the dawn of time\n\n\n\n\n\n\nFigure 5: Hubble deep field: Wikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#looking-back-to-the-dawn-of-time-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#looking-back-to-the-dawn-of-time-1",
+    "title": "Evolution",
+    "section": "Looking back to the dawn of time",
+    "text": "Looking back to the dawn of time\n\n\n\n\n\n\nFigure 6: JWST NASA",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#timeline-of-life-on-earth",
+    "href": "slides/wk-06-2026-09-30-evolution.html#timeline-of-life-on-earth",
+    "title": "Evolution",
+    "section": "Timeline of life on Earth",
+    "text": "Timeline of life on Earth",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#cambrian-explosion",
+    "href": "slides/wk-06-2026-09-30-evolution.html#cambrian-explosion",
+    "title": "Evolution",
+    "section": "Cambrian Explosion",
+    "text": "Cambrian Explosion\n\n\n\n\n\n\n\nFigure 7: The Economist (2015)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#cambrian-explosion-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#cambrian-explosion-1",
+    "title": "Evolution",
+    "section": "Cambrian Explosion",
+    "text": "Cambrian Explosion\n\nComplex multicellular lifeforms emerged ~541 million years ago\n“Explosion” in geological terms: lasted ~13-25 million years",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#did-behavior-spark-the-explosion-fox_what_2016",
+    "href": "slides/wk-06-2026-09-30-evolution.html#did-behavior-spark-the-explosion-fox_what_2016",
+    "title": "Evolution",
+    "section": "Did behavior spark the explosion? (Fox, 2016)",
+    "text": "Did behavior spark the explosion? (Fox, 2016)\n\nBehavior requires movement through space\nBehavior requires perception at a distance\nBehavior requires coordinating perception with action",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#did-behavior-spark-the-explosion-fox_what_2016-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#did-behavior-spark-the-explosion-fox_what_2016-1",
+    "title": "Evolution",
+    "section": "Did behavior spark the explosion? (Fox, 2016)",
+    "text": "Did behavior spark the explosion? (Fox, 2016)\n\nBehavior requires fast & specific communication systems\nBehavior requires energy",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#requirements-of-behavior",
+    "href": "slides/wk-06-2026-09-30-evolution.html#requirements-of-behavior",
+    "title": "Evolution",
+    "section": "Requirements of behavior",
+    "text": "Requirements of behavior\n\nInput\n\nFrom external world\nInternal states\n\nProcessing\nOutput\n\nMove body\nChange physiological state",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#how-nervous-systems-differ",
+    "href": "slides/wk-06-2026-09-30-evolution.html#how-nervous-systems-differ",
+    "title": "Evolution",
+    "section": "How nervous systems differ…",
+    "text": "How nervous systems differ…\n\nBody symmetry\n\nradial\nbilateral\n\nSegmentation\nCentralized vs. distributed function",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#how-nervous-systems-differ-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#how-nervous-systems-differ-1",
+    "title": "Evolution",
+    "section": "How nervous systems differ",
+    "text": "How nervous systems differ\n\n\n\nCephalization: sense organs & nervous system concentrated in anterior\nEncasement in bone (vertebrates)\n\n\n\n\n\nArendt et al. (2016)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#nervous-systems-are-similar",
+    "href": "slides/wk-06-2026-09-30-evolution.html#nervous-systems-are-similar",
+    "title": "Evolution",
+    "section": "Nervous systems are similar…",
+    "text": "Nervous systems are similar…\n\nin patterns of early nervous system development\n\nacross vastly different species\nwith very distant (in time) common ancestors\n\nWhy?\n\nLater forms evolved from earlier ones\nLimited number of ways to build nervous systems that work well",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#vertebrates-have-similar-brain-plans",
+    "href": "slides/wk-06-2026-09-30-evolution.html#vertebrates-have-similar-brain-plans",
+    "title": "Evolution",
+    "section": "Vertebrates have similar brain plans",
+    "text": "Vertebrates have similar brain plans\n\n\n\nSpecies differ in relative size of parts\n\n\n\n\n\n\n\n\nFigure 9: Northcutt (2002)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#vertebrate-brain-sizes-scale-with-body",
+    "href": "slides/wk-06-2026-09-30-evolution.html#vertebrate-brain-sizes-scale-with-body",
+    "title": "Evolution",
+    "section": "Vertebrate brain sizes scale with body",
+    "text": "Vertebrate brain sizes scale with body\n\n\n\n\n\n\nFigure 10: Northcutt (2002)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#some-vertebrates-have-bigger-brains-than-others",
+    "href": "slides/wk-06-2026-09-30-evolution.html#some-vertebrates-have-bigger-brains-than-others",
+    "title": "Evolution",
+    "section": "Some vertebrates have bigger brains than others",
+    "text": "Some vertebrates have bigger brains than others\n\n\n\n\n\n\nFigure 11: Jerison from brainmuseum.org",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#some-vertebrates-have-bigger-brains-than-others-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#some-vertebrates-have-bigger-brains-than-others-1",
+    "title": "Evolution",
+    "section": "Some vertebrates have bigger brains than others",
+    "text": "Some vertebrates have bigger brains than others\n\nMammals and birds have big brains\nSome specific mammals and birds have big brains for their bodies\n\nHumans\nCrows\nPorpoises",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#some-vertebrates-have-bigger-brains-than-others-2",
+    "href": "slides/wk-06-2026-09-30-evolution.html#some-vertebrates-have-bigger-brains-than-others-2",
+    "title": "Evolution",
+    "section": "Some vertebrates have bigger brains than others",
+    "text": "Some vertebrates have bigger brains than others\n\n\n\nBigger than expected brains (relative to average) = high ‘encephalization factor’\n\n\n\n\n\nJerison from brainmuseum.org",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#cerebral-cortex-size-differs-among-mammals",
+    "href": "slides/wk-06-2026-09-30-evolution.html#cerebral-cortex-size-differs-among-mammals",
+    "title": "Evolution",
+    "section": "Cerebral cortex size differs among mammals",
+    "text": "Cerebral cortex size differs among mammals\n\n\n\n\n\n\nFigure 12: Hofman (2014)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#primates-have-large-cerebral-cortex",
+    "href": "slides/wk-06-2026-09-30-evolution.html#primates-have-large-cerebral-cortex",
+    "title": "Evolution",
+    "section": "Primates have large cerebral cortex",
+    "text": "Primates have large cerebral cortex\n\n\n\nStructural measure\nNon-human comparison\nHuman\n\n\n\n\nCortical gray matter %/tot brain vol\ninsectivores 25%\n50%\n\n\nCortical gray + white\nmice 40%\n80%\n\n\nCerebellar mass\nprimates, mammals 10-15%\n10-15%",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#primates-have-large-cerebral-cortex-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#primates-have-large-cerebral-cortex-1",
+    "title": "Evolution",
+    "section": "Primates have large cerebral cortex",
+    "text": "Primates have large cerebral cortex\n\n\n\n\n\n\nFigure 13: Rakic (2009)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#selection-pressures-shaping-brain-evolution",
+    "href": "slides/wk-06-2026-09-30-evolution.html#selection-pressures-shaping-brain-evolution",
+    "title": "Evolution",
+    "section": "Selection pressures shaping brain evolution",
+    "text": "Selection pressures shaping brain evolution\n\nNatural and sexual selection for\n\nTraits that improve reproductive success\n\nPhysical AND psychological traits\n\nHardware and software",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#virtues-of-big-brains",
+    "href": "slides/wk-06-2026-09-30-evolution.html#virtues-of-big-brains",
+    "title": "Evolution",
+    "section": "Virtues of big brains",
+    "text": "Virtues of big brains\n\nMore memory\nMore & faster processing capacity\nBetter sensors\nBetter output\nDo more, faster",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#costs-of-bigness",
+    "href": "slides/wk-06-2026-09-30-evolution.html#costs-of-bigness",
+    "title": "Evolution",
+    "section": "Costs of bigness",
+    "text": "Costs of bigness\n\nLong time to build\nLong time to program/train/educate\nLots of energy to nourish/maintain\nHead/neck must be strong enough to carry\n\nHow to connect brain/body parts widely, but process info quickly",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#a-new-view-herculano-houzel2016-oy",
+    "href": "slides/wk-06-2026-09-30-evolution.html#a-new-view-herculano-houzel2016-oy",
+    "title": "Evolution",
+    "section": "A new view (Herculano-Houzel, 2016)",
+    "text": "A new view (Herculano-Houzel, 2016)\n\nNumber of neurons in cerebral cortex makes humans “special”, not overall mass",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#how-did-the-human-brain-get-this-way",
+    "href": "slides/wk-06-2026-09-30-evolution.html#how-did-the-human-brain-get-this-way",
+    "title": "Evolution",
+    "section": "How did the human brain get this way?",
+    "text": "How did the human brain get this way?\n\nEvolved from mammalian/primate norms\nMore efficient energy intake\n\ncalories/hr foraging vs.\ncooking? (Wrangham, 2009)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#how-did-the-human-brain-get-this-way-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#how-did-the-human-brain-get-this-way-1",
+    "title": "Evolution",
+    "section": "How did the human brain get this way?",
+    "text": "How did the human brain get this way?\n\nSpecialized patterns of development\n\nSignificant time post-natal/pre-reproductive (childhood)\nCentral role of language & culture",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#main-points",
+    "href": "slides/wk-06-2026-09-30-evolution.html#main-points",
+    "title": "Evolution",
+    "section": "Main points",
+    "text": "Main points\n\nLife forms on Earth have evolved over billions of years\nComplex multicellular organisms with nervous systems emerged ~500-600 million years ago\nCentralized nervous systems have similarities in organization\nBrain sizes scale with body size, but species differences",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#main-points-1",
+    "href": "slides/wk-06-2026-09-30-evolution.html#main-points-1",
+    "title": "Evolution",
+    "section": "Main points",
+    "text": "Main points\n\nHuman brains similar to closely related primate species, but have more neurons in cerebral cortex\nCerebral cortex in humans may have developmental mechanisms not found in other animals (Vanderhaeghen & Polleux, 2023)",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#next-time",
+    "href": "slides/wk-06-2026-09-30-evolution.html#next-time",
+    "title": "Evolution",
+    "section": "Next time",
+    "text": "Next time\n\nHow the human brain develops",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#about",
+    "href": "slides/wk-06-2026-09-30-evolution.html#about",
+    "title": "Evolution",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.9.0.174.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-30-evolution.html#references",
+    "href": "slides/wk-06-2026-09-30-evolution.html#references",
+    "title": "Evolution",
+    "section": "References",
+    "text": "References\n\n\n\n\nArendt, D., Tosches, M. A., & Marlow, H. (2016). From nerve net to nerve ring, nerve cord and brain — evolution of the nervous system. Nature Reviews Neuroscience, 17(1), 61–72. https://doi.org/10.1038/nrn.2015.15\n\n\nDobzhansky, T. (1973). Nothing in biology makes sense except in the light of evolution. The American Biology Teacher, 35(3), pp. 125–129. Retrieved from http://www.jstor.org/stable/4444260\n\n\nFox, D. (2016). What sparked the Cambrian explosion? Nature, 530(7590), 268–270. https://doi.org/10.1038/530268a\n\n\nHerculano-Houzel, S. (2016). The Human Advantage: A New Understanding of How Our Brain Became Remarkable. MIT Press. Retrieved from https://market.android.com/details?id=book-DMqpCwAAQBAJ\n\n\nHofman, M. A. (2014). Evolution of the human brain: When bigger is better. Frontiers in Neuroanatomy, 8. https://doi.org/10.3389/fnana.2014.00015\n\n\nNorthcutt, R. G. (2002). Understanding vertebrate brain evolution. Integr. Comp. Biol., 42(4), 743–756. https://doi.org/10.1093/icb/42.4.743\n\n\nPark, S. (2009). Hydra movement. YouTube. Retrieved from https://www.youtube.com/watch?v=-UI531GMRTM\n\n\nRakic, P. (2009). Evolution of the neocortex: A perspective from developmental biology. Nature Reviews. Neuroscience, 10(10), 724–735. https://doi.org/10.1038/nrn2719\n\n\nScale:, T. (2023). To scale: TIME. YouTube. Retrieved from https://www.youtube.com/watch?v=nOVvEbH2GC0\n\n\nThe Economist. (2015). What caused the cambrian explosion? YouTube. Retrieved from https://www.youtube.com/watch?v=qNtQwUO9ff8\n\n\ntwoodburn. (2008). \"Gentle Arms of Eden\", by Dave Carter and Tracy Grammer. YouTube. Retrieved from https://www.youtube.com/watch?v=bAGMATHlSK4&list=RDbAGMATHlSK4\n\n\nVanderhaeghen, P., & Polleux, F. (2023). Developmental mechanisms underlying the evolution of human cortical circuits. Nature Reviews. Neuroscience. https://doi.org/10.1038/s41583-023-00675-z\n\n\nWrangham, R. (2009). Catching fire: How cooking made us human. Basic Books. Retrieved from https://market.android.com/details?id=book-ebEOupKz-rMC",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Wed Sep 05"
+    ]
+  },
+  {
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "Evaluation",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction.",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#eval-components",
+    "href": "evaluation.html#eval-components",
+    "title": "Evaluation",
+    "section": "Elements",
+    "text": "Elements\n\n\n\n\n\n\n\n\nComponent\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You must take the final, butYou may choose to drop (or not take) one of the other three exams.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\n\nTOTAL POINTS POSSIBLE\n150\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#grading-scheme",
+    "href": "evaluation.html#grading-scheme",
+    "title": "Evaluation",
+    "section": "Grading Scheme",
+    "text": "Grading Scheme\n\n\n\nPoints\nPercent\nGrade\n\n\n\n\n141+\n94-100+\nA\n\n\n135-140\n90-93\nA-\n\n\n130-134\n87-89\nB+\n\n\n126-129\n84-86\nB\n\n\n120-125\n80-83\nB-\n\n\n115-119\n77-79\nC+\n\n\n105-114\n70-76\nC\n\n\n90-104\n60-69\nD\n\n\n0-89\n&lt;59\nF",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "",
+    "text": "“A GPS for your mind” (2023)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#themes",
+    "href": "index.html#themes",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "Themes",
+    "text": "Themes\nThere is no more fascinating or challenging field of inquiry than the nature, origin, structure, and functioning of the human mind and the behavior it enables. This course will examine human mental states and observable behaviors from a biological basis, especially focusing on the evolution, development, structure, and functioning of the nervous system.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "Instructor",
+    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\n\nOffice hours\nMonday & Friday, 12:00p - 1:00p in 114 Moore or by appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-assistant",
+    "href": "index.html#teaching-assistant",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nJingyi He\nGraduate Student in Developmental Psychology\njzh6650@psu.edu AT-SIGN psu PERIOD edu\n\n\nOffice hours\nThursday 11a-12p in 222 Moore or by appointment (via email)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#meeting-time-location",
+    "href": "index.html#meeting-time-location",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "Meeting time & location",
+    "text": "Meeting time & location\nMonday, Wednesday, & Friday, 01:25p-02:15p\n111 Chambers",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#canvas-site",
+    "href": "index.html#canvas-site",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "Canvas site",
+    "text": "Canvas site\nMost of the course content will be found on the current site.\nHowever, we will use Canvas to submit assignments and grade them. The Canvas site may be found here:\nhttps://psu.instructure.com/courses/2484891",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "The Neurological Bases of Human Behavior",
+    "section": "Syllabus",
+    "text": "Syllabus\nThis website constitutes the most complete and up-to-date version of materials related to this course. A PDF version is also available.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "deadlines.html",
+    "href": "deadlines.html",
+    "title": "Deadlines",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\nQuestions\nScores\n\n\n\n\nWed Sep 09\nQuiz 1\nKey\nScores\n\n\nMon Sep 21\nExam 1\nKey\nScores\n\n\nMon Oct 05\nQuiz 2\nKey\nScores\n\n\nWed Oct 21\nExam 2\nKey\nScores\n\n\nFri Nov 06\nQuiz 3\nKey\nScores\n\n\nFri Nov 20\nQuiz 4\nKey\nScores\n\n\nWed Dec 02\nExam 3\nKey\nScores\n\n\nFinals Week; TBD\nExam 4\nKey\nScores\n\n\n\nFigure 1 shows a depiction of the same information in a more graphic form.\n\n\n\n\n\n\n\n\nFigure 1: A graphic depiction of the quizzes and exams in PSYCH 260.001. The letter (q, e) refers to a quiz or an exam. The week of the semester is indicated on the vertical axis. The day of the week is indicated on the horizontal axis. Each month is in a different color.",
+    "crumbs": [
+      "Deadlines"
+    ]
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction.",
+    "crumbs": [
+      "Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#values",
+    "href": "policies.html#values",
+    "title": "Policies",
+    "section": "Values",
+    "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
+    "crumbs": [
+      "Policies"
+    ]
+  },
+  {
     "objectID": "slides/wk-04-2026-09-18-exam-rev.html#todays-topics",
     "href": "slides/wk-04-2026-09-18-exam-rev.html#todays-topics",
     "title": "Exam I review",
@@ -2828,136 +3398,6 @@
     "crumbs": [
       "Slides",
       "Wk 04 • Fri Sep 18"
-    ]
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Policies",
-    "section": "",
-    "text": "Warning\n\n\n\nThis page is under construction.",
-    "crumbs": [
-      "Policies"
-    ]
-  },
-  {
-    "objectID": "policies.html#values",
-    "href": "policies.html#values",
-    "title": "Policies",
-    "section": "Values",
-    "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
-    "crumbs": [
-      "Policies"
-    ]
-  },
-  {
-    "objectID": "deadlines.html",
-    "href": "deadlines.html",
-    "title": "Deadlines",
-    "section": "",
-    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\nQuestions\nScores\n\n\n\n\nWed Sep 09\nQuiz 1\nKey\nScores\n\n\nMon Sep 21\nExam 1\nKey\nScores\n\n\nMon Oct 05\nQuiz 2\nKey\nScores\n\n\nWed Oct 21\nExam 2\nKey\nScores\n\n\nFri Nov 06\nQuiz 3\nKey\nScores\n\n\nFri Nov 20\nQuiz 4\nKey\nScores\n\n\nWed Dec 02\nExam 3\nKey\nScores\n\n\nFinals Week; TBD\nExam 4\nKey\nScores\n\n\n\nFigure 1 shows a depiction of the same information in a more graphic form.\n\n\n\n\n\n\n\n\nFigure 1: A graphic depiction of the quizzes and exams in PSYCH 260.001. The letter (q, e) refers to a quiz or an exam. The week of the semester is indicated on the vertical axis. The day of the week is indicated on the horizontal axis. Each month is in a different color.",
-    "crumbs": [
-      "Deadlines"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "",
-    "text": "“A GPS for your mind” (2023)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#themes",
-    "href": "index.html#themes",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "Themes",
-    "text": "Themes\nThere is no more fascinating or challenging field of inquiry than the nature, origin, structure, and functioning of the human mind and the behavior it enables. This course will examine human mental states and observable behaviors from a biological basis, especially focusing on the evolution, development, structure, and functioning of the nervous system.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#instructor",
-    "href": "index.html#instructor",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "Instructor",
-    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\n\nOffice hours\nMonday & Friday, 12:00p - 1:00p in 114 Moore or by appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#teaching-assistant",
-    "href": "index.html#teaching-assistant",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nJingyi He\nGraduate Student in Developmental Psychology\njzh6650@psu.edu AT-SIGN psu PERIOD edu\n\n\nOffice hours\nThursday 11a-12p in 222 Moore or by appointment (via email)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#meeting-time-location",
-    "href": "index.html#meeting-time-location",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "Meeting time & location",
-    "text": "Meeting time & location\nMonday, Wednesday, & Friday, 01:25p-02:15p\n111 Chambers",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#canvas-site",
-    "href": "index.html#canvas-site",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "Canvas site",
-    "text": "Canvas site\nMost of the course content will be found on the current site.\nHowever, we will use Canvas to submit assignments and grade them. The Canvas site may be found here:\nhttps://psu.instructure.com/courses/2484891",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#syllabus",
-    "href": "index.html#syllabus",
-    "title": "The Neurological Bases of Human Behavior",
-    "section": "Syllabus",
-    "text": "Syllabus\nThis website constitutes the most complete and up-to-date version of materials related to this course. A PDF version is also available.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "evaluation.html",
-    "href": "evaluation.html",
-    "title": "Evaluation",
-    "section": "",
-    "text": "Warning\n\n\n\nThis page is under construction.",
-    "crumbs": [
-      "Evaluation"
-    ]
-  },
-  {
-    "objectID": "evaluation.html#eval-components",
-    "href": "evaluation.html#eval-components",
-    "title": "Evaluation",
-    "section": "Elements",
-    "text": "Elements\n\n\n\n\n\n\n\n\nComponent\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You must take the final, butYou may choose to drop (or not take) one of the other three exams.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\n\nTOTAL POINTS POSSIBLE\n150\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
-    "crumbs": [
-      "Evaluation"
-    ]
-  },
-  {
-    "objectID": "evaluation.html#grading-scheme",
-    "href": "evaluation.html#grading-scheme",
-    "title": "Evaluation",
-    "section": "Grading Scheme",
-    "text": "Grading Scheme\n\n\n\nPoints\nPercent\nGrade\n\n\n\n\n141+\n94-100+\nA\n\n\n135-140\n90-93\nA-\n\n\n130-134\n87-89\nB+\n\n\n126-129\n84-86\nB\n\n\n120-125\n80-83\nB-\n\n\n115-119\n77-79\nC+\n\n\n105-114\n70-76\nC\n\n\n90-104\n60-69\nD\n\n\n0-89\n&lt;59\nF",
-    "crumbs": [
-      "Evaluation"
     ]
   },
   {
@@ -3434,6 +3874,17 @@
     ]
   },
   {
+    "objectID": "slides/wk-06-2026-09-28-hormones.html#last-time",
+    "href": "slides/wk-06-2026-09-28-hormones.html#last-time",
+    "title": "Hormones",
+    "section": "Last time",
+    "text": "Last time\n\nLink to 2026-09-25 slides",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Mon Sep 28"
+    ]
+  },
+  {
     "objectID": "slides/wk-06-2026-09-28-hormones.html#key-points-about-monoamines",
     "href": "slides/wk-06-2026-09-28-hormones.html#key-points-about-monoamines",
     "title": "Hormones",
@@ -3808,11 +4259,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-06-2026-09-28-hormones.html#but-can-oxytocin-treat-social-impairments-in-autism",
-    "href": "slides/wk-06-2026-09-28-hormones.html#but-can-oxytocin-treat-social-impairments-in-autism",
+    "objectID": "slides/wk-06-2026-09-28-hormones.html#treat-social-impairments-in-autism",
+    "href": "slides/wk-06-2026-09-28-hormones.html#treat-social-impairments-in-autism",
     "title": "Hormones",
-    "section": "But, can oxytocin treat social impairments in autism?",
-    "text": "But, can oxytocin treat social impairments in autism?\n\n\n\nSikich et al. (2021)",
+    "section": "Treat social impairments in autism?",
+    "text": "Treat social impairments in autism?\n\n\n\nSikich et al. (2021)",
     "crumbs": [
       "Slides",
       "Wk 06 • Mon Sep 28"
@@ -3912,6 +4363,17 @@
     "title": "Hormones",
     "section": "References",
     "text": "References\n\n\n\n\nDeussing, J. M., & Chen, A. (2018). The Corticotropin-Releasing Factor family: Physiology of the stress response. Physiological Reviews, 98(4), 2225–2286. https://doi.org/10.1152/physrev.00042.2017\n\n\nDomes, G., Heinrichs, M., Kumbier, E., Grossmann, A., Hauenstein, K., & Herpertz, S. C. (2013). Effects of intranasal oxytocin on the neural basis of face processing in autism spectrum disorder. Biological Psychiatry, 74(3), 164–171. https://doi.org/http://dx.doi.org/10.1016/j.biopsych.2013.02.007\n\n\nHaas, H., & Panula, P. (2003). The role of histamine and the tuberomamillary nucleus in the nervous system. Nature Reviews. Neuroscience, 4(2), 121–130. https://doi.org/10.1038/nrn1034\n\n\nLedford, H. (2023, January 27). CRISPR voles can’t detect “love hormone” oxytocin — but still mate for life. https://doi.org/10.1038/d41586-023-00197-9\n\n\nSikich, L., Kolevzon, A., King, B. H., McDougle, C. J., Sanders, K. B., Kim, S.-J., … Veenstra-VanderWeele, J. (2021). Intranasal oxytocin in children and adolescents with autism spectrum disorder. The New England Journal of Medicine, 385, 1462–1473. https://doi.org/10.1056/NEJMoa2103583\n\n\nSongs, M. (2018). Muppet songs: Mahna mahna (muppet show - 1976). YouTube. Retrieved from https://www.youtube.com/watch?v=TbZ_hTEOKZc\n\n\nWeisman, O., & Feldman, R. (2013). Oxytocin effects on the human brain: Findings, questions, and future directions. Biological Psychiatry, 74(3), 158–159. https://doi.org/http://dx.doi.org/10.1016/j.biopsych.2013.05.026",
+    "crumbs": [
+      "Slides",
+      "Wk 06 • Mon Sep 28"
+    ]
+  },
+  {
+    "objectID": "slides/wk-06-2026-09-28-hormones.html#footnotes",
+    "href": "slides/wk-06-2026-09-28-hormones.html#footnotes",
+    "title": "Hormones",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBy User:Slashme; Patrick J. Lynch; User:Fvasconcellos - self-made; re-use File:Brain bulbar region.svg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44402772",
     "crumbs": [
       "Slides",
       "Wk 06 • Mon Sep 28"
@@ -6016,39 +6478,6 @@
     "crumbs": [
       "Slides",
       "Wk 05 • Wed Sep 23"
-    ]
-  },
-  {
-    "objectID": "slides/wk-06-2026-09-28-hormones.html#footnotes",
-    "href": "slides/wk-06-2026-09-28-hormones.html#footnotes",
-    "title": "Hormones",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nBy User:Slashme; Patrick J. Lynch; User:Fvasconcellos - self-made; re-use File:Brain bulbar region.svg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44402772",
-    "crumbs": [
-      "Slides",
-      "Wk 06 • Mon Sep 28"
-    ]
-  },
-  {
-    "objectID": "slides/wk-06-2026-09-28-hormones.html#last-time",
-    "href": "slides/wk-06-2026-09-28-hormones.html#last-time",
-    "title": "Hormones",
-    "section": "Last time",
-    "text": "Last time\n\nLink to 2026-09-25 slides",
-    "crumbs": [
-      "Slides",
-      "Wk 06 • Mon Sep 28"
-    ]
-  },
-  {
-    "objectID": "slides/wk-06-2026-09-28-hormones.html#treat-social-impairments-in-autism",
-    "href": "slides/wk-06-2026-09-28-hormones.html#treat-social-impairments-in-autism",
-    "title": "Hormones",
-    "section": "Treat social impairments in autism?",
-    "text": "Treat social impairments in autism?\n\n\n\nSikich et al. (2021)",
-    "crumbs": [
-      "Slides",
-      "Wk 06 • Mon Sep 28"
     ]
   }
 ]

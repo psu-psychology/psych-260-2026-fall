@@ -57,8 +57,8 @@ website:
             href: slides/wk-05-2026-09-25-neurochem-II.qmd
           - text: "Wk 06 • Mon Sep 28"
             href: slides/wk-06-2026-09-28-hormones.qmd
-      #     - text: "Wk 08 • Tue Oct 14"
-      #       href: slides/wk-08-2025-10-14-evolution.qmd
+          - text: "Wk 06 • Wed Sep 05"
+            href: slides/wk-06-2026-09-30-evolution.qmd
       #     - text: "Wk 08 • Thu Oct 16"
       #       href: slides/wk-08-2025-10-16-development.qmd
       #     - text: "Wk 09 • Tue Oct 21"

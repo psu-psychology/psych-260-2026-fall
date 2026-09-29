@@ -141,8 +141,8 @@
 *Evolution*
 
 - *Read*: <https://en.wikipedia.org/wiki/Evolution_of_the_brain>
-- *Watch*: @Scale-2023-gp
-- *Slides*:  | [html](slides/) |
+- *Watch*: @Scale-2023-gp, @The-Economist2015-gl
+- *Slides*:  | [html](slides/wk-06-2026-09-30-evolution.qmd) |
 
 ### Fri, Oct 02 {-}
 
