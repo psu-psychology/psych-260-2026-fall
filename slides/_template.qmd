@@ -1,5 +1,5 @@
 ---
-title: "slide-template"
+title: "Quiz 2; Exam 1 answers"
 format: revealjs
 ---
 
@@ -7,42 +7,75 @@ format: revealjs
 
 ## For fun
 
-::: {#fig-stevie-wonder-superstition}
-<iframe width="1240" height="450" src="https://www.youtube.com/embed/97hwNY3ni10?si=2k0feL7PKLxzhtNm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-@Musikladen2020-id
-:::
-
 ## Announcements
 
 ## Today's topics
 
-- Warm-up
-- Topic 1
-- Topic 2
+- Quiz 2
+- Exam 1 answers
 
-# Warm-up
+# Quiz 2
+
+# Exam 1 answers
 
 ---
 
-::: question
-## What is your name?
+:::: {.columns}
+::: {.column width=50%}
+1.	Identify structure #1 
 
-- A. Tom
-- B. Dick
+- a.	Frontal lobe
+- b.	Parietal lobe
+- c.	Occipital lobe
+d.	Temporal lobe
 :::
-
-::: fragment
-::: answer
-- A. Tom
-- B. Dick
+::: {.column width=50%}
+![](../include/img/exam-01-fig-01.png)
 :::
-:::
+::::
+
+---
 
 
-# Topic 1
 
-# Topic 2
+
+2.	Identify structure #2
+a.	Frontal lobe
+b.	Parietal lobe
+c.	Occipital lobe
+d.	Temporal lobe
+
+3.	Identify structure #3
+a.	4th ventricle
+b.	Medulla oblongata 
+c.	Cerebellum
+d.	Pons
+
+ 
+4.	Identify structure #4
+a.	4th ventricle 
+b.	Medulla oblongata
+c.	Cerebellum
+d.	Pons
+
+5.	Identify structure #5
+a.	4th ventricle 
+b.	Medulla oblongata
+c.	Cerebellum 
+d.	Pons
+
+6.	Identify structure #6
+a.	Frontal lobe
+b.	Parietal lobe
+c.	Occipital lobe 
+d.	Temporal lobe
+
+7.	Identify structure #7
+a.	Frontal lobe
+b.	Parietal lobe 
+c.	Occipital lobe 
+d.	Temporal lobe
+
 
 # Wrap-up
 
