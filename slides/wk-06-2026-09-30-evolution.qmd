@@ -318,9 +318,10 @@ fig-align: "center"
 - Head/neck must be strong enough to carry
   - How to connect brain/body parts widely, but process info quickly
 
-## A new view [@Herculano-Houzel2016-oy]
+## A new view 
 
 - **Number** of neurons in *cerebral cortex* makes humans "special", not overall mass
+- @Herculano-Houzel2016-oy
 
 ---
 

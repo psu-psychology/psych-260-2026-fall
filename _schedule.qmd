@@ -150,7 +150,7 @@
 
 <!-- - *Read*: MM pp 124-134, 145 -->
 - *Skim*: <https://en.wikipedia.org/wiki/Development_of_the_nervous_system>
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-06-2026-10-02-development.qmd) |
 
 ## Week 07 {- #week-07}
 
@@ -158,11 +158,14 @@
 
 *Quiz 2; Exam 1 results*
 
+- *Slides*:  | [html](slides/wk-07-2026-10-05-quiz-2-exam-1.qmd) |
+
 ### Wed, Oct 07 {-}
 
 *Psychopathology I*
 
 <!-- - *Read*: MM pp 106-108, 412-405 -->
+- *Review*: <https://en.wikipedia.org/wiki/Major_depressive_disorder>
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Oct 09 {-}
@@ -170,6 +173,7 @@
 *Psychopathology II*
 
 <!-- - *Read*: MM pp 106-108, 386-394 -->
+- *Review*: <https://en.wikipedia.org/wiki/Bipolar_disorder>, <https://en.wikipedia.org/wiki/Schizophrenia>
 - *Slides*:  | [html](slides/) |
 
 ## Week 08 {- #week-08}

@@ -59,10 +59,10 @@ website:
             href: slides/wk-06-2026-09-28-hormones.qmd
           - text: "Wk 06 • Wed Sep 30"
             href: slides/wk-06-2026-09-30-evolution.qmd
-      #     - text: "Wk 08 • Thu Oct 16"
-      #       href: slides/wk-08-2025-10-16-development.qmd
-      #     - text: "Wk 09 • Tue Oct 21"
-      #       href: slides/wk-09-2025-10-21-exam-rev.qmd
+          - text: "Wk 06 • Fri Oct 02"
+            href: slides/wk-06-2026-10-02-development.qmd
+          - text: "Wk 07 • Mon Oct 05"
+            href: slides/wk-07-2026-10-05-quiz-2-exam-1.qmd
       #     - text: "Wk 10 • Tue Oct 28"
       #       href: slides/wk-10-2025-10-28-psychopathology-I.qmd
       #     - text: "Wk 10 • Thu Oct 30"
