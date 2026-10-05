@@ -166,7 +166,7 @@
 
 <!-- - *Read*: MM pp 106-108, 412-405 -->
 - *Review*: <https://en.wikipedia.org/wiki/Major_depressive_disorder>
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-07-2026-10-07-psychopathology-I.qmd) |
 
 ### Fri, Oct 09 {-}
 

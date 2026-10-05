@@ -63,8 +63,8 @@ website:
             href: slides/wk-06-2026-10-02-development.qmd
           - text: "Wk 07 • Mon Oct 05"
             href: slides/wk-07-2026-10-05-quiz-2-exam-1.qmd
-      #     - text: "Wk 10 • Tue Oct 28"
-      #       href: slides/wk-10-2025-10-28-psychopathology-I.qmd
+          - text: "Wk 10 • Wed Oct 07"
+            href: slides/wk-07-2026-10-07-psychopathology-I.qmd
       #     - text: "Wk 10 • Thu Oct 30"
       #       href: slides/wk-10-2025-10-30-psychopathology-II.qmd
       #     - text: "Wk 11 • Thu Nov 6"
