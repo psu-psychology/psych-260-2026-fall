@@ -195,15 +195,16 @@ format: revealjs
 ## Selective Serotonin Reuptake Inhibitors (SSRIs)
 
 ::: {.incremental}
-
 + Fluoxetine (Prozac, Paxil, Zoloft)
 + Impede transporters
   - Transport 5-HT across presynatic membrane for repackaging & reuse
   - Prolong duration of 5-HT in synaptic cleft
+:::
+
+## Selective Serotonin Reuptake Inhibitors (SSRIs)
+
 - Selective Serotonin Norepinephrine Reuptake Inhibitors (SNRIs)
   - Inhibit both 5-HT and NE transporters
-
-:::
 
 ## Cymbalta an SNRI
 
