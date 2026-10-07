@@ -280,45 +280,33 @@ format: revealjs
 
 -- @Moncrieff2022-os
 
-## When drugs *do* work, how?
-
-- Alter receptor sensitivity?
-  - 5-HT terminals contain autoreceptors
-  - Presynaptic autoreceptors regulate 5-HT release
-  - Autoreceptors compensate for elevated 5-HT from SSRIs 
-  + Postsynaptic receptor upregulation of NE/5-HT effects?
-
-## When drugs do work, how?
-
-- Stimulate neurogenesis?
-  + Link to neurotrophin, brain-derived nerve growth factor (BDNF)
-  + BDNF boosts neurogenesis
-
-## Neurogenesis hypothesis 
-
-- @mahar_stress_2014
-- Chronic stress causes neural loss in hippocampus
-  - Cortisol and CRF receptors in hippocampus
-- Chronic stress down-regulates 5-HT sensitivity
-
-## Neurogenesis hypothesis
-
-- Depression ~ chronic stress
-- Anti-depressants upregulate neurogenesis via 5-HT modulation
-- Hippocampus one site where neurogenesis occurs in adults
-
 ## Other therapeutic approaches
 
 - Psychotherapy
-- Other drugs
+- Other drugs, e.g. ketamine
 - Neurostimulation
+  - Electroconvulsive therapy
+  - Deep brain stimulation
+  - ANS stimulation
 
 ## Psychotherapy
 
-- Effective in treating MDD
-- No clear differences among therapy types
-- Similar outcomes as antidepressant medication
+::: {.incremental}
+- @Cuijpers2021-wc
+  - Can be effective in treating MDD
+  - No clear differences among therapy types
+  - 1/2 do not respond
 - @Otte2016-rp
+  - Similar outcomes as antidepressant medication
+:::
+
+## Psychotherapy
+
+- Do treatment effects endure?
+
+>**Current findings suggest a superiority of psychotherapy and combined treatment over pharmacotherapy alone.**
+
+-- @Voderholzer2024-aa
 
 ## Ketamine
 
@@ -365,7 +353,7 @@ format: revealjs
 
 -- @ucsf2021-db
 
-## Other neurostimulation
+## ANS stimulation
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -375,22 +363,6 @@ format: revealjs
 :::
 ::: {.column width=50%}
 ![@UnknownUnknown-oj](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2017/10/24/16/02/mcdc7_vagus_nerve_stimulator-8col.jpg)
-:::
-::::
-
-
-## Other neurostimulation
-
-:::: {.columns}
-::: {.column width=50%}
-- Transcranial Magnetic Stimulation
-- Non-invasive
-- Weekday treatments, 20-30 min/session, 4-8 weeks
-- Target dorsolateral prefrontal cortex
-- @Kim2024-ay
-:::
-::: {.column width=50%}
-![@JaeklUnknown-hd](https://www.brainfacts.org/-/media/Brainfacts2/Diseases-and-Disorders/Therapies/Article-Images/tms-graphic.jpg)
 :::
 ::::
 
@@ -427,6 +399,44 @@ format: revealjs
 ## Next time
 
 - Bipolar disorder and schizophrenia
+
+# Supplemental
+
+## Neurogenesis hypothesis 
+
+- @mahar_stress_2014
+- Chronic stress causes neural loss in hippocampus
+  - Cortisol and CRF receptors in hippocampus
+- Chronic stress down-regulates 5-HT sensitivity
+
+## Neurogenesis hypothesis
+
+- Depression ~ chronic stress
+- Anti-depressants upregulate neurogenesis via 5-HT modulation
+- Hippocampus one site where neurogenesis occurs in adults
+
+## When drugs *do* work, how?
+
+- Alter receptor sensitivity?
+  - 5-HT terminals contain autoreceptors
+  - Presynaptic autoreceptors regulate 5-HT release
+  - Autoreceptors compensate for elevated 5-HT from SSRIs 
+  + Postsynaptic receptor upregulation of NE/5-HT effects?
+
+## Other neurostimulation
+
+:::: {.columns}
+::: {.column width=50%}
+- Transcranial Magnetic Stimulation
+- Non-invasive
+- Weekday treatments, 20-30 min/session, 4-8 weeks
+- Target dorsolateral prefrontal cortex
+- @Kim2024-ay
+:::
+::: {.column width=50%}
+![@JaeklUnknown-hd](https://www.brainfacts.org/-/media/Brainfacts2/Diseases-and-Disorders/Therapies/Article-Images/tms-graphic.jpg)
+:::
+::::
 
 # Resources
 
