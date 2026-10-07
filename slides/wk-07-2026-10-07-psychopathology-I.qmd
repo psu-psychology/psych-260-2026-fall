@@ -311,7 +311,7 @@ format: revealjs
 ## Ketamine
 
 - Selective antagonist of the NMDA receptor
-  - NMDA is an ionotropic glutamate (Glu) receptor
+  - NMDA is an ionotropic (& voltage-gated) glutamate (Glu) receptor
 - Relieves depressive symptoms relatively quickly [@Berman2000-vg; @Zarate2006-np]
   - But only for a short time
 - Boosts synaptic spine formation [@Li2010-ve] and reverses effects of induced stress
@@ -384,13 +384,14 @@ format: revealjs
 ## Main points  
 
 - Some evidence for altered HPA system, especially cortisol
-- MDD may mimic chronic stress & affect neural development
+- MDD may mimic chronic stress & affect [neural development](wk-07-2026-10-07-psychopathology-I.qmd#neurogenesis-hypothesis)
 - Ketamine faster acting than monoamine-affecting drugs
 
 ## Main points
 
 - Psychotherapy can be effective
 - ECT, deep brain stimulation for treatment-resistant depression
+- Newer, non-invasive [stimulation types](wk-07-2026-10-07-psychopathology-I.qmd#other-neurostimulation)
 
 >...High-quality (prospective) studies on MDD are needed to disentangle the etiology and maintenance of MDD.
 
