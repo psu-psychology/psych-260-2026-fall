@@ -15,11 +15,33 @@ format: revealjs
 
 ## Today's topics
 
+- Quiz 2 scores
 - Warm-up
 - Wrap-up on Major depressive disorder
 - Bipolar disorder
 
-# Warm-up
+# Quiz 2 scores
+
+## Summary data
+
+```{r}
+#| label: fig-quiz-02-histogram
+#| fig-cap: "Histogram of scores for Quiz 02. Passing scores are indicated in teal."
+
+library(ggplot2)
+library(dplyr)
+readr::read_csv("../private/quizzes/quiz-02/Canvas Report - Exam 23454 - Section 001.csv") |>
+  select(FA26_QUIZ_2) |>
+  mutate(passing = FA26_QUIZ_2 >= 7) |>
+  ggplot() +
+  aes(x = FA26_QUIZ_2, fill = passing) +
+  geom_bar() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  xlab("")
+```
+
+
 
 # Warm-up
 
@@ -59,23 +81,23 @@ format: revealjs
 
 ---
 
-### The fast-acting effect of ketamine on MDD undermines the monoamine hypothesis of depression because...
+### The STAR-D clinical trial initially showed that ____ of participants showed symptom improvement on an SSRI, but a recent reanalysis suggested that only ____ improved.
 
 ::: {.incremental}
-- A. Drugs that upregulate monoamines take weeks to work.
-- B. Ketamine affects glutamate NMDA receptors.
-- C. SSRIs are selective for norepinephrine.
-- D. Both A. and B.
+- A. ~^[The `~` character means approximately.]2/3; ~1/3.
+- B. 1/2; 1/10.
+- C. 80%; 50%.
+- D. millions; hundreds.
 :::
 
 ---
 
-### The fast-acting effect of ketamine on MDD undermines the monoamine hypothesis of depression because...
+### The STAR-D clinical trial initially showed that ____ of participants showed symptom improvement on an SSRI, but a recent reanalysis suggested that only ____ improved.
 
-- A. Drugs that upregulate monoamines take weeks to work.
-- B. Ketamine affects glutamate NMDA receptors.
-- ~~C. SSRIs are selective for norepinephrine.~~
-- **D. Both A. and B.**
+- **A. ~2/3; ~1/3.**
+- ~~B. 1/2; 1/10.~~
+- ~~C. 80%; 50%.~~
+- ~~D. millions; hundreds.~~
 
 # Major depressive disorder
 
