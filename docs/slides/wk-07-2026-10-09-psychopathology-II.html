@@ -151,19 +151,6 @@
     }
   </style>
   <style>
-  .reveal div.callout-question.callout {
-    border-left-color: pink;
-  }
-  .reveal div.callout-question.callout-style-default .callout-title {
-    background-color: rgb(from pink r g b / 13%);
-  }
-  .reveal div.callout-question.callout-style-default .callout-icon::before, .reveal div.callout-question.callout-titled .callout-icon::before {
-    font-family: 'Font Awesome 7 Free';
-    font-weight: 900;
-    font-style: normal;
-    content: '\3f' !important;
-    background-image: none;
-  }
   .reveal div.callout-answer.callout {
     border-left-color: blue;
   }
@@ -175,6 +162,19 @@
     font-weight: 900;
     font-style: normal;
     content: '\f5dc' !important;
+    background-image: none;
+  }
+  .reveal div.callout-question.callout {
+    border-left-color: pink;
+  }
+  .reveal div.callout-question.callout-style-default .callout-title {
+    background-color: rgb(from pink r g b / 13%);
+  }
+  .reveal div.callout-question.callout-style-default .callout-icon::before, .reveal div.callout-question.callout-titled .callout-icon::before {
+    font-family: 'Font Awesome 7 Free';
+    font-weight: 900;
+    font-style: normal;
+    content: '\3f' !important;
     background-image: none;
   }
   </style>
@@ -240,6 +240,13 @@ Figure&nbsp;1: Histogram of scores for Quiz 02. Passing scores are indicated in 
 </div>
 </div>
 </div>
+</section>
+<section id="canvas-point-totals-are-incorrect" class="slide level2">
+<h2>Canvas point totals are incorrect</h2>
+<ul>
+<li>The Canvas-compatible data files don’t seem to count extra credit points properly.</li>
+<li>We’ll fix it.</li>
+</ul>
 </section></section>
 <section>
 <section id="warm-up" class="title-slide slide level1 center">

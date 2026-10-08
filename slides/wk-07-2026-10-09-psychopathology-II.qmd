@@ -41,7 +41,10 @@ readr::read_csv("../private/quizzes/quiz-02/Canvas Report - Exam 23454 - Section
   xlab("")
 ```
 
+## Canvas point totals are incorrect
 
+- The Canvas-compatible data files don't seem to count extra credit points properly.
+- We'll fix it.
 
 # Warm-up
 

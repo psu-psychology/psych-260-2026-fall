@@ -8096,5 +8096,16 @@
       "Slides",
       "Wk 07 • Fri Oct 09"
     ]
+  },
+  {
+    "objectID": "slides/wk-07-2026-10-09-psychopathology-II.html#canvas-point-totals-are-incorrect",
+    "href": "slides/wk-07-2026-10-09-psychopathology-II.html#canvas-point-totals-are-incorrect",
+    "title": "Psychopathology II",
+    "section": "Canvas point totals are incorrect",
+    "text": "Canvas point totals are incorrect\n\nThe Canvas-compatible data files don’t seem to count extra credit points properly.\nWe’ll fix it.",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Fri Oct 09"
+    ]
   }
 ]
