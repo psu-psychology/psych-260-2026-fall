@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-contrib/fontawesome-7-free-7.2.0/fontawesome.css" rel="stylesheet">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.37">
+
+  <meta name="author" content="Rick Gilmore">
+  <title>PSYCH 260.001 – Psychopathology III</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-445e7e3b1c5f75a9ba11066bf069e70f.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <style>
+  .reveal div.callout-answer.callout {
+    border-left-color: blue;
+  }
+  .reveal div.callout-answer.callout-style-default .callout-title {
+    background-color: rgb(from blue r g b / 13%);
+  }
+  .reveal div.callout-answer.callout-style-default .callout-icon::before, .reveal div.callout-answer.callout-titled .callout-icon::before {
+    font-family: 'Font Awesome 7 Free';
+    font-weight: 900;
+    font-style: normal;
+    content: '\f5dc' !important;
+    background-image: none;
+  }
+  .reveal div.callout-question.callout {
+    border-left-color: pink;
+  }
+  .reveal div.callout-question.callout-style-default .callout-title {
+    background-color: rgb(from pink r g b / 13%);
+  }
+  .reveal div.callout-question.callout-style-default .callout-icon::before, .reveal div.callout-question.callout-titled .callout-icon::before {
+    font-family: 'Font Awesome 7 Free';
+    font-weight: 900;
+    font-style: normal;
+    content: '\3f' !important;
+    background-image: none;
+  }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Psychopathology III</h1>
+  <p class="subtitle">PSYCH 260.001 Fall 26</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Rick Gilmore 
+</div>
+        <p class="quarto-title-affiliation">
+            Department of Psychology
+          </p>
+    </div>
+</div>
+
+</section>
+<section>
+<section id="prelude" class="title-slide slide level1 center">
+<h1>Prelude</h1>
+
+</section>
+<section id="announcement" class="slide level2">
+<h2>Announcement</h2>
+<ul>
+<li>Exam 2 on <a href="../schedule.html#wed-oct-26">Wednesday, October 21, 2026</a></li>
+</ul>
+</section>
+<section id="todays-topics" class="slide level2">
+<h2>Today’s topics</h2>
+<ul>
+<li>Warm-up</li>
+<li>Schizophrenia</li>
+</ul>
+</section></section>
+<section>
+<section id="warm-up" class="title-slide slide level1 center">
+<h1>Warm-up</h1>
+
+</section>
+<section class="slide level2">
+
+<h3 id="the-fast-acting-effect-of-ketamine-on-mdd-undermines-the-monoamine-hypothesis-of-depression-because">The fast-acting effect of ketamine on MDD undermines the monoamine hypothesis of depression because…</h3>
+<ul>
+<li class="fragment">A. Drugs that upregulate monoamines take weeks to work.</li>
+<li class="fragment">B. Ketamine affects glutamate-binding NMDA receptors.</li>
+<li class="fragment">C. SSRIs are selective for norepinephrine.</li>
+<li class="fragment">D. Both A. and B.</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<h3 id="the-fast-acting-effect-of-ketamine-on-mdd-undermines-the-monoamine-hypothesis-of-depression-because-1">The fast-acting effect of ketamine on MDD undermines the monoamine hypothesis of depression because…</h3>
+<ul>
+<li>A. Drugs that upregulate monoamines take weeks to work.</li>
+<li>B. Ketamine affects glutamate-binding NMDA receptors.</li>
+<li><del>C. SSRIs are selective for norepinephrine.</del></li>
+<li><strong>D. Both A. and B.</strong></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<h3 id="bipolar-disorder-is-linked-to-disruption-in-______-neurotransmitter-system.">Bipolar disorder is linked to disruption in ______ neurotransmitter system.</h3>
+<ul>
+<li>A. the serotonin (5-HT)…</li>
+<li>B. the dopamine (DA)…</li>
+<li>C. the GABA…</li>
+<li>D. no specific or single…</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<h3 id="bipolar-disorder-is-linked-to-disruption-in-______-neurotransmitter-system.-1">Bipolar disorder is linked to disruption in ______ neurotransmitter system.</h3>
+<ul>
+<li><del>A. the serotonin (5-HT)…</del></li>
+<li><del>B. the dopamine (DA)…</del></li>
+<li><del>C. the GABA…</del></li>
+<li><strong>D. no specific or single</strong></li>
+</ul>
+</section></section>
+<section>
+<section id="schizophrenia-scz" class="title-slide slide level1 center">
+<h1>Schizophrenia (SCZ)</h1>
+
+</section>
+<section class="slide level2">
+
+<div id="fig-schiz-gerald" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-schiz-gerald-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/gGnl8dqEoPQ?si=8lfhhI06Z7KZhlgj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-schiz-gerald-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: – <span class="citation" data-cites="Neuroslicer2007-ev">Neuroslicer (<a href="#/references" role="doc-biblioref" onclick="">2007</a>)</span>
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="background-on-scz" class="slide level2">
+<h2>Background on SCZ</h2>
+<ul>
+<li>Lifetime prevalence ~ 0.3-0.7%
+<ul>
+<li>Broader definitions suggest 2-3 or 3-5%</li>
+</ul></li>
+<li>~1/3 chronic &amp; severe</li>
+<li>Onset post-puberty, early adulthood</li>
+</ul>
+</section>
+<section id="background-on-scz-1" class="slide level2">
+<h2>Background on SCZ</h2>
+<ul>
+<li>Males: Earlier onset &amp; greater severity</li>
+<li>Pervasive disturbance in mood, thinking, movement, action, memory, perception</li>
+<li>Increased (early) mortality</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<h3 id="positive-symptoms">“Positive” symptoms</h3>
+<ul>
+<li>“Additions” to behavior</li>
+<li>Disordered thought</li>
+<li>Delusions of grandeur, persecution</li>
+<li>Hallucinations (usually auditory)</li>
+<li>Bizarre behavior</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<h3 id="negative-symptoms">“Negative” symptoms</h3>
+<ul>
+<li>“Reductions” in behavior</li>
+<li>Poverty of speech</li>
+<li>Flat affect</li>
+<li>Social withdrawal</li>
+<li>Anhedonia (loss of pleasure)</li>
+<li>Catatonia (reduced movement)</li>
+</ul>
+</div></div>
+</section>
+<section id="cognitive-symptoms" class="slide level2">
+<h2>Cognitive symptoms</h2>
+<ul>
+<li>Memory</li>
+<li>Attention</li>
+<li>Planning, decision-making</li>
+<li>Social cognition</li>
+<li>Movement</li>
+</ul>
+</section>
+<section id="affective-symptoms" class="slide level2">
+<h2>Affective symptoms</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Depressive, manic states</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S0140673609609958-gr2_lrg.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="@Van_Os2009-be. Figure 2."><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0140673609609958-gr2_lrg.jpg" alt="Os &amp; Kapur (2009). Figure 2."></a></p>
+<figcaption><span class="citation" data-cites="Van_Os2009-be">Os &amp; Kapur (<a href="#/references" role="doc-biblioref" onclick="">2009</a>)</span>. Figure 2.</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="biological-bases" class="slide level2">
+<h2>Biological bases</h2>
+<ul>
+<li>Genetic predisposition</li>
+<li>Brain abnormalities</li>
+<li>Neurochemical factors</li>
+<li>Developmental origins</li>
+</ul>
+</section>
+<section id="genetic-predisposition" class="slide level2">
+<h2>Genetic predisposition</h2>
+<ul>
+<li>Heritability &gt;50%</li>
+</ul>
+<div id="fig-pettersson-2019" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-pettersson-2019-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../include/img/pettersson_fig1g.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: @Pettersson2019-io Figure 1"><img data-src="../include/img/pettersson_fig1g.jpeg" style="width:65.0%"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-pettersson-2019-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: <span class="citation" data-cites="Pettersson2019-io">Pettersson et al. (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span> Figure 1
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="genetic-risk" class="slide level2">
+<h2>Genetic risk</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>But, no single gene…<span class="citation" data-cites="Johnson2017-bp">(<a href="#/references" role="doc-biblioref" onclick="">Johnson et al., 2017</a>)</span></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../include/img/johnson-etal-2017-schiz.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="@Johnson2017-bp"><img data-src="../include/img/johnson-etal-2017-schiz.jpg" alt="Johnson et al. (2017)"></a></p>
+<figcaption><span class="citation" data-cites="Johnson2017-bp">Johnson et al. (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brain-structure" class="slide level2">
+<h2>Brain structure</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Ventricles larger, esp in males</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../include/img/schizophrenia-ventricles.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="@Suddath1990-nn"><img data-src="../include/img/schizophrenia-ventricles.jpg" alt="Suddath, Christison, Torrey, Casanova, &amp; Weinberger (1990)"></a></p>
+<figcaption><span class="citation" data-cites="Suddath1990-nn">Suddath et al. (<a href="#/references" role="doc-biblioref" onclick="">1990</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+<div id="fig-suddath-1990-fig-02" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-suddath-1990-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../include/img/suddath-1990-fig-02.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure&nbsp;3: @Suddath1990-nn Figure 2"><img data-src="../include/img/suddath-1990-fig-02.jpg" style="width:55.0%"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-suddath-1990-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: <span class="citation" data-cites="Suddath1990-nn">Suddath et al. (<a href="#/references" role="doc-biblioref" onclick="">1990</a>)</span> Figure 2<a href="#/footnotes" class="footnote-ref" id="fnref1" role="doc-noteref" data-footnote-href="#/fn1" onclick=""><sup>1</sup></a>
+</figcaption>
+</figure>
+</div>
+<aside></aside></section>
+<section id="ventricle-size" class="slide level2">
+<h2>Ventricle size</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Increases across time</li>
+<li>Especially in the more impaired</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div id="fig-davis-1998-fig-02" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-davis-1998-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr2.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Figure&nbsp;4: @Davis1998-ki"><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr2.gif"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-davis-1998-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: <span class="citation" data-cites="Davis1998-ki">Davis et al. (<a href="#/references" role="doc-biblioref" onclick="">1998</a>)</span>
+</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section class="slide level2">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr3.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="@Davis1998-ki"><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr3.gif" alt="Davis et al. (1998)"></a></p>
+<figcaption><span class="citation" data-cites="Davis1998-ki">Davis et al. (<a href="#/references" role="doc-biblioref" onclick="">1998</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S0920996410012077-gr2_lrg.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="@Kempton2010-ms"><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0920996410012077-gr2_lrg.jpg" alt="Kempton, Stahl, Williams, &amp; DeLisi (2010)"></a></p>
+<figcaption><span class="citation" data-cites="Kempton2010-ms">Kempton et al. (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brain-structure-1" class="slide level2">
+<h2>Brain structure</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Hippocampus, amygdala, thalamus, nucleus accumbens (NAc; ventral striatum) smaller</li>
+<li>Related to ventricular enlargement?</li>
+<li>Early disturbance in brain development?</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div id="fig-van-erp-2015-fig-01" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-van-erp-2015-fig-01-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../include/img/van_erp-2015-fig-01.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9" title="Figure&nbsp;5: @Van_Erp2015-ne Figure 1"><img data-src="../include/img/van_erp-2015-fig-01.png"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-van-erp-2015-fig-01-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: <span class="citation" data-cites="Van_Erp2015-ne">Erp et al. (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span> Figure 1
+</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="white-matter-disruption" class="slide level2 scrollable">
+<h2>White matter disruption</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp" class="lightbox" data-gallery="quarto-lightbox-gallery-10" title="@Kelly2017-lj"><img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp" alt="Kelly et al. (2017)"></a></p>
+<figcaption><span class="citation" data-cites="Kelly2017-lj">Kelly et al. (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></figcaption>
+</figure>
+</div>
+</section>
+<section id="white-matter-loss-over-age" class="slide level2">
+<h2>White matter loss over age</h2>
+<div id="fig-kochunov-2016-fig-02" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-kochunov-2016-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../include/img/kochunov-2016-fig-02.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-11" title="Figure&nbsp;6: @Kochunov2016-cu Figure 2"><img data-src="../include/img/kochunov-2016-fig-02.jpg" style="width:65.0%"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-kochunov-2016-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: <span class="citation" data-cites="Kochunov2016-cu">Kochunov et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span> Figure 2<a href="#/footnotes" class="footnote-ref" id="fnref2" role="doc-noteref" data-footnote-href="#/fn2" onclick=""><sup>2</sup></a>
+</figcaption>
+</figure>
+</div>
+<aside></aside></section>
+<section id="disruptions-heterogenous" class="slide level2">
+<h2>Disruptions heterogenous</h2>
+<blockquote>
+<p>Compared to the healthy comparison group, the <strong>schizophrenia group showed widespread reductions in FA and CT, involving virtually all white matter tracts</strong> and cortical regions. Paradoxically, however, no more than 15–20% of patients deviated from the normative range for any single tract or region…Thus, while infra-normal deviations were common among patients, their <strong>anatomical loci were highly inconsistent between individuals</strong>.</p>
+</blockquote>
+<p>– <span class="citation" data-cites="Lv2021-hu">Lv et al. (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
+<!-- ## Disconnectivity in cortical networks -->
+<!-- ![@Uhlhaas2013-do](https://ars.els-cdn.com/content/image/1-s2.0-S0959438812001663-gr1.jpg) -->
+<!-- - But connectivity findings inconsistent [@Fornito2015-go](https://dx.doi.org/10.1016/j.conb.2014.08.006) -->
+<!-- - **Reduced structural** connectivity vs. -->
+<!--     - Synaptic, dendritic, axonal connections b/w regions -->
+<!--     - Usually measured via DTI or related diffusion-based MRI technique -->
+<!-- - **Increased functional** connectivity -->
+<!--     - BOLD, EEG, or MEG covariance -->
+<!--     - Task-free 'resting' state or task-based -->
+<!-- ![@Fornito2015-go. Figure 1. De-coupling of network structure and function in schizophrenia. (a) Shows an example of a brain-wide map of structural connectivity deficits in patients with schizophrenia, highlighting a relatively diffuse impairment that particularly affects fronto-posterior anatomical connectivity. In this whole-brain analysis, no increases of structural connectivity were found. Letters denote different regions (see below for key). (b) Illustrates frontal regions showing decreased and increased functional connectivity with seed regions in the dorsal (top) and ventral (bottom) caudate nucleus, respectively, in patients with schizophrenia (yellow, blue) and their unaffected, first-degree relatives (magenta, green). Thus, despite a fairly global impairment of structural connectivity (depicted in (a)), systems-specific increases in functional connectivity can be observed (b). (c,d) Brain-wide alterations of structural (c) and functional (d) connectivity in the same sample of patients with schizophrenia. Blue and green depict links where anatomical and functional connectivity, respectively, were reduced in patients; red depicts links where functional connectivity was increased in the patient group. (a) reproduced from [24•], (b) from [18•], and (c,d) from [23••] with permission. Regional abbreviations in (a) are as follow: A. Left Superior Frontal, B. Right Superior Frontal, C. Left Supplementary Motor Area, D. Left Superior Medial Frontal, E. Right Supplementary Motor Area, F. Right Superior Medial Frontal, G. Right Superior Parietal, H. Right Superior Occipital, I. Left Cuneus, J. Left Superior Occipital, K. Left Precuneus, L. Right Precuneus, M. Left Middle Temporal, N. Left Middle Occipital, O. Left Inferior Temporal, P. Left Fusiform, Q. Right Cuneus, R. Left Hippocampus, S. Left Middle Cingulum.](https://ars.els-cdn.com/content/image/1-s2.0-S0959438814001688-gr1.jpg) -->
+<!-- - Global signal (cortical gray matter BOLD signal CGm) variations? -->
+<!-- ![@Yang2014-oq. Fig 1. Power and variance of CGm signal in SCZ and BD. (A) Power of CGm signal in 90 SCZ patients (red) relative to 90 HCS (black) (see SI Appendix, Table S1 for demographics). (B) Mean power across all frequencies before and after GSR indicating an increase in SCZ [F(1, 178) = 7.42, P < 0.01], and attenuation by GSR [F(1, 178) = 5.37, P < 0.025]. (C) CGm variance also showed increases in SCZ [F(1, 178) = 7.25, P < 0.01] and GSR-induced reduction in SCZ [F(1, 178) = 5.25, P < 0.025]. (D–F) Independent SCZ sample (see SI Appendix, Table S2 for demographics), confirming increased CGm power [F(1, 143) = 9.2, P < 0.01] and variance [F(1, 143) = 9.25, P < 0.01] effects, but also the attenuating impact of GSR on power [F(1, 143) = 7.75, P < 0.01] and variance [F(1, 143) = 8.1, P < 0.01]. (G–I) Results for BD patients (n = 73) relative to matched HCS (see SI Appendix, Table S3 for demographics) did not reveal GSR effects observed in SCZ samples [F(1, 127) = 2.89, P = 0.092, n.s.] and no evidence for increase in CGm power or variance. All effects remained when examining all gray matter voxels (SI Appendix, Fig. S1). Error bars mark ± 1 SEM. ***P < 0.001 level of significance. n.s., not significant.](https://www.pnas.org/cms/10.1073/pnas.1405289111/asset/6ca17e78-6e95-4fb2-a2b7-5087738893c1/assets/graphic/pnas.1405289111fig01.jpeg) -->
+<!-- ![@Yang2014-oq. Fig 2. Relationship between SCZ symptoms and CGm BOLD signal power. We extracted average CGm power for each patient with available symptom ratings (n = 153). (A) Significant positive relationship between CGm power and symptom ratings in SCZ (r = 0.18, P < 0.03), verified using Spearman’s ρ given somewhat nonnormally distributed data (ρ = 0.2, P < 0.015). (B and C) Results held across SCZ samples, increasing confidence in the effect (i.e., joint probability of independent effects P < 0.002, marked in blue boxes). All identified relationships held when examining Gm variance (SI Appendix, Fig. S4). Notably, all effects were no longer significant after GSR, suggesting GS carries clinically meaningful information. The shaded area marks the 95% confidence interval around the best-fit line.](https://www.pnas.org/cms/10.1073/pnas.1405289111/asset/f0650bcc-676c-46fb-8570-3daaf921bf79/assets/graphic/pnas.1405289111fig02.jpeg) -->
+<!-- - Disconnectivity b/w 'hubs' -> higher functional connectivity overall -->
+<!-- ![@Fornito2015-go](https://ars.els-cdn.com/content/image/1-s2.0-S0959438814001688-gr2.jpg) -->
+<!-- ## Comparing neural measures -->
+<!-- ![Figure 2 from @Porter2023-qt. Sensitivity and specificity scores were derived using data from the classifier in each manuscript. All manuscripts were able to reliably differentiate participants with psychosis from healthy controls independent of neuroimaging type aside from [169]. The size of points is scaled according to sample size and modality of analysis is shown in various colors.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig2_HTML.png?as=webp) -->
+<!-- --- -->
+<!-- ![Figure 3 from @Porter2023-qt. Summary forest plot for log diagnostic odds ratio for all imaging modalities presented at the bottom of the plot. Multimodal: classification that used at least two of the following: rs-FC, T1, and/or DTI as features. RS-FC: resting state functional connectivity. DTI: diffusion tensor imaging. T1: T1 weighted imaging. The point size of squares and polygons are a function of the precision of the estimates.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig3_HTML.png) -->
+<!-- ![Figure 5 from @Porter2023-qt. Colors represent different imaging modalities; estimated summary receiver operating curves are shown overlaid for each of the imaging modalities with respective confidence interval regions surrounding mean sensitivity and specificity values. No significant differences were found for classification of internal datasets . When external datasets were used for classification, rs-FC studies (red) have a significant advantage in classification relative to T1 studies (blue).](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig5_HTML.png?as=webp) -->
+<!-- >Interestingly, at present most modalities perform similarly in the classification of psychosis, with slight advantages for rs-FC relative to structural modalities in some specific cases. Notably, results differed substantially across studies, with suggestions of biased effect sizes, particularly highlighting the need for more studies using external prediction and large sample sizes. @Porter2023-qt -->
+</section>
+<section id="neurochemical-factors" class="slide level2">
+<h2>Neurochemical factors</h2>
+<ul>
+<li>Dopamine (DA) hypothesis</li>
+<li>Glutamate (Glu) hypothesis</li>
+</ul>
+</section>
+<section id="dopamine-da-hypothesis" class="slide level2">
+<h2>Dopamine (DA) hypothesis</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Excessive DA: Manic or psychotic states</li>
+<li>Recall two midbrain DA pathways
+<ul>
+<li>Substantia nigra -&gt; striatum</li>
+<li>Ventral tegmental area -&gt; limbic system &amp; cerebral cortex</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../include/img/mesolimbocortical-da.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img data-src="../include/img/mesolimbocortical-da.jpg" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="evidence-for" class="slide level2">
+<h2>Evidence for…</h2>
+<ul>
+<li>DA (<span class="math inline">\(D_2\)</span> receptor) antagonists (e.g.&nbsp;chlorpromazine)
+<ul>
+<li>improve positive symptoms</li>
+</ul></li>
+<li><em>Typical antipsychotics</em> are DA <span class="math inline">\(D_2\)</span> receptor antagonists</li>
+<li>DA agonists (amphetamine, cocaine, L-DOPA)
+<ul>
+<li>mimic or exacerbate symptoms</li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence-against" class="slide level2">
+<h2>Evidence against…</h2>
+<ul>
+<li>New, <em>atypical antipsychotics</em>
+<ul>
+<li>(e.g.&nbsp;Clozapine) <strong>increase</strong> DA in frontal cortex, affect 5-HT</li>
+</ul></li>
+<li>Mixed evidence for high DA metabolite levels in CSF</li>
+<li>Some DA neurons may release 5-HT, cannabinoids, glutamate <span class="citation" data-cites="Seutin2005-wx">(<a href="#/references" role="doc-biblioref" onclick="">Seutin, 2005</a>)</span></li>
+</ul>
+</section>
+<section id="glutamate-hypothesis" class="slide level2">
+<h2>Glutamate hypothesis</h2>
+<ul>
+<li><em>Psychomimetic</em> drugs
+<ul>
+<li>Phencyclidine (PCP)</li>
+<li>Ketamine</li>
+</ul></li>
+<li>Can induce schizophrenia-like states</li>
+</ul>
+</section>
+<section id="ketamine" class="slide level2">
+<h2>Ketamine</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>dissociative (secondary) anesthetic</li>
+<li>side effects
+<ul>
+<li>hallucinations, blurred vision, delirium, floating sensations, vivid dreams</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div id="fig-sleigh-2014-fig-01" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-sleigh-2014-fig-01-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="https://ars.els-cdn.com/content/image/1-s2.0-S2210844014200062-gr1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-13" title="Figure&nbsp;7: @Sleigh2014-xp"><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S2210844014200062-gr1.jpg"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-sleigh-2014-fig-01-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7: <span class="citation" data-cites="Sleigh2014-xp">Sleigh, Harvey, Voss, &amp; Denny (<a href="#/references" role="doc-biblioref" onclick="">2014</a>)</span>
+</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="ketamine-1" class="slide level2">
+<h2>Ketamine</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Primarily a glutamate NMDA receptor (NMDA-R) antagonist<a href="#/footnotes" class="footnote-ref" id="fnref3" role="doc-noteref" data-footnote-href="#/fn3" onclick=""><sup>3</sup></a></li>
+<li>Affects other systems <span class="citation" data-cites="Sleigh2014-xp">(<a href="#/references" role="doc-biblioref" onclick="">Sleigh et al., 2014</a>)</span></li>
+<li>Potential fast-acting, short-duration treatment for MDD</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S2210844014200062-gr1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-14" title="@Sleigh2014-xp"><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S2210844014200062-gr1.jpg" alt="Sleigh et al. (2014)"></a></p>
+<figcaption><span class="citation" data-cites="Sleigh2014-xp">Sleigh et al. (<a href="#/references" role="doc-biblioref" onclick="">2014</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+<aside></aside></section>
+<section id="glutamate-hypothesis-1" class="slide level2">
+<h2>Glutamate hypothesis</h2>
+<ul>
+<li>Schizophrenia <span class="math inline">\(\rightarrow\)</span> <em>underactivation</em> of NMDA receptors?
+<ul>
+<li>Note: NMDA-R role in learning, plasticity</li>
+</ul></li>
+<li>NMDA-R antagonists <span class="math inline">\(\rightarrow\)</span> neurodegeneration, excitotoxicity, &amp; apoptosis (programmed cell death)</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>The data show that the disorder <strong>(SCZ) is characterized by lower levels of glutamate, GABA and dopamine in the frontal cortex</strong>, and potentially other cortical regions; higher levels of glutamate in the basal ganglia and thalamus; and greater dopamine synthesis and release capacity in the basal ganglia relative to healthy individuals. Moreover, connections among some of these alterations indicate a key role for fronto-thalamo-striatal–midbrain circuits in the pathophysiology of the disorder.</p>
+</blockquote>
+<p>— <span class="citation" data-cites="Howes2023-vk">Howes, Bukala, &amp; Beck (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span></p>
+</section>
+<section id="developmental-origins" class="slide level2">
+<h2>Developmental origins</h2>
+<ul>
+<li>Gray matter loss in adolescence</li>
+<li>Early life stress</li>
+</ul>
+</section>
+<section id="developmental-origins-1" class="slide level2">
+<h2>Developmental origins</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Rapid gray matter loss in adolescents in adolescents with early onset SCZ</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../include/img/thompson-2001-F2.large.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-15" title="@thompson_mapping_2001"><img data-src="../include/img/thompson-2001-F2.large.jpg" alt="Thompson et al. (2001)"></a></p>
+<figcaption><span class="citation" data-cites="thompson_mapping_2001">Thompson et al. (<a href="#/references" role="doc-biblioref" onclick="">2001</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="early-life-stressors" class="slide level2">
+<h2>Early life stressors</h2>
+<ul>
+<li>2x greater risk in urban vs.&nbsp;rural environments <span class="citation" data-cites="Vassos2012-ja">(<a href="#/references" role="doc-biblioref" onclick="">Vassos, Pedersen, Murray, Collier, &amp; Lewis, 2012</a>)</span></li>
+<li>Higher risk among migrant populations <span class="citation" data-cites="Cantor-Graae2005-ej">(<a href="#/references" role="doc-biblioref" onclick="">Cantor-Graae &amp; Selten, 2005</a>)</span></li>
+<li>Exposure to infection <em>in utero</em> <span class="citation" data-cites="Brown2010-et">(<a href="#/references" role="doc-biblioref" onclick="">Brown &amp; Derkits, 2010</a>)</span></li>
+<li>Birth complications <span class="citation" data-cites="Forte2024-hl">(<a href="#/references" role="doc-biblioref" onclick="">Forte et al., 2024</a>)</span></li>
+</ul>
+</section>
+<section id="early-life-stress" class="slide level2">
+<h2>Early life stress</h2>
+<ul>
+<li><span class="citation" data-cites="levine_transgenerational_2016">Levine, Levav, Pugachova, Yoffe, &amp; Becher (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span>
+<ul>
+<li>Children (N=51,233) of parents who born during Nazi era (1922-1945)</li>
+<li>Emigrated before (indirect exposure) or after (direct exposure) Nazi era</li>
+<li>Children exposed to direct stress <em>in utero</em> or postnatally
+<ul>
+<li>Did <strong>not</strong> differ in rates of schizophrenia, but</li>
+<li>Had higher re-hospitalization rates</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="early-life-stress-1" class="slide level2">
+<h2>Early life stress</h2>
+<ul>
+<li>Danish cohort (<em>n</em>=1,141,447), <span class="citation" data-cites="debost_investigating_2015">Debost et al. (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span>
+<ul>
+<li>Exposure to early life stress
+<ul>
+<li><em>in utero</em> did <strong>not</strong> increase risk of schizophrenia, but</li>
+<li>stress during 0-2 years increased risk</li>
+</ul></li>
+<li>Increased risk associated with cortisol-related gene</li>
+</ul></li>
+</ul>
+</section>
+<section id="novel-approaches" class="slide level2">
+<h2>Novel approaches</h2>
+<ul>
+<li>Virtual Reality Assisted therapy <span class="citation" data-cites="Bisso2020-nq Dellazizzo2021-tk">(<a href="#/references" role="doc-biblioref" onclick="">Bisso et al., 2020</a>; <a href="#/references" role="doc-biblioref" onclick="">Dellazizzo, Potvin, Phraxayavong, &amp; Dumais, 2021</a>)</span></li>
+<li>Deep Neural Network used to identify functional brain signatures in a genetic disorder (<a href="https://www.mayoclinic.org/diseases-conditions/digeorge-syndrome/symptoms-causes/syc-20353543">DiGeorge syndrome</a>; 22q11.2 deletion syndrome) linked to psychotic symptoms <span class="citation" data-cites="Supekar2024-rq">(<a href="#/references" role="doc-biblioref" onclick="">Supekar et al., 2024</a>)</span></li>
+</ul>
+</section></section>
+<section>
+<section id="wrap-up" class="title-slide slide level1 center">
+<h1>Wrap up</h1>
+
+</section>
+<section id="main-points-scz" class="slide level2">
+<h2>Main points: SCZ</h2>
+<ul>
+<li>DA hypothesis of SCZ <span class="math inline">\(\rightarrow\)</span> glutamate hypothesis</li>
+</ul>
+</section>
+<section id="main-points-scz-1" class="slide level2">
+<h2>Main points: SCZ</h2>
+<ul>
+<li>Wide-ranging disturbance of mood, thought, action, perception</li>
+<li>Broad changes in brain structure<a href="#/footnotes" class="footnote-ref" id="fnref4" role="doc-noteref" data-footnote-href="#/fn4" onclick=""><sup>4</sup></a>, function, chemistry, development</li>
+<li>(Simplistic) dopamine hypothesis giving way to signalling network (DA + Glu + GABA) models</li>
+<li>Genetic (polygenic = multiple genes) risk + environmental factors</li>
+</ul>
+<aside></aside></section>
+<section class="slide level2">
+
+<div id="fig-howes-2023-fig-04" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-howes-2023-fig-04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41582-023-00904-0/MediaObjects/41582_2023_904_Fig4_HTML.png?as=webp" class="lightbox" data-gallery="quarto-lightbox-gallery-16" title="Figure&nbsp;8: @Howes2023-vk Figure 4"><img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41582-023-00904-0/MediaObjects/41582_2023_904_Fig4_HTML.png?as=webp" style="width:65.0%"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-howes-2023-fig-04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;8: <span class="citation" data-cites="Howes2023-vk">Howes et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span> Figure 4<a href="#/footnotes" class="footnote-ref" id="fnref5" role="doc-noteref" data-footnote-href="#/fn5" onclick=""><sup>5</sup></a>
+</figcaption>
+</figure>
+</div>
+<aside></aside></section>
+<section class="slide level2">
+
+<div id="fig-howes-2023-fig-02" class="quarto-float quarto-figure quarto-figure-center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-howes-2023-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41582-023-00904-0/MediaObjects/41582_2023_904_Fig2_HTML.png?as=webp" class="lightbox" data-gallery="quarto-lightbox-gallery-17" title="Figure&nbsp;9: @Howes2023-vk Figure 2"><img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41582-023-00904-0/MediaObjects/41582_2023_904_Fig2_HTML.png?as=webp" style="width:60.0%"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-howes-2023-fig-02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;9: <span class="citation" data-cites="Howes2023-vk">Howes et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span> Figure 2<a href="#/footnotes" class="footnote-ref" id="fnref6" role="doc-noteref" data-footnote-href="#/fn6" onclick=""><sup>6</sup></a>
+</figcaption>
+</figure>
+</div>
+<aside></aside></section>
+<section id="next-time" class="slide level2">
+<h2>Next time</h2>
+<ul>
+<li>Emotion</li>
+</ul>
+</section></section>
+<section>
+<section id="resources" class="title-slide slide level1 center">
+<h1>Resources</h1>
+
+</section>
+<section id="about" class="slide level2">
+<h2>About</h2>
+<p>This talk was produced using <a href="https://quarto.org">Quarto</a>, using the <a href="https://posit.co/products/open-source/rstudio/">RStudio</a> Integrated Development Environment (IDE), version 2026.8.1.195.</p>
+<p>The source files are in R and R Markdown, then rendered to HTML using the <a href="https://revealjs.com">revealJS</a> framework. The HTML slides are hosted in a <a href="https://github.com/psu-psychology/psych-260-2026-fall">GitHub repo</a> and served by GitHub pages: <a href="https://psu-psychology.github.io/psych-260-2026-fall/" class="uri">https://psu-psychology.github.io/psych-260-2026-fall/</a></p>
+</section>
+<section id="references" class="slide level2 smaller scrollable">
+<h2>References</h2>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Bisso2020-nq" class="csl-entry" role="listitem">
+Bisso, E., Signorelli, M. S., Milazzo, M., Maglia, M., Polosa, R., Aguglia, E., &amp; Caponnetto, P. (2020). Immersive virtual reality applications in schizophrenia spectrum therapy: A systematic review. <em>International Journal of Environmental Research and Public Health</em>, <em>17</em>(17). <a href="https://doi.org/10.3390/ijerph17176111">https://doi.org/10.3390/ijerph17176111</a>
+</div>
+<div id="ref-Brown2010-et" class="csl-entry" role="listitem">
+Brown, A. S., &amp; Derkits, E. J. (2010). Prenatal infection and schizophrenia: A review of epidemiologic and translational studies. <em>The American Journal of Psychiatry</em>, <em>167</em>, 261–280. <a href="https://doi.org/10.1176/appi.ajp.2009.09030361">https://doi.org/10.1176/appi.ajp.2009.09030361</a>
+</div>
+<div id="ref-Cantor-Graae2005-ej" class="csl-entry" role="listitem">
+Cantor-Graae, E., &amp; Selten, J.-P. (2005). Schizophrenia and migration: A meta-analysis and review. <em>The American Journal of Psychiatry</em>, <em>162</em>(1), 12–24. <a href="https://doi.org/10.1176/appi.ajp.162.1.12">https://doi.org/10.1176/appi.ajp.162.1.12</a>
+</div>
+<div id="ref-Davis1998-ki" class="csl-entry" role="listitem">
+Davis, K. L., Buchsbaum, M. S., Shihabuddin, L., Spiegel-Cohen, J., Metzger, M., Frecska, E., … Powchik, P. (1998). Ventricular enlargement in poor-outcome schizophrenia. <em>Biological Psychiatry</em>, <em>43</em>(11), 783–793. <a href="https://doi.org/10.1016/s0006-3223(97)00553-2">https://doi.org/10.1016/s0006-3223(97)00553-2</a>
+</div>
+<div id="ref-debost_investigating_2015" class="csl-entry" role="listitem">
+Debost, J.-C., Petersen, L., Grove, J., Hedemand, A., Khashan, A., Henriksen, T., … Mortensen, P. B. (2015). Investigating interactions between early life stress and two single nucleotide polymorphisms in <span>HSD</span>11B2 on the risk of schizophrenia. <em>Psychoneuroendocrinology</em>, <em>60</em>, 18–27. <a href="https://doi.org/10.1016/j.psyneuen.2015.05.013">https://doi.org/10.1016/j.psyneuen.2015.05.013</a>
+</div>
+<div id="ref-Dellazizzo2021-tk" class="csl-entry" role="listitem">
+Dellazizzo, L., Potvin, S., Phraxayavong, K., &amp; Dumais, A. (2021). One-year randomized trial comparing virtual reality-assisted therapy to cognitive-behavioral therapy for patients with treatment-resistant schizophrenia. <em>NPJ Schizophrenia</em>, <em>7</em>(1), 9. <a href="https://doi.org/10.1038/s41537-021-00139-2">https://doi.org/10.1038/s41537-021-00139-2</a>
+</div>
+<div id="ref-Van_Erp2015-ne" class="csl-entry" role="listitem">
+Erp, T. G. M. van, Hibar, D. P., Rasmussen, J. M., Glahn, D. C., Pearlson, G. D., Andreassen, O. A., … Turner, J. A. (2015). Subcortical brain volume abnormalities in 2028 individuals with schizophrenia and 2540 healthy controls via the <span>ENIGMA</span> consortium. <em>Mol. Psychiatry</em>. <a href="https://doi.org/10.1038/mp.2015.63">https://doi.org/10.1038/mp.2015.63</a>
+</div>
+<div id="ref-Forte2024-hl" class="csl-entry" role="listitem">
+Forte, M. F., Oliva, V., De Prisco, M., Garriga, M., Bitanihirwe, B., Alameda, L., … Garcia-Rizo, C. (2024). Obstetric complications and psychopathology in schizophrenia: A systematic review and meta-analysis. <em>Neuroscience and Biobehavioral Reviews</em>, <em>167</em>, 105913. <a href="https://doi.org/10.1016/j.neubiorev.2024.105913">https://doi.org/10.1016/j.neubiorev.2024.105913</a>
+</div>
+<div id="ref-Howes2023-vk" class="csl-entry" role="listitem">
+Howes, O. D., Bukala, B. R., &amp; Beck, K. (2023). Schizophrenia: From neurochemistry to circuits, symptoms and treatments. <em>Nature Reviews. Neurology</em>. <a href="https://doi.org/10.1038/s41582-023-00904-0">https://doi.org/10.1038/s41582-023-00904-0</a>
+</div>
+<div id="ref-Johnson2017-bp" class="csl-entry" role="listitem">
+Johnson, E. C., Border, R., Melroy-Greif, W. E., Leeuw, C. A. de, Ehringer, M. A., &amp; Keller, M. C. (2017). No evidence that schizophrenia candidate genes are more associated with schizophrenia than noncandidate genes. <em>Biol. Psychiatry</em>, <em>82</em>(10), 702–708. <a href="https://doi.org/10.1016/j.biopsych.2017.06.033">https://doi.org/10.1016/j.biopsych.2017.06.033</a>
+</div>
+<div id="ref-Kelly2017-lj" class="csl-entry" role="listitem">
+Kelly, S., Jahanshad, N., Zalesky, A., Kochunov, P., Agartz, I., Alloza, C., … Donohoe, G. (2017). Widespread white matter microstructural differences in schizophrenia across 4322 individuals: Results from the <span>ENIGMA</span> schizophrenia <span>DTI</span> working group. <em>Mol. Psychiatry</em>. <a href="https://doi.org/10.1038/mp.2017.170">https://doi.org/10.1038/mp.2017.170</a>
+</div>
+<div id="ref-Kempton2010-ms" class="csl-entry" role="listitem">
+Kempton, M. J., Stahl, D., Williams, S. C. R., &amp; DeLisi, L. E. (2010). Progressive lateral ventricular enlargement in schizophrenia: A meta-analysis of longitudinal <span>MRI</span> studies. <em>Schizophr. Res.</em>, <em>120</em>(1-3), 54–62. <a href="https://doi.org/10.1016/j.schres.2010.03.036">https://doi.org/10.1016/j.schres.2010.03.036</a>
+</div>
+<div id="ref-Kochunov2016-cu" class="csl-entry" role="listitem">
+Kochunov, P., Ganjgahi, H., Winkler, A., Kelly, S., Shukla, D. K., Du, X., … Hong, L. E. (2016). Heterochronicity of white matter development and aging explains regional patient control differences in schizophrenia. <em>Hum. Brain Mapp.</em>, <em>37</em>(12), 4673–4688. <a href="https://doi.org/10.1002/hbm.23336">https://doi.org/10.1002/hbm.23336</a>
+</div>
+<div id="ref-levine_transgenerational_2016" class="csl-entry" role="listitem">
+Levine, S. Z., Levav, I., Pugachova, I., Yoffe, R., &amp; Becher, Y. (2016). Transgenerational effects of genocide exposure on the risk and course of schizophrenia: <span>A</span> population-based study. <em>Schizophrenia Research</em>, <em>176</em>(2), 540–545. <a href="https://doi.org/10.1016/j.schres.2016.06.019">https://doi.org/10.1016/j.schres.2016.06.019</a>
+</div>
+<div id="ref-Lv2021-hu" class="csl-entry" role="listitem">
+Lv, J., Di Biase, M., Cash, R. F. H., Cocchi, L., Cropley, V. L., Klauser, P., … Zalesky, A. (2021). Individual deviations from normative models of brain structure in a large cross-sectional schizophrenia cohort. <em>Molecular Psychiatry</em>, <em>26</em>(7), 3512–3523. <a href="https://doi.org/10.1038/s41380-020-00882-5">https://doi.org/10.1038/s41380-020-00882-5</a>
+</div>
+<div id="ref-Neuroslicer2007-ev" class="csl-entry" role="listitem">
+Neuroslicer. (2007). <em>Schizophrenia: Gerald, part 1</em>. You<span>T</span>ube. Retrieved from <a href="https://www.youtube.com/watch?v=gGnl8dqEoPQ">https://www.youtube.com/watch?v=gGnl8dqEoPQ</a>
+</div>
+<div id="ref-Van_Os2009-be" class="csl-entry" role="listitem">
+Os, J. van, &amp; Kapur, S. (2009). Schizophrenia. <em>The Lancet</em>, <em>374</em>(9690), 635–645. <a href="https://doi.org/10.1016/S0140-6736(09)60995-8">https://doi.org/10.1016/S0140-6736(09)60995-8</a>
+</div>
+<div id="ref-Pettersson2019-io" class="csl-entry" role="listitem">
+Pettersson, E., Lichtenstein, P., Larsson, H., Song, J., Attention Deficit/Hyperactivity Disorder Working Group of the iPSYCH-Broad-PGC Consortium, Autism Spectrum Disorder Working Group of the iPSYCH-Broad-PGC Consortium, Bipolar Disorder Working Group of the PGC, Eating Disorder Working Group of the PGC, Major Depressive Disorder Working Group of the PGC, Obsessive Compulsive Disorders and Tourette Syndrome Working Group of the PGC, Schizophrenia CLOZUK, Substance Use Disorder Working Group of the PGC, Agrawal, A., … Polderman, T. J. C. (2019). Genetic influences on eight psychiatric disorders based on family data of 4 408 646 full and half-siblings, and genetic data of 333 748 cases and controls. <em>Psychological Medicine</em>, <em>49</em>, 1166–1173. <a href="https://doi.org/10.1017/S0033291718002039">https://doi.org/10.1017/S0033291718002039</a>
+</div>
+<div id="ref-Seutin2005-wx" class="csl-entry" role="listitem">
+Seutin, V. (2005). Dopaminergic neurones: Much more than dopamine? <em>Br. J. Pharmacol.</em>, <em>146</em>(2), 167–169. <a href="https://doi.org/10.1038/sj.bjp.0706328">https://doi.org/10.1038/sj.bjp.0706328</a>
+</div>
+<div id="ref-Sleigh2014-xp" class="csl-entry" role="listitem">
+Sleigh, J., Harvey, M., Voss, L., &amp; Denny, B. (2014). Ketamine – more mechanisms of action than just <span>NMDA</span> blockade. <em>Trends in Anaesthesia and Critical Care</em>, <em>4</em>, 76–81. <a href="https://doi.org/10.1016/j.tacc.2014.03.002">https://doi.org/10.1016/j.tacc.2014.03.002</a>
+</div>
+<div id="ref-Suddath1990-nn" class="csl-entry" role="listitem">
+Suddath, R. L., Christison, G. W., Torrey, E. F., Casanova, M. F., &amp; Weinberger, D. R. (1990). Anatomical abnormalities in the brains of monozygotic twins discordant for schizophrenia. <em>The New England Journal of Medicine</em>, <em>322</em>(12), 789–794. <a href="https://doi.org/10.1056/NEJM199003223221201">https://doi.org/10.1056/NEJM199003223221201</a>
+</div>
+<div id="ref-Supekar2024-rq" class="csl-entry" role="listitem">
+Supekar, K., Los Angeles, C. de, Ryali, S., Kushan, L., Schleifer, C., Repetto, G., … Menon, V. (2024). Robust and replicable functional brain signatures of 22q11.2 deletion syndrome and associated psychosis: <span>A</span> deep neural network-based multi-cohort study. <em>Molecular <span>P</span>sychiatry</em>. <a href="https://doi.org/10.1038/s41380-024-02495-8">https://doi.org/10.1038/s41380-024-02495-8</a>
+</div>
+<div id="ref-thompson_mapping_2001" class="csl-entry" role="listitem">
+Thompson, P. M., Vidal, C., Giedd, J. N., Gochman, P., Blumenthal, J., Nicolson, R., … Rapoport, J. L. (2001). Mapping adolescent brain change reveals dynamic wave of accelerated gray matter loss in very early-onset schizophrenia. <em>Proceedings of the National Academy of Sciences</em>, <em>98</em>(20), 11650–11655. <a href="https://doi.org/10.1073/pnas.201243998">https://doi.org/10.1073/pnas.201243998</a>
+</div>
+<div id="ref-Vassos2012-ja" class="csl-entry" role="listitem">
+Vassos, E., Pedersen, C. B., Murray, R. M., Collier, D. A., &amp; Lewis, C. M. (2012). Meta-analysis of the association of urbanicity with schizophrenia. <em>Schizophrenia Bulletin</em>, <em>38</em>, 1118–1123. <a href="https://doi.org/10.1093/schbul/sbs096">https://doi.org/10.1093/schbul/sbs096</a>
+</div>
+<div id="ref-Zhang2021-nn" class="csl-entry" role="listitem">
+Zhang, Y., Ye, F., Zhang, T., Lv, S., Zhou, L., Du, D., … Zhu, S. (2021). Structural basis of ketamine action on human <span>NMDA</span> receptors. <em>Nature</em>, <em>596</em>, 301–305. <a href="https://doi.org/10.1038/s41586-021-03769-9">https://doi.org/10.1038/s41586-021-03769-9</a>
+</div>
+</div>
+</section></section>
+<section id="footnotes" class="footnotes footnotes-end-of-document smaller scrollable" role="doc-endnotes"><h2>Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>“MRI Coronal Views from Two Sets of Monozygotic Twins Discordant for Schizophrenia Showing Subtle Enlargement of the Lateral Ventricles in the Affected Twins (Panels B and D) as Compared with the Unaffected Twins (Panels A and C), Even When the Affected Twin Had Small Ventricles.”</p></li>
+<li id="fn2"><p>“Mega-analytic analysis of the effects of diagnosis (DX) and DX by age interaction. The non-linear aging trends in FA values are regressed in each cohort separately, thus producing linear trends of patient–control differences in aging.”</p></li>
+<li id="fn3"><p>Blocks an open ion channel <span class="citation" data-cites="Sleigh2014-xp Zhang2021-nn">(<a href="#/references" role="doc-biblioref" onclick="">Sleigh et al., 2014</a>; <a href="#/references" role="doc-biblioref" onclick="">Zhang et al., 2021</a>)</span>.</p></li>
+<li id="fn4"><p>area size; connectivity</p></li>
+<li id="fn5"><p>“Summary of major neurochemical and other imaging differences observed in people with schizophrenia relative to healthy controls. In schizophrenia, dopamine synthesis and release capacity in the striatum (pink) are increased but dopamine release in the frontal cortex (blue) is decreased. Lower levels of glutamate are present in the medial frontal cortex (within the blue area), glutamate and glutamine (Glx) levels in the basal ganglia (pink) are higher and γ-aminobutyric acid (GABA) levels in the mid-cingulate cortex (within the blue area) are lower. Expression of synaptic markers in the frontal and anterior cingulate cortices (within the blue area) is lower and grey matter volume is reduced in the temporal cortex (green) and frontal cortex (blue) in schizophrenia compared with healthy controls.”</p></li>
+<li id="fn6"><p>“Projections to the striatum show distinct topographies depending on their origin. Limbic regions (yellow) project to the ventral striatum, the association cortex (blue) projects to the rostro-dorsal striatum and the sensorimotor cortex (red) projects to the caudo-dorsal striatum. Projections illustrated by black arrows.”</p></li>
+</ol>
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg" class="slide-logo"></p>
+<div class="footer footer-default">
+<p><a href="https://psu-psychology.github.io/psych-260-2026-fall">PSY 260.001</a> | © 2026 Rick Gilmore under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'chalkboard': {"buttons":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+                // default icon
+                link.classList.add("external");
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
+    
+
+</body></html>

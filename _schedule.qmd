@@ -173,7 +173,7 @@
 *Psychopathology II*
 
 <!-- - *Read*: MM pp 106-108, 386-394 -->
-- *Review*: <https://en.wikipedia.org/wiki/Bipolar_disorder>, <https://en.wikipedia.org/wiki/Schizophrenia>
+- *Review*: <https://en.wikipedia.org/wiki/Bipolar_disorder>
 - *Slides*:  | [html](slides/wk-07-2026-10-09-psychopathology-II.qmd) |
 
 ## Week 08 {- #week-08}
@@ -182,7 +182,8 @@
 
 *Psychopathology III*
 
-- *Slides*:  | [html](slides/) |
+- *Review*: <https://en.wikipedia.org/wiki/Schizophrenia>
+- *Slides*:  | [html](slides/wk-08-2026-10-12-psychopathology-III.qmd) |
 
 ### Wed, Oct 14 {-}
 

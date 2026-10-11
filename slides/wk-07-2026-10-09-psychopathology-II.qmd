@@ -323,9 +323,16 @@ readr::read_csv("../private/quizzes/quiz-02/Canvas Report - Exam 23454 - Section
 
 - Changes in mood, but ≠ MDD
 - Genetic + environmental risk
-- Changes in emotion processing, cognition, size of hippocampus
+- BP and SCZ separable, but related
+- Reduced brain volume, thickness, connectivity
+
+## Main points: BP
+
+- Changes in emotion processing, cognition
 - Heterogeneous
 - No simple link to a specific NT system
+- Mood stabilizers (e.g., Li) + psychotherapy often effective BP treatments
+- Can measure Li via blood test, but not Glu, DA, GABA
 
 ## Next time
 

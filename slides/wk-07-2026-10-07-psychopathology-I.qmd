@@ -310,8 +310,8 @@ format: revealjs
 
 ## Ketamine
 
-- Selective antagonist of the NMDA receptor
-  - NMDA is an ionotropic (& voltage-gated) glutamate (Glu) receptor
+- Selective antagonist of the NMDA receptor (NMDA-R)
+  - NMDA-R ionotropic glutamate (Glu) receptor (ligand-gated AND voltage-gated)
 - Relieves depressive symptoms relatively quickly [@Berman2000-vg; @Zarate2006-np]
   - But only for a short time
 - Boosts synaptic spine formation [@Li2010-ve] and reverses effects of induced stress
