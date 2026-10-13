@@ -190,7 +190,7 @@
 *Emotion I*
 
 <!-- - *Read*: MM pp 356-369 -->
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-08-2026-10-14-emotion-I.qmd) |
 
 ### Fri, Oct 16 {-}
 
@@ -204,6 +204,8 @@
 ### Mon, Oct 19 {-}
 
 *Catch up; Exam 2 review*
+
+- *Slides*:  | [html](slides/wk-09-2026-10-19-exam-rev.qmd) |
 
 ### Wed, Oct 21 {-}
 

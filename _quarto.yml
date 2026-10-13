@@ -1,9 +1,9 @@
 project:
   type: website
   output-dir: docs
-  # render:
+  render:
   #   - "slides/*.qmd"
-  #   - "*.qmd"
+    - "*.qmd"
   lib-dir: site_libs
   
 # execute:
@@ -69,10 +69,12 @@ website:
             href: slides/wk-07-2026-10-09-psychopathology-II.qmd
           - text: "Wk 08 • Mon Oct 12"
             href: slides/wk-08-2026-10-12-psychopathology-III.qmd
-      #     - text: "Wk 11 • Thu Nov 6"
-      #       href: slides/wk-11-2025-11-06-emotion-I.qmd
+          - text: "Wk 08 • Wed Oct 14"
+            href: slides/wk-08-2026-10-14-emotion-I.qmd
       #     - text: "Wk 12 • Tue Nov 11"
       #       href: slides/wk-12-2025-11-11-emotion-II.qmd
+          - text: "Wk 09 • Mon Oct 19"
+            href: slides/wk-09-2026-10-19-exam-rev.qmd
       #     - text: "Wk 12 • Thu Nov 13"
       #       href: slides/wk-12-2025-11-13-sensory-systems.qmd
       #     - text: "Wk 13 • Tue Nov 18"

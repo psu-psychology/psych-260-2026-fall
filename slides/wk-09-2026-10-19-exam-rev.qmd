@@ -1,0 +1,308 @@
+---
+title: "Exam II review"
+format: revealjs
+---
+
+## Today's topics
+
+- Quiz 2 review
+- Exam 2 review
+
+## Your time is your money
+
+::: {.incremental}
+- Penn State CLA students pay $1,857-1,951/credit hour
+- PSYCH 260.001 cost: ~$5,712/student
+- \$381/week or \$127/class
+- Come to class, come to office hours
+:::
+
+# Quiz 2
+
+---
+
+1. The ventral tegmental area (VTA) and substantia nigra release dopamine onto targets across the CNS; these structures are located in the __________.
+
+- a. cerebral cortex
+- b. midbrain 
+- c. cerebellum
+- d. hypothalamus 
+
+---
+
+1. The ventral tegmental area (VTA) and substantia nigra release dopamine onto targets across the CNS; these structures are located in the __________.
+
+- ~~a. cerebral cortex~~
+- **b. midbrain**
+- ~~c. cerebellum~~
+- ~~d. hypothalamus~~
+
+---
+
+2. A reuptake inhibitor has what effect on neurotransmitters?
+
+- a. Reduces extracellular levels.
+- b. Accelerates their reuptake.
+- c. Increases extracellular levels.
+- d. Causes neurotransmitters to bind to ionotropic receptors.
+
+---
+
+2. A reuptake inhibitor has what effect on neurotransmitters?
+
+- ~~a. Reduces extracellular levels.~~
+- ~~b. Accelerates their reuptake.~~
+- **c. Increases extracellular levels.**
+- ~~d. Causes neurotransmitters to bind to ionotropic receptors.~~
+
+---
+
+3. Botilinum toxin (BoTox) causes muscle paralysis by impeding the normal function of which neurotransmitter system?
+
+- a. Glutamate 
+- b. GABA
+- c. Dopamine
+- d. Acetylcholine
+
+---
+
+3. Botilinum toxin (BoTox) causes muscle paralysis by impeding the normal function of which neurotransmitter system?
+
+- ~~a. Glutamate~~ 
+- ~~b. GABA~~
+- ~~c. Dopamine~~
+- **d. Acetylcholine**
+
+---
+
+4. __________ is the most commonly released excitatory neurotransmitter in the CNS. In so doing, it typically binds to a/an __________ receptor.
+
+- a. GABA; ionotropic
+- b. ACh; metabotropic
+- c. Glutamate; ionotropic 
+- d. Dopamine; metabotropic
+
+---
+
+4. __________ is the most commonly released excitatory neurotransmitter in the CNS. In so doing, it typically binds to a/an __________ receptor.
+
+- ~~a. GABA; ionotropic~~
+- ~~b. ACh; metabotropic~~
+- **c. Glutamate; ionotropic** 
+- ~~d. Dopamine; metabotropic~~
+
+---
+
+5. Which of these hormones is released directly into the blood stream by projections from the hypothalamus into the posterior pituitary?
+
+- a. Oxytocin.
+- b. Cortisol.
+- c. Melatonin.
+- d. Norepinephrine.
+
+---
+
+5. Which of these hormones is released directly into the blood stream by projections from the hypothalamus into the posterior pituitary?
+
+- **a. Oxytocin.**
+- ~~b. Cortisol.~~
+- ~~c. Melatonin.~~
+- ~~d. Norepinephrine.~~
+
+---
+
+6. Which of these acts as both a neurotransmitter and a hormone?
+
+- a. Dopamine.
+- b. Glutamate. 
+- c. Acetylcholine. 
+- d. Melatonin.
+
+---
+
+6. Which of these acts as both a neurotransmitter and a hormone?
+
+- ~~a. Dopamine.~~
+- ~~b. Glutamate.~~
+- ~~c. Acetylcholine.~~ 
+- **d. Melatonin.**
+
+---
+
+7. __________  receptors contain both chemical (ligand) binding sites and an ion channel.
+
+- a. Metabotropic
+- b. Serotonin 
+- c. Glutamate 
+- d. Ionotropic
+
+---
+
+7. __________  receptors contain both chemical (ligand) binding sites and an ion channel.
+
+- ~~a. Metabotropic~~
+- ~~b. Serotonin~~ 
+- ~~c. Glutamate~~
+- **d. Ionotropic**
+
+---
+
+8. The inward flow of __________ ions across the neural membrane creates an __________.
+
+- a. Cl-; IPSP
+- b. K+; IPSP
+- c. Glutamate; EPSP
+- d. GABA; EPSP
+
+---
+
+8. The inward flow of __________ ions across the neural membrane creates an __________.
+
+- **a. Cl-; IPSP**
+- ~~b. K+; IPSP~~
+- ~~c. Glutamate; EPSP~~
+- ~~d. GABA; EPSP~~
+
+---
+
+9. True or False? The sympathetic/adrenal medullary (SAM) system and the hypothalamic/pituitary/adrenal (HPA) system are both involved in responses to threat or challenge.
+
+- a. True 
+- b. False
+
+---
+
+9. True or False? The sympathetic/adrenal medullary (SAM) system and the hypothalamic/pituitary/adrenal (HPA) system are both involved in responses to threat or challenge.
+
+- **a. True** 
+- ~~b. False~~
+
+---
+
+10. When the action potential arrives at the axon terminal, __________ open and the influx of __________ triggers exocytosis.
+
+- a. voltage-gated Na+ channels; Na+
+- b. voltage-gated Ca++ channels; Ca++
+- c. metabotropic channels; K+
+- d. transporters; Ca++
+
+---
+
+10. When the action potential arrives at the axon terminal, __________ open and the influx of __________ triggers exocytosis.
+
+- ~~a. voltage-gated Na+ channels; Na+~~
+- **b. voltage-gated Ca++ channels; Ca++**
+- ~~c. metabotropic channels; K+~~
+- ~~d. transporters; Ca++~~
+
+---
+
+11. With one exception, the monoamine neurotransmitters bind to __________ receptors.
+
+- a. ionotropic
+- b. voltage-gated 
+- c. nicotinic
+- d. metabotropic
+
+---
+
+11. With one exception, the monoamine neurotransmitters bind to __________ receptors.
+
+- ~~a. ionotropic~~
+- ~~b. voltage-gated~~ 
+- ~~c. nicotinic~~
+- **d. metabotropic**
+
+---
+
+12. You are examining an axosomatic synapse and based on where it connects guess that it is __________  and involves the release of __________.
+
+- a. inhibitory; glutamate 
+- b. inhibitory; GABA
+- c. excitatory; adenosine
+- d. excitatory; glycine
+
+---
+
+12. You are examining an axosomatic synapse and based on where it connects guess that it is __________  and involves the release of __________.
+
+- ~~a. inhibitory; glutamate~~ 
+- **b. inhibitory; GABA**
+- ~~c. excitatory; adenosine~~
+- ~~d. excitatory; glycine~~
+
+---
+
+13. Which of the following statements is incorrect?
+
+- a. Primary motor cortex (M1) is in the frontal lobe.
+- b. Primary visual cortex (V1) is in the occipital lobe.
+- c. Primary auditory cortex (A1) is in the temporal lobe.
+- d. Primary somatosensory cortex (S1) is in the insula.
+
+---
+
+13. Which of the following statements is incorrect?
+
+- a. Primary motor cortex (M1) is in the frontal lobe.
+- b. Primary visual cortex (V1) is in the occipital lobe.
+- c. Primary auditory cortex (A1) is in the temporal lobe.
+- **d. Primary somatosensory cortex (S1) is in the insula.**
+
+---
+
+14. Which of the following structures are not part of the meninges?
+
+- a. Dura mater.
+- b. Pia mater.
+- c. Cerebrospinal Fluid (CSF).
+- d. Arachnoid membrane.
+
+---
+
+14. Which of the following structures are not part of the meninges?
+
+- a. Dura mater.
+- b. Pia mater.
+- **c. Cerebrospinal Fluid (CSF).**
+- d. Arachnoid membrane.
+
+---
+
+15. During the falling phase of the action potential, ____________ ions ___________.
+
+- a. K+; ﬂow out 
+- b. Na+; ﬂow out 
+- c. K+; ﬂow in 
+- d. Na+; ﬂow in
+
+---
+
+15. During the falling phase of the action potential, ____________ ions ___________.
+
+- **a. K+; ﬂow out**
+- ~~b. Na+; ﬂow out~~
+- ~~c. K+; ﬂow in~~
+- ~~d. Na+; ﬂow in~~
+
+# Exam 2 review
+
+# Wrap-up
+
+## Next time
+
+- Exam 2
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.9.0.174.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References
