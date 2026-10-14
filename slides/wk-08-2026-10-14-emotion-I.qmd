@@ -466,11 +466,11 @@ How about now?
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+Integrated Development Environment (IDE), version 2026.8.1.195.
 
 The source files are in R and R Markdown, then rendered to HTML using the
-[revealJS](https://revealjs.com) framework. 
-The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
-<https://psu-psychology.github.io/psych-260-2025-fall/>
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
 
 ## References

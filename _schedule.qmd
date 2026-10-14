@@ -197,7 +197,7 @@
 *Emotion II*
 
 <!-- - *Read*: MM pp 375-383 -->
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-08-2026-10-16-emotion-II.qmd) |
 
 ## Week 09 {- #week-09}
 

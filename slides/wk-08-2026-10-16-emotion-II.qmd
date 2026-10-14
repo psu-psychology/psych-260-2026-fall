@@ -1,0 +1,273 @@
+---
+title: "Emotion II"
+format: revealjs
+---
+
+# Prelude
+
+---
+
+<!-- Happiness from "You're a Good Man Charlie Brown" -->
+
+{{< video https://www.youtube.com/watch?v=hKKjqzkGo3o&t=85s width="100%" height="70%" >}}
+
+-- @Number1AnimationFan2007-gu
+
+## Announcements
+
+- Exam 2 next Wednesday, October 21, 2026
+
+## Today's topics
+
+- Warm up
+- Pleasure & reward
+
+# Warm up
+
+# Last time...
+
+## Emotion in action
+
+{{< audio "../include/snd/9999-ang-chk-a.wav" >}}
+
+:::: {.columns}
+
+::: {.column width=50%}
+What emotion?
+
+:::
+
+::: {.column width=50%}
+![@Stoop2020-bu Figure 1](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="60%"}
+:::
+::::
+
+## Emotion in action
+
+{{< audio "../include/snd/9999-hap-chk-a.wav" >}}
+
+:::: {.columns}
+
+::: {.column width=50%}
+How about now?
+
+:::
+
+::: {.column width=50%}
+![@Stoop2020-bu Figure 1](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="60%"}
+:::
+::::
+
+---
+
+<iframe src="https://www.biomotionlab.ca/Demos/bmlwalker/" width="1200" height="800"></iframe>
+
+# Pleasure & reward
+
+## Big questions
+
+- Components?
+- What functions do pleasure & reward serve?
+- Where/how do they arise?
+
+## Components
+
+:::: {.columns}
+::: {.column width=50%}
+- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
+- Eudaimonia
+    + Life satisfaction
+- Hedonia
+    + Pleasure
+:::
+::: {.column width=50%}
+::: {.fragment}
+![](https://www.verywellmind.com/thmb/-U6DvFSZP7Lqn4C_X6x2NRjijlk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-143382618-56a798255f9b58b7d0ebfac8.jpg){#fig-boy-eating-chocolate}
+:::
+:::
+::::
+    
+## Functions served
+
+- Approach vs. avoidant behaviors
+- *Rewards* 
+  - External events that reinforce (make more prevalent/probable) some behavior
+- Basis of [operant conditioning](https://en.wikipedia.org/wiki/Operant_conditioning)
+
+---
+
+{{< video https://www.youtube.com/watch?v=de_b7k9kQp0 width="100%" height="70%" >}}
+
+-- @Ashikkerib2007-su
+
+## Where & how do these arise?
+
+- Milner and Olds [@milner_discovery_1989](http://doi.org/10.1016/S0149-7634(89)80013-2)
+  - discovered 'rewarding' power of electrical self-stimulation
+- Heath [-@heath1963electrical] studied effects in human patients.
+
+## Implications
+
+- Specific circuits signal pleasure
+- Similarities across animal species
+  - Behavior & brain
+  
+## Implications
+
+![@kringelbach2009towards Figure 2](../include/img/kringelbach-2009-fig-2.jpg){#fig-kringelbach-fig-02}
+
+## Circuit components
+
+:::: {.columns}
+::: {.column width=50%}
+- Ventral tegmental area (VTA) in midbrain
+- Nucleus accumbens (nAcc), ventral striatum
+- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
+:::
+::: {.column width=50%}
+![@nestler2006mesolimbic Figure 1](../include/img/nestler-fig-1.jpg){#fig-nestler-06-fig-01}
+:::
+::::
+
+
+## Circuit components
+
+:::: {.columns}
+::: {.column width=50%}
+- Hypothalamus (Hyp)
+- Amygdala (Amy)
+- Hippocampus (HP)
+- Prefrontal cortex (PFC)
+:::
+::: {.column width=50%}
+![@kohls2012social Figure 2](../include/img/kohls-fig-2.jpg){#fig-kohls-2012-fig-02}
+:::
+::::
+
+## Neurotransmitters
+
+:::: {.columns}
+::: {.column width=50%}
+- Dopamine
+- Serotonin, Norepinephrine
+- ACh
+:::
+::: {.column width=50%}
+![@cock_sleep_2008 Figure 4](../include/img/ncpneuro0775-f4.jpg){#fig-cock-2008-fig-04}
+:::
+::::
+
+## Dopamine memes
+
+![](https://www.verywellmind.com/thmb/bzVxJeMBMedf1sGoi51yIA0QdG8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/can-you-get-addicted-to-dopamine-5207433-ADD-Color-bcfbd83f2cc148aba1b2c0b130166ff8.jpg){fig-align="center" #fig-dopamine-memes}
+
+## What does DA *actually* signal?
+
+:::: {.columns}
+::: {.column width=50%}
+- Differences between expected and actual rewards
+- Reward prediction error
+:::
+::: {.column width=50%}
+![@Hu2016-yw](https://www.annualreviews.org/docserver/fulltext/neuro/39/1/ne390297.f1.gif){#fig-hu-2016-fig-01}
+:::
+::::
+
+## Inputs
+
+:::: {.columns}
+::: {.column width=50%}
+- DA network
+  - Ventral tegmental area (VTA) and Substantia Nigra (SN)
+  - Midbrain tegmentum
+- From across the brain
+:::
+::: {.column width=50%}
+![@Watabe-Uchida2017-gi Figure 4](https://www.annualreviews.org/docserver/ahah/fulltext/neuro/40/1/ne400373.f4_thmb.gif){width="60%" #watabe-uchida-2017-fig-04}
+:::
+::::
+
+## Reward & aversion networks interconnect
+
+![@Hu2016-yw Figure 3](https://www.annualreviews.org/docserver/fulltext/neuro/39/1/ne390297.f3.gif){#fig-hu-2016-fig-03}
+
+## Other neurotransmitters
+
+:::: {.columns}
+::: {.column width=60%}
+- Endogenous morphines or *endorphins*
+  - Opioids generated & released by the CNS
+  - Sources include ventral tegmental area, nucleus accumbens, amygdala, etc.
+- *Exogenous* opioids (morphine, heroin, oxycontin) powerful pain relievers
+:::
+::: {.column width=40%}
+![](../include/img/endorphins-niaa.gif){fig-align="right" #fig-endorphins-niaa}
+:::
+::::
+
+## Neurotransmitters
+
+:::: {.columns}
+::: {.column width=50%}
+- Cannabinoids == psychoactive compounds found in cannibis
+- Endogenous cannabinoids
+  - Bind to receptors
+  - CB1 in CNS; CB2 in body, immune system
+:::
+::: {.column width=50%}
+![@flores_cannabinoid-hypocretin_2013 Figure 1](../include/img/fnins-07-00256-g001.jpg){#fig-flores-2013-fig-01}
+:::
+::::
+
+## Exogenous substances
+
+- Modulate endogenous neurotransmitter systems in some cases
+- Influence subjective feelings of pain, pleasure
+- Vary in relative health risk
+
+## Comparative risk
+
+>A comparative risk assessment of drugs including alcohol and tobacco using the margin of exposure (MOE) approach was conducted. The MOE is defined as ratio between toxicological threshold (benchmark dose) and estimated human intake. Median lethal dose values from animal experiments were used to derive the benchmark dose. The human intake was calculated for individual scenarios and population-based scenarios...
+
+-- @Lachenmeier2015-mm
+
+## Comparative risk
+
+>...For individual exposure the four substances alcohol, nicotine, cocaine, and heroin fall into the “high risk” category with MOE < 10, the rest of the compounds except THC fall into the “risk” category with MOE < 100.
+
+-- @Lachenmeier2015-mm
+
+## Comparative risk
+
+>The toxicological MOE approach validates epidemiological and social science-based drug ranking approaches especially in regard to the positions of alcohol and tobacco (high risk) and cannabis (low risk).
+
+-- @Lachenmeier2015-mm
+
+# Wrap-up
+
+## Main points
+
+- Types of pleasure activate overlapping areas
+- Pleasure/happiness engage distributed brain network
+    - VTA and ventral striatum/nucleus accumbens (NAcc) especially important
+    
+## Main points
+
+- Pleasure/happiness signaling involves multiple NTs
+  - DA especially important in signalling *unexpected outcomes*
+- “Reward” pathways activated by multiple inputs
+- Some *exogenous* substances associated with feelings of pleasure or relief from pain bind to *endogenous* receptor systems
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.8.1.195.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References
