@@ -1,0 +1,8 @@
+---
+title: "_testbed"
+format: revealjs
+---
+
+<!-- <audio controls src="../include/snd/brain_boxing.m4a"></audio> -->
+
+{{< audio "../include/snd/9999-ang-chk-a.wav" >}}
