@@ -11,9 +11,9 @@ format: revealjs
 ## Your time is your money
 
 ::: {.incremental}
-- Penn State CLA students pay $1,857-1,951/credit hour
-- PSYCH 260.001 cost: ~$5,712/student
-- \$381/week or \$127/class
+- Penn State CLA^[College of the Liberal Arts] students pay $1,857-1,951/credit hour
+- PSYCH 260.001 cost/student: $5,571-$5,712
+- \$371-\$381/week or \$124-$130/class
 - Come to class, come to office hours
 :::
 
@@ -286,6 +286,64 @@ format: revealjs
 - ~~d. Na+; ﬂow in~~
 
 # Exam 2 review
+
+## Methods
+
+- Diffusion Tensor Imaging (DTI)
+
+## Neuroanatomy
+
+- Size & number of neurons in the cerebellum relative to other areas
+- Landmark dividing the frontal and parietal lobes
+- Location of hippocampus
+- Vagus (Xth) cranial nerve function
+
+## Cells
+
+- Myelin-producing glia 
+
+## Synaptic transmission
+
+- Steps leading to exocytosis
+- What reuptake inhibitors do
+- Ionotropic vs. metabotropic receptors
+- Basic facts about glutamate, GABA, acetlycholine
+
+## Synaptic transmission
+
+- Diseases or disorders linked to dopamine dysfunction
+- Effect on membrane potential of opening/closing Na+ channel
+- Gap junctions
+- Histamine functions and main release site
+
+## Hormonal communication
+
+- HPA & SAM axes
+- Role of melatonin, cortisol, oxytocin
+- Role of hypothalamus, pituitary (anterior & posterior), endocrine glands
+- Sequence in milk letdown reflex
+
+## Brain evolution & development
+
+- Brain size vs. body size
+- When nervous systems emerged
+- Number of neurons in human cerebral cortex
+- Features of vertebrate nervous systems (vs. invertebrates)
+- Animals with larger vs. smaller brain sizes than predicted
+
+## Brain evolution & development
+
+- Timing & importance of neural tube formation
+
+## Psychopathology
+
+- Brain abnormalities in schizophrenia
+- Evidence for serotonin dysfunction in major depressive disorder
+
+## Emotion
+
+- Localization vs. distributed or constructivist views of emotion
+- Dopamine pathways that constitute the 'reward' system
 
 # Wrap-up
 

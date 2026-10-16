@@ -20,9 +20,64 @@ format: revealjs
 ## Today's topics
 
 - Warm up
+- Last time...
 - Pleasure & reward
 
 # Warm up
+
+---
+
+### Plutchik argued that emotions can be mapped to a space with the following dimensions:
+
+- a. Fight & flight
+- b. Valence & arousal
+- c. Positive & negative
+- d. Sympathetic & parasympathetic
+
+---
+
+### Plutchik argued that emotions can be mapped to a space with the following dimensions:
+
+- ~~a. Fight & flight~~
+- **b. Valence & arousal**
+- ~~c. Positive & negative~~
+- ~~d. Sympathetic & parasympathetic~~
+
+---
+
+### What does evidence imply about the relationship between physiological measures and emotional states?
+
+- a. Sympathetic nervous system activity distinguishes between  emotions
+- b. Parasympathetic nervous system activity distinguishes between  emotions
+- c. There is no 1:1 mapping between emotion categories and ANS activity
+- d. Emotions don't activate the ANS
+
+---
+
+### What does evidence imply about the relationship between physiological measures and emotional states?
+
+- ~~a. Sympathetic nervous system activity distinguishes between  emotions~~
+- ~~b. Parasympathetic nervous system activity distinguishes between  emotions~~
+- **c. There is no 1:1 mapping between emotion categories and ANS activity**
+- ~~d. Emotions don't activate the ANS~~
+
+---
+
+## A "locationist" account of emotions assumes...
+
+- a. Specific brain areas activate or control specific emotions
+- b. A distributed network of brain areas activates to emotions
+- c. Some emotions are only experienced in specific places
+- d. There is a physical map in the brain of emotions like Plutchik's
+
+---
+
+## A "locationist" account of emotions assumes...
+
+- **a. Specific brain areas activate or control specific emotions**
+- ~~b. A distributed network of brain areas activates to emotions~~
+- ~~c. Some emotions are only experienced in specific places~~
+- ~~d. There is a physical map in the brain of emotions like Plutchik's~~
 
 # Last time...
 
@@ -38,7 +93,7 @@ What emotion?
 :::
 
 ::: {.column width=50%}
-![@Stoop2020-bu Figure 1](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="60%"}
+![@Stoop2020-bu Figure 1](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="55%"}
 :::
 ::::
 
@@ -54,13 +109,9 @@ How about now?
 :::
 
 ::: {.column width=50%}
-![@Stoop2020-bu Figure 1](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="60%"}
+![@Stoop2020-bu Figure 1](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="55%"}
 :::
 ::::
-
----
-
-<iframe src="https://www.biomotionlab.ca/Demos/bmlwalker/" width="1200" height="800"></iframe>
 
 # Pleasure & reward
 
@@ -96,9 +147,11 @@ How about now?
 
 ---
 
-{{< video https://www.youtube.com/watch?v=de_b7k9kQp0 width="100%" height="70%" >}}
+::: {#fig-brain-pleasure-addiction}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/de_b7k9kQp0?si=t33yoSB_iDTTDCWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
--- @Ashikkerib2007-su
+@Ashikkerib2007-su
+:::
 
 ## Where & how do these arise?
 
@@ -109,6 +162,8 @@ How about now?
 ## Implications
 
 - Specific circuits signal pleasure
+- Form of memory
+  - Action in (recent) past led to positive outcomes
 - Similarities across animal species
   - Behavior & brain
   
@@ -189,7 +244,7 @@ How about now?
 
 ## Reward & aversion networks interconnect
 
-![@Hu2016-yw Figure 3](https://www.annualreviews.org/docserver/fulltext/neuro/39/1/ne390297.f3.gif){#fig-hu-2016-fig-03}
+![@Hu2016-yw Figure 3](https://www.annualreviews.org/docserver/fulltext/neuro/39/1/ne390297.f3.gif){#fig-hu-2016-fig-03 width="65%"}
 
 ## Other neurotransmitters
 
@@ -205,14 +260,14 @@ How about now?
 :::
 ::::
 
-## Neurotransmitters
+## Other neurotransmitters
 
 :::: {.columns}
 ::: {.column width=50%}
 - Cannabinoids == psychoactive compounds found in cannibis
-- Endogenous cannabinoids
+- Endogenous cannabinoids (Endocannabinoids)
   - Bind to receptors
-  - CB1 in CNS; CB2 in body, immune system
+  - CB1 in CNS; CB2 in PNS, immune system
 :::
 ::: {.column width=50%}
 ![@flores_cannabinoid-hypocretin_2013 Figure 1](../include/img/fnins-07-00256-g001.jpg){#fig-flores-2013-fig-01}
@@ -221,7 +276,7 @@ How about now?
 
 ## Exogenous substances
 
-- Modulate endogenous neurotransmitter systems in some cases
+- Activate or modulate endogenous neurotransmitter systems in some cases
 - Influence subjective feelings of pain, pleasure
 - Vary in relative health risk
 
@@ -236,6 +291,10 @@ How about now?
 >...For individual exposure the four substances alcohol, nicotine, cocaine, and heroin fall into the “high risk” category with MOE < 10, the rest of the compounds except THC fall into the “risk” category with MOE < 100.
 
 -- @Lachenmeier2015-mm
+
+---
+
+![@Lachenmeier2015-mm Figure 1^["Margin of exposure for daily drug use estimated using probabilistic analysis (left red bar: average; error bar: standard deviation; right gray bar: tolerant user; circle symbol (for alcohol): value based on human data)."]](../include/img/41598_2015_Article_BFsrep08126_Fig1_HTML.jpg.webp){#fig-lachenmeier-2015 width="85%"}
 
 ## Comparative risk
 
@@ -263,7 +322,7 @@ How about now?
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2026.8.1.195.
+Integrated Development Environment (IDE), version 2026.10.0.233.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework.
