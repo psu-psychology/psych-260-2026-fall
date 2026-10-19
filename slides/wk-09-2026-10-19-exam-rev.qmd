@@ -347,6 +347,12 @@ format: revealjs
 
 # Wrap-up
 
+---
+
+>"You're on a big blue marble hurtling through the dark of space, circling a black vortex that consumes everything. You are literally made of stardust. Fear nothing"
+
+-- Fit to Teach
+
 ## Next time
 
 - Exam 2
