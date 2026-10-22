@@ -223,19 +223,19 @@
 
 *Sleep I*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-10-2026-10-26-sleep-I.qmd) |
 
 ### Wed, Oct 28 {-}
 
 *Sleep II*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-10-2026-10-28-sleep-II.qmd) |
 
 ### Fri, Oct 30 {-}
 
 *Sleep III*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-10-2026-10-30-sleep-III.qmd) |
 
 ## Week 11 {- #week-11}
 
