@@ -215,6 +215,8 @@
 
 *Emotion III*
 
+- *Slides*:  | [html](slides/wk-09-2026-10-23-emotion-III.qmd) |
+
 ## Week 10 {- #week-10}
 
 ### Mon, Oct 26 {-}

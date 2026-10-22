@@ -362,7 +362,7 @@ format: revealjs
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2026.9.0.174.
+Integrated Development Environment (IDE), version 2026.10.0.233.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework.
