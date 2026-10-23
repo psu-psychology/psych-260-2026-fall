@@ -17,7 +17,16 @@ format: revealjs
 
 -- @Cocker-Topic2018-kr
 
-## Announcements
+## In the news
+
+:::: {.columns}
+::: {.column width=50%}
+- Locus Coeruleus (LC) neurons release norepinephrine (NE) via two separate pathways
+:::
+::: {.column width=50%}
+![@Allen-Institute2026-uu story about @Su2026-vi](https://www.sciencedaily.com/images/1920/100-lc-neuron-reconstruction.webp){#fig-lc-ne-study-allen-inst}
+:::
+::::
 
 ## Today's topics
 
@@ -154,6 +163,10 @@ flowchart LR
 :::
 ::::
 
+---
+
+![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg){#fig-lindquist-2012-fig-6}
+
 ## Amygdala as processing hub
 
 ![@pessoa_relationship_2008](../include/img/pessoa-nrn.jpg){#fig-pessoa-08}
@@ -270,7 +283,6 @@ flowchart LR
 ![@Wikipedia-contributors2025-sy^[By ShelleyAdams - This file was derived from: HPA Axis Diagram (Brian M Sweis 2012).png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=53298307]](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg/1920px-HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 :::
 ::::
-
 
 ## CORT
 

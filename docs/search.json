@@ -9645,265 +9645,428 @@
     "href": "slides/wk-09-2026-10-23-emotion-III.html#todays-topics",
     "title": "Emotion III",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nFear & stress\n\nwith a touch of empathy"
+    "text": "Today’s topics\n\nFear & stress\n\nwith a touch of empathy",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#animal-models",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#animal-models",
     "title": "Emotion III",
     "section": "Animal models",
-    "text": "Animal models\n\nDo non-human animals experience emotion?\nWhat functions might these serve?\nRisks vs. reward of cross-species comparisons?"
+    "text": "Animal models\n\nDo non-human animals experience emotion?\nWhat functions might these serve?\nRisks vs. reward of cross-species comparisons?",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#threat-fear-conditioning",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#threat-fear-conditioning",
     "title": "Emotion III",
     "section": "Threat (“fear”) conditioning",
-    "text": "Threat (“fear”) conditioning\n\n\n\n\n\n\nFigure 1: http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg"
+    "text": "Threat (“fear”) conditioning\n\n\n\n\n\n\nFigure 2: http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#rat-vs.-human",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#rat-vs.-human",
     "title": "Emotion III",
     "section": "Rat vs. human",
-    "text": "Rat vs. human\n\n\n\n\n\n\nFigure 2: Adapted from Davis (1992)"
+    "text": "Rat vs. human\n\n\n\n\n\n\nFigure 3: Adapted from Davis (1992)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#threat-conditioning",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#threat-conditioning",
     "title": "Emotion III",
     "section": "Threat conditioning",
-    "text": "Threat conditioning\n\n\n\n\n\nflowchart LR\n  S[sound] ---&gt; A(auditory)\n  F[shock] ---&gt; T(somatosensory)\n  A ---&gt; L(learning)\n  T ---&gt; L\n  L ---&gt; D(freezing)\n  L ---&gt; H(blood pressure)\n  L ---&gt; C(hormones)\n\n\n\n\n\n\n\n\nWhy these responses to threat?\nWhat are the pathways from stimuli to responses?\nHow is predicting future events adaptive?"
+    "text": "Threat conditioning\n\n\n\n\n\nflowchart LR\n  S[sound] ---&gt; A(auditory)\n  F[shock] ---&gt; T(somatosensory)\n  A ---&gt; L(learning)\n  T ---&gt; L\n  L ---&gt; D(freezing)\n  L ---&gt; H(blood pressure)\n  L ---&gt; C(hormones)\n\n\n\n\n\n\n\n\nWhy these responses to threat?\nWhat are the pathways from stimuli to responses?\nHow is predicting future events adaptive?",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#amygdala",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#amygdala",
     "title": "Emotion III",
     "section": "Amygdala",
-    "text": "Amygdala\n\n\n\nFrom Greek ‘almond’\nmedial temporal lobe (bilateral)\n\n\n\n\n\n\n\n\nFigure 3: https://www.calacademy.org/explore-science/social-network%E2%80%94in-your-head"
+    "text": "Amygdala\n\n\n\nFrom Greek ‘almond’\nmedial temporal lobe (bilateral)\n\n\n\n\n\n\n\n\nFigure 4: https://www.calacademy.org/explore-science/social-network%E2%80%94in-your-head",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-inputs",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-inputs",
     "title": "Emotion III",
     "section": "Amygdala inputs",
-    "text": "Amygdala inputs\n\n\n\nThalamus\n\n“direct” or “fast”\n\nCerebral cortex\n\n“indirect” or “slow”\n\n\n\n\n\n\n\n\n\nFigure 4: Medina, Repa, Mauk, & LeDoux (2002) Figure 2"
+    "text": "Amygdala inputs\n\n\n\nThalamus\n\n“direct” or “fast”\n\nCerebral cortex\n\n“indirect” or “slow”\n\n\n\n\n\n\n\n\n\nFigure 5: Medina, Repa, Mauk, & LeDoux (2002) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-outputs",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-outputs",
     "title": "Emotion III",
     "section": "Amygdala outputs",
-    "text": "Amygdala outputs\n\n\n\nCG (central gray matter) of tegmentum (ventral midbrain): behavior\nLH (lateral hyp): ANS\nPVN (paraventricular n. of hypothalamus): hormones\n\n\n\n\n\nMedina et al. (2002) Figure 2"
+    "text": "Amygdala outputs\n\n\n\nCG (central gray matter) of tegmentum (ventral midbrain): behavior\nLH (lateral hyp): ANS\nPVN (paraventricular n. of hypothalamus): hormones\n\n\n\n\n\nMedina et al. (2002) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-role",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-role",
     "title": "Emotion III",
     "section": "Amygdala role",
-    "text": "Amygdala role\n\n\n\nLesions of amygdala impair threat conditioning\nInterpretation: Fast-acting, involuntary responses\n\n\n\n\n\nMedina et al. (2002) Figure 2"
+    "text": "Amygdala role\n\n\n\nLesions of amygdala impair threat conditioning\nInterpretation: Fast-acting, involuntary responses\n\n\n\n\n\nMedina et al. (2002) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-meme",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-meme",
     "title": "Emotion III",
     "section": "Amygdala meme",
-    "text": "Amygdala meme\n\n\n\n\n\n\nFigure 5: https://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5"
+    "text": "Amygdala meme\n\n\n\n\n\n\nFigure 6: https://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#cerebral-cortex-role",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#cerebral-cortex-role",
     "title": "Emotion III",
     "section": "Cerebral cortex role",
-    "text": "Cerebral cortex role\n\n\n\nCerebral cortex lesions cause generalized responses\n\nNot specific to cue features\nResponse discrimination?"
+    "text": "Cerebral cortex role\n\n\n\nCerebral cortex lesions cause generalized responses\n\nNot specific to cue features\nResponse discrimination?",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#cerebral-cortex-role-1",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#cerebral-cortex-role-1",
     "title": "Emotion III",
     "section": "Cerebral cortex role",
-    "text": "Cerebral cortex role\n\n\n\nInterpretation\n\nFast, crude responses vs. slower, detailed ones\nThat’s a stick, not a snake!"
+    "text": "Cerebral cortex role\n\n\n\nInterpretation\n\nFast, crude responses vs. slower, detailed ones\nThat’s a stick, not a snake!",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#cerebral-cortex-role-2",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#cerebral-cortex-role-2",
     "title": "Emotion III",
     "section": "Cerebral cortex role",
-    "text": "Cerebral cortex role\n\n\n\nAmygdala widely connected\nEmotion -&gt;\n\nsubjective feelings + physiology + behaviors\nsee 2025-11-06"
+    "text": "Cerebral cortex role\n\n\n\nAmygdala widely connected\nEmotion -&gt;\n\nsubjective feelings + physiology + behaviors\nsee 2025-11-06",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-as-processing-hub",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#amygdala-as-processing-hub",
     "title": "Emotion III",
     "section": "Amygdala as processing hub",
-    "text": "Amygdala as processing hub\n\n\n\n\n\n\nFigure 6: Pessoa (2008)"
+    "text": "Amygdala as processing hub\n\n\n\n\n\n\nFigure 8: Pessoa (2008)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#emotions-serve-survival-goals",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#emotions-serve-survival-goals",
     "title": "Emotion III",
     "section": "Emotions serve survival goals",
-    "text": "Emotions serve survival goals\n\n\n\n\n\n\nFigure 7: LeDoux (2012) Figure 3"
+    "text": "Emotions serve survival goals\n\n\n\n\n\n\nFigure 9: LeDoux (2012) Figure 3",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#emotions-are",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#emotions-are",
     "title": "Emotion III",
     "section": "Emotions are",
-    "text": "Emotions are\n\n\n\nglobal states\nphysiological responses + behaviors\n\n\n\n\n\nLeDoux (2012) Figure 4"
+    "text": "Emotions are\n\n\n\nglobal states\nphysiological responses + behaviors\n\n\n\n\n\nLeDoux (2012) Figure 4",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#from-fear-to-stress",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#from-fear-to-stress",
     "title": "Emotion III",
     "section": "From fear to stress…",
-    "text": "From fear to stress…\n\n\n\nGiphy"
+    "text": "From fear to stress…\n\n\n\nGiphy",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#stressors-linked-with-biological-imperatives",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#stressors-linked-with-biological-imperatives",
     "title": "Emotion III",
     "section": "Stressors linked with biological imperatives",
-    "text": "Stressors linked with biological imperatives\n\n\n\nSustenance\n\nHunger, thirst\n\nWell-being/defense\n\nThreat\n\n\n\n\n\nReproduction\n\nRejection\n\nAffiliation\n\nLoneliness\n\n\n\n\n\n\nSocial relationships critical to human biology\nMany human stressors have social underpinnings"
+    "text": "Stressors linked with biological imperatives\n\n\n\nSustenance\n\nHunger, thirst\n\nWell-being/defense\n\nThreat\n\n\n\n\n\nReproduction\n\nRejection\n\nAffiliation\n\nLoneliness\n\n\n\n\n\n\nSocial relationships critical to human biology\nMany human stressors have social underpinnings",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#stress-and-the-brain",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#stress-and-the-brain",
     "title": "Emotion III",
     "section": "Stress and the brain",
-    "text": "Stress and the brain\n\n\n\n\n\n\nFigure 8: B. S. McEwen (2007) Figure 1"
+    "text": "Stress and the brain\n\n\n\n\n\n\nFigure 10: B. S. McEwen (2007) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#homeostasis",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#homeostasis",
     "title": "Emotion III",
     "section": "Homeostasis",
-    "text": "Homeostasis\n\nMaintenance of stable internal environment\n\ne,g., Regulation of physiological variables (e.g., blood \\(O_2\\)) via negative feedback (Cannon, 1929)\n\nStable internal environments or adaptive ones?"
+    "text": "Homeostasis\n\nMaintenance of stable internal environment\n\ne,g., Regulation of physiological variables (e.g., blood \\(O_2\\)) via negative feedback (Cannon, 1929)\n\nStable internal environments or adaptive ones?",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#allostasis",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#allostasis",
     "title": "Emotion III",
     "section": "Allostasis",
-    "text": "Allostasis\n\n\n\nSterling (1988)\nAdaptation to changing external conditions\nRegulation an active process\nRegulation anticipatory, varies by circumstance\nRegulation targets vary (Ramsay & Woods, 2014)\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Paula_Radcliffe"
+    "text": "Allostasis\n\n\n\nSterling (1988)\nAdaptation to changing external conditions\nRegulation an active process\nRegulation anticipatory, varies by circumstance\nRegulation targets vary (Ramsay & Woods, 2014)\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Paula_Radcliffe",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#stress-and-the-brain-1",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#stress-and-the-brain-1",
     "title": "Emotion III",
     "section": "Stress and the brain",
-    "text": "Stress and the brain\n\n\n\nAcute stress\n\nShort duration\nFast action required\n\ne.g., fight, flee, freeze\n\nHPA (Cortisol), SAM (NE/Epi) axes\n\n\n\n\n\nvs. Chronic stress\n\nLong duration, persistent\nProlonged coping required\n\nWhat happens to HPA, SAM systems?"
+    "text": "Stress and the brain\n\n\n\nAcute stress\n\nShort duration\nFast action required\n\ne.g., fight, flee, freeze\n\nHPA (Cortisol), SAM (NE/Epi) axes\n\n\n\n\n\nvs. Chronic stress\n\nLong duration, persistent\nProlonged coping required\n\nWhat happens to HPA, SAM systems?",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cort-release",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cort-release",
     "title": "Emotion III",
     "section": "Glucocorticoid (CORT) release",
-    "text": "Glucocorticoid (CORT) release\n\n\n\nAdrenal cortex releases cortisol\n\nIncreases blood glucose levels\nSuppresses immune system\nReduces inflammation\nAids in metabolism\n\nReceptors in brain and body\n\n\n\n\n\nWikipedia contributors (2025)1"
+    "text": "Glucocorticoid (CORT) release\n\n\n\nAdrenal cortex releases cortisol\n\nIncreases blood glucose levels\nSuppresses immune system\nReduces inflammation\nAids in metabolism\n\nReceptors in brain and body\n\n\n\n\n\nWikipedia contributors (2025)1",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#cort",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#cort",
     "title": "Emotion III",
     "section": "CORT",
-    "text": "CORT\n\n\n\nCircadian rhythm to release\nPeak ~30 min of morning awakening in humans\n\n\n\n\n\n\n\n\nFigure 9: Molecular brain2"
+    "text": "CORT\n\n\n\nCircadian rhythm to release\nPeak ~30 min of morning awakening in humans\n\n\n\n\n\n\n\n\nFigure 11: Molecular brain2",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis",
     "title": "Emotion III",
     "section": "Glucocorticoid cascade hypothesis",
-    "text": "Glucocorticoid cascade hypothesis\n\n\n\nCORT receptors in hippocampus, amygdala, hypothalamus\n\nHippocampus regulates HPA axis via hypothalamus\n\n\n\n\n\n\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg"
+    "text": "Glucocorticoid cascade hypothesis\n\n\n\nCORT receptors in hippocampus, amygdala, hypothalamus\n\nHippocampus regulates HPA axis via hypothalamus\n\n\n\n\n\n\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis-1",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis-1",
     "title": "Emotion III",
     "section": "Glucocorticoid cascade hypothesis",
-    "text": "Glucocorticoid cascade hypothesis\n\n\n\nProlonged CORT \\(\\downarrow\\) hippocampus response\n\n\\(\\downarrow\\) volume, connectivity in hippocampus\n\n\n\n\n\n\nMolecular brain3"
+    "text": "Glucocorticoid cascade hypothesis\n\n\n\nProlonged CORT \\(\\downarrow\\) hippocampus response\n\n\\(\\downarrow\\) volume, connectivity in hippocampus\n\n\n\n\n\n\nMolecular brain3",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis-2",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis-2",
     "title": "Emotion III",
     "section": "Glucocorticoid cascade hypothesis",
-    "text": "Glucocorticoid cascade hypothesis\n\n\n\nHippocampus critical for long-term memory formation\nAcute stress can \\(\\uparrow\\) memory\nChronic stress \\(\\downarrow\\) long-term memory (Schwabe, 2025)\n\n\n\n\n\nMolecular brain4"
+    "text": "Glucocorticoid cascade hypothesis\n\n\n\nHippocampus critical for long-term memory formation\nAcute stress can \\(\\uparrow\\) memory\nChronic stress \\(\\downarrow\\) long-term memory (Schwabe, 2025)\n\n\n\n\n\nMolecular brain4",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoids-da",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoids-da",
     "title": "Emotion III",
     "section": "Glucocorticoids & DA",
-    "text": "Glucocorticoids & DA\n\n\n\n\n\n\nFigure 10: Bruce S. McEwen (2013)"
+    "text": "Glucocorticoids & DA\n\n\n\n\n\n\nFigure 12: Bruce S. McEwen (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis-3",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#glucocorticoid-cascade-hypothesis-3",
     "title": "Emotion III",
     "section": "Glucocorticoid cascade hypothesis",
-    "text": "Glucocorticoid cascade hypothesis\n\n\n\nFaresjö et al. (2013)\n\n\n\n\nCORT -&gt; stress link not straightforward"
+    "text": "Glucocorticoid cascade hypothesis\n\n\n\nFaresjö et al. (2013)\n\n\n\n\nCORT -&gt; stress link not straightforward",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#your-stress-aint-like-mine",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#your-stress-aint-like-mine",
     "title": "Emotion III",
     "section": "Your stress ain’t like mine",
-    "text": "Your stress ain’t like mine\n\n\n\nZebras (probably) don’t worry about predation by lions\n\n\nPhasic (short-term) vs. chronic (long-term)\nPhysical stress (hunger, thirst, injury, disease) vs. psychological/social stress\n\n\n\n\n\nR. Sapolsky (1994)"
+    "text": "Your stress ain’t like mine\n\n\n\nZebras (probably) don’t worry about predation by lions\n\n\nPhasic (short-term) vs. chronic (long-term)\nPhysical stress (hunger, thirst, injury, disease) vs. psychological/social stress\n\n\n\n\n\nR. Sapolsky (1994)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#social-distress-empathy",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#social-distress-empathy",
     "title": "Emotion III",
     "section": "Social distress & empathy",
-    "text": "Social distress & empathy\n\nSome non-human animals demonstrate sensitivity to conspecifics’ distress\nPain thresholds lower (sensitivity greater) when a mouse’s cage mate is also in pain (Smith, Hostetler, Heinricher, & Ryabinin, 2016)\n\nBut no CORT \\(\\uparrow\\)\n\nRats will cooperate to release distressed cage mate, foregoing food rewards\n\n– R. M. Sapolsky (2016)"
+    "text": "Social distress & empathy\n\nSome non-human animals demonstrate sensitivity to conspecifics’ distress\nPain thresholds lower (sensitivity greater) when a mouse’s cage mate is also in pain (Smith, Hostetler, Heinricher, & Ryabinin, 2016)\n\nBut no CORT \\(\\uparrow\\)\n\nRats will cooperate to release distressed cage mate, foregoing food rewards\n\n– R. M. Sapolsky (2016)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#empathy-in-non-human-animals",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#empathy-in-non-human-animals",
     "title": "Emotion III",
     "section": "Empathy in non-human animals",
-    "text": "Empathy in non-human animals\n\n\n\n\n\n\nFigure 11: Waal & Preston (2017) Figure 2"
+    "text": "Empathy in non-human animals\n\n\n\n\n\n\nFigure 13: Waal & Preston (2017) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#main-points",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#main-points",
     "title": "Emotion III",
     "section": "Main points",
-    "text": "Main points\n\nFear responses include behavior, physiology, internal states\nParallels between human and non-human animal responses\nLike happiness and pleasure, fear engages network of brain systems\nAmygdala key node in this network, but connects widely"
+    "text": "Main points\n\nFear responses include behavior, physiology, internal states\nParallels between human and non-human animal responses\nLike happiness and pleasure, fear engages network of brain systems\nAmygdala key node in this network, but connects widely",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#main-points-1",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#main-points-1",
     "title": "Emotion III",
     "section": "Main points",
-    "text": "Main points\n\nStressors arise from multiple sources\nAcute (short-term) vs. chronic (long-term) distinction crucial\nCorticosteroid receptors found across the CNS\nGlucorticoid cascade hypothesis\nSome animals respond to others’ distress"
+    "text": "Main points\n\nStressors arise from multiple sources\nAcute (short-term) vs. chronic (long-term) distinction crucial\nCorticosteroid receptors found across the CNS\nGlucorticoid cascade hypothesis\nSome animals respond to others’ distress",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#next-time",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#next-time",
     "title": "Emotion III",
     "section": "Next time",
-    "text": "Next time\n\nSleep"
+    "text": "Next time\n\nSleep",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#about",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#about",
     "title": "Emotion III",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/"
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#references",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#references",
     "title": "Emotion III",
     "section": "References",
-    "text": "References\n\n\n\n\nCannon, W. B. (1929). Organization for physiological homeostasis. Physiological Reviews, 9, 399–431. https://doi.org/10.1152/physrev.1929.9.3.399\n\n\nCocker-Topic, J. (2018). With a little help from my friends. YouTube. Retrieved from https://www.youtube.com/watch?v=McB9sJqHFx4&list=RDMcB9sJqHFx4&start_radio=1\n\n\nDavis, M. (1992). The role of the amygdala in fear-potentiated startle: Implications for animal models of anxiety. Trends in Pharmacological Sciences, 13, 35–41. https://doi.org/10.1016/0165-6147(92)90014-W\n\n\nDo rats feel empathy? (1969). NOVA ScienceNow. Retrieved from https://www.pbslearningmedia.org/resource/nvsn6.sci.bio.rats/do-rats-feel-empathy/\n\n\nFaresjö, Å., Theodorsson, E., Chatziarzenis, M., Sapouna, V., Claesson, H.-P., Koppner, J., & Faresjö, T. (2013). Higher Perceived Stress but Lower Cortisol Levels Found among Young Greek Adults Living in a Stressful Social Environment in Comparison with Swedish Young Adults. PLoS ONE, 8(9), e73828. https://doi.org/10.1371/journal.pone.0073828\n\n\nLeDoux, J. (2012). Rethinking the Emotional Brain. Neuron, 73(4), 653–676. https://doi.org/10.1016/j.neuron.2012.02.004\n\n\nMcEwen, B. S. (2007). Physiology and Neurobiology of Stress and Adaptation: Central Role of the Brain. Physiological Reviews, 87(3), 873–904. https://doi.org/10.1152/physrev.00041.2006\n\n\nMcEwen, Bruce S. (2013). Neuroscience. Hormones and the social brain. Science (New York, N.Y.), 339, 279–280. https://doi.org/10.1126/science.1233713\n\n\nMedina, J. F., Repa, J. C., Mauk, M. D., & LeDoux, J. E. (2002). Parallels between cerebellum-and amygdala-dependent conditioning. Nature Reviews Neuroscience, 3(2), 122–131. https://doi.org/10.1038/nrn728\n\n\nMusikladen. (2020). Stevie wonder - don’t you worry ’bout a thing (1974). YouTube. Retrieved from https://www.youtube.com/watch?v=mMTkujnftIs&list=RDmMTkujnftIs&start_radio=1\n\n\nPessoa, L. (2008). On the relationship between emotion and cognition. Nature Reviews Neuroscience, 9(2), 148–158. https://doi.org/10.1038/nrn2317\n\n\nRamsay, D. S., & Woods, S. C. (2014). Clarifying the roles of homeostasis and allostasis in physiological regulation. Psychological Review, 121, 225–247. https://doi.org/10.1037/a0035942\n\n\nSapolsky, R. (1994). Why zebras don’t get ulcers. New York, NY: W.H. Freeman.\n\n\nSapolsky, R. M. (2016). Psychiatric distress in animals versus animal models of psychiatric distress. Nature Neuroscience, 19, 1387–1389. https://doi.org/10.1038/nn.4397\n\n\nSchwabe, L. (2025). Memory under stress: From adaptation to disorder. Biological Psychiatry, 97, 339–348. https://doi.org/10.1016/j.biopsych.2024.06.005\n\n\nSmith, M. L., Hostetler, C. M., Heinricher, M. M., & Ryabinin, A. E. (2016). Social transfer of pain in mice. Science Advances, 2, e1600855. https://doi.org/10.1126/sciadv.1600855\n\n\nSterling, P. (1988). Allostasis : A new paradigm to explain arousal pathology. Handbook of Life Stress, Cognition and Health. Retrieved from https://ci.nii.ac.jp/naid/10019518960/\n\n\nWaal, F. B. M. de, & Preston, S. D. (2017). Mammalian empathy: Behavioural manifestations and neural basis. Nature Reviews. Neuroscience, 18, 498–509. https://doi.org/10.1038/nrn.2017.72\n\n\nWikipedia contributors. (2025, November 7). Hypothalamic–pituitary–adrenal axis. Retrieved from https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis"
+    "text": "References\n\n\n\n\nAllen Institute. (2026, October 23). Scientists discover a hidden messaging system deep inside the brain. Science Daily. Retrieved from https://www.sciencedaily.com/releases/2026/10/261022081304.htm\n\n\nCannon, W. B. (1929). Organization for physiological homeostasis. Physiological Reviews, 9, 399–431. https://doi.org/10.1152/physrev.1929.9.3.399\n\n\nCocker-Topic, J. (2018). With a little help from my friends. YouTube. Retrieved from https://www.youtube.com/watch?v=McB9sJqHFx4&list=RDMcB9sJqHFx4&start_radio=1\n\n\nDavis, M. (1992). The role of the amygdala in fear-potentiated startle: Implications for animal models of anxiety. Trends in Pharmacological Sciences, 13, 35–41. https://doi.org/10.1016/0165-6147(92)90014-W\n\n\nDo rats feel empathy? (1969). NOVA ScienceNow. Retrieved from https://www.pbslearningmedia.org/resource/nvsn6.sci.bio.rats/do-rats-feel-empathy/\n\n\nFaresjö, Å., Theodorsson, E., Chatziarzenis, M., Sapouna, V., Claesson, H.-P., Koppner, J., & Faresjö, T. (2013). Higher Perceived Stress but Lower Cortisol Levels Found among Young Greek Adults Living in a Stressful Social Environment in Comparison with Swedish Young Adults. PLoS ONE, 8(9), e73828. https://doi.org/10.1371/journal.pone.0073828\n\n\nLeDoux, J. (2012). Rethinking the Emotional Brain. Neuron, 73(4), 653–676. https://doi.org/10.1016/j.neuron.2012.02.004\n\n\nLindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. Behav. Brain Sci., 35(3), 121–143. https://doi.org/10.1017/S0140525X11000446\n\n\nMcEwen, B. S. (2007). Physiology and Neurobiology of Stress and Adaptation: Central Role of the Brain. Physiological Reviews, 87(3), 873–904. https://doi.org/10.1152/physrev.00041.2006\n\n\nMcEwen, Bruce S. (2013). Neuroscience. Hormones and the social brain. Science (New York, N.Y.), 339, 279–280. https://doi.org/10.1126/science.1233713\n\n\nMedina, J. F., Repa, J. C., Mauk, M. D., & LeDoux, J. E. (2002). Parallels between cerebellum-and amygdala-dependent conditioning. Nature Reviews Neuroscience, 3(2), 122–131. https://doi.org/10.1038/nrn728\n\n\nMusikladen. (2020). Stevie wonder - don’t you worry ’bout a thing (1974). YouTube. Retrieved from https://www.youtube.com/watch?v=mMTkujnftIs&list=RDmMTkujnftIs&start_radio=1\n\n\nPessoa, L. (2008). On the relationship between emotion and cognition. Nature Reviews Neuroscience, 9(2), 148–158. https://doi.org/10.1038/nrn2317\n\n\nRamsay, D. S., & Woods, S. C. (2014). Clarifying the roles of homeostasis and allostasis in physiological regulation. Psychological Review, 121, 225–247. https://doi.org/10.1037/a0035942\n\n\nSapolsky, R. (1994). Why zebras don’t get ulcers. New York, NY: W.H. Freeman.\n\n\nSapolsky, R. M. (2016). Psychiatric distress in animals versus animal models of psychiatric distress. Nature Neuroscience, 19, 1387–1389. https://doi.org/10.1038/nn.4397\n\n\nSchwabe, L. (2025). Memory under stress: From adaptation to disorder. Biological Psychiatry, 97, 339–348. https://doi.org/10.1016/j.biopsych.2024.06.005\n\n\nSmith, M. L., Hostetler, C. M., Heinricher, M. M., & Ryabinin, A. E. (2016). Social transfer of pain in mice. Science Advances, 2, e1600855. https://doi.org/10.1126/sciadv.1600855\n\n\nSterling, P. (1988). Allostasis : A new paradigm to explain arousal pathology. Handbook of Life Stress, Cognition and Health. Retrieved from https://ci.nii.ac.jp/naid/10019518960/\n\n\nSu, Z., Kosillo, P., Jung, K., Chen, S., Summers, M. T., Piet, A., … Cohen, J. Y. (2026). Topographic structure and function of locus coeruleus noradrenaline neurons. Nature, 1–10. https://doi.org/10.1038/s41586-026-11026-0\n\n\nWaal, F. B. M. de, & Preston, S. D. (2017). Mammalian empathy: Behavioural manifestations and neural basis. Nature Reviews. Neuroscience, 18, 498–509. https://doi.org/10.1038/nrn.2017.72\n\n\nWikipedia contributors. (2025, November 7). Hypothalamic–pituitary–adrenal axis. Retrieved from https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   },
   {
     "objectID": "slides/wk-09-2026-10-23-emotion-III.html#footnotes",
     "href": "slides/wk-09-2026-10-23-emotion-III.html#footnotes",
     "title": "Emotion III",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nBy ShelleyAdams - This file was derived from: HPA Axis Diagram (Brian M Sweis 2012).png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=53298307\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg"
+    "text": "Footnotes\n\n\nBy ShelleyAdams - This file was derived from: HPA Axis Diagram (Brian M Sweis 2012).png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=53298307\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2026-10-23-emotion-III.html#in-the-news",
+    "href": "slides/wk-09-2026-10-23-emotion-III.html#in-the-news",
+    "title": "Emotion III",
+    "section": "In the news",
+    "text": "In the news\n\n\n\nLocus Coeruleus (LC) neurons release norepinephrine (NE) via two separate pathways\n\n\n\n\n\n\n\n\nFigure 1: Allen Institute (2026) story about Su et al. (2026)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Fri Oct 23"
+    ]
   }
 ]
