@@ -18,12 +18,10 @@ format: revealjs
 ## Today's topics
 
 - Warm-up
+- Wrap-up on fear/stress/empathy
 - Sleep facts
-- Brain states during sleep
-- Mechanisms of sleep
-- Why sleep?
 
-## Warm-up
+# Warm-up
 
 ---
 
@@ -91,11 +89,36 @@ format: revealjs
 
 ![Allen Brain Institute: @UnknownUnknown-mk^["Neuromodulators (NMs) are neurotransmitters released by a small number of neurons (less than 0.001% of the neurons in our brain) with broad projections to most of the nervous system. They bind primarily to G-protein-coupled receptors on neurons and glia to activate intracellular signaling cascades and modulate the properties of membranes and synapses. The physiological processes triggered by NM release are often slow compared to fast synaptic transmission (hundreds of milliseconds or longer vs. less than ten milliseconds). These cells are largely conserved across vertebrates and have diverse functions in behavior, including modulating sleep-wake cycles, internal homeostasis, learning, arousal, and movement. Early theories that focused on specific behavioral conditions yielded to a more comprehensive view that NMs modulate all behavior, from gastric rhythms in invertebrates to mammalian cognition. We are studying five major NMs: four biogenic amines—norepinephrine (NE), serotonin (5-HT), dopamine (DA), and histamine (HA)—and acetylcholine (ACh). They are primarily released by neurons in the locus coeruleus (NE), raphe nuclei (5-HT), ventral tegmental area and substantia nigra pars compacta (DA), tuberomammillary nucleus (HA), and several cholinergic areas across the brain, including the nucleus basalis (ACh). Many disorders, including depression, schizophrenia, drug addiction, and Parkinson's disease, appear to involve dysfunction of NM signaling."]](https://cdn.prod.website-files.com/691fabdb8ba70248dd5b7fa8/691fabdb8ba70248dd5b8225_66fdeb61ad6f661a7dd7d654_66fc2762eed1ba43e23ab82d_66fc251ce5ca05a46dec6a90_nmCartoon.png)
 
+# Wrap-up on emotion
+
+## Fear, stress, empathy
+
+- Link to [2026-10-23 slides](wk-09-2026-10-23-emotion-III.qmd)
+
 # Sleep facts
 
-## Recommendations by age
+## Recommendations by age {.scrollable}
 
-![@CDC2025-ty](../include/img/cdc-sleep-recs.png){#fig-cdc-sleep-recs width="50%"}
+![@CDC2025-ty](../include/img/cdc-sleep-recs.png){#fig-cdc-sleep-recs}
+
+## In graphic form
+
+```{r}
+library(ggplot2)
+library(dplyr)
+cdc_sleep <- readr::read_csv("../include/csv/cdc-sleep-recs.csv", show_col_types = FALSE)
+
+cdc_sleep |>
+  mutate(hrs = (hrs_min + hrs_max)/2,
+         age = (age_min + age_max)/2) |>
+  ggplot() +
+  geom_errorbar(aes(x = age, ymin = hrs_min, ymax = hrs_max), width = 0.2, color = "gray40") +
+  # orizontal error bars (X-axis)
+  geom_errorbarh(aes(y = hrs, xmin = age_min, xmax = age_max), height = 0.2, color = "gray40") +
+  geom_smooth(aes(x = age, y = hrs), se = FALSE) +
+  theme_minimal() +
+  ylim(0,17)
+```
 
 ---
 
@@ -186,18 +209,17 @@ format: revealjs
 :::
 ::::
 
-## Aside about EEG spectra
+<!-- ## Aside about EEG spectra -->
 
-:::: {.columns}
-::: {.column width=50%}
-- EEG contains periodic and aperiodic components [@Donoghue2020-dh]
-- Comparisons of relative EEG power across frequency bands should consider aperiodic component
-- See [Terms & Concepts](../resources/terms-concepts.qmd)
-:::
-::: {.column width=50%}
-![@Donoghue2020-dh Figure 2^["Overview of band ratio measures and spectral parameters. A, An example power spectrum in which shaded regions reflect the θ band (4–8 Hz) and β band (20–30 Hz), respectively. Band ratio measures, such as the θ/β ratio, are calculated by dividing the average power between these two bands. B, An example of a parameterized power spectrum, in which aperiodic activity is separated from measured periodic components. This is an example spectrum from EEG data, in which peaks in θ, α, and β power are present. C, Examples of simulated power spectra with and without component oscillations of the θ/β ratio. Black lines indicate the simulated data, with red line reflecting the model fit, the dashed blue line indicating the aperiodic component of the model fit, and the green lines indicating the location of canonical θ and β oscillations. Band ratio measures, although intended to measure periodic activity, will reflect power at the predetermined frequencies regardless of whether there is evidence of periodic activity at those frequencies."]](https://www.eneuro.org/content/eneuro/7/6/ENEURO.0192-20.2020/F2.large.jpg?width=800&height=600&carousel=1)
-:::
-::::
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - EEG contains periodic and aperiodic components [@Donoghue2020-dh] -->
+<!-- - Comparisons of relative EEG power across frequency bands should consider aperiodic component -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![@Donoghue2020-dh Figure 2^["Overview of band ratio measures and spectral parameters. A, An example power spectrum in which shaded regions reflect the θ band (4–8 Hz) and β band (20–30 Hz), respectively. Band ratio measures, such as the θ/β ratio, are calculated by dividing the average power between these two bands. B, An example of a parameterized power spectrum, in which aperiodic activity is separated from measured periodic components. This is an example spectrum from EEG data, in which peaks in θ, α, and β power are present. C, Examples of simulated power spectra with and without component oscillations of the θ/β ratio. Black lines indicate the simulated data, with red line reflecting the model fit, the dashed blue line indicating the aperiodic component of the model fit, and the green lines indicating the location of canonical θ and β oscillations. Band ratio measures, although intended to measure periodic activity, will reflect power at the predetermined frequencies regardless of whether there is evidence of periodic activity at those frequencies."]](https://www.eneuro.org/content/eneuro/7/6/ENEURO.0192-20.2020/F2.large.jpg?width=800&height=600&carousel=1) -->
+<!-- ::: -->
+<!-- :::: -->
 
 ## Sleep cycles
 
@@ -265,7 +287,7 @@ format: revealjs
 - CN III, IV, VI control eye movements
 :::
 ::: {.column width=50%}
-![@Roguski2020-ee Figure 1^["Key brain regions and neurotransmitters involved in regulation and maintenance of the REM sleep stage under healthy normative or pathological RBD conditions. In RBD, dysfunction within the SubC → VMM → Spinal Motor Neuron pathway results in a lack of REM atonia (depicted with dotted line). BF, basal forebrain; LC, locus coeruleus; LDT/PPT, laterodorsal tegmentum/pedunculopontine tegmentum; LH, lateral hypothalamus; Subc/PC, subcoeruleus/pre-locus coeruleus; TMN, tuberomammillary nucleus; vlPAG, ventrolateral periaqueductal gray; VLPO/MnPO, ventrolateral preoptic nucleus/median preoptic nucleus; VMM, ventromedial medulla. Figure created using BioRender.com."]](https://images-provider.frontiersin.org/api/ipx/w=654&f=webp/https://www.frontiersin.org/files/Articles/526705/xml-images/fneur-11-00610-g0001.webp)
+![@Roguski2020-ee Figure 1^["Key brain regions and neurotransmitters involved in regulation and maintenance of the REM sleep stage under healthy normative or pathological RBD conditions. In RBD, dysfunction within the SubC → VMM → Spinal Motor Neuron pathway results in a lack of REM atonia (depicted with dotted line). BF, basal forebrain; LC, locus coeruleus; LDT/PPT, laterodorsal tegmentum/pedunculopontine tegmentum; LH, lateral hypothalamus; Subc/PC, subcoeruleus/pre-locus coeruleus; TMN, tuberomammillary nucleus; vlPAG, ventrolateral periaqueductal gray; VLPO/MnPO, ventrolateral preoptic nucleus/median preoptic nucleus; VMM, ventromedial medulla. Figure created using BioRender.com."]](https://www.frontiersin.org/api/ipx/f=webp/https://www.frontiersin.org/files/Articles/526705/xml-images/fneur-11-00610-g0001.webp)
 :::
 ::::
 
@@ -320,7 +342,21 @@ basis for the mental event.
 
 ## Main points
 
+- Humans spend 1/2 to 1/3 of their day asleep
+- Sleep requirements decline across age
+- Sleep deprivation has health consequences
+  - more than 1/3 of adults do not get recommended amounts
+
+## Main points
+
+- Survey measures of sleep quality have limitations
+- Physiological measures (e.g., EEG) have distinct signatures
+- Non-REM vs. REM (rapid eye movement) sleep phases
+- Function of dreams not well understood
+
 ## Next time
+
+- Mechanisms of sleep
 
 # Resources
 

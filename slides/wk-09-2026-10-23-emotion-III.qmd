@@ -7,6 +7,24 @@ format: revealjs
 
 ---
 
+::: {#fig-dont-you-worry-about-a-thing}
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/mMTkujnftIs?si=4yfcj8ChRCFUbj9P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+@Musikladen2020-kq
+:::
+
+---
+
+::: {#fig-i-get-by-cocker}
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/McB9sJqHFx4?si=1cyDe_xrPTHFB5TO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+@Cocker-Topic2018-kr
+:::
+
+---
+
 {{< video https://www.youtube.com/watch?v=mMTkujnftIs&list=RDmMTkujnftIs&start_radio=1 width="100%" height="70%" >}}
 
 -- @Musikladen2020-kq
@@ -156,7 +174,7 @@ flowchart LR
 - Amygdala widely connected
 - Emotion ->
   - subjective feelings + physiology + behaviors
-  - see [2025-11-06](wk-08-2026-10-14-emotion-I.qmd)
+  - see [2026-10-14](wk-08-2026-10-14-emotion-I.qmd) slides
 :::
 ::: {.column width=50%}
 ![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
@@ -165,7 +183,7 @@ flowchart LR
 
 ---
 
-![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg){#fig-lindquist-2012-fig-6}
+![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg){#fig-lindquist-2012-fig-6 width="65%"}
 
 ## Amygdala as processing hub
 
