@@ -381,11 +381,14 @@ flowchart LR
 
 ## Social distress & empathy
 
+::: {.incremental}
 - Some non-human animals demonstrate sensitivity to conspecifics' distress
 - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain [@Smith2016-ts]
   - But no CORT $\uparrow$
 - Rats will cooperate to release distressed cage mate, foregoing food rewards
-  
+
+:::
+
 -- @Sapolsky2016-hs
 
 ## Empathy in non-human animals
@@ -405,7 +408,7 @@ flowchart LR
 - Fear responses include behavior, physiology, internal states
 - Parallels between human and non-human animal responses
 - Like happiness and pleasure, fear engages network of brain systems
-- Amygdala key node in this network, but connects widely
+- Amygdala a key node in this network, but connects widely
 
 ## Main points
 

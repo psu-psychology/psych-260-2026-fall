@@ -211,7 +211,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#announcements",
     "title": "Sleep & Circadian Rhythms",
     "section": "Announcements",
-    "text": "Announcements",
+    "text": "Announcements\n\nQuiz 3 next Friday, November 6, 2026.",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -288,7 +288,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#polysomnography",
     "title": "Sleep & Circadian Rhythms",
     "section": "Polysomnography",
-    "text": "Polysomnography\n\n\n\nElectroencephalography (EEG)\nElectrocardiography (ECG)\nElectrooculography (EOG)\nElectromyography (EMG)\nPulse oxymetry & respiratory airflow\n\n\n\n\n\nWikipedia contributors (2025a)4",
+    "text": "Polysomnography\n\n\n\nElectroencephalography (EEG)\nElectrocardiography (ECG)\nElectrooculography (EOG)\nElectromyography (EMG)\nPulse oxymetry & respiratory airflow\n\n\n\n\n\n\n\n\nFigure 5: Wikipedia contributors (2025a)4",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -299,7 +299,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#eeg",
     "title": "Sleep & Circadian Rhythms",
     "section": "EEG",
-    "text": "EEG\n\n\n\nPost-synaptic electrical activity\nMostly from cerebral cortex\n\n\n\n\n\nWikipedia contributors (2026)5",
+    "text": "EEG\n\n\n\nPost-synaptic electrical activity\nMostly from cerebral cortex\n\n\n\n\n\n\n\n\nFigure 6: Wikipedia contributors (2026)5",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -310,7 +310,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#what-does-eeg-measure",
     "title": "Sleep & Circadian Rhythms",
     "section": "What does EEG measure?",
-    "text": "What does EEG measure?\n\n\n\nVoltage differences between source and reference electrode\nCombined activity of huge # of neurons\n\n\n\n\n\nhttps://naxonlabs.com/blog/understanding-strategic-placement-sensors-eeg-devices",
+    "text": "What does EEG measure?\n\n\n\nVoltage differences between source and reference electrode\nCombined activity of huge # of neurons\n\n\n\n\n\n\n\n\nFigure 7: https://naxonlabs.com/blog/understanding-strategic-placement-sensors-eeg-devices",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -321,7 +321,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#what-does-eeg-measure-1",
     "title": "Sleep & Circadian Rhythms",
     "section": "What does EEG measure?",
-    "text": "What does EEG measure?\n\n\n\nCurrent/voltage gradients between apical (near surface) dendrites and basal (deeper) dendrites and cell body/soma\n\n\n\n\n\nNæss et al. (2020) Figure 1",
+    "text": "What does EEG measure?\n\n\n\nCurrent/voltage gradients between apical (near surface) dendrites and basal (deeper) dendrites and cell body/soma\n\n\n\n\n\n\n\n\nFigure 8: Næss et al. (2020) Figure 1",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -332,7 +332,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#eeg-frequency-bands",
     "title": "Sleep & Circadian Rhythms",
     "section": "EEG frequency bands",
-    "text": "EEG frequency bands\n\n\n\nFourier Analysis of time-varying EEG yields\nHigh amplitudes in specific frequency bands\n\n\n\n\n\nOpenAnesthesia.org",
+    "text": "EEG frequency bands\n\n\n\nFourier Analysis of time-varying EEG yields\nHigh amplitudes in specific frequency bands\n\n\n\n\n\n\n\n\nFigure 9: OpenAnesthesia.org",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -343,7 +343,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#sleep-cycles",
     "title": "Sleep & Circadian Rhythms",
     "section": "Sleep cycles",
-    "text": "Sleep cycles\n\n\n\nNon-Rapid Eye Movement (NREM)\n\nN1 (light sleep)\nN2\nN3 (slow-wave, deep sleep)\n\n\n\n\n\n\nWikipedia contributors (2025b)6",
+    "text": "Sleep cycles\n\n\n\nNon-Rapid Eye Movement (NREM)\n\nN1 (light sleep)\nN2\nN3 (slow-wave, deep sleep)\n\n\n\n\n\n\n\n\n\nFigure 10: Wikipedia contributors (2025b)6",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -365,7 +365,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#eeg-patterns",
     "title": "Sleep & Circadian Rhythms",
     "section": "EEG patterns",
-    "text": "EEG patterns\n\n\n\nNREM\n\nLower frequency, higher amplitude\n\nREM\n\nHigher frequency, lower amplitude\nMore awake-like\n\n\n\n\n\n\nWikipedia contributors (2025b)8",
+    "text": "EEG patterns\n\n\n\nNREM\n\nLower frequency, higher amplitude\n\nREM\n\nHigher frequency, lower amplitude\nMore awake-like\n\n\n\n\n\n\n\n\n\nFigure 11: Wikipedia contributors (2025b)8",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -376,7 +376,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#mechanisms-of-rem-atonia",
     "title": "Sleep & Circadian Rhythms",
     "section": "Mechanisms of REM atonia",
-    "text": "Mechanisms of REM atonia\n\n\n\nSpinal motor neurons hyperpolarize\nBut not those controlling eye muscles!\nCN III, IV, VI control eye movements\n\n\n\n\n\nRoguski et al. (2020) Figure 111",
+    "text": "Mechanisms of REM atonia\n\n\n\nSpinal motor neurons hyperpolarize\nBut not those controlling eye muscles!\nCN III, IV, VI control eye movements\n\n\n\n\n\n\n\n\nFigure 15: Roguski, Rayment, Whone, Jones, & Rolinski (2020) Figure 111",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -10245,7 +10245,7 @@
     "href": "slides/wk-09-2026-10-23-emotion-III.html#main-points",
     "title": "Emotion III",
     "section": "Main points",
-    "text": "Main points\n\nFear responses include behavior, physiology, internal states\nParallels between human and non-human animal responses\nLike happiness and pleasure, fear engages network of brain systems\nAmygdala key node in this network, but connects widely",
+    "text": "Main points\n\nFear responses include behavior, physiology, internal states\nParallels between human and non-human animal responses\nLike happiness and pleasure, fear engages network of brain systems\nAmygdala a key node in this network, but connects widely",
     "crumbs": [
       "Slides",
       "Wk 09 • Fri Oct 23"

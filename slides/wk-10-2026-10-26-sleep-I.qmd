@@ -15,6 +15,8 @@ format: revealjs
 
 ## Announcements
 
+- *Quiz 3* next Friday, November 6, 2026.
+
 ## Today's topics
 
 - Warm-up
@@ -25,7 +27,7 @@ format: revealjs
 
 ---
 
-### A key output target for signals from the amygdala is
+### A key *output target* for signals from the amygdala is
 
 - A. The enteric nervous system
 - B. The endocrine system
@@ -47,7 +49,7 @@ format: revealjs
 
 ---
 
-### Which of the following are *not* nodes in the forebrain portion of the emotion network?
+### Which of the following are *not* nodes in the *forebrain portion* of the emotion network?
 
 - A. Anterior Cingulate Cortex (ACC)
 - B. Hippocampus
@@ -56,7 +58,7 @@ format: revealjs
 
 ---
 
-### Which of the following are *not* nodes in the forebrain portion of the emotion network?
+### Which of the following are *not* nodes in the *forebrain portion* of the emotion network?
 
 - ~~A. Anterior Cingulate Cortex (ACC)~~
 - ~~B. Hippocampus~~
@@ -93,7 +95,7 @@ format: revealjs
 
 ## Fear, stress, empathy
 
-- Link to [2026-10-23 slides](wk-09-2026-10-23-emotion-III.qmd)
+- Link to [2026-10-23 slides](wk-09-2026-10-23-emotion-III.qmd#glucocorticoids-da)
 
 # Sleep facts
 
@@ -157,7 +159,7 @@ cdc_sleep |>
 - Pulse oxymetry & respiratory airflow
 :::
 ::: {.column width=50%}
-![@Wikipedia-contributors2025-fi^["By NascarEd - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24506939"]](https://upload.wikimedia.org/wikipedia/commons/4/4d/Sleep_Stage_REM.png)
+![@Wikipedia-contributors2025-fi^["By NascarEd - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24506939"]](https://upload.wikimedia.org/wikipedia/commons/4/4d/Sleep_Stage_REM.png){#fig-polysomnography}
 :::
 ::::
 
@@ -169,7 +171,7 @@ cdc_sleep |>
 - Mostly from cerebral cortex
 :::
 ::: {.column width=50%}
-![@Wikipedia-contributors2026-vk^[CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=845554]](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png)
+![@Wikipedia-contributors2026-vk^[CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=845554]](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png){#fig-wikipedia-spike-waves}
 :::
 ::::
 
@@ -182,7 +184,7 @@ cdc_sleep |>
 
 :::
 ::: {.column width=50%}
-![https://naxonlabs.com/blog/understanding-strategic-placement-sensors-eeg-devices](https://naxon.s3.amazonaws.com/uploads/post/image/71/large_International_10-10_system.jpg)
+![https://naxonlabs.com/blog/understanding-strategic-placement-sensors-eeg-devices](https://naxon.s3.amazonaws.com/uploads/post/image/71/large_International_10-10_system.jpg){#fig-eeg-montages}
 :::
 ::::
 
@@ -193,7 +195,7 @@ cdc_sleep |>
 - Current/voltage gradients between *apical* (near surface) dendrites and *basal* (deeper) dendrites and cell body/soma
 :::
 ::: {.column width=50%}
-![@Naess2020-su Figure 1](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.01.181875/F1.large.jpg)
+![@Naess2020-su Figure 1](https://www.biorxiv.org/content/biorxiv/early/2020/07/04/2020.07.01.181875/F1.large.jpg){#fig-eeg-source}
 :::
 ::::
 
@@ -205,7 +207,7 @@ cdc_sleep |>
 - High amplitudes in specific frequency bands
 :::
 ::: {.column width=50%}
-![OpenAnesthesia.org](https://www.openanesthesia.org/wp-content/uploads/2025/11/24/EEG_Basic-Principles-and-Overview_figure-1-8ei2sg.png)
+![OpenAnesthesia.org](https://www.openanesthesia.org/wp-content/uploads/2025/11/24/EEG_Basic-Principles-and-Overview_figure-1-8ei2sg.png){#fig-eeg-freq-bands}
 :::
 ::::
 
@@ -231,7 +233,7 @@ cdc_sleep |>
   - N3 (slow-wave, deep sleep)
 :::
 ::: {.column width=50%}
-![@Wikipedia-contributors2025-as^["By RazerM at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17745252"]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sleep_Hypnogram.svg/3840px-Sleep_Hypnogram.svg.png)
+![@Wikipedia-contributors2025-as^["By RazerM at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17745252"]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sleep_Hypnogram.svg/3840px-Sleep_Hypnogram.svg.png){#fig-sleep-cycles}
 :::
 ::::
 
@@ -262,21 +264,21 @@ cdc_sleep |>
   - More awake-like
 :::
 ::: {.column width=50%}
-![@Wikipedia-contributors2025-as^["By Andrii Cherninskyi - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44033654"]](https://upload.wikimedia.org/wikipedia/commons/5/58/Normal_EEG_of_mouse.png)
+![@Wikipedia-contributors2025-as^["By Andrii Cherninskyi - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44033654"]](https://upload.wikimedia.org/wikipedia/commons/5/58/Normal_EEG_of_mouse.png){#fig-normal-mouse-eeg}
 :::
 ::::
 
 ---
 
-![@Wikipedia-contributors2025-as^["By MrSandman at English Wikipedia - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=453205"]](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleep_EEG_REM.png)
+![@Wikipedia-contributors2025-as^["By MrSandman at English Wikipedia - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=453205"]](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleep_EEG_REM.png){#fig-sleep-rem}
 
 ---
 
-![@Rasch2013-yn Figure 1^["FIGURE 1. Typical human sleep profile and sleep-related signals. A: sleep is characterized by the cyclic occurrence of rapid-eye-movement (REM) sleep and non-REM sleep. Non-REM sleep includes slow-wave sleep (SWS) corresponding to N3, and lighter sleep stages N1 and N2 (591). According to an earlier classification system by Rechtschaffen and Kales (974), SWS was divided into stage 3 and stage 4 sleep. The first part of the night (early sleep) is dominated by SWS, whereas REM sleep prevails during the second half (late sleep). B: the most prominent electrical field potential oscillations during SWS are the neocortical slow oscillations (0.8 Hz), thalamocortical spindles (waxing and waning activity between 10 –15 Hz), and the hippocampal sharp wave-ripples (SW-R), i.e., fast depolarizing waves that are generated in CA3 and are superimposed by high-frequency (100 –300 Hz) ripple oscillation. REM sleep, in animals, is characterized by ponto-geniculooccipital (PGO) waves, which are associated with intense bursts of synchronized activity propagating from the pontine brain stem mainly to the lateral geniculate nucleus and visual cortex, and by hippocampal theta (4–8 Hz) activity. In humans, PGO and theta activity are less readily identified. C: sleep is accompanied by a dramatic change in activity levels of different neurotransmitters and neuromodulators. Compared with waking, cholinergic activity reaches a minimum during SWS, whereas levels during REM sleep are similar or even higher than those during waking. A similar pattern is observed for the stress hormone cortisol. Aminergic activity is high during waking, intermediate during SWS, and minimal during REM sleep. [Modified from Diekelmann and Born (293).]"]](../include/img/rasch-fig01-a.png)
+![@Rasch2013-yn Figure 1^["FIGURE 1. Typical human sleep profile and sleep-related signals. A: sleep is characterized by the cyclic occurrence of rapid-eye-movement (REM) sleep and non-REM sleep. Non-REM sleep includes slow-wave sleep (SWS) corresponding to N3, and lighter sleep stages N1 and N2 (591). According to an earlier classification system by Rechtschaffen and Kales (974), SWS was divided into stage 3 and stage 4 sleep. The first part of the night (early sleep) is dominated by SWS, whereas REM sleep prevails during the second half (late sleep). B: the most prominent electrical field potential oscillations during SWS are the neocortical slow oscillations (0.8 Hz), thalamocortical spindles (waxing and waning activity between 10 –15 Hz), and the hippocampal sharp wave-ripples (SW-R), i.e., fast depolarizing waves that are generated in CA3 and are superimposed by high-frequency (100 –300 Hz) ripple oscillation. REM sleep, in animals, is characterized by ponto-geniculooccipital (PGO) waves, which are associated with intense bursts of synchronized activity propagating from the pontine brain stem mainly to the lateral geniculate nucleus and visual cortex, and by hippocampal theta (4–8 Hz) activity. In humans, PGO and theta activity are less readily identified. C: sleep is accompanied by a dramatic change in activity levels of different neurotransmitters and neuromodulators. Compared with waking, cholinergic activity reaches a minimum during SWS, whereas levels during REM sleep are similar or even higher than those during waking. A similar pattern is observed for the stress hormone cortisol. Aminergic activity is high during waking, intermediate during SWS, and minimal during REM sleep. [Modified from Diekelmann and Born (293).]"]](../include/img/rasch-fig01-a.png){#fig-rash-fig-01a}
 
 ---
 
-![](../include/img/rasch-fig01-bc.png)
+![@Rasch2013-yn](../include/img/rasch-fig01-bc.png){#fig-rash-fig-01a}
 
 ## Mechanisms of REM atonia
 
@@ -287,7 +289,7 @@ cdc_sleep |>
 - CN III, IV, VI control eye movements
 :::
 ::: {.column width=50%}
-![@Roguski2020-ee Figure 1^["Key brain regions and neurotransmitters involved in regulation and maintenance of the REM sleep stage under healthy normative or pathological RBD conditions. In RBD, dysfunction within the SubC → VMM → Spinal Motor Neuron pathway results in a lack of REM atonia (depicted with dotted line). BF, basal forebrain; LC, locus coeruleus; LDT/PPT, laterodorsal tegmentum/pedunculopontine tegmentum; LH, lateral hypothalamus; Subc/PC, subcoeruleus/pre-locus coeruleus; TMN, tuberomammillary nucleus; vlPAG, ventrolateral periaqueductal gray; VLPO/MnPO, ventrolateral preoptic nucleus/median preoptic nucleus; VMM, ventromedial medulla. Figure created using BioRender.com."]](https://www.frontiersin.org/api/ipx/f=webp/https://www.frontiersin.org/files/Articles/526705/xml-images/fneur-11-00610-g0001.webp)
+![@Roguski2020-ee Figure 1^["Key brain regions and neurotransmitters involved in regulation and maintenance of the REM sleep stage under healthy normative or pathological RBD conditions. In RBD, dysfunction within the SubC → VMM → Spinal Motor Neuron pathway results in a lack of REM atonia (depicted with dotted line). BF, basal forebrain; LC, locus coeruleus; LDT/PPT, laterodorsal tegmentum/pedunculopontine tegmentum; LH, lateral hypothalamus; Subc/PC, subcoeruleus/pre-locus coeruleus; TMN, tuberomammillary nucleus; vlPAG, ventrolateral periaqueductal gray; VLPO/MnPO, ventrolateral preoptic nucleus/median preoptic nucleus; VMM, ventromedial medulla. Figure created using BioRender.com."]](https://www.frontiersin.org/api/ipx/f=webp/https://www.frontiersin.org/files/Articles/526705/xml-images/fneur-11-00610-g0001.webp){#fig-ragulski-fig-1}
 :::
 ::::
 

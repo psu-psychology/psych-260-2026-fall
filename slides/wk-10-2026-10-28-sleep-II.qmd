@@ -7,13 +7,9 @@ format: revealjs
 
 ## Prelude
 
-::: {#fig-dreamweaver}
-<iframe width="1200" height="450" src="https://www.youtube.com/embed/xZKuzwPOefs?si=hNEyFVfwrelgGOJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-@Films2014-dm
-:::
-
 ## Announcements
+
+- *Quiz 3* next Friday, November 6, 2026.
 
 ## Today's topics
 
