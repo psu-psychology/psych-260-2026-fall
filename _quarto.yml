@@ -11,11 +11,11 @@ project:
 
 website:
   title: "PSYCH 260.001"
-  announcement:
-    content: "Exam 2 is on Wednesday, October 21."
-    position: below-navbar
-    icon: info-circle
-    dismissable: true
+  # announcement:
+  #   content: "Exam 2 is on Wednesday, October 21."
+  #   position: below-navbar
+  #   icon: info-circle
+  #   dismissable: true
   sidebar:
     collapse-level: 1
     style: "docked"
@@ -77,6 +77,8 @@ website:
             href: slides/wk-09-2026-10-19-exam-rev.qmd
           - text: "Wk 09 • Fri Oct 23"
             href: slides/wk-09-2026-10-23-emotion-III.qmd
+          - text: "Wk 10 • Mon Oct 26"
+            href: slides/wk-10-2026-10-26-sleep-I.qmd
       #     - text: "Wk 12 • Thu Nov 13"
       #       href: slides/wk-12-2025-11-13-sensory-systems.qmd
       #     - text: "Wk 13 • Tue Nov 18"
