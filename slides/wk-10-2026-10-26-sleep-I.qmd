@@ -365,11 +365,11 @@ basis for the mental event.
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2026.1.1.403.
+Integrated Development Environment (IDE), version 2026.10.0.233.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework.
-The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psy-511-scan-fdns-2026-spring) and served by GitHub pages:
-<https://psu-psychology.github.io/psy-511-scan-fdns-2026-spring/>
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
 
 ## References

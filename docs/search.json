@@ -475,7 +475,7 @@
     "href": "slides/wk-10-2026-10-26-sleep-I.html#about",
     "title": "Sleep & Circadian Rhythms",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.1.1.403.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psy-511-scan-fdns-2026-spring/",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
     "crumbs": [
       "Slides",
       "Wk 10 • Mon Oct 26"
@@ -10309,260 +10309,408 @@
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#prelude",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#prelude",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Prelude",
-    "text": "Prelude\n\n\n\n\n\n\n\nFigure 1: Films (2014)"
+    "text": "Prelude",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#announcements",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#announcements",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Announcements",
-    "text": "Announcements"
+    "text": "Announcements\n\nQuiz 3 next Friday, November 6, 2026.",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#todays-topics",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#todays-topics",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nWarm-up\nMechanisms of sleep"
+    "text": "Today’s topics\n\nWarm-up\nMechanisms of sleep",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#warm-up",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#warm-up",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Warm-up",
-    "text": "Warm-up"
+    "text": "Warm-up",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#two-process-models",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#two-process-models",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Two-process models",
-    "text": "Two-process models\n\nWakefulness promoting\nSleep promoting"
+    "text": "Two-process models\n\nWakefulness promoting\nSleep promoting",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#wakefulness-promoting",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#wakefulness-promoting",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Wakefulness promoting",
-    "text": "Wakefulness promoting\n\n\n\nSulaman et al. (2023) Figure 11"
+    "text": "Wakefulness promoting\n\n\n\nSulaman et al. (2023) Figure 11",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#transition-to-sleep",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#transition-to-sleep",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Transition to sleep",
-    "text": "Transition to sleep\n\n\n\nSulaman et al. (2023) Figure 22"
+    "text": "Transition to sleep\n\n\n\nSulaman et al. (2023) Figure 22",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#transition-to-rem",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#transition-to-rem",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Transition to REM",
-    "text": "Transition to REM\n\n\n\nSulaman et al. (2023) Figure 33"
+    "text": "Transition to REM\n\n\n\nSulaman et al. (2023) Figure 33",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#hypocretinsorexins",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#hypocretinsorexins",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Hypocretins/Orexins",
-    "text": "Hypocretins/Orexins\n\n\n\nSame substances, discovered independently\nNeuropeptides\nReleased by lateral hypothalamus\nWidespread projections\n\n\n\n\n\nSakurai (2007) Figure 14"
+    "text": "Hypocretins/Orexins\n\n\n\nSame substances, discovered independently\nNeuropeptides\nReleased by lateral hypothalamus\nWidespread projections\n\n\n\n\n\nSakurai (2007) Figure 14",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#hypocretinsorexins-1",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#hypocretinsorexins-1",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Hypocretins/Orexins",
-    "text": "Hypocretins/Orexins\n\n\n\nSleep and arousal, link to sleep disorders\nFeeding, water balance, gastrointestinal, & energy; neuroendocrine; cardiovascular, pain modulation (Ebrahim2002-um?)\n\n\n\n\n\nSakurai (2007) Figure 1"
+    "text": "Hypocretins/Orexins\n\n\n\nSleep and arousal, link to sleep disorders\nFeeding, water balance, gastrointestinal, & energy; neuroendocrine; cardiovascular, pain modulation (Ebrahim, Howard, Kopelman, Sharief, & Williams, 2002)\n\n\n\n\n\nSakurai (2007) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#hypocretinsorexins-2",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#hypocretinsorexins-2",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Hypocretins/Orexins",
-    "text": "Hypocretins/Orexins\n\n\n\nTarget for PTSD treatments? (Flores2014-oc?)\n\n\n\n\n\nSakurai (2007) Figure 1"
+    "text": "Hypocretins/Orexins\n\n\n\nTarget for PTSD treatments? (Flores et al., 2014)\n\n\n\n\n\nSakurai (2007) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#adenosine-wikipedia-contributors2026-ow",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#adenosine-wikipedia-contributors2026-ow",
-    "title": "Sleep & Circadian Rhythms",
-    "section": "Adenosine (Wikipedia-contributors2026-ow?)",
-    "text": "Adenosine (Wikipedia-contributors2026-ow?)\n\n\n\nNeuromodulator\nReceptors in cerebral cortex, hippocampus, striatum, & cerebellum\nModulates DA receptors in striatum\n\n\n\n\n\n(Ballesteros-Yanez2017-ap?) Figure 2"
+    "title": "Sleep II",
+    "section": "Adenosine (Wikipedia contributors, 2026)",
+    "text": "Adenosine (Wikipedia contributors, 2026)\n\n\n\nNeuromodulator\nReceptors in cerebral cortex, hippocampus, striatum, & cerebellum\nModulates DA receptors in striatum\n\n\n\n\n\nBallesteros-Yáñez et al. (2017) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#adenosine",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#adenosine",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Adenosine",
-    "text": "Adenosine\n\n\n\nCircadian pattern (\\(\\uparrow\\): greater sleepiness)\nCoffee and caffeine-containing beverages widely consumed\nCaffeine: adenosine antagonist\nSee also (Hollingworth1912-vn?)"
+    "text": "Adenosine\n\n\n\nCircadian pattern (\\(\\uparrow\\): greater sleepiness)\nCoffee and caffeine-containing beverages widely consumed\nCaffeine: adenosine antagonist\nSee also Hollingworth (1912)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#adaptive-inactivity",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#adaptive-inactivity",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Adaptive inactivity",
-    "text": "Adaptive inactivity\n\n\n\nCarnivores sleep the most, herbivores the least\nSleep ~ 1/body mass in herbivores\nSmaller animals \\(\\rightarrow\\) shorter cycles\n\n\n\n\n\nSiegel (2005) Figure 25"
+    "text": "Adaptive inactivity\n\n\n\nCarnivores sleep the most, herbivores the least\nSleep ~ 1/body mass in herbivores\nSmaller animals \\(\\rightarrow\\) shorter cycles\n\n\n\n\n\nSiegel (2005) Figure 25",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#section",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#section",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "",
-    "text": "Some animal sleep one hemispheric at a time!\n\n\n\n\n\nSiegel (2005) Figure 36"
+    "text": "Some animals sleep one hemisphere at a time!\n\n\n\n\n\nSiegel (2005) Figure 36",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#siegel2005-bf",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#siegel2005-bf",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Siegel (2005)",
-    "text": "Siegel (2005)\n\nMost theories suggest a role for non-rapid eye movement (NREM) sleep in energy conservation and in nervous system recuperation. Theories of REM sleep have suggested a role for this state in periodic brain activation during sleep, in localized recuperative processes and in emotional regulation."
+    "text": "Siegel (2005)\n\nMost theories suggest a role for non-rapid eye movement (NREM) sleep in energy conservation and in nervous system recuperation. Theories of REM sleep have suggested a role for this state in periodic brain activation during sleep, in localized recuperative processes and in emotional regulation.",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#siegel2005-bf-1",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#siegel2005-bf-1",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Siegel (2005)",
-    "text": "Siegel (2005)\n\nAcross mammals, the amount and nature of sleep are correlated with age, body size and ecological variables, such as whether the animals live in a terrestrial or an aquatic environment, their diet and the safety of their sleeping site. Sleep may be an efficient time for the completion of a number of functions, but variations in sleep expression indicate that these functions may differ across species."
+    "text": "Siegel (2005)\n\nAcross mammals, the amount and nature of sleep are correlated with age, body size and ecological variables, such as whether the animals live in a terrestrial or an aquatic environment, their diet and the safety of their sleeping site. Sleep may be an efficient time for the completion of a number of functions, but variations in sleep expression indicate that these functions may differ across species.",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#memory-consolidation",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#memory-consolidation",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Memory consolidation",
-    "text": "Memory consolidation\n\n\n\nTwo-stage memory system (Marr1971-be?)\n\nEncoding (hippocampus) \\(\\rightarrow\\) consolidation (cortex)\nAvoids catastrophic interference\n\nWaking brain: Optimized for encoding\nSleeping brain: Optimized for consolidation\nRasch & Born (2013)\n\n\n\n\n\nRasch & Born (2013) Figure 27"
+    "text": "Memory consolidation\n\n\n\nTwo-stage memory system (Marr, 1971)\n\nEncoding (hippocampus) \\(\\rightarrow\\) consolidation (cortex)\nAvoids catastrophic interference\n\nWaking brain: Optimized for encoding\nSleeping brain: Optimized for consolidation\nRasch & Born (2013)\n\n\n\n\n\nRasch & Born (2013) Figure 27",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#section-1",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#section-1",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "",
-    "text": "Whereas initially it was commonly assumed that sleep improves memory in a passive manner, by protecting it from being overwritten by interfering external stimulus inputs, the current theorizing assumes an active consolidation of memories that is specifically established during sleep, and basically originates from the reactivation of newly encoded memory representations.\n\n– Rasch & Born (2013)"
+    "text": "Whereas initially it was commonly assumed that sleep improves memory in a passive manner, by protecting it from being overwritten by interfering external stimulus inputs, the current theorizing assumes an active consolidation of memories that is specifically established during sleep, and basically originates from the reactivation of newly encoded memory representations.\n\n– Rasch & Born (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#glymphatic-clearance",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#glymphatic-clearance",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Glymphatic clearance",
-    "text": "Glymphatic clearance\n\n\n\nBrain lacks lymphatic vessels\n\nLymphatic system in rest of body clears waste products\n\nBrain has glymphatic system\n\nCSF flow clears metabolic refuse (Iliff2012-rj?)\nEspecially during sleep (Xie2013-bm?)\n\n\n\n\n\n\n(LeslieUnknown-ee?)"
+    "text": "Glymphatic clearance\n\n\n\nBrain lacks lymphatic vessels\n\nLymphatic system in rest of body clears waste products\n\nBrain has glymphatic system\n\nCSF flow clears metabolic refuse (Iliff2012-rj?)\nEspecially during sleep (Xie2013-bm?)\n\n\n\n\n\n\n(LeslieUnknown-ee?)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#mechanism",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#mechanism",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Mechanism",
-    "text": "Mechanism\n\n\n\nSlow (0.02 Hz) Norepinephrine (NE) release from locus coeruleus during NREM\nInduces rhythmic blood vessel contractions\nCommon sleep aid (Ambien/Zolpidem9) suppresses glymphatic clearance\n\n\n\n\n\n(Hauglund2025-zj?)"
+    "text": "Mechanism\n\n\n\nSlow (0.02 Hz) Norepinephrine (NE) release from locus coeruleus during NREM\nInduces rhythmic blood vessel contractions\nCommon sleep aid (Ambien/Zolpidem9) suppresses glymphatic clearance\n\n\n\n\n\n(Hauglund2025-zj?)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#is-sleep-essential-rasch2013-yn",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#is-sleep-essential-rasch2013-yn",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Is sleep essential? (Rasch & Born, 2013)",
-    "text": "Is sleep essential? (Rasch & Born, 2013)\n\n\nThe fact that almost all animals sleep strongly argues in favor of an adaptive role of sleep in increasing the overall fitness of an organism."
+    "text": "Is sleep essential? (Rasch & Born, 2013)\n\n\nThe fact that almost all animals sleep strongly argues in favor of an adaptive role of sleep in increasing the overall fitness of an organism.",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#is-sleep-essential",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#is-sleep-essential",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Is sleep essential?",
-    "text": "Is sleep essential?\n\n…Sleep has been proposed as serving an energy-saving function (82, 1311), the restoration of energy resources and the repairing of cell tissue (875), thermoregulation (973), metabolic regulation (651, 1229), and adaptive immune functions (695). However, these functions could be likewise achieved in a state of quiet wakefulness and would not explain the loss of consciousness and responsiveness to external threats during sleep.\n\n– Rasch & Born (2013)"
+    "text": "Is sleep essential?\n\n…Sleep has been proposed as serving an energy-saving function (82, 1311), the restoration of energy resources and the repairing of cell tissue (875), thermoregulation (973), metabolic regulation (651, 1229), and adaptive immune functions (695). However, these functions could be likewise achieved in a state of quiet wakefulness and would not explain the loss of consciousness and responsiveness to external threats during sleep.\n\n– Rasch & Born (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#is-sleep-essential-1",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#is-sleep-essential-1",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Is sleep essential?",
-    "text": "Is sleep essential?\n\nThese prominent features of sleep strongly speak for the notion that sleep is mainly “for the brain” (553, 625).\n\n– Rasch & Born (2013)"
+    "text": "Is sleep essential?\n\nThese prominent features of sleep strongly speak for the notion that sleep is mainly “for the brain” (553, 625).\n\n– Rasch & Born (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#section-2",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#section-2",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "",
-    "text": "Figure 2: McGee (2011)"
+    "text": "Figure 1: McGee (2011)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#mechanisms",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#mechanisms",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Mechanisms",
-    "text": "Mechanisms\n\n\n\nRetinohypothalamic tract projection to\n\nSuprachiasmatic Nucleus of the Hypothalamus\nSCN has endogenously cycling cells\nLight input synchronizes rhythms to day/night cycle\n\n\n\n\n\n\n(Wikipedia-contributors2026-zz?)11"
+    "text": "Mechanisms\n\n\n\nRetinohypothalamic tract projection to\n\nSuprachiasmatic Nucleus of the Hypothalamus\nSCN has endogenously cycling cells\nLight input synchronizes rhythms to day/night cycle\n\n\n\n\n\n\n(Wikipedia-contributors2026-zz?)11",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#melatonin",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#melatonin",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Melatonin",
-    "text": "Melatonin\n\n\n\nHormone/neurotransmitter\nReleased by Pineal Gland\nANS controls release\n\n\n\n\n\n(Wikipedia-contributors2026-pj?)12"
+    "text": "Melatonin\n\n\n\nHormone/neurotransmitter\nReleased by Pineal Gland\nANS controls release\n\n\n\n\n\n(Wikipedia-contributors2026-pj?)12",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#melatonin-receptors",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#melatonin-receptors",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Melatonin receptors",
-    "text": "Melatonin receptors\n\n\n\n(Gobbi2019-hf?) Figure 113"
+    "text": "Melatonin receptors\n\n\n\nGobbi & Comai (2019) Figure 113",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#main-points",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#main-points",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Main points",
-    "text": "Main points\n\nSleep is vital for health\nMany Americans don’t get enough\nSleep has phases with distinct physiological profiles:\n\nEEG\nMovement\nNeurotransmitters active"
+    "text": "Main points\n\nSleep engages a network of brain regions\n\nLateral Hypothalamus\nBrainstem\nBasal Forebrain\nThalamus",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#main-points-1",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#main-points-1",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Main points",
-    "text": "Main points\n\nSleep engages a network of brain regions\n\nLateral Hypothalamus\nBrainstem\nBasal Forebrain\nThalamus"
+    "text": "Main points\n\nSleep engages a network of brain regions\n\nTegmentum\nCerebral cortex\nHippocampus",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#main-points-2",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#main-points-2",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Main points",
-    "text": "Main points\n\nSleep engages a network of brain regions\n\nTegmentum\nCerebral cortex\nHippocampus"
+    "text": "Main points\n\nSeparate, interacting, mutually inhibiting processes seem to govern wakefulness and sleep\nSleep has multiple functions\n\nRest/inactivity\nMemory consolidation\nGlymphatic clearance\nBrain development",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#main-points-3",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#main-points-3",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Main points",
-    "text": "Main points\n\nSeparate, interacting, mutually inhibiting processes seem to govern wakefulness and sleep\nSleep has multiple functions\n\nRest/inactivity\nMemory consolidation\nGlymphatic clearance\nBrain development"
+    "text": "Main points\n\nSeparate, interacting, mutually inhibiting processes seem to govern wakefulness and sleep\nSleep has multiple functions\n\nRest/inactivity\nMemory consolidation\nGlymphatic clearance\nBrain development",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#main-points-4",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#main-points-4",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Main points",
-    "text": "Main points\n\nCircadian rhythms governed by\n\nRetinal input to SCN\nIntrinsic oscillators\nPhasic hormone release (especially melatonin & cortisol)"
+    "text": "Main points\n\nCircadian rhythms governed by\n\nRetinal input to SCN\nIntrinsic oscillators\nPhasic hormone release (especially melatonin & cortisol)",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#next-time",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#next-time",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Next time",
-    "text": "Next time\n\nSpring Break!\nThursday, March 18: Evolution & development"
+    "text": "Next time\n\nSleep III",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#about",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#about",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.1.1.403.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psy-511-scan-fdns-2026-spring/"
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#references",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#references",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "References",
-    "text": "References\n\n\n\n\nFilms, R. S. (2014). Gary Wright - DreamWeaver official video. YouTube. Retrieved from https://www.youtube.com/watch?v=xZKuzwPOefs&list=RDxZKuzwPOefs&start_radio=1\n\n\nMcGee, M. (2011). Suprachiasmatic nucleus of hypothalamus. YouTube. Retrieved from https://www.youtube.com/watch?v=fgJPnQCJ9eE\n\n\nRasch, B., & Born, J. (2013). About sleep’s role in memory. Physiological Reviews, 93, 681–766. https://doi.org/10.1152/physrev.00032.2012\n\n\nSakurai, T. (2007). The neural circuit of orexin (hypocretin): Maintaining sleep and wakefulness. Nature Reviews. Neuroscience, 8, 171–181. https://doi.org/10.1038/nrn2092\n\n\nSiegel, J. M. (2005). Clues to the functions of mammalian sleep. Nature, 437, 1264–1271. https://doi.org/10.1038/nature04285\n\n\nSulaman, B. A., Wang, S., Tyan, J., & Eban-Rothschild, A. (2023). Neuro-orchestration of sleep and wakefulness. Nature Neuroscience, 26, 196–212. https://doi.org/10.1038/s41593-022-01236-w"
+    "text": "References\n\n\n\n\nBallesteros-Yáñez, I., Castillo, C. A., Merighi, S., & Gessi, S. (2017). The role of adenosine receptors in psychostimulant addiction. Frontiers in Pharmacology, 8, 985. https://doi.org/10.3389/fphar.2017.00985\n\n\nEbrahim, I. O., Howard, R. S., Kopelman, M. D., Sharief, M. K., & Williams, A. J. (2002). The hypocretin/orexin system. Journal of the Royal Society of Medicine, 95, 227–230. https://doi.org/10.1258/jrsm.95.5.227\n\n\nFlores, Á., Valls-Comamala, V., Costa, G., Saravia, R., Maldonado, R., & Berrendero, F. (2014). The hypocretin/orexin system mediates the extinction of fear memories. Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 39, 2732–2741. https://doi.org/10.1038/npp.2014.146\n\n\nHollingworth, H. L. (1912). The influence of caffein alkaloid on the quality and amount of sleep. The American Journal of Psychology, 23, 89. https://doi.org/10.2307/1413116\n\n\nMarr, D. (1971). Simple memory: A theory for archicortex. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 262, 23–81. https://doi.org/10.1098/rstb.1971.0078\n\n\nRasch, B., & Born, J. (2013). About sleep’s role in memory. Physiological Reviews, 93, 681–766. https://doi.org/10.1152/physrev.00032.2012\n\n\nSakurai, T. (2007). The neural circuit of orexin (hypocretin): Maintaining sleep and wakefulness. Nature Reviews. Neuroscience, 8, 171–181. https://doi.org/10.1038/nrn2092\n\n\nSiegel, J. M. (2005). Clues to the functions of mammalian sleep. Nature, 437, 1264–1271. https://doi.org/10.1038/nature04285\n\n\nSulaman, B. A., Wang, S., Tyan, J., & Eban-Rothschild, A. (2023). Neuro-orchestration of sleep and wakefulness. Nature Neuroscience, 26, 196–212. https://doi.org/10.1038/s41593-022-01236-w\n\n\nWikipedia contributors. (2026, February 28). Adenosine. Retrieved from https://en.wikipedia.org/wiki/Adenosine",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-28-sleep-II.html#footnotes",
     "href": "slides/wk-10-2026-10-28-sleep-II.html#footnotes",
-    "title": "Sleep & Circadian Rhythms",
+    "title": "Sleep II",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\n“Fig. 1 | The orchestration of wakefulness. a, Wakefulness is generated through several concurrent processes. Left, wake systems stimulate cortical and thalamocortical circuits, suppressing low-frequency oscillations (hereafter depicted in yellow). Middle, the release of neuromodulators modulates excitability and information flow in distributed neural networks in support of waking-state processing and behaviors (hereafter depicted in red). Right, wake systems inhibit sleep-promoting neurons (hereafter depicted in green). b, Schematic of wake systems. Neuronal subpopulations distributed throughout the brain generate and maintain wakefulness. Output from the PBN, LC, TMN, LH and BF modulates thalamocortical and cortical circuits and promotes fast cortical oscillations conducive to waking-related processing. Neuromodulatory output from the LC, DR, VTA, PVN, BF, LH and TMN alters the excitability of neural networks spanning from the brainstem to the forebrain. Several wake systems, including those in the SC, LC, TMN, LH and NAc, can inhibit sleeppromoting neurons. Wakefulness may be initiated daily by indirect or direct circadian output from the SCN (purple) onto the PVN, LH, VTA and thalamus.Colors indicate participation in the processes shown in a. c–f, Inputs, outputs and local-network connectivity of four main wake systems. Complex interactions among multiple subpopulations within the LH, BF, VTA and Thal support wakefulness. Within each region, both excitatory and disinhibitory mechanisms fine-tune arousal regulation. c, GABAergic (blue), glutamatergic (purple) and peptidergic subpopulations within the LH generate and maintain wakefulness. Most excitatory and inhibitory inputs into the LH promote wakefulness. d, The BF is critical in opposing the default synchronized cortical state and in producing cortical arousal. Inputs from the PBN and outputs to the cortex are important for this function, whereas outputs to the VTA promote wakefulness. e, Dopaminergic, glutamatergic and GABAergic VTA neurons are involved in regulating wakefulness. Dopaminergic and glutamatergic VTA neurons are necessary for wake maintenance, even in the presence of highly salient stimuli. f, Several midline thalamic subpopulations are both necessary and sufficient for the generation of wakefulness and have been implicated in the initiation of wakefulness. Excitatory input from various wake-promoting neurons depolarizes TC neurons during wakefulness, resulting in the induction of fast cortical oscillations. Solid lines represent pathways whose functions have been experimentally interrogated. Dashed lines represent anatomical innervations that have not been functionally tested in the context of sleep–wake regulation. Blue lines represent inputs to wake systems that do not clearly fall into one of the functions described in a. 5-HT, serotonin; ACh, acetylcholine; BF, basal forebrain; BNST, bed nucleus of the stria terminalis; Calb1+ , calbindin-1-positive neurons; Cg, cingulate cortex; CMT, centromedial thalamus; CR+, calretinin-positive neurons; D1, dopamine type-D1 receptor; D2, dopamine type-D2 receptor; DA, dopamine; DMT, dorsomedial thalamus; DR, dorsal raphe; DS, dorsal striatum; GABA, gamma-aminobutyric acid; HA, histamine; Hcrt, hypocretin; LC, locus coeruleus; LH, lateral hypothalamus; MS, medial septum; NA, noradrenaline; NAc, nucleus accumbens; PBN, parabrachial nucleus; PC, peri-coeruleus; POA, preoptic area; PV+, parvalbumin-expressing neurons; PVN, hypothalamic paraventricular nucleus; PVT, paraventricular nucleus of the thalamus; RMTg, rostromedial tegmental nucleus; SC, superior colliculus; SCN, suprachiasmatic nucleus; TC, thalamocortical neurons; Thal, thalamus; TMN, tuberomammillary nucleus; VMT, ventromedial thalamus; VP, ventral pallidum; VTA, ventral tegmental area.”\n“a, Proposed ‘de-arousal model of sleep initiation’. The transition from wakefulness to sleep is preceded by a transitional phase during which physiological and behavioral tranquilization enable a brain-wide shift in excitability, functional connectivity and information flow. Left, circadian and homeostatic drives promote a behavioral preparation for sleep. Middle, the manifestation of repetitive, pre-sleep behaviors, such as grooming and nest building, reduces vigilance toward the external environment and decreases the tone of wake-promoting neuromodulators. The decreased wake neuromodulatory tone further promotes the manifestation of pre-sleep behaviors. Right, low neuromodulatory tone also results in the release of TC neurons from their stimulation, the propagation of cortical slow oscillations and the disinhibition of sleep-promoting neurons, imposing sleep upon the organism. b, NREMS regulatory circuitry. POAGABA neurons have a central role in generating and maintaining NREMS. Additional NREMS-promoting populations have been identified in the medulla, midbrain, ZI, amygdala, striatum and cortex. NREMS is maintained by the continuous inhibition of wake systems. Thalamic, cortical and PZGABA neurons are implicated in driving characteristic NREMS oscillations. Blue, NREMS-promoting neurons. Gray, wake systems inhibited by NREMS-promoting neurons. Solid lines represent pathways whose functions have been experimentally interrogated. Dashed lines represent anatomical innervations that have not been functionally tested in the context of sleep–wake regulation. CeA, central nucleus of the amygdala; D2, dopamine type-D2 receptor; DMH, dorsomedial hypothalamus; DS, dorsal striatum; eGP, external globus pallidus; OT, olfactory tubercle; pIII, perioculomotor midbrain; PH, posterior hypothalamus; PZ, parafacial zone; SNr, substantia nigra pars reticulata; vlPAG, ventrolateral periaqueductal gray; vmM, ventromedial medulla; VP, ventral pallidum; ZI, zona incerta.”\n“a, Gatekeeping neurons in the vlPAG, dorsal DpMe, DR and LC prevent REMS initiation during wakefulness and NREMS by inhibiting REMS-generating populations. REMS is likely initiated by the simultaneous inhibition of gatekeepers and activation of pontine and hypothalamic structures, including the SLD, PPT/LDT, PC and LH. b, The main neuronal populations generating and maintaining REMS are located in the brainstem (pons and medulla), and additional REMS regulatory populations have been identified in the LH, ZI, POA and VTA. c, Tonic features of REMS are generated by different neuronal circuits. Muscle atonia during REMS is attained by SLDglut neuronal input to vmMGly/GABA neurons, which inhibit spinal cord motoneurons. The suspension of thermoregulation may be induced by inhibitory DMHGal projections to the raphe pallidus. Finally, several brain regions have been implicated in the generation of cortical and hippocampal theta oscillations during REMS, including the MS and BF/LPO. The SuM and CL are implicated in the activation of several limbic and cortical regions during REMS. d, Phasic features of REMS are thought to be orchestrated by PPT/LDT neurons through projections to the brainstem, thalamic and forebrain areas, as well as through propagating theta oscillations. Dorsal medulla NPCalb/glut neurons have been implicated in generating REMS rapid eye movements through projections to the oculomotor nucleus. Myoclonic twitching during REMS involves the activation of cholinergic PPT, LDT and SLD neurons, as well as of red nucleus neurons, generating brief episodes of atonia cessation in tandem with glutamate-mediated activation of spinal cord motoneurons. PGO waves are associated with neuronal activation in several neuronal populations in the pons. Phasic increases in heart rate during REMS may be promoted by the phasic inhibition of cardiac vagal neurons in the nucleus ambiguous by REMS-active LPGiGly/GABA neurons. ACC, anterior cingulate cortex; Amb, nucleus ambiguous; Amy, amygdala; BAT, brown adipose tissue; BLA, basolateral amygdala; CL, claustrum; CVNs, cardiac vagal neurons; DG, dentate gyrus; dmM, dorsomedial medulla; DpMe, deep mesencephalic nucleus; Gal, galanin; Gi, gigantocellular nuclei; Glut, glutamate; Gly, glycinergic neurons; Hyp, hypothalamus; IN, spinal cord interneurons; LDT, laterodorsal tegmental nuclei; LPGi, lateral paragigantocellular nuclei; MC, motor cortex; mEC, medial entorhinal cortex; MNs, spinal cord motoneurons; NI, nucleus incertus; NP, nucleus papilio; OM, oculomotor nucleus; PPT, pedunculopontine tegmental nucleus; RN, red nucleus; RSC, retrosplenial cortex; SLD, sublaterodorsal tegmental nucleus; SuM, supramammillary nucleus; vM, ventral medulla; VTn, ventral tegmental nucleus of Gudden.”\n“This figure summarizes predicted orexinergic projections in the human brain. Please note that distributions of orexin fibres and receptors (OX1R, OX2R) are predicted from the results of studies on rodent brains, as it is on rodents that most histological studies on the orexin system have been carried out. Circles show regions with strong receptor expression and dense orexinergic projections. Orexin neurons originating in the lateral hypothalamic area (LHA) and posterior hypothalamus (PH) regulate sleep and wakefulness and the maintenance of arousal by sending excitatory projections to the entire CNS, excluding the cerebellum, with particularly dense projections to monoaminergic and cholinergic nuclei in the brain stem and hypothalamic regions24,25,26,27,28,29,30,31,32,38, including the locus coeruleus (LC, containing noradrenaline), tuberomammillary nucleus (TMN, containing histamine), raphe nuclei (Raphe, containing serotonin) and laterodorsal/pedunclopontine tegmental nuclei (LDT/PPT), containing acetylcholine). Orexin neurons also have links with the reward system through the ventral tegmental area (VTA, containing dopamine) and with the hypothalamic nuclei that stimulate feeding behaviour. Anatomical image adapted, with permission, from Ref. 108 © (1996) Appleton & Lange.”\n“a, Carnivores are shown in dark red; b, herbivores are in green and c, omnivores in grey. Sleep times in carnivores, omnivores and herbivores differ significantly (P&lt;0.0002, F test, d.f. 2,68), with carnivore sleep amounts significantly greater than those of herbivores (P&lt;0.001, t-test, d.f. 24, 22). Sleep amount is an inverse function of body mass over all terrestrial mammals (black line). This function accounts for approximately 25% of the interspecies variance (d) in reported sleep amounts (regression of log weight against sleep amount, R=−0.5, P&lt;0.0001, n=71). Herbivores are responsible for this relation because body mass and sleep time were significantly and inversely correlated in herbivores (R=−0.77, P&lt;0.001, d.f. 24), but were not in carnivores (R=−0.28, d.f. 24) or omnivores (R=−0.25, d.f. 25).”\n“Top, photos of immature beluga, adult dolphin and section of adult dolphin brain. Electroencephalogram (EEG) of adult cetaceans, represented here by the beluga, during sleep are shown. All species of cetacean so far recorded have unihemispheric slow waves30,31,98,99,100. Top traces show left and right EEG activity. The spectral plots show 1–3-Hz power in the two hemispheres over a 12-hour period. The pattern in the cetaceans contrasts with the bilateral pattern of slow waves seen under normal conditions in all terrestrial mammals, represented here by the rat (bottom traces). The brain photograph is from the University of Wisconsin, Michigan State, and the National Museum of Health Comparative Mammalian Brain Collections.”\n“FIGURE 2. Effects of sleep and wake intervals of different length after learning on memory for senseless syllables. Sleep after learning leads to superior recall of syllables after the 1-, 2-, 4-, and 8-h retention interval, compared with wake intervals of the same length. Two subjects (H. and Mc.) participated in this classic study by Jenkins and Dallenbach (603). For each data point, each participant completed 6 –8 trials, with the different retention intervals performed in random order. The study took 2 mo during which the participants lived in the laboratory and were tested almost every day and night. Data are based on Table 3 in Reference 603, as the original figure contains an erroneous exchange of data points at the 4-h wake retention interval. Values are means SE. **P 0.01; *** P 0.001.”\n“FIGURE 3. A model of active system consolidation during sleep. A: during SWS, memories newly encoded into a temporary store (i.e., the hippocampus in the declarative memory system) are repeatedly reactivated, which drives their gradual redistribution to the long-term store (i.e., the neocortex). B: system consolidation during SWS relies on a dialogue between neocortex and hippocampus under top-down control by the neocortical slow oscillations (red). The depolarizing up phases of the slow oscillations drive the repeated reactivation of hippocampal memory representations together with sharp wave-ripples (green) and thalamo-cortical spindles (blue). This synchronous drive allows for the formation of spindle-ripple events where sharp wave-ripples and associated reactivated memory information becomes nested into succeeding troughs of a spindle (shown at larger scale). In the black-and-white version of the figure, red, green, and blue correspond to dark, middle, and light gray, respectively. [Modified from Born and Wilhelm (125).]”\nA GABA_A agonist.\n“By NoNameGYassineMrabetTalk✉ fixed by Addicted04 - The work was done with Inkscape by YassineMrabet. Informations were provided from”The Body Clock Guide to Better Health” by Michael Smolensky and Lynne Lamberg; Henry Holt and Company, Publishers (2000). Landscape was sampled from Open Clip Art Library (Ryan, Public domain). Vitruvian Man and the clock were sampled from Image:P human body.svg (GNU licence) and Image:Nuvola apps clock.png, respectively., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3017148”\n“Illustration of the human brain showing the Cerebral Cortex, the Suprachiasmatic Nucleus, the Optic Chiasm, the Hypothalamus and the Pineal Gland. By 黄雨伞 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30518604”\n“By Images are generated by Life Science Databases(LSDB). - from Anatomography, website maintained by Life Science Databases(LSDB).You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できますURL., CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=7855292”\n“Brain areas involved in the regulation of sleep and wakefulness with their respective receptors, including MT1 and MT2 receptors Modified with permission from Atkin et al. (2). Top left, green: During NREM, the serotonin neurons of the Dorsal Raphe (DR), the dopaminergic neurons of the Ventral tegmental area (VTA), and the noradrenergic neurons of the Locus Coeruleus (LC) decrease their firing activity. These neurons are silent during REM. OX1 and OX2-containing orexinergic neurons of the Lateral Hypothalamus (LH) decrease their firing activity during NREM and REM. The histaminergic H1-containing neurons of the Tuberomammillary Nucleus (TMN) decrease their firing activity during sleep. During wakefulness, neurons of the arousal system (i.e., monoaminergic neurons, orexinergic neurons) send widespread ascending projections to the cerebral cortex, stimulating cortical desynchronization with high frequency gamma and low frequency theta rhythmic activity. Bottom left, black: MT1 and MT2 receptors expressed in suprachiasmatic neurons, which receive inputs directly from the retinohypothalamic tract (RHT), influenced by light and external stimuli may be likely involved in the switch from wakefulness to NREM sleep. The transition from NREM and REM is controlled by the ventrolateral periaqueductal gray area (vlPAG), containing GABA, glutamate receptors, but also melatonin MT2 receptors. Top right, red: During NREM sleep, two nuclei are particularly active: the reticular thalamus (RT), containing melatonin MT2 and GABA receptors, which is responsible for thalamocortical input to the prefrontal cortex (showing synchronized activity during NREM); and the ventrolateral preoptic area (vlPAG), containing GABA and galanin receptors. They inhibit noradrenergic, serotonergic, cholinergic, histaminergic, and hypocretinergic neurons. These nuclei play a role in the “reciprocal inhibitory” model of the sleep–wake switch. Bottom right, blue: The vlPAG is a putative “REM ON” nucleus, switching the brain to the REM sleep mode. During REM, the sublateral nucleus (SLD), the basal forebrain (BF), and the lateral tegmentum/ pedunculopontine tegmentum (LDT/PPT, rich in acetylcholine receptors) and the ventromedial medulla (VM) neurons are particularly active. The BF is active in REM and wakefulness and inhibited during NREM.”"
+    "text": "Footnotes\n\n\n“Fig. 1 | The orchestration of wakefulness. a, Wakefulness is generated through several concurrent processes. Left, wake systems stimulate cortical and thalamocortical circuits, suppressing low-frequency oscillations (hereafter depicted in yellow). Middle, the release of neuromodulators modulates excitability and information flow in distributed neural networks in support of waking-state processing and behaviors (hereafter depicted in red). Right, wake systems inhibit sleep-promoting neurons (hereafter depicted in green). b, Schematic of wake systems. Neuronal subpopulations distributed throughout the brain generate and maintain wakefulness. Output from the PBN, LC, TMN, LH and BF modulates thalamocortical and cortical circuits and promotes fast cortical oscillations conducive to waking-related processing. Neuromodulatory output from the LC, DR, VTA, PVN, BF, LH and TMN alters the excitability of neural networks spanning from the brainstem to the forebrain. Several wake systems, including those in the SC, LC, TMN, LH and NAc, can inhibit sleeppromoting neurons. Wakefulness may be initiated daily by indirect or direct circadian output from the SCN (purple) onto the PVN, LH, VTA and thalamus.Colors indicate participation in the processes shown in a. c–f, Inputs, outputs and local-network connectivity of four main wake systems. Complex interactions among multiple subpopulations within the LH, BF, VTA and Thal support wakefulness. Within each region, both excitatory and disinhibitory mechanisms fine-tune arousal regulation. c, GABAergic (blue), glutamatergic (purple) and peptidergic subpopulations within the LH generate and maintain wakefulness. Most excitatory and inhibitory inputs into the LH promote wakefulness. d, The BF is critical in opposing the default synchronized cortical state and in producing cortical arousal. Inputs from the PBN and outputs to the cortex are important for this function, whereas outputs to the VTA promote wakefulness. e, Dopaminergic, glutamatergic and GABAergic VTA neurons are involved in regulating wakefulness. Dopaminergic and glutamatergic VTA neurons are necessary for wake maintenance, even in the presence of highly salient stimuli. f, Several midline thalamic subpopulations are both necessary and sufficient for the generation of wakefulness and have been implicated in the initiation of wakefulness. Excitatory input from various wake-promoting neurons depolarizes TC neurons during wakefulness, resulting in the induction of fast cortical oscillations. Solid lines represent pathways whose functions have been experimentally interrogated. Dashed lines represent anatomical innervations that have not been functionally tested in the context of sleep–wake regulation. Blue lines represent inputs to wake systems that do not clearly fall into one of the functions described in a. 5-HT, serotonin; ACh, acetylcholine; BF, basal forebrain; BNST, bed nucleus of the stria terminalis; Calb1+ , calbindin-1-positive neurons; Cg, cingulate cortex; CMT, centromedial thalamus; CR+, calretinin-positive neurons; D1, dopamine type-D1 receptor; D2, dopamine type-D2 receptor; DA, dopamine; DMT, dorsomedial thalamus; DR, dorsal raphe; DS, dorsal striatum; GABA, gamma-aminobutyric acid; HA, histamine; Hcrt, hypocretin; LC, locus coeruleus; LH, lateral hypothalamus; MS, medial septum; NA, noradrenaline; NAc, nucleus accumbens; PBN, parabrachial nucleus; PC, peri-coeruleus; POA, preoptic area; PV+, parvalbumin-expressing neurons; PVN, hypothalamic paraventricular nucleus; PVT, paraventricular nucleus of the thalamus; RMTg, rostromedial tegmental nucleus; SC, superior colliculus; SCN, suprachiasmatic nucleus; TC, thalamocortical neurons; Thal, thalamus; TMN, tuberomammillary nucleus; VMT, ventromedial thalamus; VP, ventral pallidum; VTA, ventral tegmental area.”\n“a, Proposed ‘de-arousal model of sleep initiation’. The transition from wakefulness to sleep is preceded by a transitional phase during which physiological and behavioral tranquilization enable a brain-wide shift in excitability, functional connectivity and information flow. Left, circadian and homeostatic drives promote a behavioral preparation for sleep. Middle, the manifestation of repetitive, pre-sleep behaviors, such as grooming and nest building, reduces vigilance toward the external environment and decreases the tone of wake-promoting neuromodulators. The decreased wake neuromodulatory tone further promotes the manifestation of pre-sleep behaviors. Right, low neuromodulatory tone also results in the release of TC neurons from their stimulation, the propagation of cortical slow oscillations and the disinhibition of sleep-promoting neurons, imposing sleep upon the organism. b, NREMS regulatory circuitry. POAGABA neurons have a central role in generating and maintaining NREMS. Additional NREMS-promoting populations have been identified in the medulla, midbrain, ZI, amygdala, striatum and cortex. NREMS is maintained by the continuous inhibition of wake systems. Thalamic, cortical and PZGABA neurons are implicated in driving characteristic NREMS oscillations. Blue, NREMS-promoting neurons. Gray, wake systems inhibited by NREMS-promoting neurons. Solid lines represent pathways whose functions have been experimentally interrogated. Dashed lines represent anatomical innervations that have not been functionally tested in the context of sleep–wake regulation. CeA, central nucleus of the amygdala; D2, dopamine type-D2 receptor; DMH, dorsomedial hypothalamus; DS, dorsal striatum; eGP, external globus pallidus; OT, olfactory tubercle; pIII, perioculomotor midbrain; PH, posterior hypothalamus; PZ, parafacial zone; SNr, substantia nigra pars reticulata; vlPAG, ventrolateral periaqueductal gray; vmM, ventromedial medulla; VP, ventral pallidum; ZI, zona incerta.”\n“a, Gatekeeping neurons in the vlPAG, dorsal DpMe, DR and LC prevent REMS initiation during wakefulness and NREMS by inhibiting REMS-generating populations. REMS is likely initiated by the simultaneous inhibition of gatekeepers and activation of pontine and hypothalamic structures, including the SLD, PPT/LDT, PC and LH. b, The main neuronal populations generating and maintaining REMS are located in the brainstem (pons and medulla), and additional REMS regulatory populations have been identified in the LH, ZI, POA and VTA. c, Tonic features of REMS are generated by different neuronal circuits. Muscle atonia during REMS is attained by SLDglut neuronal input to vmMGly/GABA neurons, which inhibit spinal cord motoneurons. The suspension of thermoregulation may be induced by inhibitory DMHGal projections to the raphe pallidus. Finally, several brain regions have been implicated in the generation of cortical and hippocampal theta oscillations during REMS, including the MS and BF/LPO. The SuM and CL are implicated in the activation of several limbic and cortical regions during REMS. d, Phasic features of REMS are thought to be orchestrated by PPT/LDT neurons through projections to the brainstem, thalamic and forebrain areas, as well as through propagating theta oscillations. Dorsal medulla NPCalb/glut neurons have been implicated in generating REMS rapid eye movements through projections to the oculomotor nucleus. Myoclonic twitching during REMS involves the activation of cholinergic PPT, LDT and SLD neurons, as well as of red nucleus neurons, generating brief episodes of atonia cessation in tandem with glutamate-mediated activation of spinal cord motoneurons. PGO waves are associated with neuronal activation in several neuronal populations in the pons. Phasic increases in heart rate during REMS may be promoted by the phasic inhibition of cardiac vagal neurons in the nucleus ambiguous by REMS-active LPGiGly/GABA neurons. ACC, anterior cingulate cortex; Amb, nucleus ambiguous; Amy, amygdala; BAT, brown adipose tissue; BLA, basolateral amygdala; CL, claustrum; CVNs, cardiac vagal neurons; DG, dentate gyrus; dmM, dorsomedial medulla; DpMe, deep mesencephalic nucleus; Gal, galanin; Gi, gigantocellular nuclei; Glut, glutamate; Gly, glycinergic neurons; Hyp, hypothalamus; IN, spinal cord interneurons; LDT, laterodorsal tegmental nuclei; LPGi, lateral paragigantocellular nuclei; MC, motor cortex; mEC, medial entorhinal cortex; MNs, spinal cord motoneurons; NI, nucleus incertus; NP, nucleus papilio; OM, oculomotor nucleus; PPT, pedunculopontine tegmental nucleus; RN, red nucleus; RSC, retrosplenial cortex; SLD, sublaterodorsal tegmental nucleus; SuM, supramammillary nucleus; vM, ventral medulla; VTn, ventral tegmental nucleus of Gudden.”\n“This figure summarizes predicted orexinergic projections in the human brain. Please note that distributions of orexin fibres and receptors (OX1R, OX2R) are predicted from the results of studies on rodent brains, as it is on rodents that most histological studies on the orexin system have been carried out. Circles show regions with strong receptor expression and dense orexinergic projections. Orexin neurons originating in the lateral hypothalamic area (LHA) and posterior hypothalamus (PH) regulate sleep and wakefulness and the maintenance of arousal by sending excitatory projections to the entire CNS, excluding the cerebellum, with particularly dense projections to monoaminergic and cholinergic nuclei in the brain stem and hypothalamic regions24,25,26,27,28,29,30,31,32,38, including the locus coeruleus (LC, containing noradrenaline), tuberomammillary nucleus (TMN, containing histamine), raphe nuclei (Raphe, containing serotonin) and laterodorsal/pedunclopontine tegmental nuclei (LDT/PPT), containing acetylcholine). Orexin neurons also have links with the reward system through the ventral tegmental area (VTA, containing dopamine) and with the hypothalamic nuclei that stimulate feeding behaviour. Anatomical image adapted, with permission, from Ref. 108 © (1996) Appleton & Lange.”\n“a, Carnivores are shown in dark red; b, herbivores are in green and c, omnivores in grey. Sleep times in carnivores, omnivores and herbivores differ significantly (P&lt;0.0002, F test, d.f. 2,68), with carnivore sleep amounts significantly greater than those of herbivores (P&lt;0.001, t-test, d.f. 24, 22). Sleep amount is an inverse function of body mass over all terrestrial mammals (black line). This function accounts for approximately 25% of the interspecies variance (d) in reported sleep amounts (regression of log weight against sleep amount, R=−0.5, P&lt;0.0001, n=71). Herbivores are responsible for this relation because body mass and sleep time were significantly and inversely correlated in herbivores (R=−0.77, P&lt;0.001, d.f. 24), but were not in carnivores (R=−0.28, d.f. 24) or omnivores (R=−0.25, d.f. 25).”\n“Top, photos of immature beluga, adult dolphin and section of adult dolphin brain. Electroencephalogram (EEG) of adult cetaceans, represented here by the beluga, during sleep are shown. All species of cetacean so far recorded have unihemispheric slow waves30,31,98,99,100. Top traces show left and right EEG activity. The spectral plots show 1–3-Hz power in the two hemispheres over a 12-hour period. The pattern in the cetaceans contrasts with the bilateral pattern of slow waves seen under normal conditions in all terrestrial mammals, represented here by the rat (bottom traces). The brain photograph is from the University of Wisconsin, Michigan State, and the National Museum of Health Comparative Mammalian Brain Collections.”\n“FIGURE 2. Effects of sleep and wake intervals of different length after learning on memory for senseless syllables. Sleep after learning leads to superior recall of syllables after the 1-, 2-, 4-, and 8-h retention interval, compared with wake intervals of the same length. Two subjects (H. and Mc.) participated in this classic study by Jenkins and Dallenbach (603). For each data point, each participant completed 6 –8 trials, with the different retention intervals performed in random order. The study took 2 mo during which the participants lived in the laboratory and were tested almost every day and night. Data are based on Table 3 in Reference 603, as the original figure contains an erroneous exchange of data points at the 4-h wake retention interval. Values are means SE. **P 0.01; *** P 0.001.”\n“FIGURE 3. A model of active system consolidation during sleep. A: during SWS, memories newly encoded into a temporary store (i.e., the hippocampus in the declarative memory system) are repeatedly reactivated, which drives their gradual redistribution to the long-term store (i.e., the neocortex). B: system consolidation during SWS relies on a dialogue between neocortex and hippocampus under top-down control by the neocortical slow oscillations (red). The depolarizing up phases of the slow oscillations drive the repeated reactivation of hippocampal memory representations together with sharp wave-ripples (green) and thalamo-cortical spindles (blue). This synchronous drive allows for the formation of spindle-ripple events where sharp wave-ripples and associated reactivated memory information becomes nested into succeeding troughs of a spindle (shown at larger scale). In the black-and-white version of the figure, red, green, and blue correspond to dark, middle, and light gray, respectively. [Modified from Born and Wilhelm (125).]”\nA GABA_A agonist.",
+    "crumbs": [
+      "Slides",
+      "Wk 10 • Wed Oct 28"
+    ]
   }
 ]
