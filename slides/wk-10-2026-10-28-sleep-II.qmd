@@ -11,8 +11,32 @@ format: revealjs
 
 ## Today's topics
 
+- Exam 1 scores
 - Warm-up
 - Mechanisms of sleep
+
+# Exam 2 scores
+
+---
+
+```{r}
+#| label: fig-exam-02-histogram
+#| fig-cap: "Histogram of scores for Exam 2. Passing scores are indicated in teal."
+
+library(ggplot2)
+library(dplyr)
+df <- readr::read_csv("../private/exams/exam-02/Reports/Canvas Report - Exam 23582 - Section 001.csv")
+
+df |>
+  select(FA26_EXAM_2) |>
+  mutate(passing = FA26_EXAM_2 >= 28) |>
+  ggplot() +
+  aes(x = FA26_EXAM_2, fill = passing) +
+  geom_bar() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  xlab("")
+```
 
 # Warm-up
 
