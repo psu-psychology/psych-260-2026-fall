@@ -5,6 +5,15 @@ format: revealjs
 
 # Overview
 
+---
+
+::: {#fig-mamas-papas-dream-a-little-dream}
+
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/fJwjLYRPxJY?si=URyzsOTVkR0RfLMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@Experience2017-ty
+:::
+
 ## Announcements
 
 - *Quiz 3* next Friday, November 6, 2026.
