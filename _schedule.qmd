@@ -243,13 +243,13 @@
 
 *Vision I*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-11-2026-11-02-vision-I.qmd) |
 
 ### Wed, Nov 04 {-}
 
 *Vision II*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-11-2026-11-04-vision-II.qmd) |
 
 ### Fri, Nov 06
 
