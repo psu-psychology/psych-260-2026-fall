@@ -7,83 +7,79 @@ format: revealjs
 
 ## Prelude
 
-::: {#fig-dreamweaver}
-<iframe width="1200" height="450" src="https://www.youtube.com/embed/xZKuzwPOefs?si=hNEyFVfwrelgGOJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: {#fig-suprachiasmatic-nucleus-song}
+<iframe width="1200" height="450" src="https://www.youtube.com/embed/fgJPnQCJ9eE?si=mpEssYkYgsj2MQ9t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-@Films2014-dm
+@McGee2011-ew
 :::
 
 ## Announcements
 
+- *Quiz 3* next Friday, November 6, 2026.
+
 ## Today's topics
 
 - Warm-up
-- Why sleep?
+- More on Why sleep?
+- On circadian rhythms
 
-## Warm-up
-
-# Why sleep?
-
-## Adaptive inactivity
-
-:::: {.columns}
-::: {.column width=50%}
-- Carnivores sleep the most, herbivores the least
-- Sleep ~ 1/body mass in *herbivores*
-- Smaller animals $\rightarrow$ shorter cycles
-:::
-::: {.column width=50%}
-![@Siegel2005-bf Figure 2^["a, Carnivores are shown in dark red; b, herbivores are in green and c, omnivores in grey. Sleep times in carnivores, omnivores and herbivores differ significantly (P<0.0002, F test, d.f. 2,68), with carnivore sleep amounts significantly greater than those of herbivores (P<0.001, t-test, d.f. 24, 22). Sleep amount is an inverse function of body mass over all terrestrial mammals (black line). This function accounts for approximately 25% of the interspecies variance (d) in reported sleep amounts (regression of log weight against sleep amount, R=−0.5, P<0.0001, n=71). Herbivores are responsible for this relation because body mass and sleep time were significantly and inversely correlated in herbivores (R=−0.77, P<0.001, d.f. 24), but were not in carnivores (R=−0.28, d.f. 24) or omnivores (R=−0.25, d.f. 25)."]](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature04285/MediaObjects/41586_2005_Article_BFnature04285_Fig2_HTML.jpg?as=webp)
-:::
-::::
-
-## {.scrollable}
-
-:::: {.columns}
-::: {.column width=50%}
-- Some animal sleep one hemispheric at a time!
-:::
-::: {.column width=50%}
-![@Siegel2005-bf Figure 3^["Top, photos of immature beluga, adult dolphin and section of adult dolphin brain. Electroencephalogram (EEG) of adult cetaceans, represented here by the beluga, during sleep are shown. All species of cetacean so far recorded have unihemispheric slow waves30,31,98,99,100. Top traces show left and right EEG activity. The spectral plots show 1–3-Hz power in the two hemispheres over a 12-hour period. The pattern in the cetaceans contrasts with the bilateral pattern of slow waves seen under normal conditions in all terrestrial mammals, represented here by the rat (bottom traces). The brain photograph is from the University of Wisconsin, Michigan State, and the National Museum of Health Comparative Mammalian Brain Collections."]](../include/img/siegel-fig03.png)
-:::
-::::
-
-## @Siegel2005-bf
-
->Most theories suggest a role for non-rapid eye movement (NREM) sleep in energy conservation and in nervous system recuperation. Theories of REM sleep have suggested a role for this state in periodic brain activation during sleep, in localized recuperative processes and in emotional regulation. 
-
-## @Siegel2005-bf
-
->Across mammals, the amount and nature of sleep are correlated with age, body size and ecological variables, such as whether the animals live in a terrestrial or an aquatic environment, their diet and the safety of their sleeping site. **Sleep may be an efficient time for the completion of a number of functions, but variations in sleep expression indicate that these functions may differ across species**.
-
-## Memory consolidation
-
-:::: {.columns}
-::: {.column width=50%}
-- Two-stage memory system [@Marr1971-be]
-  - Encoding (hippocampus) $\rightarrow$ consolidation (cortex)
-  - Avoids catastrophic interference
-- Waking brain: Optimized for encoding
-- Sleeping brain: Optimized for consolidation
-- @Rasch2013-yn
-:::
-::: {.column width=50%}
-![@Rasch2013-yn Figure 2^["FIGURE 2. Effects of sleep and wake intervals of different length
-after learning on memory for senseless syllables. Sleep after learning leads to superior recall of syllables after the 1-, 2-, 4-, and 8-h retention interval, compared with wake intervals of the same length. Two subjects (H. and Mc.) participated in this classic study by Jenkins and Dallenbach (603). For each data point, each participant completed 6 –8 trials, with the different retention intervals performed in random order. The study took 2 mo during which the participants lived in the laboratory and were tested almost every day and night. Data are based on Table 3 in Reference 603, as the original figure contains an erroneous exchange of data points at the 4-h wake retention interval. Values are means  SE. \*\*P 0.01;
-\*\*\* P 0.001."]](../include/img/rascsh-fig02.png)
-:::
-::::
+# Warm-up
 
 ---
 
-![@Rasch2013-yn Figure 2^["FIGURE 3. A model of active system consolidation during sleep. A: during SWS, memories newly encoded into a temporary store (i.e., the hippocampus in the declarative memory system) are repeatedly reactivated, which drives their gradual redistribution to the long-term store (i.e., the neocortex). B: system consolidation during SWS relies on a dialogue between neocortex and hippocampus under top-down control by the neocortical slow oscillations (red). The depolarizing up phases of the slow oscillations drive the repeated reactivation of hippocampal memory representations together with sharp wave-ripples (green) and thalamo-cortical spindles (blue). This synchronous drive allows for the formation of spindle-ripple events where sharp wave-ripples and associated reactivated memory information becomes nested into succeeding troughs of a spindle (shown at larger scale). In the black-and-white version of the figure, red, green, and blue correspond to dark, middle, and light gray, respectively. [Modified from Born and Wilhelm (125).]"]](../include/img/rasch-fig03.png)
+### Which phase of sleep is characterized by high amplitude, low frequency EEG patterns?
 
-## {.scrollable}
+- A. REM
+- B. Delta
+- C. NREM-3
+- D. Adenosine-modulated
 
->Whereas initially it was commonly assumed that sleep improves memory in a passive manner, by protecting it from being overwritten by interfering external stimulus inputs, the **current theorizing assumes an active consolidation of memories** that is specifically established during sleep, and basically **originates from
-the reactivation of newly encoded memory representations**.
+---
 
--- @Rasch2013-yn
+### Which phase of sleep is characterized by high amplitude, low frequency EEG patterns?
+
+- ~~A. REM~~
+- ~~B. Delta~~
+- **C. NREM**
+- ~~D. Adenosine-modulated~~
+
+---
+
+### Which neurotransmitter system does caffeine inhibit?
+
+- A. GABA
+- B. Adenosine
+- C. Glutamate
+- D. Dopamine
+
+---
+
+### Which neurotransmitter system does caffeine inhibit?
+
+- ~~A. GABA~~
+- **B. Adenosine**
+- ~~C. Glutamate~~
+- ~~D. Dopamine~~
+
+---
+
+### Orexin/hypocretin is a sleep-related neurotransmitter that is released by this forebrain area:
+
+- A. Amygdala
+- B. Thalamus
+- C. Tegmentum
+- D. Hypothalamus
+
+---
+
+### Orexin/hypocretin is a sleep-related neurotransmitter that is released by this forebrain area:
+
+- ~~A. Amygdala~~
+- ~~B. Thalamus~~
+- ~~C. Tegmentum~~
+- **D. Hypothalamus**
+
+# Why sleep?
 
 ## Glymphatic clearance
 
@@ -91,6 +87,16 @@ the reactivation of newly encoded memory representations**.
 ::: {.column width=50%}
 - Brain lacks lymphatic vessels
   - Lymphatic system in rest of body clears waste products
+:::
+::: {.column width=50%}
+![@LeslieUnknown-ee](../include/img/leslie-2025.png)
+:::
+::::
+
+## Glymphatic clearance
+
+:::: {.columns}
+::: {.column width=50%}
 - Brain has *glymphatic* system
   - CSF flow clears metabolic refuse [@Iliff2012-rj]
   - Especially during sleep [@Xie2013-bm]
@@ -113,11 +119,26 @@ the reactivation of newly encoded memory representations**.
 :::
 ::::
 
-## Is sleep essential? [@Rasch2013-yn]
+## Sensory-motor system training
+
+:::: {.columns}
+::: {.column width=50%}
+- Twitching common in REM sleep
+- Especially in young animals
+- Twitches a form of motor exploration
+- Map sensations to motor activity
+:::
+::: {.column width=50%}
+![@Blumberg2015-ar^["How do animals develop sensorimotor maps linking motoneurons and muscles? Initially, the mapping relations are unknown, metaphorically illustrated here by a bank of switches (neurons) connected in unknown ways to a cluster of light bulbs (muscles). Faced with this confusion, the guy at the switchboard would be wise to throw each switch one at a time and tally the lights that turn on. Analogously, animals may use discrete twitches during sleep to establish, refine, maintain, and repair sensorimotor circuits throughout the nervous system. From Blumberg et al. (2013). Twitching in sensorimotor development from sleeping rats to robots. Current Biology, 23, R532–R537."]](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f4f6/4414046/44aed4dd8e00/nihms623587f1.jpg)
+:::
+::::
+
+## Is sleep essential?
 
 ::: {.fragment}
 >The fact that almost all animals sleep strongly argues in favor of an adaptive role of sleep in increasing the overall fitness of an organism.
 
+-- @Rasch2013-yn
 :::
 
 ## Is sleep essential?
@@ -140,18 +161,14 @@ the reactivation of newly encoded memory representations**.
 
 ## {.scrollable}
 
-::: {#fig-suprachiasmatic-nucleus-song}
-<iframe width="1200" height="450" src="https://www.youtube.com/embed/fgJPnQCJ9eE?si=mpEssYkYgsj2MQ9t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-@McGee2011-ew
-:::
+![@Selmaoui2003-ft Figure 1^["Fig. 1. Circadian rhythms of melatonin (top) and cortisol (bottom) in three different 24-h sessions spaced two weeks apart between the 1st and 2nd session then 4 weeks apart between the 2nd and 3rd session: S1(○), S2 (●) and S3 (▴). Each time point is the mean ± SEM of 31 subjects."]](../include/img/cortisol-melatonin-cycles.gif){#fig-selmaoui-fig-01}
 
 ## Mechanisms
 
 :::: {.columns}
 ::: {.column width=50%}
 - Retinohypothalamic tract projection to
-  - Suprachiasmatic Nucleus of the Hypothalamus
+  - Suprachiasmatic Nucleus (SCN) of the Hypothalamus
   - SCN has endogenously cycling cells
   - Light input synchronizes rhythms to day/night cycle
 :::
@@ -175,7 +192,19 @@ the reactivation of newly encoded memory representations**.
 
 ## Melatonin receptors
 
-![@Gobbi2019-hf Figure 1^["Brain areas involved in the regulation of sleep and wakefulness with their respective receptors, including MT1 and MT2 receptors Modified with permission from Atkin et al. (2). Top left, green: During NREM, the serotonin neurons of the Dorsal Raphe (DR), the dopaminergic neurons of the Ventral tegmental area (VTA), and the noradrenergic neurons of the Locus Coeruleus (LC) decrease their firing activity. These neurons are silent during REM. OX1 and OX2-containing orexinergic neurons of the Lateral Hypothalamus (LH) decrease their firing activity during NREM and REM. The histaminergic H1-containing neurons of the Tuberomammillary Nucleus (TMN) decrease their firing activity during sleep. During wakefulness, neurons of the arousal system (i.e., monoaminergic neurons, orexinergic neurons) send widespread ascending projections to the cerebral cortex, stimulating cortical desynchronization with high frequency gamma and low frequency theta rhythmic activity. Bottom left, black: MT1 and MT2 receptors expressed in suprachiasmatic neurons, which receive inputs directly from the retinohypothalamic tract (RHT), influenced by light and external stimuli may be likely involved in the switch from wakefulness to NREM sleep. The transition from NREM and REM is controlled by the ventrolateral periaqueductal gray area (vlPAG), containing GABA, glutamate receptors, but also melatonin MT2 receptors. Top right, red: During NREM sleep, two nuclei are particularly active: the reticular thalamus (RT), containing melatonin MT2 and GABA receptors, which is responsible for thalamocortical input to the prefrontal cortex (showing synchronized activity during NREM); and the ventrolateral preoptic area (vlPAG), containing GABA and galanin receptors. They inhibit noradrenergic, serotonergic, cholinergic, histaminergic, and hypocretinergic neurons. These nuclei play a role in the “reciprocal inhibitory” model of the sleep–wake switch. Bottom right, blue: The vlPAG is a putative “REM ON” nucleus, switching the brain to the REM sleep mode. During REM, the sublateral nucleus (SLD), the basal forebrain (BF), and the lateral tegmentum/ pedunculopontine tegmentum (LDT/PPT, rich in acetylcholine receptors) and the ventromedial medulla (VM) neurons are particularly active. The BF is active in REM and wakefulness and inhibited during NREM."]](https://images-provider.frontiersin.org/api/ipx/w=654&f=webp/https://www.frontiersin.org/files/Articles/437162/xml-images/fendo-10-00087-g0001.webp)
+![@Gobbi2019-hf Figure 1^["Brain areas involved in the regulation of sleep and wakefulness with their respective receptors, including MT1 and MT2 receptors Modified with permission from Atkin et al. (2). Top left, green: During NREM, the serotonin neurons of the Dorsal Raphe (DR), the dopaminergic neurons of the Ventral tegmental area (VTA), and the noradrenergic neurons of the Locus Coeruleus (LC) decrease their firing activity. These neurons are silent during REM. OX1 and OX2-containing orexinergic neurons of the Lateral Hypothalamus (LH) decrease their firing activity during NREM and REM. The histaminergic H1-containing neurons of the Tuberomammillary Nucleus (TMN) decrease their firing activity during sleep. During wakefulness, neurons of the arousal system (i.e., monoaminergic neurons, orexinergic neurons) send widespread ascending projections to the cerebral cortex, stimulating cortical desynchronization with high frequency gamma and low frequency theta rhythmic activity. Bottom left, black: MT1 and MT2 receptors expressed in suprachiasmatic neurons, which receive inputs directly from the retinohypothalamic tract (RHT), influenced by light and external stimuli may be likely involved in the switch from wakefulness to NREM sleep. The transition from NREM and REM is controlled by the ventrolateral periaqueductal gray area (vlPAG), containing GABA, glutamate receptors, but also melatonin MT2 receptors. Top right, red: During NREM sleep, two nuclei are particularly active: the reticular thalamus (RT), containing melatonin MT2 and GABA receptors, which is responsible for thalamocortical input to the prefrontal cortex (showing synchronized activity during NREM); and the ventrolateral preoptic area (vlPAG), containing GABA and galanin receptors. They inhibit noradrenergic, serotonergic, cholinergic, histaminergic, and hypocretinergic neurons. These nuclei play a role in the “reciprocal inhibitory” model of the sleep–wake switch. Bottom right, blue: The vlPAG is a putative “REM ON” nucleus, switching the brain to the REM sleep mode. During REM, the sublateral nucleus (SLD), the basal forebrain (BF), and the lateral tegmentum/ pedunculopontine tegmentum (LDT/PPT, rich in acetylcholine receptors) and the ventromedial medulla (VM) neurons are particularly active. The BF is active in REM and wakefulness and inhibited during NREM."]](../include/img/gobbi-comai-fig-01.png){width="65%"}
+
+## Multiple, interacting pacemakers
+
+- Molecular clocks (*Per1*, *Per2*)
+- Temperature
+- Cortisol
+
+---
+
+>...the SCN is sensitive to caffeine, suggesting that there exists an endogenous adenosine-based regulatory pathway that is of profound importance to circadian timekeeping...We report that the significance of adenosine signalling is to encode sleep/wake history to the clock and modulate its response to light in mice.
+
+-- @Jagannath2021-va
 
 # Wrap-up
 
@@ -221,19 +250,8 @@ the reactivation of newly encoded memory representations**.
 
 ## Next time
 
-- Spring Break!
-- Thursday, March 18: Evolution & development
+- Vision
 
 # Resources
 
-## About
-
-This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2026.1.1.403.
-
-The source files are in R and R Markdown, then rendered to HTML using the
-[revealJS](https://revealjs.com) framework.
-The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psy-511-scan-fdns-2026-spring) and served by GitHub pages:
-<https://psu-psychology.github.io/psy-511-scan-fdns-2026-spring/>
-
-## References
+{{< include _about-refs.qmd >}}
