@@ -8423,7 +8423,7 @@
     "href": "slides/wk-11-2026-11-02-vision-I.html#announcements",
     "title": "Vision I",
     "section": "Announcements",
-    "text": "Announcements\n\nQuiz 3 next Friday, November 6, 2026.",
+    "text": "Announcements\n\nQuiz 3 this Friday, November 6, 2026.",
     "crumbs": [
       "Slides",
       "Wk 11 • Mon Nov 2"
@@ -8456,7 +8456,7 @@
     "href": "slides/wk-11-2026-11-02-vision-I.html#where-is-itam-i",
     "title": "Vision I",
     "section": "Where is it/am I?",
-    "text": "Where is it/am I?\n\nAzimuth (left/right)\nElevation (up/down)\nDistance (near/far)\nOrientation",
+    "text": "Where is it/am I?\n\n\n\nAzimuth (left/right)\nElevation (up/down)\nDistance (near/far)\nOrientation\n\n\n\n\n\nWikipedia1",
     "crumbs": [
       "Slides",
       "Wk 11 • Mon Nov 2"
@@ -8676,7 +8676,7 @@
     "href": "slides/wk-11-2026-11-02-vision-I.html#wavelength-tuned-photoreceptors",
     "title": "Vision I",
     "section": "‘Wavelength-tuned’ photoreceptors",
-    "text": "‘Wavelength-tuned’ photoreceptors\n\n\n\n\n\n\nFigure 13: Wikipedia1",
+    "text": "‘Wavelength-tuned’ photoreceptors\n\n\n\n\n\n\nFigure 13: Wikipedia2",
     "crumbs": [
       "Slides",
       "Wk 11 • Mon Nov 2"
@@ -8797,7 +8797,7 @@
     "href": "slides/wk-11-2026-11-02-vision-I.html#main-points",
     "title": "Vision I",
     "section": "Main points",
-    "text": "Main points",
+    "text": "Main points\n\nVision is the sensory system that detects patterns at a distance based on wavelengths of light that are reflected off surfaces or emitted by sources\nThe eye is similar to a high-resolution camera with photoreceptive cells (rods & cones) that capture light within specific wavelength bands\nPhotoreceptors are distributed non-uniformly across the retina",
     "crumbs": [
       "Slides",
       "Wk 11 • Mon Nov 2"
@@ -8841,7 +8841,18 @@
     "href": "slides/wk-11-2026-11-02-vision-I.html#footnotes",
     "title": "Vision I",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nBy BenRG - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7873848",
+    "text": "Footnotes\n\n\nBy TWCarlson - Azimut altitude.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17727911\nBy BenRG - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7873848",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Mon Nov 2"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-02-vision-I.html#main-points-1",
+    "href": "slides/wk-11-2026-11-02-vision-I.html#main-points-1",
+    "title": "Vision I",
+    "section": "Main points",
+    "text": "Main points\n\nThe eye + eye muscles are an integrated system that work together to point the high resolution fovea at important targets",
     "crumbs": [
       "Slides",
       "Wk 11 • Mon Nov 2"

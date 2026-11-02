@@ -16,7 +16,7 @@ format: revealjs
 
 ## Announcements
 
-- *Quiz 3* next Friday, November 6, 2026.
+- *Quiz 3* this Friday, November 6, 2026.
 
 ## Today's topics
 
@@ -27,6 +27,56 @@ format: revealjs
 
 # Warm-up
 
+---
+
+### Across the lifespan, who sleeps the most?
+
+- A. Young infants
+- B. School-age children
+- C. Older adults
+- D. Teenagers
+
+---
+
+### Across the lifespan, who sleeps the most?
+
+- **A. Young infants**
+- ~~B. School-age children~~
+- ~~C. Older adults~~
+- ~~D. Teenagers~~
+
+---
+
+### The function of dreams has been well-established, true or false?
+
+- A. True
+- B. False
+
+---
+
+### The function of dreams has been well-established, true or false?
+
+- ~~A. True~~
+- **B. False**
+
+---
+
+### Caffeine acts as an ____ for the neurotransmitter ____.
+
+- A. agonist; histamine
+- B. antagonist; melatonin
+- C. agonist; hypocretin/orexin
+- D. antagonist; adenosine
+
+---
+
+### Caffeine acts as an ____ for the neurotransmitter ____.
+
+- ~~A. agonist; histamine~~
+- ~~B. antagonist; melatonin~~
+- ~~C. agonist; hypocretin/orexin~~
+- **D. antagonist; adenosine**
+
 # What is vision for?
 
 ## Information at a distance
@@ -35,12 +85,21 @@ format: revealjs
 
 ## Where is it/am I?
 
-::: {.incremental}
+:::: {.columns}
+
+::: {.column width=50%}
 - Azimuth (left/right)
 - Elevation (up/down)
 - Distance (near/far)
 - Orientation
 :::
+
+::: {.column width=50%}
+![Wikipedia^[By TWCarlson - Azimut altitude.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17727911]](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Azimuth-Altitude_schematic.svg/1920px-Azimuth-Altitude_schematic.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+:::
+
+::::
+
 
 ## What is it?
 
@@ -333,7 +392,7 @@ format: revealjs
 
 ### ...when eye misshapen for cornea+lens
 
-![https://heffingtons.com/myopia-vs-hyperopia/](https://heffingtons.com/wp-content/uploads/2018/08/Depositphotos_33238577_m-2015-1.jpg){#fig-myopia-hyperopia width="65%"}
+![https://heffingtons.com/myopia-vs-hyperopia/](../include/img/myopia-hyperopia.jpg){#fig-myopia-hyperopia width="65%"}
 
 ## Color perception
 
@@ -377,6 +436,14 @@ format: revealjs
 # Wrap-up
 
 ## Main points
+
+- Vision is the sensory system that detects patterns at a distance based on wavelengths of light that are reflected off surfaces or emitted by sources
+- The eye is similar to a high-resolution camera with photoreceptive cells (rods & cones) that capture light within specific wavelength bands
+- Photoreceptors are distributed non-uniformly across the retina
+
+## Main points
+
+- The eye + eye muscles are an integrated system that work together to point the high resolution fovea at important targets
 
 ## Next time
 
