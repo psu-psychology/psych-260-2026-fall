@@ -2,23 +2,35 @@
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#todays-topics",
     "href": "slides/wk-11-2026-11-04-vision-II.html#todays-topics",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nWarm-up\nFrom eye to brain"
+    "text": "Today’s topics\n\nWarm-up\nThe retina",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain-1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain-1",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "From eye to brain",
-    "text": "From eye to brain\n\nRetinal ganglion cells\n2nd/II cranial (optic) nerve\n\nOptic chiasm"
+    "text": "From eye to brain\n\n2nd/II cranial (optic) nerve\n\n~1 M axons/eye, but 125 M photoreceptors, so 125:1 compression\nOptic chiasm\n\n\nbooks.lib.msu.edu/app/uploads/sites/6/2021/03/RetinalReceptiveField.png)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain-2",
     "href": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain-2",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "From eye to brain",
-    "text": "From eye to brain\n\nHypothalamus\n\nSuprachiasmatic nucleus\n\nRegulates circadian (day/night) rhythm via pineal gland"
+    "text": "From eye to brain\n\nSuperior colliculus & brainstem",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain-3",
@@ -30,163 +42,255 @@
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#lateral-geniculate-nucleus-lgn-of-thalamus",
     "href": "slides/wk-11-2026-11-04-vision-II.html#lateral-geniculate-nucleus-lgn-of-thalamus",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "Lateral Geniculate Nucleus (LGN) of thalamus",
-    "text": "Lateral Geniculate Nucleus (LGN) of thalamus\n\n~90% of axons from retina"
+    "text": "Lateral Geniculate Nucleus (LGN) of thalamus\n\n~90% of axons from retina",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#lgn",
     "href": "slides/wk-11-2026-11-04-vision-II.html#lgn",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "LGN",
-    "text": "LGN\n\n6 layers + intralaminar zone\n\nParvocellular (small cells): chromatic\nMagnocellular (big cells): achromatic\nKoniocellular (chromatic - short wavelength?)\n\nRetinotopic map of opposite visual field"
+    "text": "LGN\n\n6 layers + intralaminar zone\n\nParvocellular (small cells): chromatic\nMagnocellular (big cells): achromatic\nKoniocellular (chromatic - short wavelength?)\n\nRetinotopic map of opposite visual field",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-lgn-to-v1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#from-lgn-to-v1",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "From LGN to V1",
-    "text": "From LGN to V1"
+    "text": "From LGN to V1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-lgn-to-v1-1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#from-lgn-to-v1-1",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "From LGN to V1",
-    "text": "From LGN to V1\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe"
+    "text": "From LGN to V1\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#human-v1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#human-v1",
     "title": "Vision II: From eye to brain",
     "section": "Human V1",
-    "text": "Human V1\n\n\nhttp://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png"
+    "text": "Human V1\n\n\nhttp://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#measuring-retinotopy-in-v1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#measuring-retinotopy-in-v1",
     "title": "Vision II: From eye to brain",
     "section": "Measuring retinotopy in V1",
-    "text": "Measuring retinotopy in V1\n\n\n(Dougherty et al., 2003)"
+    "text": "Measuring retinotopy in V1\n\n\n(Dougherty et al., 2003)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#retinotopy-in-v1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#retinotopy-in-v1",
     "title": "Vision II: From eye to brain",
     "section": "Retinotopy in V1",
-    "text": "Retinotopy in V1\n\nFovea overrepresented\n\nAnalogous to somatosensation\nHigh acuity in fovea vs. lower outside it\n\nUpper visual field/lower (ventral) V1 and vice versa"
+    "text": "Retinotopy in V1\n\nFovea overrepresented\n\nAnalogous to somatosensation\nHigh acuity in fovea vs. lower outside it\n\nUpper visual field/lower (ventral) V1 and vice versa",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#recording-from-v1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#recording-from-v1",
     "title": "Vision II: From eye to brain",
     "section": "Recording from V1",
-    "text": "Recording from V1"
+    "text": "Recording from V1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization",
     "href": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization",
     "title": "Vision II: From eye to brain",
     "section": "V1 has laminar, columnar organization",
-    "text": "V1 has laminar, columnar organization"
+    "text": "V1 has laminar, columnar organization",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization-1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization-1",
     "title": "Vision II: From eye to brain",
     "section": "V1 has laminar, columnar organization",
-    "text": "V1 has laminar, columnar organization\n\n6 laminae (layers)\n\nInput: Layer 4\nOutput: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)"
+    "text": "V1 has laminar, columnar organization\n\n6 laminae (layers)\n\nInput: Layer 4\nOutput: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization-2",
     "href": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization-2",
     "title": "Vision II: From eye to brain",
     "section": "V1 has laminar, columnar organization",
-    "text": "V1 has laminar, columnar organization\n\nColumns\n\nOrientation/angle\nSpatial frequency"
+    "text": "V1 has laminar, columnar organization\n\nColumns\n\nOrientation/angle\nSpatial frequency",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#orientationangle-tuning",
     "href": "slides/wk-11-2026-11-04-vision-II.html#orientationangle-tuning",
     "title": "Vision II: From eye to brain",
     "section": "Orientation/angle tuning",
-    "text": "Orientation/angle tuning\n\n\nhttps://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png"
+    "text": "Orientation/angle tuning\n\n\nhttps://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-center-surround-receptive-fields-to-line-detection",
     "href": "slides/wk-11-2026-11-04-vision-II.html#from-center-surround-receptive-fields-to-line-detection",
     "title": "Vision II: From eye to brain",
     "section": "From center-surround receptive fields to line detection",
-    "text": "From center-surround receptive fields to line detection"
+    "text": "From center-surround receptive fields to line detection",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#spatial-frequency-tuning",
     "href": "slides/wk-11-2026-11-04-vision-II.html#spatial-frequency-tuning",
     "title": "Vision II: From eye to brain",
     "section": "Spatial frequency tuning",
-    "text": "Spatial frequency tuning\n\nLow == gist || high == details \n(Panichello, Cheung, & Bar, 2013)"
+    "text": "Spatial frequency tuning\n\nLow == gist || high == details \n(Panichello, Cheung, & Bar, 2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization-3",
     "href": "slides/wk-11-2026-11-04-vision-II.html#v1-has-laminar-columnar-organization-3",
     "title": "Vision II: From eye to brain",
     "section": "V1 has laminar, columnar organization",
-    "text": "V1 has laminar, columnar organization\n\nColumns\n\nColor/wavelength\nEye of origin, ocular dominance"
+    "text": "V1 has laminar, columnar organization\n\nColumns\n\nColor/wavelength\nEye of origin, ocular dominance",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#ocular-dominance-columns",
     "href": "slides/wk-11-2026-11-04-vision-II.html#ocular-dominance-columns",
     "title": "Vision II: From eye to brain",
     "section": "Ocular dominance columns",
-    "text": "Ocular dominance columns"
+    "text": "Ocular dominance columns",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#ocular-dominance-signals-retinal-disparity",
     "href": "slides/wk-11-2026-11-04-vision-II.html#ocular-dominance-signals-retinal-disparity",
     "title": "Vision II: From eye to brain",
     "section": "Ocular dominance signals retinal disparity",
-    "text": "Ocular dominance signals retinal disparity\n\n\nhttp://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png"
+    "text": "Ocular dominance signals retinal disparity\n\n\nhttp://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#beyond-v1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#beyond-v1",
     "title": "Vision II: From eye to brain",
     "section": "Beyond V1",
-    "text": "Beyond V1"
+    "text": "Beyond V1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#beyond-v1-1",
     "href": "slides/wk-11-2026-11-04-vision-II.html#beyond-v1-1",
     "title": "Vision II: From eye to brain",
     "section": "Beyond V1",
-    "text": "Beyond V1\n\nLarger, more complex receptive fields\nDorsal stream (where/how)\n\nToward parietal lobe\n\nVentral stream (what)"
+    "text": "Beyond V1\n\nLarger, more complex receptive fields\nDorsal stream (where/how)\n\nToward parietal lobe\n\nVentral stream (what)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#rich-perception-from-impoverished-info",
     "href": "slides/wk-11-2026-11-04-vision-II.html#rich-perception-from-impoverished-info",
     "title": "Vision II: From eye to brain",
     "section": "“Rich” perception from “impoverished” info",
-    "text": "“Rich” perception from “impoverished” info\nhttps://www.biomotionlab.ca/html5-bml-walker/"
+    "text": "“Rich” perception from “impoverished” info\nhttps://www.biomotionlab.ca/html5-bml-walker/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#what-is-vision-for",
     "href": "slides/wk-11-2026-11-04-vision-II.html#what-is-vision-for",
     "title": "Vision II: From eye to brain",
     "section": "What is vision for?",
-    "text": "What is vision for?\n\nWhat is it? (form perception)\nWhere is it? (space perception)\nHow do I get from here to there (action control)\nWhat time (or time of year) is it?"
+    "text": "What is vision for?\n\nWhat is it? (form perception)\nWhere is it? (space perception)\nHow do I get from here to there (action control)\nWhat time (or time of year) is it?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#computer-vision-inspired-by-biological-vision",
     "href": "slides/wk-11-2026-11-04-vision-II.html#computer-vision-inspired-by-biological-vision",
     "title": "Vision II: From eye to brain",
     "section": "Computer vision inspired by biological vision",
-    "text": "Computer vision inspired by biological vision"
+    "text": "Computer vision inspired by biological vision",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-11-2026-11-04-vision-II.html#references",
     "href": "slides/wk-11-2026-11-04-vision-II.html#references",
-    "title": "Vision II: From eye to brain",
+    "title": "Vision II: The retina",
     "section": "References",
-    "text": "References\n\n\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nPanichello, M. F., Cheung, O. S., & Bar, M. (2013). Predictive feedback and conscious visual experience. Perception Science, 3, 620. https://doi.org/10.3389/fpsyg.2012.00620"
+    "text": "References\n\n\n\n\nCairo, A. (2013). The functional art: An introduction to information graphics and visualization. Upper Saddle River, N: New Riders Publishing.\n\n\nLand, M. (1999, July 26). Photoreception - light, vision, photopigments. Retrieved October 30, 2026, from https://www.britannica.com/science/photoreception/Structure-and-function-of-photoreceptors\n\n\nNight sky network news & resources. (n.d.). Retrieved November 4, 2026, from https://nightsky.jpl.nasa.gov/news/236/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   },
   {
     "objectID": "slides/wk-10-2026-10-30-sleep-III.html#prelude",
@@ -8830,7 +8934,7 @@
     "href": "slides/wk-11-2026-11-02-vision-I.html#references",
     "title": "Vision I",
     "section": "References",
-    "text": "References\n\n\n\n\nBucalo, P. (2015, October). Falcon belly dance. Youtube. Retrieved from https://www.youtube.com/watch?v=JGArTWOJtXs\n\n\nCairo, A. (2013). The functional art: An introduction to information graphics and visualization. Upper Saddle River, N: New Riders Publishing.\n\n\nJimmyCliffVEVO. (2014). Jimmy cliff - I can see clearly now (video version). Youtube. Retrieved from https://www.youtube.com/watch?v=MrHxhQPOO2c\n\n\nLand, M. (1999, July 26). Photoreception - light, vision, photopigments. Retrieved October 30, 2026, from https://www.britannica.com/science/photoreception/Structure-and-function-of-photoreceptors\n\n\nNational Institutes of Health (NIH) funding: FY1996-FY2026. Retrieved from https://www.congress.gov/crs-product/R43341\n\n\nRandeberg, L. (2005). Diagnostic applications of diffuse reflectance spectroscopy. Retrieved from https://www.semanticscholar.org/paper/ec9450b79923e2e2152b54ab9241b60bc5374944\n\n\nTech, P. (2023). How displays work: The science of RGB. Youtube. Retrieved from https://www.youtube.com/watch?v=ipIPzRh6DQY\n\n\nVisual processing: Eye and retina (section 2, chapter 14) neuroscience online: An electronic textbook for the neurosciences. (n.d.). Retrieved October 30, 2026, from https://nba.uth.tmc.edu/neuroscience/m/s2/chapter14.html\n\n\nWebb’s first deep field (NIRCam image). (n.d.). Retrieved January 11, 2024, from https://webbtelescope.org/contents/media/images/2022/035/01G7DCWB7137MYJ05CSH1Q5Z1Z",
+    "text": "References\n\n\n\n\nBucalo, P. (2015, October). Falcon belly dance. Youtube. Retrieved from https://www.youtube.com/watch?v=JGArTWOJtXs\n\n\nCairo, A. (2013). The functional art: An introduction to information graphics and visualization. Upper Saddle River, N: New Riders Publishing.\n\n\nJimmyCliffVEVO. (2014). Jimmy cliff - I can see clearly now (video version). Youtube. Retrieved from https://www.youtube.com/watch?v=MrHxhQPOO2c\n\n\nNational Institutes of Health (NIH) funding: FY1996-FY2026. Retrieved from https://www.congress.gov/crs-product/R43341\n\n\nRandeberg, L. (2005). Diagnostic applications of diffuse reflectance spectroscopy. Retrieved from https://www.semanticscholar.org/paper/ec9450b79923e2e2152b54ab9241b60bc5374944\n\n\nTech, P. (2023). How displays work: The science of RGB. Youtube. Retrieved from https://www.youtube.com/watch?v=ipIPzRh6DQY\n\n\nVisual processing: Eye and retina (section 2, chapter 14) neuroscience online: An electronic textbook for the neurosciences. (n.d.). Retrieved October 30, 2026, from https://nba.uth.tmc.edu/neuroscience/m/s2/chapter14.html\n\n\nWebb’s first deep field (NIRCam image). (n.d.). Retrieved January 11, 2024, from https://webbtelescope.org/contents/media/images/2022/035/01G7DCWB7137MYJ05CSH1Q5Z1Z",
     "crumbs": [
       "Slides",
       "Wk 11 • Mon Nov 2"
@@ -8885,5 +8989,562 @@
     "title": "Quiz 3; Exam 2 answers",
     "section": "References",
     "text": "References"
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#how-photoreceptors-work",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#how-photoreceptors-work",
+    "title": "Vision II: The retina",
+    "section": "How photoreceptors work",
+    "text": "How photoreceptors work\n\n\n\nOuter segment\n\nMembrane disks\nPhotopigments\n\nSense light, trigger chemical cascade\n\n\n\n\n\n\n\nLand (1999)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#how-photoreceptors-work-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#how-photoreceptors-work-1",
+    "title": "Vision II: The retina",
+    "section": "How photoreceptors work",
+    "text": "How photoreceptors work\n\n\n\nInner segment\n\nSynaptic terminal\n\nLight hyperpolarizes photoreceptor!\n\nThe dark current\n\nLess light \\(\\rightarrow\\) more NT (glutamate)!\n\n\n\n\n\nLand (1999)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#retina",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#retina",
+    "title": "Vision II: The retina",
+    "section": "Retina",
+    "text": "Retina\n\nPhysiologically backwards\n\nHow?\n\nAnatomically inside-out\n\nHow?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#retina-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#retina-1",
+    "title": "Vision II: The retina",
+    "section": "Retina",
+    "text": "Retina\n\nPhysiologically backwards\n\nDark current (more NT released in dark than light)\n\nAnatomically inside-out\n\nPhotoreceptors at back of eye",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#consequences",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#consequences",
+    "title": "Vision II: The retina",
+    "section": "Consequences",
+    "text": "Consequences\n\nMust move eyes (or eyes/head or eyes/head/body) to position fovea on target\nKeep track of sequence of eye movements and positions over time\nIntegrate sequence of samples over time",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#information-processing",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#information-processing",
+    "title": "Vision II: From eye to brain",
+    "section": "Information processing",
+    "text": "Information processing\n\nSeparate channels for short, medium, long wavelengths (cones): chromatic (color)\nBlack/gray/white or overall illumination (rods): achromatic (dark/light)\n~120 M rods + ~ 5 M cones (125 M) vs. professional cameras with 100 M pixels",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#color-perception",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#color-perception",
+    "title": "Vision II: The retina",
+    "section": "Color perception",
+    "text": "Color perception\n\n\n\nPerceived color a function of activity in “R”, “G”, and “B” photoreceptors\n\n\n\n\n\n\n\n\nFigure 6: http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colcon.html",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#wavelengths-are-continuous-but-are-perceived-colors",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#wavelengths-are-continuous-but-are-perceived-colors",
+    "title": "Vision II: The retina",
+    "section": "Wavelengths are continuous, but are perceived colors?",
+    "text": "Wavelengths are continuous, but are perceived colors?\n\n\n\nhttps://rmit.pressbooks.pub/colourtheory1/part/2-colour-theory-the-visible-spectrum/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#color-vision-anomalies",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#color-vision-anomalies",
+    "title": "Vision II: The retina",
+    "section": "Color vision anomalies",
+    "text": "Color vision anomalies\n\n\n\nAbsence of or anomalies in photoreceptors\n\n\n\n\n\n\n\n\nFigure 7: https://bluefinvision.com/ishihara-colour-blind-test-online/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#types",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#types",
+    "title": "Vision II: The retina",
+    "section": "Types",
+    "text": "Types\n\n\n\nProtanopia (impaired R/long wavelength)\nDeuteranopia (impaired G/medium wavelength)\nTritanopia (impaired B/short wavelength)\n\n\n\n\n\n\n\n\nFigure 8: https://www.color-blindness.com/protanopia-red-green-color-blindness/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#from-eye-to-brain",
+    "title": "Vision II: The retina",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nRetinal ganglion cells\n\n1st cells with long axons (to LGN, hypothalamus, brainstem)\n1st to generate action potentials\nInformation functionally segregated",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#announcement",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#announcement",
+    "title": "Vision II: The retina",
+    "section": "Announcement",
+    "text": "Announcement\n\nQuiz 3 this Friday.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#photoreceptor-distribution",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#photoreceptor-distribution",
+    "title": "Vision II: The retina",
+    "section": "Photoreceptor distribution",
+    "text": "Photoreceptor distribution\n\nRetinal periphery\n\nMostly rods\n\nRetinal center/fovea\n\nMostly cones\n~1-2 deg of visual angle",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#visual-field-angular-sizes",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#visual-field-angular-sizes",
+    "title": "Vision II: The retina",
+    "section": "Visual field angular sizes",
+    "text": "Visual field angular sizes\n\n\n\n“Night sky network news & resources” (n.d.)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#retinal-information-processing",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#retinal-information-processing",
+    "title": "Vision II: The retina",
+    "section": "Retinal information processing",
+    "text": "Retinal information processing\n\n\n\nSeparate channels for\n\nAchromatic (black/gray/white) info\n\nMostly rods\n\nChromatic\n\nMostly cones\nShort, medium, long wavelength types\n\n\n\n\n\nPixels/photoreceptor analogy\n\n~120 M rods + ~ 5 M cones (125 M)\nvs. professional cameras with 100 M pixels",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#retinal-information-processing-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#retinal-information-processing-1",
+    "title": "Vision II: The retina",
+    "section": "Retinal information processing",
+    "text": "Retinal information processing\n\nPoint by point, topographic (map-like) 2D image of 3D world\nNon-uniform resolution (center &gt;&gt; periphery)\nyields focused image except…",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#announcement",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#announcement",
+    "title": "Vision II: From eye to brain",
+    "section": "Announcement",
+    "text": "Announcement\n\nQuiz 3 this Friday."
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#todays-topics",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#todays-topics",
+    "title": "Vision II: From eye to brain",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWarm-up\nCapturing information in light\nFrom retina to brain"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#how-photoreceptors-work",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#how-photoreceptors-work",
+    "title": "Vision II: From eye to brain",
+    "section": "How photoreceptors work",
+    "text": "How photoreceptors work\n\n\n\nOuter segment\n\nMembrane disks\nPhotopigments\n\nSense light, trigger chemical cascade\n\n\n\n\n\n\n\nLand (1999)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#how-photoreceptors-work-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#how-photoreceptors-work-1",
+    "title": "Vision II: From eye to brain",
+    "section": "How photoreceptors work",
+    "text": "How photoreceptors work\n\n\n\nInner segment\n\nSynaptic terminal\n\nLight hyperpolarizes photoreceptor!\n\nThe dark current\n\nLess light \\(\\rightarrow\\) more NT (glutamate)!\n\n\n\n\n\nLand (1999)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#retina",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#retina",
+    "title": "Vision II: From eye to brain",
+    "section": "Retina",
+    "text": "Retina\n\nPhysiologically backwards\n\nHow?\n\nAnatomically inside-out\n\nHow?"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#retina-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#retina-1",
+    "title": "Vision II: From eye to brain",
+    "section": "Retina",
+    "text": "Retina\n\nPhysiologically backwards\n\nDark current (more NT released in dark than light)\n\nAnatomically inside-out\n\nPhotoreceptors at back of eye"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#photoreceptor-distribution",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#photoreceptor-distribution",
+    "title": "Vision II: From eye to brain",
+    "section": "Photoreceptor distribution",
+    "text": "Photoreceptor distribution\n\nRetinal periphery\n\nMostly rods\n\nRetinal center/fovea\n\nMostly cones\n~1-2 deg"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#visual-field-angular-sizes",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#visual-field-angular-sizes",
+    "title": "Vision II: From eye to brain",
+    "section": "Visual field angular sizes",
+    "text": "Visual field angular sizes\n\n\n\n“Night sky network news & resources” (n.d.)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#consequences",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#consequences",
+    "title": "Vision II: From eye to brain",
+    "section": "Consequences",
+    "text": "Consequences\n\nMust move eyes (or eyes/head or eyes/head/body) to position fovea on target\nKeep track of sequence of eye movements and positions over time\nIntegrate sequence of samples over time"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#retinal-information-processing",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#retinal-information-processing",
+    "title": "Vision II: From eye to brain",
+    "section": "Retinal information processing",
+    "text": "Retinal information processing\n\nSeparate channels for\n\nAchromatic (black/gray/white)\nChromatic\n\nMostly cones\nShort, medium, long wavelength types\n\n\n\n~120 M rods + ~ 5 M cones (125 M) vs. professional cameras with 100 M pixels"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#retinal-information-processing-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#retinal-information-processing-1",
+    "title": "Vision II: From eye to brain",
+    "section": "Retinal information processing",
+    "text": "Retinal information processing\n\nPoint by point, topographic (map-like) 2D image of 3D world\nNon-uniform resolution (center &gt;&gt; periphery)\nyields focused image except…"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#color-perception",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#color-perception",
+    "title": "Vision II: From eye to brain",
+    "section": "Color perception",
+    "text": "Color perception\n\n\n\nPerceived color a function of activity in “R”, “G”, and “B” photoreceptors\n\n\n\n\n\n\n\n\nFigure 5: http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colcon.html"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#wavelengths-are-continuous-but-are-perceived-colors",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#wavelengths-are-continuous-but-are-perceived-colors",
+    "title": "Vision II: From eye to brain",
+    "section": "Wavelengths are continuous, but are perceived colors?",
+    "text": "Wavelengths are continuous, but are perceived colors?\n\n\n\nhttps://rmit.pressbooks.pub/colourtheory1/part/2-colour-theory-the-visible-spectrum/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#color-vision-anomalies",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#color-vision-anomalies",
+    "title": "Vision II: From eye to brain",
+    "section": "Color vision anomalies",
+    "text": "Color vision anomalies\n\n\n\nAbsence of or anomalies in photoreceptors\n\n\n\n\n\n\n\n\nFigure 6: https://bluefinvision.com/ishihara-colour-blind-test-online/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#types",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#types",
+    "title": "Vision II: From eye to brain",
+    "section": "Types",
+    "text": "Types\n\n\n\nProtanopia (impaired R/long wavelength)\nDeuteranopia (impaired G/medium wavelength)\nTritanopia (impaired B/short wavelength)\n\n\n\n\n\n\n\n\nFigure 7: https://www.color-blindness.com/protanopia-red-green-color-blindness/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain",
+    "title": "Vision II: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nRetinal ganglion cells\n\n1st cells with long axons\n1st to generate action potentials\n\n2nd/II cranial (optic) nerve\n\nOptic chiasm"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-1",
+    "title": "Vision II: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nHypothalamus\n\nSuprachiasmatic nucleus\n\nRegulates circadian (day/night) rhythm via pineal gland"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-2",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-2",
+    "title": "Vision II: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nSuperior colliculus & brainstem"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#lateral-geniculate-nucleus-lgn-of-thalamus",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#lateral-geniculate-nucleus-lgn-of-thalamus",
+    "title": "Vision II: From eye to brain",
+    "section": "Lateral Geniculate Nucleus (LGN) of thalamus",
+    "text": "Lateral Geniculate Nucleus (LGN) of thalamus\n\n~90% of axons from retina"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#lgn",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#lgn",
+    "title": "Vision II: From eye to brain",
+    "section": "LGN",
+    "text": "LGN\n\n6 layers + intralaminar zone\n\nParvocellular (small cells): chromatic\nMagnocellular (big cells): achromatic\nKoniocellular (chromatic - short wavelength?)\n\nRetinotopic map of opposite visual field"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-v1",
+    "title": "Vision II: From eye to brain",
+    "section": "From LGN to V1",
+    "text": "From LGN to V1"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-v1-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-v1-1",
+    "title": "Vision II: From eye to brain",
+    "section": "From LGN to V1",
+    "text": "From LGN to V1\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#references",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#references",
+    "title": "Vision II: From eye to brain",
+    "section": "References",
+    "text": "References\n\n\n\n\nCairo, A. (2013). The functional art: An introduction to information graphics and visualization. Upper Saddle River, N: New Riders Publishing.\n\n\nLand, M. (1999, July 26). Photoreception - light, vision, photopigments. Retrieved October 30, 2026, from https://www.britannica.com/science/photoreception/Structure-and-function-of-photoreceptors\n\n\nNight sky network news & resources. (n.d.). Retrieved November 4, 2026, from https://nightsky.jpl.nasa.gov/news/236/"
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#beyond-photoreceptors",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#beyond-photoreceptors",
+    "title": "Vision II: The retina",
+    "section": "Beyond photoreceptors",
+    "text": "Beyond photoreceptors\n\n\n\nPhotoreceptors \\(\\rightarrow\\)\nBipolar cells \\(\\rightarrow\\)\nRetinal ganglion cells\n\n\n\n\n\n\n\n\nFigure 10",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#receptive-fields",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#receptive-fields",
+    "title": "Vision II: The retina",
+    "section": "“Receptive fields”",
+    "text": "“Receptive fields”\n\nArea on retina that changes neuron’s firing when stimulated in a specific way",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#main-points",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#main-points",
+    "title": "Vision II: The retina",
+    "section": "Main points",
+    "text": "Main points",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#next-time",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#next-time",
+    "title": "Vision II: The retina",
+    "section": "Next time",
+    "text": "Next time\n\nQuiz 3; review answers to Exam 2",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#receptive-field-rf-properties",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#receptive-field-rf-properties",
+    "title": "Vision II: The retina",
+    "section": "Receptive field (RF) properties",
+    "text": "Receptive field (RF) properties\n\nShape/diameter\nInformation that it responds to best\nRFs and feature detectors",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#circular-center-surround-rfs",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#circular-center-surround-rfs",
+    "title": "Vision II: The retina",
+    "section": "(Circular) Center-Surround RFs",
+    "text": "(Circular) Center-Surround RFs\n\n\n\nMaximal response:\n\nlight in “on” zone +\ndark in “off” zone\n\nWeakest response when light/dark in both\nDetect contrast (light/dark difference)\n\n\n\n\n\nWikipedia2",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#circular-center-surround-rfs-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#circular-center-surround-rfs-1",
+    "title": "Vision II: The retina",
+    "section": "(Circular) Center-Surround RFs",
+    "text": "(Circular) Center-Surround RFs\n\n\n\nMaximal response:\n\nlight in “on” zone +\ndark in “off” zone\n\nWeakest response when light/dark in both\nDetect contrast (light/dark difference)\n\n\n\n\n\nWikipedia2",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#footnotes",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#footnotes",
+    "title": "Vision II: The retina",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n“By original uploaded to en by user:delldot, modified by Xoneca - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5714283”\n“By original uploaded to en by user:delldot, modified by Xoneca - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5714283”\n“By Otosakanum2 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174602486”",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#center-surround-rfs",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#center-surround-rfs",
+    "title": "Vision II: The retina",
+    "section": "Center-Surround RFs",
+    "text": "Center-Surround RFs\n\n\n\nFunctional property of bipolar & retinal ganglion cells\nCircular-shaped region on retina\n“On” and “off” zones\n\n\n\n\n\n\n\n\nFigure 12: Wikipedia1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#thinking-about-center-surround-rfs",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#thinking-about-center-surround-rfs",
+    "title": "Vision II: The retina",
+    "section": "Thinking about center-surround RFs",
+    "text": "Thinking about center-surround RFs\n\nWhy not photoreceptors?\n\nA:\n\nOuter diameters vary, why?\n\nA:\n\nWhere in the retina do you think RF diameters are *smallest?\n\nA:",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#thinking-about-center-surround-rfs-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#thinking-about-center-surround-rfs-1",
+    "title": "Vision II: The retina",
+    "section": "Thinking about center-surround RFs",
+    "text": "Thinking about center-surround RFs\n\nWhy not photoreceptors?\n\nA: Bipolar cells and ganglion cells combine input from multiple photoreceptors\n\nWhy do outer diameters of RFs vary?\n\nA: Number of photoreceptors that provide input vary.\n\nWhere in the retina do you think RF diameters are smallest?\n\nA: Fovea; small RF diameter ~ high visual resolution",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#thinking-about-rfs",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#thinking-about-rfs",
+    "title": "Vision II: The retina",
+    "section": "Thinking about RFs",
+    "text": "Thinking about RFs\n\nWhat shape RFs do photoreceptors have?\nWhy can’t photoreceptors have center-surround RFs?\nThe diameter of RFs varies in size? Why do you suppose?\nWhere in the retina do you think RF diameters are smallest?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#center-surround-rfs-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#center-surround-rfs-1",
+    "title": "Vision II: The retina",
+    "section": "Center-Surround RFs",
+    "text": "Center-Surround RFs\n\n\n\nMaximal response:\n\nlight in “on” zone +\ndark in “off” zone\n\nWeakest response when light/dark in both\nDetect contrast (light/dark difference)\n\n\n\n\n\nWikipedia2",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#whats-a-reddish-green-look-like",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#whats-a-reddish-green-look-like",
+    "title": "Vision II: The retina",
+    "section": "What’s a reddish-green look like?",
+    "text": "What’s a reddish-green look like?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#whats-a-reddish-green-look-like-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#whats-a-reddish-green-look-like-1",
+    "title": "Vision II: The retina",
+    "section": "What’s a reddish-green look like?",
+    "text": "What’s a reddish-green look like?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#opponent-processing",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#opponent-processing",
+    "title": "Vision II: The retina",
+    "section": "Opponent processing",
+    "text": "Opponent processing\n\nBlack vs. white (achromatic)\nLong (red) vs. Medium (green) wavelength cones\n(Long + Medium) vs. Short (blue) cones\nCan’t really see reddish-green or bluish-yellow",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#opponent-processing-1",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#opponent-processing-1",
+    "title": "Vision II: The retina",
+    "section": "Opponent processing",
+    "text": "Opponent processing\n\nBlack vs. white (achromatic)\nLong (red) vs. Medium (green) wavelength cones\n(Long + Medium) vs. Short (blue) cones\nCan’t really see reddish-green or bluish-yellow",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#explanation",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#explanation",
+    "title": "Vision II: The retina",
+    "section": "Explanation",
+    "text": "Explanation\n\n\n\n\n\n\nFigure 9",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#color-opponency",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#color-opponency",
+    "title": "Vision II: The retina",
+    "section": "Color opponency",
+    "text": "Color opponency\n\n\n\nSensitivity curves for medium and long wavelength cones overlap\nColor opponency “pushes” signals apart\n\n\n\n\n\nhttp://hyperphysics.phy-astr.gsu.edu/hbase/vision/colcon.html",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2026-11-04-vision-II.html#about",
+    "href": "slides/wk-11-2026-11-04-vision-II.html#about",
+    "title": "Vision II: The retina",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Wed Nov 4"
+    ]
   }
 ]
