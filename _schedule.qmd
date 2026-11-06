@@ -255,13 +255,15 @@
 
 *Quiz 3; Exam 2 results*
 
+- *Slides*:  | [html](slides/wk-11-2026-11-06-quiz-3-exam-2.qmd) |
+
 ## Week 12 {- #week-12}
 
 ### Mon, Nov 09 {-}
 
 *Vision III*
 
-- *Slides*:  | [html](slides/wk-11-2026-11-09-vision-III.qmd) |
+- *Slides*:  | [html](slides/wk-12-2026-11-09-vision-III.qmd) |
 
 ### Wed, Nov 11 {-}
 
