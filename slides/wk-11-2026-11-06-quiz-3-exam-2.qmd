@@ -10,7 +10,7 @@ format: revealjs
 - Quiz 3
 - Exam 2 answers
 
-# Quiz 2
+# Quiz 3
 
 # Exam 2 answers
 
