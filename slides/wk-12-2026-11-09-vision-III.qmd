@@ -1,5 +1,5 @@
 ---
-title: "Vision II: From eye to brain"
+title: "Vision III: From eye to brain"
 format: revealjs
 ---
 
@@ -7,201 +7,93 @@ format: revealjs
 
 ## Announcement
 
-- Quiz 3 this Friday.
+- Quiz 4, Friday, November 4, 2026
 
 ## Today's topics
 
 - Warm-up
-- Capturing information in light
+- Beyond photoreceptors
 - From retina to brain
 
 # Warm-up
 
----
-
-### The image of visual patterns projecting onto the retina is:
-
-- A. Inside out and rotated.
-- B. Upside down and left/right reversed.
-- C. Unrecognizably distorted by the cornea and lens.
-- D. Larger in one eye than the other.
-
----
-
-### The image of visual patterns projecting onto the retina is:
-
-- A. ~~Inside out and rotated.~~
-- B. **Upside down and left/right reversed.**
-- C. ~~Unrecognizably distorted by the cornea and lens.~~
-- D. ~~Larger in one eye than the other.~~
-
----
-
-### Visual information allows the perceiver to extract information about all of the following properties, EXCEPT:
-
-- A. Object position (where is it?)
-- B. Object density (mass/volume)
-- C. Object type/identity (what is it?)
-- D. Time (of day/year)
-
----
-
-### Visual information allows the perceiver to extract information about all of the following properties, EXCEPT:
-
-- A. Object position (where is it?)
-- B. **Object density (mass/volume)**
-- C. Object type/identity (what is it?)
-- D. Time (of day/year)
-
-# Capturing information in light
-
----
-
-![Retinal rods (green) & cones (blue)](https://i.pinimg.com/originals/9f/08/85/9f0885d4c209d5275f631ac194eb4f4b.jpg){#fig-rods-cones}
-
-## How photoreceptors work
+## Beyond photoreceptors
 
 :::: {.columns}
 ::: {.column width=50%}
-- Outer segment
-    + Membrane disks
-    + *Photopigments*
-        - Sense light, trigger chemical cascade
+- Photoreceptors $\rightarrow$
+- Bipolar cells $\rightarrow$
+- Retinal ganglion cells
 :::
 ::: {.column width=50%}
-![@Land1999-af](https://cdn.britannica.com/44/55744-050-4F61301B/cells-cones-eye-retina-segment-rod-phototransduction.jpg)
+![](https://www.feinberg.northwestern.edu/gfx/news/retina.jpg){fig-align="center" #fig-the-retina}
 :::
 ::::
-    
-## How photoreceptors work
 
-:::: {.columns}
-::: {.column width=50%}
-- Inner segment
-    + Synaptic terminal
-- Light *hyperpolarizes* photoreceptor!
-    + The *dark current*
-- *Less* light $\rightarrow$ more NT (glutamate)!
-:::
-::: {.column width=50%}
-![@Land1999-af](https://cdn.britannica.com/44/55744-050-4F61301B/cells-cones-eye-retina-segment-rod-phototransduction.jpg)
-:::
-::::
-    
-## Retina
+## From eye to brain
 
-- Physiologically *backwards*
-    + How?
-- Anatomically *inside-out*
-    + How?
-    
-## Retina
-
-- Physiologically *backwards*
-    + Dark current (more NT released in dark than light)
-- Anatomically *inside-out*
-    + Photoreceptors at back of eye
-
----
-
-### Photoreceptors are arranged in mosaics
-
-![Normal color vision vs. protanopic (color blind) vision; Source: https://en.wikipedia.org/wiki/Retinal_mosaic](https://upload.wikimedia.org/wikipedia/commons/a/a6/ConeMosaics.jpg){#fig-cone-rod-mosaics}
-
----
-
-### with different concentrations in different parts of the retina
-
-![https://book.bionumbers.org/how-big-is-a-photoreceptor/](https://book.bionumbers.org/wp-content/uploads/2014/07/130-f2-RodCellDensity-12.png){#fig-book-bionumbers}
-
-## Photoreceptor distribution
-
-- Retinal periphery
-  - Mostly rods
-- Retinal center/fovea 
-  - Mostly cones
-  - ~1-2 deg
+- Retinal ganglion cells
+  - 1st cells with long axons (to LGN, hypothalamus, brainstem)
+  - 1st to generate action potentials
+  - Information functionally segregated
   
-## Visual field angular sizes
+## ["Receptive fields"](https://en.wikipedia.org/wiki/Receptive_field)
 
-![@UnknownUnknown-qs](https://nightsky.jpl.nasa.gov/media/images/Handy_Degrees_NSN_8961.original.jpg)
-
-## Consequences
-
-- Must move eyes (or eyes/head or eyes/head/body) to position fovea on target
-- Keep track of sequence of eye movements and positions over time
-- Integrate sequence of samples over time
++ Area on retina that changes neuron's firing when stimulated in a specific way
 
 ---
 
-![@Cairo2013-hm Figure 5.6](../include/img/cairo-fig-5.6.png)
+![https://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/](https://openbooks.lib.msu.edu/app/uploads/sites/6/2021/03/RetinalReceptiveField.png){#fig-receptive-field width="65%"}
 
-## Retinal information processing
+## Receptive field (RF) properties
 
-- Separate channels for
-  - Achromatic (black/gray/white)
-  - Chromatic
-    - Mostly cones
-    - Short, medium, long wavelength types
-- 
-- ~120 M rods + ~ 5 M cones (125 M) vs. professional cameras with 100 M pixels
+- Shape/diameter
+- Information that it responds to best
+- RFs and feature detectors
 
-## Retinal information processing
+## Center-Surround RFs
 
-- Point by point, topographic (map-like) 2D image of 3D world
-- Non-uniform resolution (center >> periphery)
-- yields focused image except...
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Functional property of bipolar & retinal ganglion cells
+- Circular-shaped region on retina
+- "On" and "off" zones
+:::
+:::
+::: {.column width=50%}
+![Wikipedia^["By original uploaded to en by user:delldot, modified by Xoneca - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5714283"]](https://upload.wikimedia.org/wikipedia/commons/1/16/Receptive_field.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){#fig-wikipedia-rfs width="45%"}
+:::
+::::
 
+## Center-Surround RFs
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Maximal response:
+  - light in "on" zone +
+  - dark in "off" zone
+- Weakest response when light/dark in *both*
+- Detect contrast (light/dark difference)
+
+:::
+:::
+::: {.column width=50%}
+![Wikipedia^["By original uploaded to en by user:delldot, modified by Xoneca - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5714283"]](https://upload.wikimedia.org/wikipedia/commons/1/16/Receptive_field.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){width="45%"}
+:::
+::::
+
+## Thinking about RFs
+
+- What shape RFs do photoreceptors have?
+- Why can't photoreceptors have center-surround RFs?
+- The diameter of RFs varies in size? Why do you suppose?
+- Where in the retina do you think RF diameters are *smallest*?
+  
 ---
 
-### ...when eye misshapen for cornea+lens
-
-![https://heffingtons.com/myopia-vs-hyperopia/](../include/img/myopia-hyperopia.jpg){#fig-myopia-hyperopia width="65%"}
-
-## Color perception
-
-:::: {.columns}
-::: {.column width=50%}
-- Perceived color a function of activity in "R", "G", and "B" photoreceptors
-:::
-::: {.column width=50%}
-![http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colcon.html](http://hyperphysics.phy-astr.gsu.edu/hbase/vision/imgvis/colcon.png){#fig-color-perception}
-:::
-::::
-
-## Wavelengths are continuous, but are perceived colors?
-
-![https://rmit.pressbooks.pub/colourtheory1/part/2-colour-theory-the-visible-spectrum/](https://rmit.pressbooks.pub/app/uploads/sites/42/2022/10/visitble-spectrum-nm.png)
-
-## Color vision anomalies
-
-:::: {.columns}
-::: {.column width=50%}
-- Absence of or anomalies in photoreceptors
-:::
-::: {.column width=50%}
-![https://bluefinvision.com/ishihara-colour-blind-test-online/](https://bluefinvision.com/wp-content/uploads/2025/02/eye-tests-ishihara-colour-blind-test.webp){#fig-ishihara width="55%"}
-:::
-::::
-
-## Types
-
-:::: {.columns}
-::: {.column width=40%}
-- Protanopia (impaired R/long wavelength)
-- Deuteranopia (impaired G/medium wavelength)
-- Tritanopia (impaired B/short wavelength)
-:::
-::: {.column width=60%}
-![https://www.color-blindness.com/protanopia-red-green-color-blindness/](https://www.color-blindness.com/wp-content/images/Protanopia-Color-Spectrum.jpg){#fig-color-vision-anomolies}
-:::
-::::
-
-# From retina to brain
-
-<div class="centered">
-<img src="../include/img/eye-to-brain.jpg" height=450px>
-</div>
+![Wikipedia^["By Otosakanum2 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174602486"]](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Cross_section_of_retinal_layers.png/1920px-Cross_section_of_retinal_layers.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){#fig-retinal-layers width="45%"}
 
 ## From eye to brain
 
@@ -229,166 +121,195 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/55/Cir
 
 ## *Lateral Geniculate Nucleus (LGN)* of thalamus 
 
+:::: {.columns}
+::: {.column width=50%}
 - ~90% of axons from retina
-
-<div class="centered">
-<img src="img/lgn.jpg" height=400px>
-</div>
+:::
+::: {.column width=50%}
+![](../include/img/lgn.jpg)
+:::
+::::
 
 ## LGN
 
+:::: {.columns}
+::: {.column width=50%}
 - 6 layers + intralaminar zone
     + Parvocellular (small cells): chromatic 
     + Magnocellular (big cells): achromatic
     + Koniocellular (chromatic - short wavelength?)
-- Retinotopic map of opposite visual field
+:::
+::: {.column width=50%}
+![](../include/img/lgn.jpg)
+:::
+::::
 
-## From LGN to V1
 
-<div class="centered">
-<img src="img/eye-to-brain.jpg" height=450px>
-</div>
+## LGN
 
-## From LGN to V1
+:::: {.columns}
+::: {.column width=50%}
+- Input from both eyes
+- Retinotopic map of *opposite* visual field
+:::
+::: {.column width=50%}
+![](../include/img/lgn.jpg)
+:::
+::::
 
+## From LGN to Primary Visual Cortex
+
+![](../include/img/eye-to-brain.jpg){width="65%" fig-align="center"}
+
+## From LGN to Primary Visual Cortex
+
+:::: {.columns}
+::: {.column width=50%}
 - Via optic radiations
 - *[Primary visual cortex (V1)](http://www.scholarpedia.org/article/Area_V1)* in occipital lobe
+:::
+::: {.column width=50%}
+![Wikipedia^[By Yeh, F. C., Panesar, S., Fernandes, D., Meola, A., Yoshino, M., Fernandez-Miranda, J. C., ... & Verstynen, T. (2018). Population-averaged atlas of the macroscale human structural connectome and its network topology. NeuroImage, 178, 57-68. - http://brain.labsolver.org/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78298729]](https://upload.wikimedia.org/wikipedia/commons/9/9c/Optic_Radiation.jpg)
+:::
+::::
 
-<!-- ## Human V1 {.smaller} -->
+## LGN to V1
 
-<!-- <div class="centered"> -->
-<!-- <img src="http://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png" height=450px> -->
+:::: {.columns}
+::: {.column width=50%}
+- Via optic radiations
+- *[Primary visual cortex (V1)](http://www.scholarpedia.org/article/Area_V1)* in occipital lobe
+:::
+::: {.column width=50%}
+![Wikipedia^[By Ratznium at en.wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3199004]](https://upload.wikimedia.org/wikipedia/commons/d/d0/ERP_-_optic_cabling.jpg)
+:::
+::::
 
-<!-- <http://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png> -->
-<!-- </div> -->
+## Human V1
 
-<!-- ## Measuring retinotopy in V1 {.smaller} -->
+![Scholarpedia^[http://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png]](http://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png){width="120%"}
 
-<!-- <div class="centered"> -->
-<!-- <img src="img/mri-v1-retinotopy.jpg" height=450px> -->
+## Measuring retinotopy in V1
 
-<!-- [[@dougherty_visual_2003]](http://dx.doi.org/10.1167/3.10.1) -->
-<!-- </div> -->
+![@dougherty_visual_2003](../include/img/mri-v1-retinotopy.jpg){#fig-dougherty-2003 width="75%"}
 
-<!-- --- -->
+---
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/f2JMbo4BZqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f2JMbo4BZqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- --- -->
+---
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/rsykP-9-moA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsykP-9-moA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- ## Retinotopy in V1 -->
+## Retinotopy in V1
 
-<!-- - Fovea overrepresented -->
-<!--     + Analogous to somatosensation -->
-<!--     + High acuity in fovea vs. lower outside it -->
-<!-- - Upper visual field/lower (ventral) V1 and *vice versa* -->
+- Fovea overrepresented
+    + Analogous to somatosensation
+    + High acuity in fovea vs. lower outside it
+- Upper visual field/lower (ventral) V1 and *vice versa*
 
-<!-- ## Recording from V1 -->
+## Recording from V1
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- --- -->
+---
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8VdFf3egwfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VdFf3egwfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- ## V1 has laminar, columnar organization -->
+## V1 has laminar, columnar organization
 
-<!-- <div class="centered"> -->
-<!-- <img src="img/cortical-hypercolumn.jpg" height=450px> -->
-<!-- </div> -->
+![](../include/img/cortical-hypercolumn.jpg){width="center"}
 
-<!-- ## V1 has laminar, columnar organization -->
+## V1 has laminar, columnar organization
 
-<!-- - 6 laminae (layers) -->
-<!--     + Input: Layer 4 -->
-<!--     + Output: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN) -->
+:::: {.columns}
+::: {.column width=50%}
 
-<!-- ## V1 has laminar, columnar organization -->
+- 6 laminae (layers)
+    + Input: Layer 4
+    + Output: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)
+    
+:::
+::: {.column width=50%}
 
-<!-- - Columns -->
-<!--     + Orientation/angle -->
-<!--     + Spatial frequency -->
+- Columns
+    + Orientation/angle
+    + Spatial frequency
+    
+:::
+::::
 
-<!-- ## Orientation/angle tuning {.smaller} -->
+## Orientation/angle tuning
 
-<!-- <div class="centered"> -->
-<!-- <img src="img/dir.selective.png" height=450px> -->
+![https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png](../include/img/dir.selective.png){width="35%"}
 
-<!-- <https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png> -->
-<!-- </div> -->
+## From center-surround receptive fields to line detection
 
-<!-- ## From center-surround receptive fields to line detection {.smaller} -->
+![Scholarpedia](http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png)
 
-<!-- <div class="centered" height=450px> -->
-<!-- <img src="http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png" height=450px> -->
-<!-- </div> -->
+## Spatial frequency tuning
 
-<!-- ## Spatial frequency tuning {.smaller} -->
+Low == gist    ||     high == details
 
-<!-- <div class="centered"> -->
-<!-- Low == gist    ||     high == details -->
-<!-- <img src="img/spatial-freq-fpsyg-03-00620-g003.jpg" width=850px> -->
+![@panichello_predictive_2013](../include/img/spatial-freq-fpsyg-03-00620-g003.jpg)
 
-<!-- [[@panichello_predictive_2013]](http://dx.doi.org/10.3389/fpsyg.2012.00620) -->
-<!-- </div> -->
+## Ocular dominance slabs/columns
 
-<!-- ## V1 has laminar, columnar organization -->
+:::: {.columns}
+::: {.column width=50%}
+- Input from one eye "dominates" input from the other
+:::
+::: {.column width=50%}
+![](../include/img/cortical-hypercolumn.jpg)
+:::
+::::
 
-<!-- - Columns -->
-<!--     + Color/wavelength -->
-<!--     + Eye of origin, *ocular dominance* -->
+## Ocular dominance signals retinal disparity
 
-<!-- ## Ocular dominance columns -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjAQdc29vF8" frameborder="0" allowfullscreen></iframe>
 
-<!-- <div class="centered"> -->
-<!-- <img src="img/cortical-hypercolumn.jpg" height=450px> -->
-<!-- </div> -->
+<http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png>
 
-<!-- ## Ocular dominance signals retinal disparity -->
+## Beyond V1
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KjAQdc29vF8" frameborder="0" allowfullscreen></iframe> -->
+![](../include/img/beyond-v1.jpg){width="35%" fig-align="center"}
 
-<!-- <http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png> -->
-<!-- </div> -->
+## Beyond V1
 
-<!-- ## Beyond V1 -->
+- Larger, more complex receptive fields
+- *Dorsal stream* (where/how)
+    + Toward parietal lobe
+- *Ventral stream* (what)
 
-<!-- <div class="centered" height=450px> -->
-<!-- <img src="img/beyond-v1.jpg" height=450px> -->
-<!-- </div> -->
+## "Rich" perception from "impoverished" info
 
-<!-- ## Beyond V1 -->
+![<https://www.biomotionlab.ca/html5-bml-walker/>](../include/img/biomotion-lab.png){fig-align="center" width="25%"}
 
-<!-- - Larger, more complex receptive fields -->
-<!-- - *Dorsal stream* (where/how) -->
-<!--     + Toward parietal lobe -->
-<!-- - *Ventral stream* (what) -->
+## What is vision for?
 
-<!-- ## "Rich" perception from "impoverished" info -->
+- What is it? (form perception)
+- Where is it? (space perception)
+- How do I get from here to there (action control)
+- What time (or time of year) is it?
 
-<!-- <https://www.biomotionlab.ca/html5-bml-walker/> -->
+## Computer vision inspired by biological vision
 
-<!-- ## What is vision for? -->
+![](https://i2.wp.com/thedatascientist.com/wp-content/uploads/2018/03/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png?fit=1926%2C987&ssl=1)
 
-<!-- - What is it? (form perception) -->
-<!-- - Where is it? (space perception) -->
-<!-- - How do I get from here to there (action control) -->
-<!-- - What time (or time of year) is it? -->
+---
 
-<!-- ## Computer vision inspired by biological vision -->
+![<https://github.com/CMU-Perceptual-Computing-Lab/openpose>](https://raw.githubusercontent.com/CMU-Perceptual-Computing-Lab/openpose/refs/heads/master/.github/media/dance_foot.gif)
 
-<!-- ```{r, out.width="800px"} -->
-<!-- knitr::include_graphics("https://i2.wp.com/thedatascientist.com/wp-content/uploads/2018/03/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png?fit=1926%2C987&ssl=1") -->
-<!-- ``` -->
+---
 
-<!-- --- -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPU2HistivI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- <https://github.com/CMU-Perceptual-Computing-Lab/openpose> -->
+# Wrap-up
 
-<!-- --- -->
+## Next time
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/MPU2HistivI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+- Audition
 
-## References {.smaller}
+# Resources
+
+{{< include _about-refs.qmd >}}

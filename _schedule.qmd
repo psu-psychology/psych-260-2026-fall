@@ -261,7 +261,7 @@
 
 *Vision III*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-11-2026-11-09-vision-III.qmd) |
 
 ### Wed, Nov 11 {-}
 
