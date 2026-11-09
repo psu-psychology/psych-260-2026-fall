@@ -9,6 +9,17 @@ format: revealjs
 
 - Quiz 4, next Friday, November 4, 2026
 
+
+## PSYCH 452 • Learning and Memory
+
+- Dr. Nancy Dennis (nad12\@psu.edu)
+- MWF 10:10-11:00, Chambers 208
+- PSYCH 256 is a prerequisite, but Dr. Dennis can override for PSYCH 260 students
+
+## PSYCH 452 • Learning and Memory
+
+>The class focuses on explaining how memory works - including memory success and memory failures (such as forgetting and false memory). We also learn about the brain basis of memory in understanding success and failures across the lifespan. It will conclude with an examination of individual differences in memory including memory in childhood and advanced aging, Alzheimer’s disease and amnesia. 
+
 ## Today's topics
 
 - Warm-up
