@@ -1,0 +1,105 @@
+---
+title: "Audition"
+format: revealjs
+---
+
+# Preliminaries
+
+## Announcement
+
+- Quiz 4, next Friday, November 4, 2026
+
+## Today's topics
+
+- Warm-up
+- Audition
+
+# Warm-up
+
+# Audition
+
+## Audition
+
+:::: {.columns}
+::: {.column width=50%}
+- Source: Mechanical vibrations in air or water
+:::
+::: {.column width=50%}
+![](https://acoustics.byu.edu/images/Spectrum-of-Acoustics.jpg)
+:::
+::::
+
+## Audition
+
+- What is it?
+    - Pattern of frequencies, amplitudes, durations
+- Where is it?
+    - Left/right or up/down: Interaural time/phase, intensity differences, pinnae filtering
+    - Motion: Frequency shifts via Doppler effect
+    
+## Audition
+
+:::: {.columns}
+::: {.column width=50%}
+- Frequencies in sound
+:::
+::: {.column width=50%}
+![https://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing](https://www.mwmresearchgroup.org/uploads/3/0/8/6/30861243/image-2-ft_orig.png)
+
+:::
+::::
+
+## Specialized neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Cochlear hair cells
+:::
+::: {.column width=50%}
+![](https://med.stanford.edu/ohns/OHNS-healthcare/earinstitute/conditions-we-treat/hearing-hair-cell/_jcr_content/main/panel_builder_348698106/panel_0/image_0.img.full.high.jpg/organ-of-corti.jpg)
+:::
+::::
+
+##
+
+![@Peterson2025-mw](https://www.ncbi.nlm.nih.gov/books/NBK532311/bin/Auditory__Circuits.jpg)
+
+## Tonotopic mapping
+
+![@Saenz2014-ao](https://ars.els-cdn.com/content/image/1-s2.0-S0378595513001871-gr1.jpg)
+
+## Hearing thresholds non-uniform
+
+![http://auditoryneuroscience.com/](http://auditoryneuroscience.com/sites/default/files/inline-images/HLdata_0.png)
+
+## Localization
+
+![@Moore1999-vm](https://www.cell.com/cms/10.1016/S0960-9822(99)80227-9/asset/67ebce3a-6ba5-48f1-96fa-73741b80d7f5/main.assets/gr1.jpg)
+
+## Localization
+
+- Binaural
+  - Inter-aural time (phase) differences
+  - Inter-aural level differences
+- Monaural
+  - Spectral cues (pinnae, head, etc.)
+- Head movements
+
+## Perceiving what
+
+- Frequencies
+- Temporal patterns
+
+## Demo
+
+# Wrap-up
+
+## Main points
+
+## Next time
+
+- Sensory systems
+
+# Resources
+
+{{< include _about-refs.qmd >}}
