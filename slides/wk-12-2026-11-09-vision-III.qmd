@@ -7,7 +7,7 @@ format: revealjs
 
 ## Announcement
 
-- Quiz 4, Friday, November 4, 2026
+- Quiz 4, next Friday, November 4, 2026
 
 ## Today's topics
 
@@ -16,6 +16,53 @@ format: revealjs
 - From retina to brain
 
 # Warm-up
+
+---
+
+### What part of the retina contains the lowest concentration of rod photoreceptors?
+
+:::: {.columns}
+::: {.column width=50%}
+- A. Periphery
+- B. Fovea
+- C. Nasal hemifield
+- D. Optic disk
+:::
+::: {.column width=50%}
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- ~~A. Periphery~~
+- **B. Fovea**
+- ~~C. Nasal hemifield~~
+- ~~D. Optic disk~~
+:::
+::: {.column width=50%}
+![https://book.bionumbers.org/how-big-is-a-photoreceptor/](https://book.bionumbers.org/wp-content/uploads/2014/07/130-f2-RodCellDensity-12.png)
+:::
+::::
+
+---
+
+### Why does Gilmore say that photoreceptors are physiologically *backward*?
+
+- A. Light hyperpolarizes photoreceptors
+- B. Light depolarizes photoreceptors
+- C. Na+ ions flow out of photoreceptors
+- D. Cl- ion flow out of photoreceptors
+
+---
+
+### Why does Gilmore say that photoreceptors are physiologically *backward*?
+
+- **A. Light hyperpolarizes photoreceptors**
+- ~~B. Light depolarizes photoreceptors~~
+- ~~C. Na+ ions flow out of photoreceptors~~
+- ~~D. Cl- ion flow out of photoreceptors~~
 
 ## Beyond photoreceptors
 
@@ -86,8 +133,8 @@ format: revealjs
 
 ## Thinking about RFs
 
-- What shape RFs do photoreceptors have?
-- Why can't photoreceptors have center-surround RFs?
+- What shape are the RFs of photoreceptors?
+- Why don't photoreceptors have center-surround RFs?
 - The diameter of RFs varies in size? Why do you suppose?
 - Where in the retina do you think RF diameters are *smallest*?
   
@@ -105,19 +152,21 @@ format: revealjs
 
 ## From eye to brain
 
+:::: {.columns}
+::: {.column width=50%}
 - Hypothalamus
     + Suprachiasmatic nucleus
         - Regulates circadian (day/night) rhythm via pineal gland
-
----
-
-```{r, fig.cap="https://en.wikipedia.org/wiki/Retinohypothalamic_tract", echo=FALSE, out.width="700px", fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/55/Circadian_rhythm_labeled.jpg")
-```
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/5/55/Circadian_rhythm_labeled.jpg)
+:::
+::::
 
 ## From eye to brain
         
 - Superior colliculus & brainstem
+  - CN III, IV, VI (control eye movements)
 
 ## *Lateral Geniculate Nucleus (LGN)* of thalamus 
 
@@ -218,7 +267,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/55/Cir
 
 ## V1 has laminar, columnar organization
 
-![](../include/img/cortical-hypercolumn.jpg){width="center"}
+![](../include/img/cortical-hypercolumn.jpg){fig-align="center"}
 
 ## V1 has laminar, columnar organization
 
@@ -305,6 +354,28 @@ Low == gist    ||     high == details
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPU2HistivI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Wrap-up
+
+## Main points
+
+- 90% of axons from retinal ganglion cells go to the LGN
+- Visual pathways functionally segregated
+  - Eye of origin
+  - Chromatic/achromatic
+  - Part of retina
+
+## Main points
+
+- Visual pathways maintain retinotopic map
+- LGN layered
+- LGN projects to V1 via optic radiations
+
+## Main points
+
+- V1 has laminar, columnar structure
+  - Layers: Input vs. output
+  - Columns: eye
+  - Orientation, motion direction, color
+- Most V1 cells do not have circular center-surround RFs
 
 ## Next time
 

@@ -1,0 +1,489 @@
+---
+title: "Neurophysiology III"
+format: revealjs
+---
+
+# Preliminaries
+
+---
+
+::: {#fig-the-wave}
+<iframe width="1280" height="450" src="https://www.youtube.com/embed/H0K2dvB-7WY?si=1wSKXkO7tbL7XGk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@ShamRock2008-qo
+:::
+
+## Announcements
+
+- Exam 1: Monday, September 21, 2026
+  - 40 questions, plus bonus
+- This [Friday](../slides/wk-04-2026-09-18-exam-rev.qmd)
+  - Review Quiz 1
+  - Exam 1 review
+
+## Today's topics
+
+- Warm-up
+- Neurophysiology III
+- Catch up
+  - Anatomy: Spinal cord & PNS (not for Exam 1)
+
+# Warm-up
+
+---
+
+::: {.question}
+## What *initiates* the action potential?
+
+- A. Rapid influx of K+ ions that makes the membrane potential more negative.
+- B. Rapid outflow of A- ions that makes the membrane potential more negative.
+- C. Input depolarizes (makes positive) the cell to the threshold voltage (~55 mv).
+:::
+
+::: {.fragment}
+::: {.answer}
+- ~~A. Rapid influx of K+ ions that makes the membrane potential more negative.~~
+- ~~B. Rapid outflow of A- ions that makes the membrane potential more negative.~~
+- **C. Input depolarizes (makes positive) the cell to the threshold voltage (~55 mv).**
+:::
+:::
+
+---
+
+::: {.question}
+## The rising (depolarization) phase of the action potential occurs due to
+
+- A. Opening of voltage-gated Na+ channels and Na+ inflow
+- B. Opening of voltage-gated K+ channels and K+ outflow
+- C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow
+:::
+
+::: {.fragment}
+::: {.answer}
+- **A. Opening of voltage-gated Na+ channels and rapid Na+ inflow**
+- ~~B. Opening of voltage-gated K+ channels and rapid K+ outflow~~
+- ~~C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow~~
+:::
+:::
+
+---
+
+::: {.question}
+## The *peak* of the action potential occurs due to
+
+- A. Opening of voltage-gated Na+ channels and Na+ inflow
+- B. Opening of voltage-gated K+ channels and K+ outflow
+- C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow
+:::
+
+::: {.fragment}
+::: {.answer}
+- ~~A. Opening of voltage-gated Na+ channels and rapid Na+ inflow~~
+- ~~B. Opening of voltage-gated K+ channels and rapid K+ outflow~~
+- **C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow**
+:::
+:::
+
+---
+
+::: {.question}
+## The falling (repolarization) phase of the action potential occurs due to
+
+- A. Opening of voltage-gated Na+ channels and Na+ inflow
+- B. Opening of voltage-gated K+ channels and K+ outflow
+- C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow
+:::
+
+::: {.fragment}
+::: {.answer}
+- ~~A. Opening of voltage-gated Na+ channels and rapid Na+ inflow~~
+- **B. Opening of voltage-gated K+ channels and rapid K+ outflow**
+- ~~C. Closing of voltage-gated Na+ channels that stops rapid Na+ inflow~~
+:::
+:::
+
+## Key facts
+
+::: {.incremental}
+- Na/K pump creates concentration gradients
+  - [Na+] outside >> inside $\rightarrow$ Na+ flows in
+  - [K+] inside >> outside $\rightarrow$ K+ flows out
+- Ion channels accelerate/slow ion flow
+  - Open ion channel: Accelerate flow
+  - Close ion channel: Slow flow
+
+:::
+
+## Key facts
+
+::: {.incremental}
+- Membrane potential magnitude & sign accelerates/slows ion flow
+  - More - $\rightarrow$ attracts + charges
+  - More + $\rightarrow$ repels + charges
+- Ion flow changes membrane potential
+  - Na+ inflow $\rightarrow$ membrane potential (voltage) more +
+  - K+ outflow $\rightarrow$ membrane potential (voltage) more -
+:::
+
+## Why should I care?
+
+- Action potentials are the language of thought
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width=60%}
+- Practice decomposing complex systems with interacting elements
+
+:::
+::: {.column width=40%}
+![giphy.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJjMzltNnUya3NwZGpwOWtlbzJldWZ4dnlvc3o3ajIybjF4ZzQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif){width="40%"}
+
+:::
+::::
+:::
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width=60%}
+- Mastery leads to predictive power
+:::
+::: {.column width=40%}
+![giphy.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZkcWtpam9ucDE1MWJhM29ndTl1bXJienV2aG53d2ZocHRmazl5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIC8lGWvvnwR6XmRhv/giphy.gif){width="40%"}
+:::
+::::
+:::
+
+# Neurophysiology III
+
+## Propagation
+
+:::: {.columns}
+::: {.column width=50%}
+- Unmyelinated axons
+  - Each segment "excites" the next
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
+:::
+::::
+
+## Propagation
+
+:::: {.columns}
+::: {.column width=50%}
+- Myelinated axon
+  + AP "jumps" between *Nodes of Ranvier*
+  + voltage-gated $Na^+$, $K^+$ channels exposed
+  + current flows through/down myelinated segments
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
+:::
+::::
+
+## Nodes of Ranvier
+
+:::: {.columns}
+::: {.column width=50%}
+- *Regenerate* action potential
+- $Na^+$ and $K^+$ channels exposed to extracellular environment
+- Between Nodes of Ranvier, ions can't move out, so move along
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
+:::
+::::
+
+## Nodes of Ranvier
+
+:::: {.columns}
+::: {.column width=50%}
+- Action potentials faster & more reliable for a given axon diameter
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
+:::
+::::
+
+## Why does AP flow in one direction, away from soma?
+
++ Soma does not have (many) voltage-gated Na+ channels.
++ Soma is not myelinated.
++ Refractory periods mean polarization works only in one direction.
+
+## Why does AP flow in one direction, away from soma?
+
++ **Soma does not have (many) voltage-gated Na+ channels.**
++ Soma is not myelinated.
++ **Refractory periods mean polarization works only in one direction.**
+
+## How fast are APs?
+
+:::: {.columns}
+::: {.column width=50%}
+- Axons carry information at different rates
+    - Ticker myelin -> faster
+    - Larger diameter axon -> faster
+- Somatosensory information faster than pain (nociception)
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
+:::
+::::
+
+---
+
+![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
+
+---
+
+```{r}
+#| label: fig-speed-myelin-axon-diameter
+#| fig-cap: "Myelin and axon diameter vs. action potential speed. Data from @Wikipedia-contributors2025-xk."
+library(ggplot2)
+library(dplyr)
+
+ap <- readr::read_csv("../include/csv/action-potential-speeds.csv",
+                      show_col_types = FALSE)
+
+ap |>
+  mutate(
+    x = (diameter_min + diameter_max) / 2,
+    y = (velocity_min + velocity_max) / 2
+  ) |>
+  ggplot() +
+  aes(
+    x = x,
+    y = y,
+    xmin = diameter_min,
+    xmax = diameter_max,
+    ymin = velocity_min,
+    ymax = velocity_max,
+    color = myelin
+  ) +
+  geom_errorbar(
+    aes(ymin = velocity_min, ymax = velocity_max),
+    orientation = "x",
+    width = 0.2
+  ) +
+  geom_errorbar(
+    aes(ymin = velocity_min, ymax = velocity_max),
+    orientation = "y",
+    width = 0.2
+  ) +
+  xlab("m/s") +
+  ylab("diameter microns") +
+  theme(legend.position = "bottom")
+```
+
+
+## Information processing
+
+- Action potential amplitudes don't vary (much)
+    + All or none (fire or don't fire)
+    + $Na^+$/$K^+$ pumps working all the time
+    + $[K^+]$ & $[Na^+]$ don't vary much, so
+    + $V_{K^+}$ & $V_{Na^+}$ don't vary much
+    
+## Information processing
+
+:::: {.columns}
+::: {.column width=50%}
+- Action potential *frequency* and *timing* vary
+  + Rate vs. timing codes
+  + Neurons use both
+- Action potentials analogous to 1s and 0s used as bits of information in digital computers
+:::
+::: {.column width=50%}
+![@eyherabide_bursts_2009](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
+:::
+::::
+
+---
+
+::: {.callout-warning}
+## Material for future section of the course
+
+You will _not_ be responsible for this material for Exam 1.
+:::
+
+# Anatomy: Spinal cord & PNS
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Rostral/Caudal axis
+    - Spinal column w/ vertebrae
+    - Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+    - Spinal segments & 31 nerve pairs 
+    - Cauda equina
+:::
+::: {.column width=50%}
+![By Sheryl Tan, Faull L, Curtis A - The Anatomical record, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=152594765](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Spinal_cord_details.jpg/1920px-Spinal_cord_details.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){width="75%"}
+:::
+::::
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Nerves map to specific regions of the body
+- [Dermatomes](https://en.wikipedia.org/wiki/Dermatome_(anatomy))
+:::
+::: {.column width=50%}
+![By Grant, John Charles Boileau - An atlas of anatomy, / by regions 1962, Public Domain, https://commons.wikimedia.org/w/index.php?curid=30017222](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grant_1962_663.png/1920px-Grant_1962_663.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail){#fig-dermatomes width="65%"}
+:::
+::::
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Dorsal/Ventral
+  + Dorsal root (sensory)
+  + Ventral root (mostly motor)
+- Grey (interior) vs. white matter (exterior)
+:::
+::: {.column width=50%}
+![https://www.britannica.com/science/spinal-cord](https://cdn.britannica.com/75/2975-050-0D5D3A36/views-cross-section-Photograph-cord-segment-drawing.jpg?w=400&h=300&c=crop){#fig-spinal-cord-cross-section}
+:::
+::::
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Afferent (input/sensory) and efferent (output/motor) tracts
+:::
+::: {.column width=50%}
+![https://med.libretexts.org/Sandboxes/admin/Introduction_to_Neuroscience_%28Hedges%29/04%3A_Nervous_System_Organization/4.06%3A_Spinal_Cord_Structure](https://med.libretexts.org/@api/deki/files/43083/Nerve-Classifications-1024x760.png?revision=1){#fig-spinal-cord-cross-section}
+:::
+::::
+
+## Organization of the PNS  
+
+- Somatic division
+    - Voluntary sensory & motor function
+- Autonomic division
+    - Involuntary sensory & motor function
+- Cranial nerves
+- Spinal nerves
+
+## Cranial nerves
+
+:::: {.columns}
+::: {.column width=50%}
+- Sensory & motor functions of the cranium (head) and neck
+- Afferents (input/sensory), efferents (output/motor), or mixed/both
+  - On Old Olympus' Towering Top...
+  - Some Say Marry Money...
+:::
+::: {.column width=50%}
+![Encyclopedia Britannica](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg)
+:::
+::::
+
+## Cranial nerves
+
+:::: {.columns}
+::: {.column width=50%}
+- Innervate head and neck
+- Olfactory (I), optic (II), (VIII) auditory,
+vagus (X), etc. 
+:::
+::: {.column width=50%}
+![Encyclopedia Britannica](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg)
+:::
+::::
+
+---
+
+::: {.callout-note}
+You will have to memorize the cranial nerves in other classes, but not this one.
+
+There are a number of mnemonics (memory aids) to assist you in this endeavor.
+
+I learned one in graduate school that is too spicy for this class.
+
+Have fun finding them.
+:::
+
+## Autonomic nervous system (ANS) 
+
+:::: {.columns}
+::: {.column width=50%}
+- CNS & PNS components
+- Controls "vegetative functions""
+    + Limited voluntary control
+- Two divisions
+    + Sympathetic
+    + Parasympathetic
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-ans width="70%"}
+:::
+::::
+
+## Sympathetic division 
+
+:::: {.columns}
+::: {.column width=50%}
+- Prepares body for action
+- "Fight or flight"
+- Spinal cord
+    + ganglion chain along spinal column to end organs
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-symp width="70%" fig-align="right"}
+:::
+::::
+
+## Sympathetic division
+
+:::: {.columns}
+::: {.column width=50%}
+- Neurotransmitters
+    + Preganglionic: Acetylcholine (ACh) 
+    + Post: Norepinephrine (NE)
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-symp-2 width="70%" fig-align="right"}
+:::
+::::
+
+## Parasympathetic division 
+
+:::: {.columns}
+::: {.column width=50%}
+- Para -> "around"
+- Restorative function
+- "Rest & digest"
+- Spinal cord -> ganglia near end organs -> end organ
+    + Neurotransmitter: Acetylcholine (ACh)
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){#fig-parasymp width="70%" fig-align="right"}
+:::
+::::
+
+# Wrap-up
+
+## Next time
+
+- Review Quiz 1
+- Exam 1 review
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.9.0.174.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References

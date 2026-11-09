@@ -1,0 +1,571 @@
+---
+title: "Development"
+fig-align: "center"
+format: revealjs
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=ydqReeTV_vk height="70%" width="100%" >}}
+
+-- @Acapellascience2017-yt
+
+## Today's topics
+
+- Warm-up
+- Wrap up on evolution
+- Development of the nervous system
+
+# Warm-up
+
+---
+
+### The human brain is special in which of the following ways?
+
+::: {.incremental}
+- A. It has a larger-than-expected cerebellum
+- B. It has more neurons in the cerebral cortex
+- C. It has an unusual shape
+- D. Its size is independent of body size
+:::
+
+---
+
+### The human brain is special in which of the following ways?
+
+- ~~A. It has a larger-than-expected cerebellum~~
+- **B. It has more neurons in the cerebral cortex**
+- ~~C. It has an unusual shape~~
+- ~~D. Its size is independent of body size~~
+
+---
+
+### Vertebrate nervous systems first emerged 
+
+::: {.incremental}
+- A. 4.5 billion years ago
+- B. 13.8 billion years ago
+- C. 250 thousand years ago
+- D. 500-600 million years ago
+:::
+
+---
+
+### Vertebrate nervous systems first emerged 
+
+- ~~A. 4.5 billion years ago~~
+- ~~B. 13.7 billion years ago~~
+- ~~C. 200-300 thousand years ago~~
+- **D. 500-600 million years ago**
+
+## On family trees
+
+:::: {.columns}
+::: {.column width=50%}
+![](../include/img/gilmore-family-tree-fan.png)
+:::
+::: {.column width=50%}
+![<https://www.evogeneao.com/en/explore/tree-of-life-explorer>  ](../include/img/tree-of-life.png)
+:::
+::::
+
+---
+
+### The theory of evolution explains how life began on Earth.
+
+- A. True
+- B. False
+
+---
+
+### The theory of evolution explains how life began on Earth.
+
+- ~~A. True~~
+- **B. False**
+
+---
+
+### The theory of evolution explains many aspects of how life has changed since it emerged here ~4 billion years ago.
+
+- A. True
+- B. False
+
+---
+
+### The theory of evolution explains many aspects of how life has changed since it emerged here ~4 billion years ago.
+
+- **A. True**
+- ~~B. False~~
+
+# Wrap-up on evolution
+
+## Last time...
+
+- Link to 2026-09-29 [slides](wk-06-2026-09-30-evolution.qmd#how-nervous-systems-differ-1)
+
+# Development of the nervous system
+
+## Recap
+
+- Human brain has large cerebral cortex with more neurons than comparable primates
+- How did the human brain get this way?
+  - Building upon mammalian/primate norms
+  - Specialized patterns of development
+
+## What must develop
+
+:::: {.columns}
+::: {.column width=70%}
+- Brain ~ 2.5% of body mass
+  - consumes 18% of $O_2$ at rest, [@Kety1948-ty]
+  - about 20 W
+- AI generated video: 20 W-h [@UnknownUnknown-sk]
+:::
+::: {.column width=30%}
+![](https://m.media-amazon.com/images/I/51vaqEECS2L._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg){width="30%" fig-align="right"}
+:::
+::::
+
+## What must develop
+
+:::: {.columns}
+::: {.column width=50%}
+- CNS among earliest-developing, last to finish organ systems
+  - Prolonged developmental period (==childhood) makes CNS especially malleable
+:::
+::: {.column width=50%}
+![](../include/img/malleable-definition.png){fig-align="right"}
+:::
+::::
+
+## Neurons
+
+- ~ 86 billion neurons in adult CNS
+  - similar # of glia [@Herculano-Houzel2016-oy]
+- In cortex, about 16 (14-32) billion [@Herculano-Houzel2016-oy]
+- Development generates millions neurons/hr
+
+## Synapses
+
+- 7-80K synapses/cortical neuron
+- ~ $10^{15}$ (quadrillion) synapses in CNS
+- ~164 trillion synapses in cerebral cortex [@DeFelipe2002-xz]
+
+## Axons
+
+- 145-175 km (90-109 mi) of myelinated axons, [@Marner2003-qu]
+
+## Timeline {.scrollable}
+
+[![@Silbereis2016-la](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
+
+## Prenatal milestones
+
++ Neuro- and glio-genesis
++ Migration
++ Synaptogenesis begins
++ Cell differentiation
++ Apoptosis
++ Myelination begins
+
+## Postnatal milestones
+
++ Synaptogenesis
++ Cortical expansion, activity-dependent change
+  - Then cubic, quadratic, or linear declines in cortical thickness
++ Myelination
++ Prolonged period of postnatal/pre-reproductive development [[@konner_evolution_2011]](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
+- Neurogenesis in selected areas (cerebellum; basal ganglia; hippocampus)
+
+---
+
+---
+
+## Prenatal period
+
+- ~38 weeks from conception/fertilization on average
+  - Embryonic period (weeks 1-8)
+  - Fetal period (weeks 9+)
+- Divided into 3 12-13 week trimesters
+
+## Insemination
+
+- Can occur 3-4 days before or up to 1-2 days after...ovulation
+- Some animals signal ovulation, humans don't
+
+## Fertilization
+
+- One sperm cell fuses with ovum
+- Within ~ 24 hrs of ovulation
+
+## Implantation
+
+- Fertilized ovum implants in wall of uterus
+- ~ 6 days after fertilization
+
+## Early embryogenesis
+
+{{< video https://www.youtube.com/embed/dAOWQC-OBv0 height="70%" width="100%" >}}
+
+-- @Khan_Academy_undated-gx
+
+## Neural tube formation
+
+![](https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg){fig-align="center"}
+
+## Neural tube formation
+
+:::: {.columns}
+::: {.column width=50%}
+- Embryonic layers: ectoderm, mesoderm, endoderm
+  - Neural tube forms from ectoderm
+  - beginning ~ 23 pcd (postconceptual days) or week 3
+:::
+::: {.column width=50%}
+![](https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg)
+:::
+::::
+
+## Neural tube formation
+
+:::: {.columns}
+::: {.column width=50%}
+- Neural tube closes in middle
+  - Moves toward rostral & caudal ends
+  - closing by 29-30 pcd (week 4)
+:::
+::: {.column width=50%}
+![](https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg){fig-align="right"}
+:::
+::::
+
+## Neural tube formation
+
+:::: {.columns}
+::: {.column width=50%}
+- Failures of neural tube closure
+  + Anencephaly (rostral neuraxis)
+  + Spina bifida (caudal neuraxis)
+- Folic acid supplements can prevent
+:::
+::: {.column width=50%}
+![](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/10/ds00417_im03493_r7_spinabifidababythu_jpg-popup.jpg){fig-align="right"}
+:::
+::::
+
+## Neural tube formation
+
+:::: {.columns}
+::: {.column width=50%}
+- Neural tube becomes...
+  + Ventricles & cerebral aqueduct
+  + Central canal of spinal cord
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/2c/1302_Brain_Vesicle_DevN.jpg)
+:::
+::::
+  
+## Neural tube
+
+:::: {.columns}
+::: {.column width=50%}
+- Rostro-caudal patterning via differential growth into vesicles
+  - Forebrain (prosencephalon)
+  - Midbrain (mesencephalon)
+  - Hindbrain (rhombencephalon)
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/2c/1302_Brain_Vesicle_DevN.jpg)
+:::
+::::
+
+## Neurogenesis and gliogenesis
+
+:::: {.columns}
+::: {.column width=50%}
+- Neuroepithelium cell layer adjacent to neural tube 
+  - creates ventricular zone (VZ) and subventricular zone (SVZ)
+- Pluripotent stem and progenitor cells divide, produce new neurons & glia
+:::
+::: {.column width=50%}
+![@Gotz2005-yj](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrm1739/MediaObjects/41580_2005_Article_BFnrm1739_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+## Neurogenesis and gliogenesis
+
+:::: {.columns}
+::: {.column width=50%}
+- Neurogenesis (of excitatory Glu neurons) observed by 27 pcd (4 pcw; post-conceptual week)
+  - complete by 191 pcd (27 pcw), [@Silbereis2016-la](http://dx.doi.org/10.1016/j.neuron.2015.12.008)
+- Most cortical and striatal neurons generated prenatally, but
+  - Cerebellum continues neurogenesis ~ 18 mos postnatal mos
+:::
+::: {.column width=50%}
+![@Gotz2005-yj](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrm1739/MediaObjects/41580_2005_Article_BFnrm1739_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+## Can 'old' brains make new neurons?
+
+- In some animals, yes == songbirds, birds that store food caches
+- Humans, on much more limited scale
+  - hippocampus (especially dentate gyrus)
+  - striatum
+  - olfactory bulb (minimally)
+  - not much, if any, in cerebral cortex
+- Most neurogenesis occurs near ventricles
+
+---
+
+![@Ernst2015-iz](https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002045.g001)
+
+## Cell division & migration
+
+:::: {.columns}
+::: {.column width=50%}
+- Neural progenitor/stem cells
+  - Undergo *symmetric* & *asymmetric* cell division
+  - Generate glia, neurons, and basal progenitor cells
+- Radial glia aid cell migration
+:::
+::: {.column width=50%}
+![](../include/img/radial-glia.jpg){fig-align="right"}
+:::
+::::
+
+## Cell division & migration
+
+![](../include/img/neural-tube.jpg){fig-align="center"}
+
+## Cell division & migration
+
+{{< video https://www.youtube.com/embed/ZRF-gKZHINk height="70%" width="100%">}}
+
+-- @Bui2006-gy
+
+![@Bui2006-gy](https://www.youtube.com/embed/ZRF-gKZHINk)
+
+## Cell division & migration
+
+{{< video https://www.youtube.com/embed/t-8bxeWqSV4 height="70%" width="100%" >}}
+
+-- @Bbscottvids2009-ad
+
+## Cell division & migration
+
+- Migration aided by axon growth cones
+- Growth cones guided by
+    - Chemoattractants
+        + e.g., Nerve Growth Factor (NGF)
+    - Chemorepellents
+    - Chemical receptors in growth cone detect spatial/temporal patterns
+
+## Cell division & migration
+
+{{< video https://www.youtube.com/embed/Fgmt2RBow0I height="70%" width="100%" >}}
+
+-- @Moore2009-db
+
+## Cell division & migration
+
+![Figure 5 from @Kang2011-ex](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp)
+
+## Cell division & migration
+
+:::: {.columns}
+::: {.column width=50%}
+- Glia migrate, too
+:::
+::: {.column width=50%}
+![Figure 4 from @Baumann2001-nw](https://journals.physiology.org/cms/10.1152/physrev.2001.81.2.871/asset/images/medium/9j0210133004.jpeg)
+:::
+::::
+
+## Cell differentiation
+
+- Neuron vs. glial cell
+- Cell type
+  - myelin-producing vs. astrocyte vs. microglia
+  - pyramidal cell vs. stellate vs. Purkinje vs. ...
+- NTs released
+- Where to extend axons
+
+# Infancy & early childhood
+
+## Timeline of milestones {.scrollable}
+
+[![@Silbereis2016-la](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
+
+## Synaptogenesis
+
+:::: {.columns}
+::: {.column width=50%}
+- Begins prenatally (~ 18 pcw)
+- Peak density ~ 15 mos postnatal
+- Spine density in prefrontal cortex ~ 7 yrs postnatal
+- 700K synapses/s on average
+:::
+::: {.column width=50%}
+![](../include/img/synaptic-density-infant.jpg)
+:::
+::::
+
+## Synaptogenesis
+
+:::: {.columns}
+::: {.column width=50%}
+- Synaptic proliferation, pruning
+    - Early proliferation (make many synapses)
+    - Later pruning
+    - Rates, peaks differ by area
+:::
+::: {.column width=50%}
+![](../include/img/synaptic-density-infant.jpg)
+:::
+::::
+
+## Apoptosis (programmed cell death)
+
+- 20-80% of all cells, varies by area
+- Spinal cord >> cortex
+- Quantity of nerve growth factor (NGF) influences survival
+
+## Synaptic rearrangement
+
+:::: {.columns}
+::: {.column width=50%}
+- New synapses added
+- Existing synapses altered
+- Progressive phase: growth rate >> loss rate
+- Regressive phase: growth rate << loss rate
+
+:::
+::: {.column width=50%}
+![](../include/img/huttenlocher.jpg)
+:::
+::::
+
+## Myelination
+
+:::: {.columns}
+::: {.column width=50%}
+- Neonatal brain largely unmyelinated
+- Gradual myelination, peaks <span color="red">in mid-20s</span>
+- Non-uniform pattern
+    - Spinal cord before brain
+    - Sensory before motor
+:::
+::: {.column width=50%}
+![@Baumann2001-nw](https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133006.jpeg)
+:::
+::::
+
+## Myelination
+
+:::: {.columns}
+::: {.column width=50%}
+- Diffusion Tensor Imaging (DTI)
+- A *structural* MRI measure of white matter integrity
+- Shows significant developmental changes
+:::
+::: {.column width=50%}
+![@Hagmann02112010](https://www.pnas.org/cms/10.1073/pnas.1009073107/asset/ff27c87e-3ed0-4a67-96a2-19ec4ea4c327/assets/graphic/pnas.1009073107fig01.jpeg)
+:::
+::::
+
+## Structural/morphometric development
+
+![Figure 2 from @Knickmeyer2008-vl](http://www.jneurosci.org/content/jneuro/28/47/12176/F2.large.jpg)
+
+## Gyri & sulci
+
+![Figure 1 from @Chi1977-hm](../include/img/chi-77-1.jpg){width="50%"}
+
+## Gyri & sulci
+
+![Figure 2 from @Chi1977-hm](../include/img/chi-77-2.jpg){width="50%"}
+
+## Gyri & sulci
+
+![Figure 3 from @Chi1977-hm](../include/img/chi-77-3.jpg){width="50%"}
+
+## Gyri & sulci
+
+![Figure 4 from @Chi1977-hm](../include/img/chi-77-4.jpg){width="50%"}
+
+## Changes in brain glucose use 
+
+![Figure 1 from @Kuzawa2014-qd](https://www.pnas.org/cms/10.1073/pnas.1323099111/asset/36abb8b8-6e1f-4a61-b5db-718340542d99/assets/graphic/pnas.1323099111fig01.jpeg)
+
+## Gene expression across development
+
+![@Kang2011-ex](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp)
+
+# Wrap-up
+
+## Main points
+
+- Human nervous system develops rapidly beginning about week 3, post-conception
+- Develops throughout lifespan
+- Development consists of progressive & regressive events
+
+## Milestone summary
+
+:::: {.columns}
+::: {.column width=50%}
+Prenatal \
+
+- Neuro- and gliogenesis
+- Migration
+- Synaptogenesis begins
+:::
+::: {.column width=50%}
+Postnatal \
+
+- Neurogenesis, but only in selected areas (cerebellum; basal ganglia; hippocampus)
+- Synaptogenesis
+- Cortical expansion, activity-dependent change
+
+:::
+::::
+
+## Milestone summary
+
+:::: {.columns}
+::: {.column width=50%}
+Prenatal \
+
+- Differentiation
+- Cell death
+- Myelination begins
+:::
+::: {.column width=50%}
+Postnatal \
+
+- Cortex thins
+- Myelination through 3rd decade
+- Prolonged period of postnatal/pre-reproductive development [@konner_evolution_2011](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
+:::
+::::
+
+## Next time
+
+- Quiz 2; Go over Exam 1
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2026.8.1.195.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2026-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2026-fall/>
+
+## References
