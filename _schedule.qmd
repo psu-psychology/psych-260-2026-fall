@@ -269,7 +269,7 @@
 
 *Audition*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-12-2026-11-11-audition.qmd) |
 
 ### Fri, Nov 13
 

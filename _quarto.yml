@@ -3,7 +3,7 @@ project:
   output-dir: docs
   render:
   #   - "slides/*.qmd"
-    - "./*.qmd"
+    - "*.qmd"
   lib-dir: site_libs
   
 # execute:
@@ -91,6 +91,8 @@ website:
             href: slides/wk-11-2026-11-06-quiz-3-exam-2.qmd
           - text: "Wk 12 • Mon Nov 9"
             href: slides/wk-12-2026-11-09-vision-III.qmd
+          - text: "Wk 12 • Wed Nov 11"
+            href: slides/wk-12-2026-11-11-audition.qmd
       #     - text: "Wk 12 • Thu Nov 13"
       #       href: slides/wk-12-2025-11-13-sensory-systems.qmd
       #     - text: "Wk 13 • Tue Nov 18"

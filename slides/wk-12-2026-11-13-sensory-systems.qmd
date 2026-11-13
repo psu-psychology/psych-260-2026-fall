@@ -11,86 +11,14 @@ format: revealjs
 
 -- @TheWhoVEVO2016-wl
 
+## Announcements
+
+- Quiz 4, next Friday, November 20, 2026
+- Exam 3, Wednesday, December 3, 2026
+
 ## Today's topics
 
-- Warm up
 - Sensory systems
-
-# Warm up
-
----
-
-### Which of the following brain areas are *not* implicated in the threat conditioning paradigm?
-
-:::: {.columns}
-::: {.column width=50%}
-::: {.incremental}
-- A. amygdala
-- B. auditory thalamus
-- C. somatosensory thalamus
-- D. visual cortex (V1)
-:::
-
-:::
-::: {.column width=50%}
-
-:::
-::::
-
----
-
-### Which of the following brain areas are *not* implicated in the threat conditioning paradigm?
-
-:::: {.columns}
-::: {.column width=50%}
-- ~~A. amygdala~~
-- ~~B. auditory thalamus~~
-- ~~C. somatosensory thalamus~~
-- **D. visual cortex (V1)**
-:::
-::: {.column width=50%}
-![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif){width="70%"}
-:::
-::::
-
----
-
-### The hypothalamus gets input from this structure as part of the system regulating hormonal and ANS responses to threat.
-
-::: {.incremental}
-- A. ventral tegmental area (VTA)
-- B. amygdala
-- C. cerebellum
-- D. olfactory bulb
-:::
-
----
-
-### The hypothalamus gets input from this structure as part of the system regulating hormonal and ANS responses to threat.
-
-- ~~A. ventral tegmental area (VTA)~~
-- **B. amygdala**
-- ~~C. cerebellum~~
-- ~~D. olfactory bulb~~
-
----
-
-### Whether stressors are ______ or _______ influences whether they cause long-term health problems.
-
-::: {.incremental}
-- A. loud; quiet
-- B. bright; dim
-- C. social; chemical
-- D. acute; chronic
-:::
----
-
-### Whether stressors are ______ or _______ influences whether they cause long-term health problems.
-
-- ~~A. loud; quiet~~
-- ~~B. bright; dim~~
-- ~~C. social; chemical~~
-- **D. acute; chronic**
 
 # Sensory Systems
 
@@ -128,7 +56,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## My smartphone and me...
 
-![](https://m.media-amazon.com/images/I/61qvRagAn9L._AC_SX679_.jpg){fig-align="center"}
+![](https://m.media-amazon.com/images/I/61qvRagAn9L._AC_SX679_.jpg){fig-align="center" width="65%"}
 
 ## Smartphone design goals
 
@@ -197,7 +125,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ---
 
-![@UnknownUnknown-pc](../include/img/nih-interoception-grant.png)
+![@UnknownUnknown-pc](../include/img/nih-interoception-grant.png){width="65%"}
 
 ## Questions for exteroception
 
@@ -261,7 +189,7 @@ plot(g, vertex.size=50, vertex.color="gray")
     
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/EM_Spectrum_Properties_edit.svg/1350px-EM_Spectrum_Properties_edit.svg.png)
+![EM spectrum from Wikipedia](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/EM_Spectrum_Properties_edit.svg/3840px-EM_Spectrum_Properties_edit.svg.png){#fig-em-spectrum-wikipedia}
 :::
 ::::
 
@@ -311,6 +239,7 @@ plot(g, vertex.size=50, vertex.color="gray")
     - Mixtures of chemicals
 - Where is it?
     - Left/right; up/down; near/far via intensity gradients
+    - Head position that equalizes
     
 ## Somatosensation
 
@@ -363,8 +292,8 @@ plot(g, vertex.size=50, vertex.color="gray")
 ## Common features
 
 - Signals change across time and space
-  - Consist of repeating patterns
-- Involve comparisons across multiple sensors
+  - Repeating patterns
+- Comparisons across multiple sensors
 - Specialized neurons
 - Receptive fields
 - Brain regions contain topographic maps
@@ -413,12 +342,12 @@ plot(g, vertex.size=50, vertex.color="gray")
 - Bigger diameter: Faster
 - Denser myelin: Faster
     
----
+## {.center}
 
 <iframe width="800px" height="800px" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity">
 </iframe>
     
-## Information consists of repeating signals
+## Repeating signals
 
 - e.g., patterns
 + In space (textures)
@@ -530,7 +459,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Auditory: Tonotopic maps
 
-![@Humphries2010-hi Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/77e5/2830355/d2c2a836b94d/nihms172043f3.jpg)
+![@Humphries2010-hi Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/77e5/2830355/d2c2a836b94d/nihms172043f3.jpg){width="65%"}
 
 ## Visual: Retinotopic maps
 
@@ -545,7 +474,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Visual: Retinotopic maps
 
-![@dougherty_visual_2003 Figure 1](https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/933499/jov-3-10-1-fig001.jpeg?Expires=1763503132&Signature=OxiVCoyJMgfEc8bAyJEUQJ3KMkvObT4lUymvb5NZBT9MyBALGAToZ-nymXPxn2A3-9VlmJP-TfM5naE75nP4t7diS-h9PmUw~xeRMRsu-XxbB7ez4mYIPmTTN9vtsA~WczKK0Fn9twx1pRZh2~REgUNwDMKmTWSzxMdpH2FMnFyM47a8PdBn5rmpS6InhmIzH12mVDAM3pwEYsPknYyuupU8zFTO7wn5kcS0FKXsN7aHx~jNFVzqY6M8WgvlcQiD84WVc0o8Yiw-EKyMTaChMEOJHDLIPuyVgYHgzw3hvdeuaw2UGuyqCYlaVpdGitKioh409NoGVDzIk8s6BdLR8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+![@dougherty_visual_2003](../include/img/mri-v1-retinotopy.jpg){#fig-dougherty-2003 width="75%"}
 
 ## Somatotopic maps
 

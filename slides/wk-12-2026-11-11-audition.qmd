@@ -7,18 +7,152 @@ format: revealjs
 
 ## Announcement
 
-- Quiz 4, next Friday, November 4, 2026
+- Quiz 4, next Friday, November 20, 2026
 
 ## Today's topics
 
 - Warm-up
+- Last word on vision
 - Audition
 
 # Warm-up
 
+# Last word on vision
+
+## Recording from V1
+
+::: {#fig-hubel-wiesel}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4?si=mtkfFkr_OljvFcnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@Lester2009-kw
+:::
+
+---
+
+::: {#fig-v1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VdFf3egwfg?si=15M81syK75hwT2KC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@Moeeny2011-kl
+:::
+
+## V1 has laminar, columnar organization
+
+![](../include/img/cortical-hypercolumn.jpg){fig-align="center"}
+
+## V1 has laminar, columnar organization
+
+:::: {.columns}
+::: {.column width=50%}
+
+- 6 laminae (layers)
+    + Input: Layer 4
+    + Output: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)
+    
+:::
+::: {.column width=50%}
+
+- Columns
+    + Orientation/angle
+    + Spatial frequency
+    
+:::
+::::
+
+## Orientation/angle tuning
+
+![https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png](../include/img/dir.selective.png){width="35%"}
+
+## From center-surround receptive fields to line detection
+
+![Scholarpedia](http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png)
+
+## Spatial frequency tuning
+
+Low == gist    ||     high == details
+
+![@panichello_predictive_2013](../include/img/spatial-freq-fpsyg-03-00620-g003.jpg)
+
+## Ocular dominance slabs/columns
+
+:::: {.columns}
+::: {.column width=50%}
+- Input from one eye "dominates" input from the other
+:::
+::: {.column width=50%}
+![](../include/img/cortical-hypercolumn.jpg)
+:::
+::::
+
+## Ocular dominance signals retinal disparity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjAQdc29vF8" frameborder="0" allowfullscreen></iframe>
+
+<http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png>
+
+## Beyond V1
+
+![](../include/img/beyond-v1.jpg){width="35%" fig-align="center"}
+
+## Beyond V1
+
+- Larger, more complex receptive fields
+- *Dorsal stream* (where/how)
+    + Toward parietal lobe
+- *Ventral stream* (what)
+
+## "Rich" perception from "impoverished" info
+
+![<https://www.biomotionlab.ca/html5-bml-walker/>](../include/img/biomotion-lab.png){fig-align="center" width="25%"}
+
+## What is vision for?
+
+- What is it? (form perception)
+- Where is it? (space perception)
+- How do I get from here to there (action control)
+- What time (or time of year) is it?
+
+## Computer vision inspired by biological vision
+
+![](https://i2.wp.com/thedatascientist.com/wp-content/uploads/2018/03/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png?fit=1926%2C987&ssl=1)
+
+---
+
+![<https://github.com/CMU-Perceptual-Computing-Lab/openpose>](https://raw.githubusercontent.com/CMU-Perceptual-Computing-Lab/openpose/refs/heads/master/.github/media/dance_foot.gif)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPU2HistivI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Main points
+
+- V1 has laminar, columnar structure
+  - Layers: Input vs. output
+  - Columns: eye
+  - Orientation, motion direction, color
+- Most V1 cells do not have circular center-surround RFs
+- Regions beyond V3 no longer retinotopic, have complex RFs
+
 # Audition
 
-## Audition
+## What is audition (hearing) for?
+
+:::: {.columns}
+::: {.column width=50%}
+- What is out there?
+- Where is it?
+- Where is it moving?
+:::
+::: {.column width=50%}
+::: {.fragment}
+- Out of sight!
+- In the dark!
+:::
+:::
+::::
+
+
+## Information in sound
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -49,11 +183,38 @@ format: revealjs
 :::
 ::::
 
+## Anatomy of audition
+
+:::: {.columns}
+::: {.column width=50%}
+- Outer ear, especially the pinna
+- Middle ear
+  - Typmpanic membrane
+  - Ossicles
+:::
+::: {.column width=50%}
+![](https://www.happyearshearing.com/wp-content/uploads/2022/10/ear-anatomy.jpg)
+:::
+::::
+
+## Anatomy of audition
+
+:::: {.columns}
+::: {.column width=50%}
+- Inner ear
+  - Cochlea
+:::
+::: {.column width=50%}
+![](https://www.happyearshearing.com/wp-content/uploads/2022/10/ear-anatomy.jpg)
+:::
+::::
+
 ## Specialized neurons
 
 :::: {.columns}
 ::: {.column width=50%}
 - Cochlear hair cells
+- Different sound frequencies activate distinct regions of the cochlea
 :::
 ::: {.column width=50%}
 ![](https://med.stanford.edu/ohns/OHNS-healthcare/earinstitute/conditions-we-treat/hearing-hair-cell/_jcr_content/main/panel_builder_348698106/panel_0/image_0.img.full.high.jpg/organ-of-corti.jpg)
@@ -62,33 +223,86 @@ format: revealjs
 
 ##
 
-![@Peterson2025-mw](https://www.ncbi.nlm.nih.gov/books/NBK532311/bin/Auditory__Circuits.jpg)
+![@Joris2019-wi^["Schematic illustration of the transformation from sound waveforms to neural excitation. (Top row) Sound waveforms of (a) a low-frequency tone, (b) a high-frequency tone, and (c) wideband noise. (Middle row) The corresponding waveforms filtered by the cochlea: (d,e) low- and high-frequency tones at their own characteristic cochlear place and (f,g) the same wideband noise at apical and basal cochlear positions, respectively. (Bottom row) The timing of action potentials in the auditory nerve (AN) shown in (top) peri-stimulus time histograms and (bottom) corresponding dot rasters. The dots represent the timing of action potentials evoked by repeated presentations of the stimuli in the panel above. Responses to low frequencies (h,j) show fine structure (i.e., phase locking), while the responses to high frequencies (i,k) only show envelope coding."]](https://www.annualreviews.org/docserver/ahah/fulltext/neuro/42/1/ne420433.f1_thmb.gif)
+
+## {.center}
+
+![@Peterson2025-mw](../include/img/Auditory_Circuits.jpg){#fig-peterson-2025 width="75%"}
 
 ## Tonotopic mapping
 
+:::: {.columns}
+::: {.column width=50%}
+- Tonotopic: map of tones/frequencies
+:::
+::: {.column width=50%}
 ![@Saenz2014-ao](https://ars.els-cdn.com/content/image/1-s2.0-S0378595513001871-gr1.jpg)
+:::
+::::
 
-## Hearing thresholds non-uniform
+## Auditory projection pathway
 
-![http://auditoryneuroscience.com/](http://auditoryneuroscience.com/sites/default/files/inline-images/HLdata_0.png)
+:::: {.columns}
+::: {.column width=50%}
+- Cochlea
+- VIII cranial (auditory) nerve
+- Superior Olivary Complex
+:::
+::: {.column width=50%}
+![@Students-of-PSY2022-fu](https://open.lib.umn.edu/app/uploads/sites/529/2020/05/auditoryPathway_final-828x1024.png)
+:::
+::::
 
-## Localization
 
-![@Moore1999-vm](https://www.cell.com/cms/10.1016/S0960-9822(99)80227-9/asset/67ebce3a-6ba5-48f1-96fa-73741b80d7f5/main.assets/gr1.jpg)
 
-## Localization
+## Auditory projection pathway
 
-- Binaural
-  - Inter-aural time (phase) differences
-  - Inter-aural level differences
-- Monaural
-  - Spectral cues (pinnae, head, etc.)
-- Head movements
+:::: {.columns}
+::: {.column width=50%}
+- Inferior Colliculus
+- Medial Geniculate Nucleus
+- Primary Auditory Cortex (A1)
+:::
+::: {.column width=50%}
+![@Students-of-PSY2022-fu](https://open.lib.umn.edu/app/uploads/sites/529/2020/05/auditoryPathway_final-828x1024.png)
+:::
+::::
 
 ## Perceiving what
 
 - Frequencies
 - Temporal patterns
+- Prior knowledge
+
+## Sound perception is complex
+
+![Spectogram of the word "hide" from @UnknownUnknown-yi](https://www.mq.edu.au/__data/assets/image/0007/910942/hide_fmt_track.gif)
+
+## Hearing where
+
+:::: {.columns}
+::: {.column width=50%}
+- Binaural
+  - Inter-aural time (phase) differences
+  - Inter-aural level differences
+:::
+::: {.column width=50%}
+![@Moore1999-vm](https://www.cell.com/cms/10.1016/S0960-9822(99)80227-9/asset/67ebce3a-6ba5-48f1-96fa-73741b80d7f5/main.assets/gr1.jpg)
+:::
+::::
+
+## Hearing where
+
+:::: {.columns}
+::: {.column width=50%}
+- Monaural
+  - Spectral cues (pinnae, head, etc.)
+- Head movements
+:::
+::: {.column width=50%}
+![@Moore1999-vm](https://www.cell.com/cms/10.1016/S0960-9822(99)80227-9/asset/67ebce3a-6ba5-48f1-96fa-73741b80d7f5/main.assets/gr1.jpg)
+:::
+::::
 
 ## Demo
 

@@ -308,5 +308,1337 @@
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#announcement",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#announcement",
+    "title": "Vision III: From eye to brain",
+    "section": "Announcement",
+    "text": "Announcement\n\nQuiz 4, next Friday, November 4, 2026",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#psych-452-learning-and-memory",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#psych-452-learning-and-memory",
+    "title": "Vision III: From eye to brain",
+    "section": "PSYCH 452 • Learning and Memory",
+    "text": "PSYCH 452 • Learning and Memory\n\nDr. Nancy Dennis (nad12@psu.edu)\nMWF 10:10-11:00, Chambers 208\nPSYCH 256 is a prerequisite, but Dr. Dennis can override for PSYCH 260 students",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#psych-452-learning-and-memory-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#psych-452-learning-and-memory-1",
+    "title": "Vision III: From eye to brain",
+    "section": "PSYCH 452 • Learning and Memory",
+    "text": "PSYCH 452 • Learning and Memory\n\nThe class focuses on explaining how memory works - including memory success and memory failures (such as forgetting and false memory). We also learn about the brain basis of memory in understanding success and failures across the lifespan. It will conclude with an examination of individual differences in memory including memory in childhood and advanced aging, Alzheimer’s disease and amnesia.",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#todays-topics",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#todays-topics",
+    "title": "Vision III: From eye to brain",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWarm-up\nBeyond photoreceptors\nFrom retina to brain",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#beyond-photoreceptors",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#beyond-photoreceptors",
+    "title": "Vision III: From eye to brain",
+    "section": "Beyond photoreceptors",
+    "text": "Beyond photoreceptors\n\n\n\nPhotoreceptors \\(\\rightarrow\\)\nBipolar cells \\(\\rightarrow\\)\nRetinal ganglion cells\n\n\n\n\n\n\n\n\nFigure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain",
+    "title": "Vision III: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nRetinal ganglion cells\n\n1st cells with long axons (to LGN, hypothalamus, brainstem)\n1st to generate action potentials\nInformation functionally segregated",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#receptive-fields",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#receptive-fields",
+    "title": "Vision III: From eye to brain",
+    "section": "“Receptive fields”",
+    "text": "“Receptive fields”\n\nArea on retina that changes neuron’s firing when stimulated in a specific way",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#receptive-field-rf-properties",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#receptive-field-rf-properties",
+    "title": "Vision III: From eye to brain",
+    "section": "Receptive field (RF) properties",
+    "text": "Receptive field (RF) properties\n\nShape/diameter\nInformation that it responds to best\nRFs and feature detectors",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#center-surround-rfs",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#center-surround-rfs",
+    "title": "Vision III: From eye to brain",
+    "section": "Center-Surround RFs",
+    "text": "Center-Surround RFs\n\n\n\nFunctional property of bipolar & retinal ganglion cells\nCircular-shaped region on retina\n“On” and “off” zones\n\n\n\n\n\n\n\n\nFigure 3: Wikipedia1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#center-surround-rfs-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#center-surround-rfs-1",
+    "title": "Vision III: From eye to brain",
+    "section": "Center-Surround RFs",
+    "text": "Center-Surround RFs\n\n\n\nMaximal response:\n\nlight in “on” zone +\ndark in “off” zone\n\nWeakest response when light/dark in both\nDetect contrast (light/dark difference)\n\n\n\n\n\nWikipedia2",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#thinking-about-rfs",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#thinking-about-rfs",
+    "title": "Vision III: From eye to brain",
+    "section": "Thinking about RFs",
+    "text": "Thinking about RFs\n\nWhat shape are the RFs of photoreceptors?\nWhy don’t photoreceptors have center-surround RFs?\nThe diameter of RFs varies in size? Why do you suppose?\nWhere in the retina do you think RF diameters are smallest?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-1",
+    "title": "Vision III: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nRetinal ganglion cells\n\n1st cells with long axons\n1st to generate action potentials\n\n2nd/II cranial (optic) nerve\n\nOptic chiasm",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-2",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-2",
+    "title": "Vision III: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\n\n\nHypothalamus\n\nSuprachiasmatic nucleus\n\nRegulates circadian (day/night) rhythm via pineal gland\n\n\n\n\n\n\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-3",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-eye-to-brain-3",
+    "title": "Vision III: From eye to brain",
+    "section": "From eye to brain",
+    "text": "From eye to brain\n\nSuperior colliculus & brainstem\n\nCN III, IV, VI (control eye movements)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#lateral-geniculate-nucleus-lgn-of-thalamus",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#lateral-geniculate-nucleus-lgn-of-thalamus",
+    "title": "Vision III: From eye to brain",
+    "section": "Lateral Geniculate Nucleus (LGN) of thalamus",
+    "text": "Lateral Geniculate Nucleus (LGN) of thalamus\n\n\n\n~90% of axons from retina",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#lgn",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#lgn",
+    "title": "Vision III: From eye to brain",
+    "section": "LGN",
+    "text": "LGN\n\n\n\n6 layers + intralaminar zone\n\nParvocellular (small cells): chromatic\nMagnocellular (big cells): achromatic\nKoniocellular (chromatic - short wavelength?)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#lgn-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#lgn-1",
+    "title": "Vision III: From eye to brain",
+    "section": "LGN",
+    "text": "LGN\n\n\n\nInput from both eyes\nRetinotopic map of opposite visual field",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-primary-visual-cortex",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-primary-visual-cortex",
+    "title": "Vision III: From eye to brain",
+    "section": "From LGN to Primary Visual Cortex",
+    "text": "From LGN to Primary Visual Cortex",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-primary-visual-cortex-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-lgn-to-primary-visual-cortex-1",
+    "title": "Vision III: From eye to brain",
+    "section": "From LGN to Primary Visual Cortex",
+    "text": "From LGN to Primary Visual Cortex\n\n\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe\n\n\n\n\n\nWikipedia4",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#lgn-to-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#lgn-to-v1",
+    "title": "Vision III: From eye to brain",
+    "section": "LGN to V1",
+    "text": "LGN to V1\n\n\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe\n\n\n\n\n\nWikipedia5",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#human-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#human-v1",
+    "title": "Vision III: From eye to brain",
+    "section": "Human V1",
+    "text": "Human V1\n\n\n\nScholarpedia6",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#measuring-retinotopy-in-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#measuring-retinotopy-in-v1",
+    "title": "Vision III: From eye to brain",
+    "section": "Measuring retinotopy in V1",
+    "text": "Measuring retinotopy in V1\n\n\n\n\n\n\nFigure 5: Dougherty et al. (2003)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#retinotopy-in-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#retinotopy-in-v1",
+    "title": "Vision III: From eye to brain",
+    "section": "Retinotopy in V1",
+    "text": "Retinotopy in V1\n\nFovea overrepresented\n\nAnalogous to somatosensation\nHigh acuity in fovea vs. lower outside it\n\nUpper visual field/lower (ventral) V1 and vice versa",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#recording-from-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#recording-from-v1",
+    "title": "Vision III: From eye to brain",
+    "section": "Recording from V1",
+    "text": "Recording from V1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#v1-has-laminar-columnar-organization",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#v1-has-laminar-columnar-organization",
+    "title": "Vision III: From eye to brain",
+    "section": "V1 has laminar, columnar organization",
+    "text": "V1 has laminar, columnar organization",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#v1-has-laminar-columnar-organization-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#v1-has-laminar-columnar-organization-1",
+    "title": "Vision III: From eye to brain",
+    "section": "V1 has laminar, columnar organization",
+    "text": "V1 has laminar, columnar organization\n\n\n\n6 laminae (layers)\n\nInput: Layer 4\nOutput: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)\n\n\n\n\nColumns\n\nOrientation/angle\nSpatial frequency",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#orientationangle-tuning",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#orientationangle-tuning",
+    "title": "Vision III: From eye to brain",
+    "section": "Orientation/angle tuning",
+    "text": "Orientation/angle tuning\n\n\n\nhttps://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#from-center-surround-receptive-fields-to-line-detection",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#from-center-surround-receptive-fields-to-line-detection",
+    "title": "Vision III: From eye to brain",
+    "section": "From center-surround receptive fields to line detection",
+    "text": "From center-surround receptive fields to line detection\n\n\n\nScholarpedia",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#spatial-frequency-tuning",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#spatial-frequency-tuning",
+    "title": "Vision III: From eye to brain",
+    "section": "Spatial frequency tuning",
+    "text": "Spatial frequency tuning\nLow == gist || high == details\n\n\n\nPanichello et al. (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#ocular-dominance-slabscolumns",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#ocular-dominance-slabscolumns",
+    "title": "Vision III: From eye to brain",
+    "section": "Ocular dominance slabs/columns",
+    "text": "Ocular dominance slabs/columns\n\n\n\nInput from one eye “dominates” input from the other",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#ocular-dominance-signals-retinal-disparity",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#ocular-dominance-signals-retinal-disparity",
+    "title": "Vision III: From eye to brain",
+    "section": "Ocular dominance signals retinal disparity",
+    "text": "Ocular dominance signals retinal disparity\n\n\nhttp://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#beyond-v1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#beyond-v1",
+    "title": "Vision III: From eye to brain",
+    "section": "Beyond V1",
+    "text": "Beyond V1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#beyond-v1-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#beyond-v1-1",
+    "title": "Vision III: From eye to brain",
+    "section": "Beyond V1",
+    "text": "Beyond V1\n\nLarger, more complex receptive fields\nDorsal stream (where/how)\n\nToward parietal lobe\n\nVentral stream (what)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#rich-perception-from-impoverished-info",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#rich-perception-from-impoverished-info",
+    "title": "Vision III: From eye to brain",
+    "section": "“Rich” perception from “impoverished” info",
+    "text": "“Rich” perception from “impoverished” info\n\n\n\n\n\n\n\nhttps://www.biomotionlab.ca/html5-bml-walker/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#what-is-vision-for",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#what-is-vision-for",
+    "title": "Vision III: From eye to brain",
+    "section": "What is vision for?",
+    "text": "What is vision for?\n\nWhat is it? (form perception)\nWhere is it? (space perception)\nHow do I get from here to there (action control)\nWhat time (or time of year) is it?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#computer-vision-inspired-by-biological-vision",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#computer-vision-inspired-by-biological-vision",
+    "title": "Vision III: From eye to brain",
+    "section": "Computer vision inspired by biological vision",
+    "text": "Computer vision inspired by biological vision",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#main-points",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#main-points",
+    "title": "Vision III: From eye to brain",
+    "section": "Main points",
+    "text": "Main points\n\n90% of axons from retinal ganglion cells go to the LGN\nVisual pathways functionally segregated\n\nEye of origin\nChromatic/achromatic\nPart of retina",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#main-points-1",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#main-points-1",
+    "title": "Vision III: From eye to brain",
+    "section": "Main points",
+    "text": "Main points\n\nVisual pathways maintain retinotopic map\nLGN layered\nLGN projects to V1 via optic radiations",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#main-points-2",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#main-points-2",
+    "title": "Vision III: From eye to brain",
+    "section": "Main points",
+    "text": "Main points\n\nV1 has laminar, columnar structure\n\nLayers: Input vs. output\nColumns: eye\nOrientation, motion direction, color\n\nMost V1 cells do not have circular center-surround RFs",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#next-time",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#next-time",
+    "title": "Vision III: From eye to brain",
+    "section": "Next time",
+    "text": "Next time\n\nAudition",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#about",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#about",
+    "title": "Vision III: From eye to brain",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#references",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#references",
+    "title": "Vision III: From eye to brain",
+    "section": "References",
+    "text": "References\n\n\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nPanichello, M. F., Cheung, O. S., & Bar, M. (2013). Predictive feedback and conscious visual experience. Perception Science, 3, 620. https://doi.org/10.3389/fpsyg.2012.00620",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-09-vision-III.html#footnotes",
+    "href": "slides/wk-12-2026-11-09-vision-III.html#footnotes",
+    "title": "Vision III: From eye to brain",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n“By original uploaded to en by user:delldot, modified by Xoneca - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5714283”\n“By original uploaded to en by user:delldot, modified by Xoneca - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5714283”\n“By Otosakanum2 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174602486”\nBy Yeh, F. C., Panesar, S., Fernandes, D., Meola, A., Yoshino, M., Fernandez-Miranda, J. C., … & Verstynen, T. (2018). Population-averaged atlas of the macroscale human structural connectome and its network topology. NeuroImage, 178, 57-68. - http://brain.labsolver.org/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78298729\nBy Ratznium at en.wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3199004\nhttp://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Mon Nov 9"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#announcement",
+    "href": "slides/wk-12-2026-11-11-audition.html#announcement",
+    "title": "Audition",
+    "section": "Announcement",
+    "text": "Announcement\n\nQuiz 4, next Friday, November 4, 2026",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#todays-topics",
+    "href": "slides/wk-12-2026-11-11-audition.html#todays-topics",
+    "title": "Audition",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWarm-up\nLast word on vision\nAudition",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#what-is-audition-hearing-for",
+    "href": "slides/wk-12-2026-11-11-audition.html#what-is-audition-hearing-for",
+    "title": "Audition",
+    "section": "What is audition (hearing) for?",
+    "text": "What is audition (hearing) for?\n\n\n\nWhat is out there?\nWhere is it?\nWhere is it moving?\n\n\n\n\nOut of sight!\nIn the dark!",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#information-in-sound",
+    "href": "slides/wk-12-2026-11-11-audition.html#information-in-sound",
+    "title": "Audition",
+    "section": "Information in sound",
+    "text": "Information in sound\n\n\n\nSource: Mechanical vibrations in air or water",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#audition-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#audition-1",
+    "title": "Audition",
+    "section": "Audition",
+    "text": "Audition\n\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#audition-2",
+    "href": "slides/wk-12-2026-11-11-audition.html#audition-2",
+    "title": "Audition",
+    "section": "Audition",
+    "text": "Audition\n\n\n\nFrequencies in sound\n\n\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#anatomy-of-audition",
+    "href": "slides/wk-12-2026-11-11-audition.html#anatomy-of-audition",
+    "title": "Audition",
+    "section": "Anatomy of audition",
+    "text": "Anatomy of audition\n\n\n\nOuter ear, especially the pinna\nMiddle ear\n\nTypmpanic membrane\nOssicles",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#anatomy-of-audition-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#anatomy-of-audition-1",
+    "title": "Audition",
+    "section": "Anatomy of audition",
+    "text": "Anatomy of audition\n\n\n\nInner ear\n\nCochlea",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#specialized-neurons",
+    "href": "slides/wk-12-2026-11-11-audition.html#specialized-neurons",
+    "title": "Audition",
+    "section": "Specialized neurons",
+    "text": "Specialized neurons\n\n\n\nCochlear hair cells\nDifferent sound frequencies activate distinct regions of the cochlea",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#section",
+    "href": "slides/wk-12-2026-11-11-audition.html#section",
+    "title": "Audition",
+    "section": "",
+    "text": "Joris & Heijden (2019)1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#tonotopic-mapping",
+    "href": "slides/wk-12-2026-11-11-audition.html#tonotopic-mapping",
+    "title": "Audition",
+    "section": "Tonotopic mapping",
+    "text": "Tonotopic mapping\n\n\n\nTonotopic: map of tones/frequencies\n\n\n\n\n\nSaenz & Langers (2014)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#hearing-thresholds-non-uniform",
+    "href": "slides/wk-12-2026-11-11-audition.html#hearing-thresholds-non-uniform",
+    "title": "Audition",
+    "section": "Hearing thresholds non-uniform",
+    "text": "Hearing thresholds non-uniform\n\n\n\nhttp://auditoryneuroscience.com/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#localization",
+    "href": "slides/wk-12-2026-11-11-audition.html#localization",
+    "title": "Audition",
+    "section": "Localization",
+    "text": "Localization\n\n\n\nMoore & King (1999)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#localization-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#localization-1",
+    "title": "Audition",
+    "section": "Localization",
+    "text": "Localization\n\nBinaural\n\nInter-aural time (phase) differences\nInter-aural level differences\n\nMonaural\n\nSpectral cues (pinnae, head, etc.)\n\nHead movements"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#perceiving-what",
+    "href": "slides/wk-12-2026-11-11-audition.html#perceiving-what",
+    "title": "Audition",
+    "section": "Perceiving what",
+    "text": "Perceiving what\n\nFrequencies\nTemporal patterns\nPrior knowledge",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#demo",
+    "href": "slides/wk-12-2026-11-11-audition.html#demo",
+    "title": "Audition",
+    "section": "Demo",
+    "text": "Demo",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#main-points",
+    "href": "slides/wk-12-2026-11-11-audition.html#main-points",
+    "title": "Audition",
+    "section": "Main points",
+    "text": "Main points\n\nV1 has laminar, columnar structure\n\nLayers: Input vs. output\nColumns: eye\nOrientation, motion direction, color\n\nMost V1 cells do not have circular center-surround RFs\nRegions beyond V3 no longer retinotopic, have complex RFs",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#next-time",
+    "href": "slides/wk-12-2026-11-11-audition.html#next-time",
+    "title": "Audition",
+    "section": "Next time",
+    "text": "Next time\n\nSensory systems",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#about",
+    "href": "slides/wk-12-2026-11-11-audition.html#about",
+    "title": "Audition",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.10.0.233.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#references",
+    "href": "slides/wk-12-2026-11-11-audition.html#references",
+    "title": "Audition",
+    "section": "References",
+    "text": "References\n\n\n\n\nAcoustic representations of speech. (n.d.). Retrieved November 10, 2026, from https://www.mq.edu.au/faculty-of-medicine-health-and-human-sciences/departments-and-schools/department-of-linguistics/our-research/phonetics-and-phonology/speech/acoustics/speech-acoustics\n\n\nJoris, P. X., & Heijden, M. van der. (2019). Early binaural hearing: The comparison of temporal differences at the two ears. Annual Review of Neuroscience, 42, 433–457. https://doi.org/10.1146/annurev-neuro-080317-061925\n\n\nLester, P. (2009). Hubel and wiesel cat experiment. Youtube. Retrieved from https://www.youtube.com/watch?v=IOHayh06LJ4&source_ve_path=MTc4NDI0\n\n\nMoeeny, A. (2011). Hubel & wiesel - cortical neuron - V1. Youtube. Retrieved from https://www.youtube.com/watch?v=8VdFf3egwfg\n\n\nMoore, D. R., & King, A. J. (1999). Auditory perception: The near and far of sound localization. Current Biology, 9, R361–3. https://doi.org/10.1016/s0960-9822(99)80227-9\n\n\nPanichello, M. F., Cheung, O. S., & Bar, M. (2013). Predictive feedback and conscious visual experience. Perception Science, 3, 620. https://doi.org/10.3389/fpsyg.2012.00620\n\n\nPeterson, D. C., Reddy, V., Mayes, D. A., & Hamel, R. N. (2025). Auditory pathway. Retrieved from https://www.ncbi.nlm.nih.gov/books/NBK532311/\n\n\nSaenz, M., & Langers, D. R. M. (2014). Tonotopic mapping of human auditory cortex. Hearing Research, 307, 42–52. https://doi.org/10.1016/j.heares.2013.07.016\n\n\nStudents of PSY, & Olman, E. by D. (2022). Auditory pathways to the brain. In Introduction to sensation and perception. University of Minnesota Libraries Publishing. Retrieved from https://open.lib.umn.edu/sensationandperception/chapter/auditory-pathways-to-the-brain-draft/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#recording-from-v1",
+    "href": "slides/wk-12-2026-11-11-audition.html#recording-from-v1",
+    "title": "Audition",
+    "section": "Recording from V1",
+    "text": "Recording from V1\n\n\n\n\n\n\n\nFigure 1: Lester (2009)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#v1-has-laminar-columnar-organization",
+    "href": "slides/wk-12-2026-11-11-audition.html#v1-has-laminar-columnar-organization",
+    "title": "Audition",
+    "section": "V1 has laminar, columnar organization",
+    "text": "V1 has laminar, columnar organization",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#v1-has-laminar-columnar-organization-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#v1-has-laminar-columnar-organization-1",
+    "title": "Audition",
+    "section": "V1 has laminar, columnar organization",
+    "text": "V1 has laminar, columnar organization\n\n\n\n6 laminae (layers)\n\nInput: Layer 4\nOutput: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)\n\n\n\n\nColumns\n\nOrientation/angle\nSpatial frequency",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#orientationangle-tuning",
+    "href": "slides/wk-12-2026-11-11-audition.html#orientationangle-tuning",
+    "title": "Audition",
+    "section": "Orientation/angle tuning",
+    "text": "Orientation/angle tuning\n\n\n\nhttps://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#from-center-surround-receptive-fields-to-line-detection",
+    "href": "slides/wk-12-2026-11-11-audition.html#from-center-surround-receptive-fields-to-line-detection",
+    "title": "Audition",
+    "section": "From center-surround receptive fields to line detection",
+    "text": "From center-surround receptive fields to line detection\n\n\n\nScholarpedia",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#spatial-frequency-tuning",
+    "href": "slides/wk-12-2026-11-11-audition.html#spatial-frequency-tuning",
+    "title": "Audition",
+    "section": "Spatial frequency tuning",
+    "text": "Spatial frequency tuning\nLow == gist || high == details\n\n\n\nPanichello et al. (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#ocular-dominance-slabscolumns",
+    "href": "slides/wk-12-2026-11-11-audition.html#ocular-dominance-slabscolumns",
+    "title": "Audition",
+    "section": "Ocular dominance slabs/columns",
+    "text": "Ocular dominance slabs/columns\n\n\n\nInput from one eye “dominates” input from the other",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#ocular-dominance-signals-retinal-disparity",
+    "href": "slides/wk-12-2026-11-11-audition.html#ocular-dominance-signals-retinal-disparity",
+    "title": "Audition",
+    "section": "Ocular dominance signals retinal disparity",
+    "text": "Ocular dominance signals retinal disparity\n\n\nhttp://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#beyond-v1",
+    "href": "slides/wk-12-2026-11-11-audition.html#beyond-v1",
+    "title": "Audition",
+    "section": "Beyond V1",
+    "text": "Beyond V1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#beyond-v1-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#beyond-v1-1",
+    "title": "Audition",
+    "section": "Beyond V1",
+    "text": "Beyond V1\n\nLarger, more complex receptive fields\nDorsal stream (where/how)\n\nToward parietal lobe\n\nVentral stream (what)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#rich-perception-from-impoverished-info",
+    "href": "slides/wk-12-2026-11-11-audition.html#rich-perception-from-impoverished-info",
+    "title": "Audition",
+    "section": "“Rich” perception from “impoverished” info",
+    "text": "“Rich” perception from “impoverished” info\n\n\n\n\n\n\n\nhttps://www.biomotionlab.ca/html5-bml-walker/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#what-is-vision-for",
+    "href": "slides/wk-12-2026-11-11-audition.html#what-is-vision-for",
+    "title": "Audition",
+    "section": "What is vision for?",
+    "text": "What is vision for?\n\nWhat is it? (form perception)\nWhere is it? (space perception)\nHow do I get from here to there (action control)\nWhat time (or time of year) is it?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#computer-vision-inspired-by-biological-vision",
+    "href": "slides/wk-12-2026-11-11-audition.html#computer-vision-inspired-by-biological-vision",
+    "title": "Audition",
+    "section": "Computer vision inspired by biological vision",
+    "text": "Computer vision inspired by biological vision",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#main-points-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#main-points-1",
+    "title": "Audition",
+    "section": "Main points",
+    "text": "Main points",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#auditory-projection-pathway",
+    "href": "slides/wk-12-2026-11-11-audition.html#auditory-projection-pathway",
+    "title": "Audition",
+    "section": "Auditory projection pathway",
+    "text": "Auditory projection pathway\n\n\n\nCochlea\nVIII cranial (auditory) nerve\nSuperior Olivary Complex\n\n\n\n\n\nStudents of PSY & Olman (2022)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#hearing-where",
+    "href": "slides/wk-12-2026-11-11-audition.html#hearing-where",
+    "title": "Audition",
+    "section": "Hearing where",
+    "text": "Hearing where\n\n\n\nBinaural\n\nInter-aural time (phase) differences\nInter-aural level differences\n\n\n\n\n\n\nMoore & King (1999)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#hearing-where-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#hearing-where-1",
+    "title": "Audition",
+    "section": "Hearing where",
+    "text": "Hearing where\n\n\n\nMonaural\n\nSpectral cues (pinnae, head, etc.)\n\nHead movements\n\n\n\n\n\nMoore & King (1999)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#sound-perception-is-complex",
+    "href": "slides/wk-12-2026-11-11-audition.html#sound-perception-is-complex",
+    "title": "Audition",
+    "section": "Sound perception is complex",
+    "text": "Sound perception is complex\n\n\n\nSpectogram of the word “hide” from “Acoustic representations of speech” (n.d.)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#section-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#section-1",
+    "title": "Audition",
+    "section": "",
+    "text": "Figure 3: Peterson, Reddy, Mayes, & Hamel (2025)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#auditory-projection-pathway-1",
+    "href": "slides/wk-12-2026-11-11-audition.html#auditory-projection-pathway-1",
+    "title": "Audition",
+    "section": "Auditory projection pathway",
+    "text": "Auditory projection pathway\n\n\n\nInferior Colliculus\nMedial Geniculate Nucleus\nPrimary Auditory Cortex (A1)\n\n\n\n\n\nStudents of PSY & Olman (2022)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-11-audition.html#footnotes",
+    "href": "slides/wk-12-2026-11-11-audition.html#footnotes",
+    "title": "Audition",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n“Schematic illustration of the transformation from sound waveforms to neural excitation. (Top row) Sound waveforms of (a) a low-frequency tone, (b) a high-frequency tone, and (c) wideband noise. (Middle row) The corresponding waveforms filtered by the cochlea: (d,e) low- and high-frequency tones at their own characteristic cochlear place and (f,g) the same wideband noise at apical and basal cochlear positions, respectively. (Bottom row) The timing of action potentials in the auditory nerve (AN) shown in (top) peri-stimulus time histograms and (bottom) corresponding dot rasters. The dots represent the timing of action potentials evoked by repeated presentations of the stimuli in the panel above. Responses to low frequencies (h,j) show fine structure (i.e., phase locking), while the responses to high frequencies (i,k) only show envelope coding.”",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Wed Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#announcements",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#announcements",
+    "title": "Sensory Systems",
+    "section": "Announcements",
+    "text": "Announcements\n\nQuiz 4, next Friday, November 20, 2026\nExam 3, Wednesday, December 3, 2026"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#todays-topics",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#todays-topics",
+    "title": "Sensory Systems",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nSensory systems"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#minds-in-the-world",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#minds-in-the-world",
+    "title": "Sensory Systems",
+    "section": "Minds in the world",
+    "text": "Minds in the world"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems",
+    "title": "Sensory Systems",
+    "section": "Perception/action systems",
+    "text": "Perception/action systems\n\n\n\n\n\nGibson 1966"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems-1",
+    "title": "Sensory Systems",
+    "section": "Perception/action systems",
+    "text": "Perception/action systems\n\n\n\n\n\nFigure 10.2 from Swanson (2012)\n\n\n\n\n\n\nFigure 1 from Swanson (2005)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#my-smartphone-and-me",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#my-smartphone-and-me",
+    "title": "Sensory Systems",
+    "section": "My smartphone and me…",
+    "text": "My smartphone and me…"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-design-goals",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-design-goals",
+    "title": "Sensory Systems",
+    "section": "Smartphone design goals",
+    "text": "Smartphone design goals\n\nWhat information do your users need to acquire?\nWhy do they need to know it? In what context, for what purpose?\nWhat types of information does your device need to gather, through which channels?\n\n\n\n\n\n\n\n\nImportant\n\n\n\nAnimal sensory systems not designed per se\nEvolution via natural selection can look like design"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-sensors",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-sensors",
+    "title": "Sensory Systems",
+    "section": "Smartphone sensors",
+    "text": "Smartphone sensors\n\n\n\nAccelerometer\nGyroscope\nMagnetometer\nProximity sensor\nAmbient light sensor\n\n\n\nBarometer\nThermometer\nMic\nCamera\nRadios (Bluetooth, wifi, cellular, GPS)\n\n\n– Todorov (2014)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#my-turn",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#my-turn",
+    "title": "Sensory Systems",
+    "section": "My turn…",
+    "text": "My turn…\n\nWhat information do I need to acquire?\nWhy do I need to know it? In what context & for what purpose?\nWhat types of information do I need to gather, through which channels?"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#types-of-sensory-processing",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#types-of-sensory-processing",
+    "title": "Sensory Systems",
+    "section": "Types of sensory processing",
+    "text": "Types of sensory processing\n\nInteroceptive\n\nHow am I?\n\nExteroceptive\n\nWhat’s in the world, where is it?"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-interoception",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-interoception",
+    "title": "Sensory Systems",
+    "section": "Questions for interoception",
+    "text": "Questions for interoception\n\n\n\nTired or rested?\nWell or ill?\nHungry or thirsty or sated?\nStressed vs. coping?\nEmotional state?\nWhere am I?\n\n\n\n\n\nBarker et al. (2021)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-exteroception",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-exteroception",
+    "title": "Sensory Systems",
+    "section": "Questions for exteroception",
+    "text": "Questions for exteroception\n\nWho/What is out there?\nWhere is it?"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#mrs.-potraz-was-wrong",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#mrs.-potraz-was-wrong",
+    "title": "Sensory Systems",
+    "section": "Mrs. Potraz was wrong…",
+    "text": "Mrs. Potraz was wrong…\n\n\n\nMore than 5 senses!"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#from-physics-to-psychology",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#from-physics-to-psychology",
+    "title": "Sensory Systems",
+    "section": "From physics to psychology",
+    "text": "From physics to psychology\n\nWhat is the energy/chemical channel?\nChannels carry different types of information about\n\nWhat is out there?\nWhere is it located or moving?\n\nChannels convey information\n\nat different rates\nwith varied precision\n\nSimilar information often signaled by multiple sources"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#psychophysics",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#psychophysics",
+    "title": "Sensory Systems",
+    "section": "Psychophysics",
+    "text": "Psychophysics\n\n\n\nEarliest field of scientific psychology, origins in mid-1800s\nHow precisely do human observers detect physical properties?\nEmphasizes quantitative relationships, precise measurement\nMore: Wikipedia contributors (2025)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#case-studies-in-sensory-systems",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#case-studies-in-sensory-systems",
+    "title": "Sensory Systems",
+    "section": "Case studies in sensory systems",
+    "text": "Case studies in sensory systems\n\nVision\nAudition\nChemosensation\nSomatosensation"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#vision",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#vision",
+    "title": "Sensory Systems",
+    "section": "Vision",
+    "text": "Vision\n\n\n\nSource: Electromagnetic radiation\nReflected from surfaces\nEmitted by sources (e.g., sun, screens)\n\n\n\n\n\n\n\n\nFigure 1: EM spectrum from Wikipedia"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#vision-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#vision-1",
+    "title": "Sensory Systems",
+    "section": "Vision",
+    "text": "Vision\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#audition",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#audition",
+    "title": "Sensory Systems",
+    "section": "Audition",
+    "text": "Audition\n\n\n\nSource: Mechanical vibrations in air or water"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#audition-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#audition-1",
+    "title": "Sensory Systems",
+    "section": "Audition",
+    "text": "Audition\n\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation",
+    "title": "Sensory Systems",
+    "section": "Chemosensation",
+    "text": "Chemosensation\n\n\n\nSource: Chemicals in mouth, nasal cavity, elsewhere\n\n\n\n\n\nBargmann (2006)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation-1",
+    "title": "Sensory Systems",
+    "section": "Chemosensation",
+    "text": "Chemosensation\n\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients\nHead position that equalizes"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation",
+    "title": "Sensory Systems",
+    "section": "Somatosensation",
+    "text": "Somatosensation\n\n\n\nSource: Thermal or mechanical stimulation (vibration/pressure) of skin\n\n\n\n\n\nhttps://basicmedicalkey.com/the-somatosensory-system/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-1",
+    "title": "Sensory Systems",
+    "section": "Somatosensation",
+    "text": "Somatosensation\n\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#interoception",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#interoception",
+    "title": "Sensory Systems",
+    "section": "Interoception",
+    "text": "Interoception\n\n\n\nHunger/thirst\n\nReceptors for nutrient, fluid levels\n\nEnergy levels\n\nReceptors for hormones, NTs\nANS responses\n\n\n\n\n\n\nFigure 2 from Namkung et al. (2017)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#interoception-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#interoception-1",
+    "title": "Sensory Systems",
+    "section": "Interoception",
+    "text": "Interoception\n\n\n\nTemperature\n\nReceptors in skin, viscera\n\nBody position & movement (proprioception)\n\nReceptors in muscles, joints, skin\n\n\n\n\n\n\nFigure 2 from Namkung et al. (2017)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#common-features",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#common-features",
+    "title": "Sensory Systems",
+    "section": "Common features",
+    "text": "Common features\n\nSignals change across time and space\n\nRepeating patterns\n\nComparisons across multiple sensors\nSpecialized neurons\nReceptive fields\nBrain regions contain topographic maps\nSensitivity is non-uniform"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time",
+    "title": "Sensory Systems",
+    "section": "Change across time",
+    "text": "Change across time\n\n\n\nTonic (sustained) vs. phasic (transient) responses\n\n\n\n\n\nhttps://humanphysiology.academy/Neurosciences%202015/Chapter%202/P.2.1%20Afferents.html"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time-1",
+    "title": "Sensory Systems",
+    "section": "Change across time",
+    "text": "Change across time\n\n\n\nAdaptation\n\nDecline in sensitivity with sustained stimulation\nMost sensory systems attuned to change\n\n\n\n\n\n\nhttps://hoeftvision.weebly.com/adaptation.html"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#measuring-sensitivity-to-change",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#measuring-sensitivity-to-change",
+    "title": "Sensory Systems",
+    "section": "Measuring sensitivity to change",
+    "text": "Measuring sensitivity to change\n\n\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#information-propagates-in-cns-at-different-speeds",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#information-propagates-in-cns-at-different-speeds",
+    "title": "Sensory Systems",
+    "section": "Information propagates in CNS at different speeds",
+    "text": "Information propagates in CNS at different speeds\n\nBigger diameter: Faster\nDenser myelin: Faster"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#information-consists-of-repeating-signals",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#information-consists-of-repeating-signals",
+    "title": "Sensory Systems",
+    "section": "Information consists of repeating signals",
+    "text": "Information consists of repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#vision-2",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#vision-2",
+    "title": "Sensory Systems",
+    "section": "Vision",
+    "text": "Vision\n\n\n\nSpatial frequency/contrast sensitivity\n\n\n\n\n\nRoark & Stringham (2019) Figure 1"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#audition-2",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#audition-2",
+    "title": "Sensory Systems",
+    "section": "Audition",
+    "text": "Audition\n\n\n\nFrequencies in sound\n\n\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-2",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-2",
+    "title": "Sensory Systems",
+    "section": "Somatosensation:",
+    "text": "Somatosensation:\n\n\n\nTextures\n\n\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#compare-1-sensors-located-in-different-parts-of-the-body",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#compare-1-sensors-located-in-different-parts-of-the-body",
+    "title": "Sensory Systems",
+    "section": "Compare (>1) sensors located in different parts of the body",
+    "text": "Compare (&gt;1) sensors located in different parts of the body\n\n\n\nEyes\nEars\nSkin surface\nNostrils\nTongue"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons",
+    "title": "Sensory Systems",
+    "section": "Specialized neurons",
+    "text": "Specialized neurons\n\n\n\nPhotoreceptors\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-1",
+    "title": "Sensory Systems",
+    "section": "Specialized neurons",
+    "text": "Specialized neurons\n\n\n\nCochlear hair cells"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-2",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-2",
+    "title": "Sensory Systems",
+    "section": "Specialized neurons",
+    "text": "Specialized neurons\n\n\n\ntaste receptor cells\n\n\n\n\n\nChandrashekar et al. (2006)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#receptive-fields",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#receptive-fields",
+    "title": "Sensory Systems",
+    "section": "“Receptive fields”",
+    "text": "“Receptive fields”\n\nArea on sensory surface (e.g., retina, skin) that when stimulated changes neuron’s firing"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#tactile",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#tactile",
+    "title": "Sensory Systems",
+    "section": "Tactile",
+    "text": "Tactile\n\n\n\nhttps://www.nursinghero.com/study-guides/austincc-ap1/pain"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual",
+    "title": "Sensory Systems",
+    "section": "Visual",
+    "text": "Visual\n\n\n\n\n\nhttps://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/\n\n\n\n\n\n\nhttps://wandell.github.io/FOV-1995/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#topographic-maps",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#topographic-maps",
+    "title": "Sensory Systems",
+    "section": "Topographic maps",
+    "text": "Topographic maps"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#auditory-tonotopic-maps",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#auditory-tonotopic-maps",
+    "title": "Sensory Systems",
+    "section": "Auditory: Tonotopic maps",
+    "text": "Auditory: Tonotopic maps\n\n\n\nHumphries et al. (2010) Figure 3"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps",
+    "title": "Sensory Systems",
+    "section": "Visual: Retinotopic maps",
+    "text": "Visual: Retinotopic maps"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps-1",
+    "title": "Sensory Systems",
+    "section": "Visual: Retinotopic maps",
+    "text": "Visual: Retinotopic maps\n\n\n\n\n\n\nFigure 2: Dougherty et al. (2003)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatotopic-maps",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatotopic-maps",
+    "title": "Sensory Systems",
+    "section": "Somatotopic maps",
+    "text": "Somatotopic maps\n\n\n\n\n\n\n\nhttp://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#sensivity-non-uniform",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#sensivity-non-uniform",
+    "title": "Sensory Systems",
+    "section": "Sensivity non-uniform",
+    "text": "Sensivity non-uniform"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual-acuity-non-uniform",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-acuity-non-uniform",
+    "title": "Sensory Systems",
+    "section": "Visual acuity non-uniform",
+    "text": "Visual acuity non-uniform\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#hearing-thresholds-non-uniform",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#hearing-thresholds-non-uniform",
+    "title": "Sensory Systems",
+    "section": "Hearing thresholds non-uniform",
+    "text": "Hearing thresholds non-uniform\n\n\n\nhttp://auditoryneuroscience.com/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#two-point-touch-thresholds",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#two-point-touch-thresholds",
+    "title": "Sensory Systems",
+    "section": "Two-point touch thresholds",
+    "text": "Two-point touch thresholds\n\n\n\n\n\n– OTGeddie (2017)"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensory-homunculus",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensory-homunculus",
+    "title": "Sensory Systems",
+    "section": "Somatosensory homunculus",
+    "text": "Somatosensory homunculus"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#sequential-parallel-processing",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#sequential-parallel-processing",
+    "title": "Sensory Systems",
+    "section": "Sequential & parallel processing",
+    "text": "Sequential & parallel processing"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#main-points",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points",
+    "title": "Sensory Systems",
+    "section": "Main points",
+    "text": "Main points\n\n\n\nPsychology originated with the study of perception\nClosing the behavioral loop\n\nfrom sensation to action\nimportant scientific goal"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-1",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-1",
+    "title": "Sensory Systems",
+    "section": "Main points",
+    "text": "Main points\n\nInteroception vs. exteroception\nKey questions for exteroception\n\nWhat’s out there (or who)?\nWhere is it?"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-2",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-2",
+    "title": "Sensory Systems",
+    "section": "Main points",
+    "text": "Main points\n\nSensory systems specialized (e.g., detect light, sound, chemicals)\nBut have similarities\nKnow more about (except interoception)\n\nEasier to measure\nEasier to access"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#next-time",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#next-time",
+    "title": "Sensory Systems",
+    "section": "Next time",
+    "text": "Next time\n\nSomatosensation"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#about",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#about",
+    "title": "Sensory Systems",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.4.0.526.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#references",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#references",
+    "title": "Sensory Systems",
+    "section": "References",
+    "text": "References\n\n\n\n\nBargmann, C. I. (2006). Comparative chemosensation from receptors to ecology. Nature, 444, 295–301. https://doi.org/10.1038/nature05402\n\n\nBarker, M., Brewer, R., & Murphy, J. (2021). What is interoception and why is it important? Frontiers for Young Minds, 9. https://doi.org/10.3389/frym.2021.558246\n\n\nChandrashekar, J., Hoon, M. A., Ryba, N. J. P., & Zuker, C. S. (2006). The receptors and cells for mammalian taste. Nature, 444, 288–294. https://doi.org/10.1038/nature05401\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nHumphries, C., Liebenthal, E., & Binder, J. R. (2010). Tonotopic organization of human auditory cortex. NeuroImage, 50, 1202–1211. https://doi.org/10.1016/j.neuroimage.2010.01.046\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. Trends in Neurosciences, 40(4), 200–207. https://doi.org/10.1016/j.tins.2017.02.002\n\n\nOTGeddie. (2017). Tactile localization. YouTube. Retrieved from https://www.youtube.com/watch?v=t97QiEiKjD8\n\n\nRoark, M. W., & Stringham, J. M. (2019). Visual performance in the “real world”: Contrast sensitivity, visual acuity, and effects of macular carotenoids. Molecular Nutrition & Food Research, 63(15), e1801053. https://doi.org/10.1002/mnfr.201801053\n\n\nScripps research-led team receives $14.2M NIH award to map the body’s “hidden sixth sense.” (2025, October 8). Retrieved November 13, 2025, from https://www.scripps.edu/news-and-events/press-room/2025/20251008-nih-award.html\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733\n\n\nSwanson, L. W. (2012). Brain architecture: Understanding the basic plan. Oxford University Press.\n\n\nTheWhoVEVO. (2016). The who - pinball wizard (live at the isle of wight, 1970). YouTube. Retrieved from https://www.youtube.com/watch?v=-J03yCE15rg&list=RD-J03yCE15rg&start_radio=1\n\n\nTodorov, N. (2014, July 6). Did you know how many different kinds of sensors go inside a smartphone? Retrieved March 27, 2023, from https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone_id57885\n\n\nWikipedia contributors. (2025, August 17). Psychophysics. Retrieved from https://en.wikipedia.org/wiki/Psychophysics"
+  },
+  {
+    "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#repeating-signals",
+    "href": "slides/wk-12-2026-11-13-sensory-systems.html#repeating-signals",
+    "title": "Sensory Systems",
+    "section": "Repeating signals",
+    "text": "Repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time"
   }
 ]
