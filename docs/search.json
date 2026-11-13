@@ -1562,7 +1562,7 @@
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-acuity-non-uniform",
     "title": "Sensory Systems",
     "section": "Visual acuity non-uniform",
-    "text": "Visual acuity non-uniform\n\n\n\nWikipedia"
+    "text": "Visual acuity non-uniform"
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#hearing-thresholds-non-uniform",
@@ -1625,7 +1625,7 @@
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#about",
     "title": "Sensory Systems",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.4.0.526.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.11.0.203.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/"
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#references",

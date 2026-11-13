@@ -54,9 +54,9 @@ plot(g, vertex.size=50, vertex.color="gray")
 :::
 ::::
 
-## My smartphone and me...
+## My smartphone and me... {.scrollable}
 
-![](https://m.media-amazon.com/images/I/61qvRagAn9L._AC_SX679_.jpg){fig-align="center" width="65%"}
+![](https://m.media-amazon.com/images/I/61qvRagAn9L._AC_SX679_.jpg){fig-align="center" width="45%"}
 
 ## Smartphone design goals
 
@@ -459,7 +459,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Auditory: Tonotopic maps
 
-![@Humphries2010-hi Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/77e5/2830355/d2c2a836b94d/nihms172043f3.jpg){width="65%"}
+![@Humphries2010-hi Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/77e5/2830355/d2c2a836b94d/nihms172043f3.jpg){width="45%"}
 
 ## Visual: Retinotopic maps
 
@@ -484,7 +484,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Visual acuity non-uniform
 
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AcuityHumanEye.svg/270px-AcuityHumanEye.svg.png)
+![](../include/img/visual-acuity-as-a-function-of-position-on-the-retina-The-blind-spot-is-where-the-optic.ppm.png){width="65%" fig-align="center"}
 
 ## Hearing thresholds non-uniform
 
@@ -505,7 +505,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Somatosensory homunculus
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif){fig-align="center"}
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif){fig-align="center" width="65%"}
 
 ## Sequential & parallel processing
 
@@ -555,14 +555,6 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 # Resources
 
-## About
+# Resources
 
-This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
-
-The source files are in R and R Markdown, then rendered to HTML using the
-[revealJS](https://revealjs.com) framework. 
-The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
-<https://psu-psychology.github.io/psych-260-2025-fall/>
-
-## References
+{{< include _about-refs.qmd >}}
