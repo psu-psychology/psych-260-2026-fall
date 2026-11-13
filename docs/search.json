@@ -124,7 +124,7 @@
     "href": "schedule.html#week-12",
     "title": "Schedule",
     "section": "Week 12",
-    "text": "Week 12\n\nMon, Nov 09\nVision III\n\nSlides: | html |\n\n\n\nWed, Nov 11\nAudition\n\nSlides: | html |\n\n\n\nFri, Nov 13\nSensory Systems\n\nSlides: | html |",
+    "text": "Week 12\n\nMon, Nov 09\nVision III\n\nSlides: | html |\n\n\n\nWed, Nov 11\nCLASS CANCELLED\nAudition\n\nSlides: | html |\n\n\n\nFri, Nov 13\nSensory Systems\n\nSlides: | html |",
     "crumbs": [
       "Schedule"
     ]
@@ -1226,217 +1226,341 @@
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#announcements",
     "title": "Sensory Systems",
     "section": "Announcements",
-    "text": "Announcements\n\nQuiz 4, next Friday, November 20, 2026\nExam 3, Wednesday, December 3, 2026"
+    "text": "Announcements\n\nQuiz 4, next Friday, November 20, 2026\nExam 3, Wednesday, December 3, 2026",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#todays-topics",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#todays-topics",
     "title": "Sensory Systems",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nSensory systems"
+    "text": "Today’s topics\n\nWrap-up on vision\nSensory systems",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#minds-in-the-world",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#minds-in-the-world",
     "title": "Sensory Systems",
     "section": "Minds in the world",
-    "text": "Minds in the world"
+    "text": "Minds in the world",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems",
     "title": "Sensory Systems",
     "section": "Perception/action systems",
-    "text": "Perception/action systems\n\n\n\n\n\nGibson 1966"
+    "text": "Perception/action systems\n\n\n\n\n\nGibson 1966",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#perceptionaction-systems-1",
     "title": "Sensory Systems",
     "section": "Perception/action systems",
-    "text": "Perception/action systems\n\n\n\n\n\nFigure 10.2 from Swanson (2012)\n\n\n\n\n\n\nFigure 1 from Swanson (2005)"
+    "text": "Perception/action systems\n\n\n\n\n\nFigure 10.2 from Swanson (2012)\n\n\n\n\n\n\nFigure 1 from Swanson (2005)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#my-smartphone-and-me",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#my-smartphone-and-me",
     "title": "Sensory Systems",
     "section": "My smartphone and me…",
-    "text": "My smartphone and me…"
+    "text": "My smartphone and me…",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-design-goals",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-design-goals",
     "title": "Sensory Systems",
     "section": "Smartphone design goals",
-    "text": "Smartphone design goals\n\nWhat information do your users need to acquire?\nWhy do they need to know it? In what context, for what purpose?\nWhat types of information does your device need to gather, through which channels?\n\n\n\n\n\n\n\n\nImportant\n\n\n\nAnimal sensory systems not designed per se\nEvolution via natural selection can look like design"
+    "text": "Smartphone design goals\n\nWhat information do your users need to acquire?\nWhy do they need to know it? In what context, for what purpose?\nWhat types of information does your device need to gather, through which channels?\n\n\n\n\n\n\n\n\nImportant\n\n\n\nAnimal sensory systems not designed per se\nEvolution via natural selection can look like design",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-sensors",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#smartphone-sensors",
     "title": "Sensory Systems",
     "section": "Smartphone sensors",
-    "text": "Smartphone sensors\n\n\n\nAccelerometer\nGyroscope\nMagnetometer\nProximity sensor\nAmbient light sensor\n\n\n\nBarometer\nThermometer\nMic\nCamera\nRadios (Bluetooth, wifi, cellular, GPS)\n\n\n– Todorov (2014)"
+    "text": "Smartphone sensors\n\n\n\nAccelerometer\nGyroscope\nMagnetometer\nProximity sensor\nAmbient light sensor\n\n\n\nBarometer\nThermometer\nMic\nCamera\nRadios (Bluetooth, wifi, cellular, GPS)\n\n\n– Todorov (2014)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#my-turn",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#my-turn",
     "title": "Sensory Systems",
     "section": "My turn…",
-    "text": "My turn…\n\nWhat information do I need to acquire?\nWhy do I need to know it? In what context & for what purpose?\nWhat types of information do I need to gather, through which channels?"
+    "text": "My turn…\n\nWhat information do I need to acquire?\nWhy do I need to know it? In what context & for what purpose?\nWhat types of information do I need to gather, through which channels?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#types-of-sensory-processing",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#types-of-sensory-processing",
     "title": "Sensory Systems",
     "section": "Types of sensory processing",
-    "text": "Types of sensory processing\n\nInteroceptive\n\nHow am I?\n\nExteroceptive\n\nWhat’s in the world, where is it?"
+    "text": "Types of sensory processing\n\nInteroceptive\n\nHow am I?\n\nExteroceptive\n\nWhat’s in the world, where is it?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-interoception",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-interoception",
     "title": "Sensory Systems",
     "section": "Questions for interoception",
-    "text": "Questions for interoception\n\n\n\nTired or rested?\nWell or ill?\nHungry or thirsty or sated?\nStressed vs. coping?\nEmotional state?\nWhere am I?\n\n\n\n\n\nBarker et al. (2021)"
+    "text": "Questions for interoception\n\n\n\nTired or rested?\nWell or ill?\nHungry or thirsty or sated?\nStressed vs. coping?\nEmotional state?\nWhere am I?\n\n\n\n\n\nBarker et al. (2021)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-exteroception",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#questions-for-exteroception",
     "title": "Sensory Systems",
     "section": "Questions for exteroception",
-    "text": "Questions for exteroception\n\nWho/What is out there?\nWhere is it?"
+    "text": "Questions for exteroception\n\nWho/What is out there?\nWhere is it?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#mrs.-potraz-was-wrong",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#mrs.-potraz-was-wrong",
     "title": "Sensory Systems",
     "section": "Mrs. Potraz was wrong…",
-    "text": "Mrs. Potraz was wrong…\n\n\n\nMore than 5 senses!"
+    "text": "Mrs. Potraz was wrong…\n\n\n\nMore than 5 senses!",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#from-physics-to-psychology",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#from-physics-to-psychology",
     "title": "Sensory Systems",
     "section": "From physics to psychology",
-    "text": "From physics to psychology\n\nWhat is the energy/chemical channel?\nChannels carry different types of information about\n\nWhat is out there?\nWhere is it located or moving?\n\nChannels convey information\n\nat different rates\nwith varied precision\n\nSimilar information often signaled by multiple sources"
+    "text": "From physics to psychology\n\nWhat is the energy/chemical channel?\nChannels carry different types of information about\n\nWhat is out there?\nWhere is it located or moving?\n\nChannels convey information\n\nat different rates\nwith varied precision\n\nSimilar information often signaled by multiple sources",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#psychophysics",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#psychophysics",
     "title": "Sensory Systems",
     "section": "Psychophysics",
-    "text": "Psychophysics\n\n\n\nEarliest field of scientific psychology, origins in mid-1800s\nHow precisely do human observers detect physical properties?\nEmphasizes quantitative relationships, precise measurement\nMore: Wikipedia contributors (2025)"
+    "text": "Psychophysics\n\n\n\nEarliest field of scientific psychology, origins in mid-1800s\nHow precisely do human observers detect physical properties?\nEmphasizes quantitative relationships, precise measurement\nMore: Wikipedia contributors (2025)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#case-studies-in-sensory-systems",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#case-studies-in-sensory-systems",
     "title": "Sensory Systems",
     "section": "Case studies in sensory systems",
-    "text": "Case studies in sensory systems\n\nVision\nAudition\nChemosensation\nSomatosensation"
+    "text": "Case studies in sensory systems\n\nVision\nAudition\nChemosensation\nSomatosensation",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#vision",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#vision",
     "title": "Sensory Systems",
     "section": "Vision",
-    "text": "Vision\n\n\n\nSource: Electromagnetic radiation\nReflected from surfaces\nEmitted by sources (e.g., sun, screens)\n\n\n\n\n\n\n\n\nFigure 1: EM spectrum from Wikipedia"
+    "text": "Vision\n\n\n\nSource: Electromagnetic radiation\nReflected from surfaces\nEmitted by sources (e.g., sun, screens)\n\n\n\n\n\n\n\n\nFigure 1: EM spectrum from Wikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#vision-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#vision-1",
     "title": "Sensory Systems",
     "section": "Vision",
-    "text": "Vision\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion"
+    "text": "Vision\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#audition",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#audition",
     "title": "Sensory Systems",
     "section": "Audition",
-    "text": "Audition\n\n\n\nSource: Mechanical vibrations in air or water"
+    "text": "Audition\n\n\n\nSource: Mechanical vibrations in air or water",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#audition-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#audition-1",
     "title": "Sensory Systems",
     "section": "Audition",
-    "text": "Audition\n\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect"
+    "text": "Audition\n\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation",
     "title": "Sensory Systems",
     "section": "Chemosensation",
-    "text": "Chemosensation\n\n\n\nSource: Chemicals in mouth, nasal cavity, elsewhere\n\n\n\n\n\nBargmann (2006)"
+    "text": "Chemosensation\n\n\n\nSource: Chemicals in mouth, nasal cavity, elsewhere\n\n\n\n\n\nBargmann (2006)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#chemosensation-1",
     "title": "Sensory Systems",
     "section": "Chemosensation",
-    "text": "Chemosensation\n\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients\nHead position that equalizes"
+    "text": "Chemosensation\n\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients\nHead position that equalizes",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation",
     "title": "Sensory Systems",
     "section": "Somatosensation",
-    "text": "Somatosensation\n\n\n\nSource: Thermal or mechanical stimulation (vibration/pressure) of skin\n\n\n\n\n\nhttps://basicmedicalkey.com/the-somatosensory-system/"
+    "text": "Somatosensation\n\n\n\nSource: Thermal or mechanical stimulation (vibration/pressure) of skin\n\n\n\n\n\nhttps://basicmedicalkey.com/the-somatosensory-system/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-1",
     "title": "Sensory Systems",
     "section": "Somatosensation",
-    "text": "Somatosensation\n\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin"
+    "text": "Somatosensation\n\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#interoception",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#interoception",
     "title": "Sensory Systems",
     "section": "Interoception",
-    "text": "Interoception\n\n\n\nHunger/thirst\n\nReceptors for nutrient, fluid levels\n\nEnergy levels\n\nReceptors for hormones, NTs\nANS responses\n\n\n\n\n\n\nFigure 2 from Namkung et al. (2017)"
+    "text": "Interoception\n\n\n\nHunger/thirst\n\nReceptors for nutrient, fluid levels\n\nEnergy levels\n\nReceptors for hormones, NTs\nANS responses\n\n\n\n\n\n\nFigure 2 from Namkung et al. (2017)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#interoception-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#interoception-1",
     "title": "Sensory Systems",
     "section": "Interoception",
-    "text": "Interoception\n\n\n\nTemperature\n\nReceptors in skin, viscera\n\nBody position & movement (proprioception)\n\nReceptors in muscles, joints, skin\n\n\n\n\n\n\nFigure 2 from Namkung et al. (2017)"
+    "text": "Interoception\n\n\n\nTemperature\n\nReceptors in skin, viscera\n\nBody position & movement (proprioception)\n\nReceptors in muscles, joints, skin\n\n\n\n\n\n\nFigure 2 from Namkung et al. (2017)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#common-features",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#common-features",
     "title": "Sensory Systems",
     "section": "Common features",
-    "text": "Common features\n\nSignals change across time and space\n\nRepeating patterns\n\nComparisons across multiple sensors\nSpecialized neurons\nReceptive fields\nBrain regions contain topographic maps\nSensitivity is non-uniform"
+    "text": "Common features\n\nSignals change across time and space\n\nRepeating patterns\n\nComparisons across multiple sensors\nSpecialized neurons\nReceptive fields\nBrain regions contain topographic maps\nSensitivity is non-uniform",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time",
     "title": "Sensory Systems",
     "section": "Change across time",
-    "text": "Change across time\n\n\n\nTonic (sustained) vs. phasic (transient) responses\n\n\n\n\n\nhttps://humanphysiology.academy/Neurosciences%202015/Chapter%202/P.2.1%20Afferents.html"
+    "text": "Change across time\n\n\n\nTonic (sustained) vs. phasic (transient) responses\n\n\n\n\n\nhttps://humanphysiology.academy/Neurosciences%202015/Chapter%202/P.2.1%20Afferents.html",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#change-across-time-1",
     "title": "Sensory Systems",
     "section": "Change across time",
-    "text": "Change across time\n\n\n\nAdaptation\n\nDecline in sensitivity with sustained stimulation\nMost sensory systems attuned to change\n\n\n\n\n\n\nhttps://hoeftvision.weebly.com/adaptation.html"
+    "text": "Change across time\n\n\n\nAdaptation\n\nDecline in sensitivity with sustained stimulation\nMost sensory systems attuned to change\n\n\n\n\n\n\nhttps://hoeftvision.weebly.com/adaptation.html",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#measuring-sensitivity-to-change",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#measuring-sensitivity-to-change",
     "title": "Sensory Systems",
     "section": "Measuring sensitivity to change",
-    "text": "Measuring sensitivity to change\n\n\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions"
+    "text": "Measuring sensitivity to change\n\n\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#information-propagates-in-cns-at-different-speeds",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#information-propagates-in-cns-at-different-speeds",
     "title": "Sensory Systems",
     "section": "Information propagates in CNS at different speeds",
-    "text": "Information propagates in CNS at different speeds\n\nBigger diameter: Faster\nDenser myelin: Faster"
+    "text": "Information propagates in CNS at different speeds\n\nBigger diameter: Faster\nDenser myelin: Faster",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#information-consists-of-repeating-signals",
@@ -1450,195 +1574,307 @@
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#vision-2",
     "title": "Sensory Systems",
     "section": "Vision",
-    "text": "Vision\n\n\n\nSpatial frequency/contrast sensitivity\n\n\n\n\n\nRoark & Stringham (2019) Figure 1"
+    "text": "Vision\n\n\n\nSpatial frequency/contrast sensitivity\n\n\n\n\n\nRoark & Stringham (2019) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#audition-2",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#audition-2",
     "title": "Sensory Systems",
     "section": "Audition",
-    "text": "Audition\n\n\n\nFrequencies in sound\n\n\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing"
+    "text": "Audition\n\n\n\nFrequencies in sound\n\n\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-2",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensation-2",
     "title": "Sensory Systems",
     "section": "Somatosensation:",
-    "text": "Somatosensation:\n\n\n\nTextures\n\n\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full"
+    "text": "Somatosensation:\n\n\n\nTextures\n\n\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#compare-1-sensors-located-in-different-parts-of-the-body",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#compare-1-sensors-located-in-different-parts-of-the-body",
     "title": "Sensory Systems",
     "section": "Compare (>1) sensors located in different parts of the body",
-    "text": "Compare (&gt;1) sensors located in different parts of the body\n\n\n\nEyes\nEars\nSkin surface\nNostrils\nTongue"
+    "text": "Compare (&gt;1) sensors located in different parts of the body\n\n\n\nEyes\nEars\nSkin surface\nNostrils\nTongue",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons",
     "title": "Sensory Systems",
     "section": "Specialized neurons",
-    "text": "Specialized neurons\n\n\n\nPhotoreceptors\n\n\n\n\n\nWikipedia"
+    "text": "Specialized neurons\n\n\n\nPhotoreceptors\n\n\n\n\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-1",
     "title": "Sensory Systems",
     "section": "Specialized neurons",
-    "text": "Specialized neurons\n\n\n\nCochlear hair cells"
+    "text": "Specialized neurons\n\n\n\nCochlear hair cells",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-2",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#specialized-neurons-2",
     "title": "Sensory Systems",
     "section": "Specialized neurons",
-    "text": "Specialized neurons\n\n\n\ntaste receptor cells\n\n\n\n\n\nChandrashekar et al. (2006)"
+    "text": "Specialized neurons\n\n\n\ntaste receptor cells\n\n\n\n\n\nChandrashekar et al. (2006)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#receptive-fields",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#receptive-fields",
     "title": "Sensory Systems",
     "section": "“Receptive fields”",
-    "text": "“Receptive fields”\n\nArea on sensory surface (e.g., retina, skin) that when stimulated changes neuron’s firing"
+    "text": "“Receptive fields”\n\nArea on sensory surface (e.g., retina, skin) that when stimulated changes neuron’s firing",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#tactile",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#tactile",
     "title": "Sensory Systems",
     "section": "Tactile",
-    "text": "Tactile\n\n\n\nhttps://www.nursinghero.com/study-guides/austincc-ap1/pain"
+    "text": "Tactile\n\n\n\nhttps://www.nursinghero.com/study-guides/austincc-ap1/pain",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual",
     "title": "Sensory Systems",
     "section": "Visual",
-    "text": "Visual\n\n\n\n\n\nhttps://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/\n\n\n\n\n\n\nhttps://wandell.github.io/FOV-1995/"
+    "text": "Visual\n\n\n\n\n\nhttps://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/\n\n\n\n\n\n\nhttps://wandell.github.io/FOV-1995/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#topographic-maps",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#topographic-maps",
     "title": "Sensory Systems",
     "section": "Topographic maps",
-    "text": "Topographic maps"
+    "text": "Topographic maps",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#auditory-tonotopic-maps",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#auditory-tonotopic-maps",
     "title": "Sensory Systems",
     "section": "Auditory: Tonotopic maps",
-    "text": "Auditory: Tonotopic maps\n\n\n\nHumphries et al. (2010) Figure 3"
+    "text": "Auditory: Tonotopic maps\n\n\n\nHumphries et al. (2010) Figure 3",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps",
     "title": "Sensory Systems",
     "section": "Visual: Retinotopic maps",
-    "text": "Visual: Retinotopic maps"
+    "text": "Visual: Retinotopic maps",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-retinotopic-maps-1",
     "title": "Sensory Systems",
     "section": "Visual: Retinotopic maps",
-    "text": "Visual: Retinotopic maps\n\n\n\n\n\n\nFigure 2: Dougherty et al. (2003)"
+    "text": "Visual: Retinotopic maps\n\n\n\n\n\n\nFigure 2: Dougherty et al. (2003)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatotopic-maps",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatotopic-maps",
     "title": "Sensory Systems",
     "section": "Somatotopic maps",
-    "text": "Somatotopic maps\n\n\n\n\n\n\n\nhttp://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg"
+    "text": "Somatotopic maps\n\n\n\n\n\n\n\nhttp://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#sensivity-non-uniform",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#sensivity-non-uniform",
     "title": "Sensory Systems",
     "section": "Sensivity non-uniform",
-    "text": "Sensivity non-uniform"
+    "text": "Sensivity non-uniform",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#visual-acuity-non-uniform",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#visual-acuity-non-uniform",
     "title": "Sensory Systems",
     "section": "Visual acuity non-uniform",
-    "text": "Visual acuity non-uniform"
+    "text": "Visual acuity non-uniform",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#hearing-thresholds-non-uniform",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#hearing-thresholds-non-uniform",
     "title": "Sensory Systems",
     "section": "Hearing thresholds non-uniform",
-    "text": "Hearing thresholds non-uniform\n\n\n\nhttp://auditoryneuroscience.com/"
+    "text": "Hearing thresholds non-uniform\n\n\n\nhttp://auditoryneuroscience.com/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#two-point-touch-thresholds",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#two-point-touch-thresholds",
     "title": "Sensory Systems",
     "section": "Two-point touch thresholds",
-    "text": "Two-point touch thresholds\n\n\n\n\n\n– OTGeddie (2017)"
+    "text": "Two-point touch thresholds\n\n\n\n\n\n– OTGeddie (2017)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensory-homunculus",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#somatosensory-homunculus",
     "title": "Sensory Systems",
     "section": "Somatosensory homunculus",
-    "text": "Somatosensory homunculus"
+    "text": "Somatosensory homunculus",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#sequential-parallel-processing",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#sequential-parallel-processing",
     "title": "Sensory Systems",
     "section": "Sequential & parallel processing",
-    "text": "Sequential & parallel processing"
+    "text": "Sequential & parallel processing",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#main-points",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points",
     "title": "Sensory Systems",
     "section": "Main points",
-    "text": "Main points\n\n\n\nPsychology originated with the study of perception\nClosing the behavioral loop\n\nfrom sensation to action\nimportant scientific goal"
+    "text": "Main points\n\n\n\nPsychology originated with the study of perception\nClosing the behavioral loop\n\nfrom sensation to action\nimportant scientific goal",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-1",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-1",
     "title": "Sensory Systems",
     "section": "Main points",
-    "text": "Main points\n\nInteroception vs. exteroception\nKey questions for exteroception\n\nWhat’s out there (or who)?\nWhere is it?"
+    "text": "Main points\n\nInteroception vs. exteroception\nKey questions for exteroception\n\nWhat’s out there (or who)?\nWhere is it?",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-2",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points-2",
     "title": "Sensory Systems",
     "section": "Main points",
-    "text": "Main points\n\nSensory systems specialized (e.g., detect light, sound, chemicals)\nBut have similarities\nKnow more about (except interoception)\n\nEasier to measure\nEasier to access"
+    "text": "Main points\n\nSensory systems specialized (e.g., detect light, sound, chemicals)\nBut have similarities\nKnow more about (except interoception)\n\nEasier to measure\nEasier to access",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#next-time",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#next-time",
     "title": "Sensory Systems",
     "section": "Next time",
-    "text": "Next time\n\nSomatosensation"
+    "text": "Next time\n\nSomatosensation",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#about",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#about",
     "title": "Sensory Systems",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.11.0.203.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/"
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2026.11.0.203.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2026-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#references",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#references",
     "title": "Sensory Systems",
     "section": "References",
-    "text": "References\n\n\n\n\nBargmann, C. I. (2006). Comparative chemosensation from receptors to ecology. Nature, 444, 295–301. https://doi.org/10.1038/nature05402\n\n\nBarker, M., Brewer, R., & Murphy, J. (2021). What is interoception and why is it important? Frontiers for Young Minds, 9. https://doi.org/10.3389/frym.2021.558246\n\n\nChandrashekar, J., Hoon, M. A., Ryba, N. J. P., & Zuker, C. S. (2006). The receptors and cells for mammalian taste. Nature, 444, 288–294. https://doi.org/10.1038/nature05401\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nHumphries, C., Liebenthal, E., & Binder, J. R. (2010). Tonotopic organization of human auditory cortex. NeuroImage, 50, 1202–1211. https://doi.org/10.1016/j.neuroimage.2010.01.046\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. Trends in Neurosciences, 40(4), 200–207. https://doi.org/10.1016/j.tins.2017.02.002\n\n\nOTGeddie. (2017). Tactile localization. YouTube. Retrieved from https://www.youtube.com/watch?v=t97QiEiKjD8\n\n\nRoark, M. W., & Stringham, J. M. (2019). Visual performance in the “real world”: Contrast sensitivity, visual acuity, and effects of macular carotenoids. Molecular Nutrition & Food Research, 63(15), e1801053. https://doi.org/10.1002/mnfr.201801053\n\n\nScripps research-led team receives $14.2M NIH award to map the body’s “hidden sixth sense.” (2025, October 8). Retrieved November 13, 2025, from https://www.scripps.edu/news-and-events/press-room/2025/20251008-nih-award.html\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733\n\n\nSwanson, L. W. (2012). Brain architecture: Understanding the basic plan. Oxford University Press.\n\n\nTheWhoVEVO. (2016). The who - pinball wizard (live at the isle of wight, 1970). YouTube. Retrieved from https://www.youtube.com/watch?v=-J03yCE15rg&list=RD-J03yCE15rg&start_radio=1\n\n\nTodorov, N. (2014, July 6). Did you know how many different kinds of sensors go inside a smartphone? Retrieved March 27, 2023, from https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone_id57885\n\n\nWikipedia contributors. (2025, August 17). Psychophysics. Retrieved from https://en.wikipedia.org/wiki/Psychophysics"
+    "text": "References\n\n\n\n\nBargmann, C. I. (2006). Comparative chemosensation from receptors to ecology. Nature, 444, 295–301. https://doi.org/10.1038/nature05402\n\n\nBarker, M., Brewer, R., & Murphy, J. (2021). What is interoception and why is it important? Frontiers for Young Minds, 9. https://doi.org/10.3389/frym.2021.558246\n\n\nChandrashekar, J., Hoon, M. A., Ryba, N. J. P., & Zuker, C. S. (2006). The receptors and cells for mammalian taste. Nature, 444, 288–294. https://doi.org/10.1038/nature05401\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nHumphries, C., Liebenthal, E., & Binder, J. R. (2010). Tonotopic organization of human auditory cortex. NeuroImage, 50, 1202–1211. https://doi.org/10.1016/j.neuroimage.2010.01.046\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. Trends in Neurosciences, 40(4), 200–207. https://doi.org/10.1016/j.tins.2017.02.002\n\n\nOTGeddie. (2017). Tactile localization. YouTube. Retrieved from https://www.youtube.com/watch?v=t97QiEiKjD8\n\n\nRoark, M. W., & Stringham, J. M. (2019). Visual performance in the “real world”: Contrast sensitivity, visual acuity, and effects of macular carotenoids. Molecular Nutrition & Food Research, 63(15), e1801053. https://doi.org/10.1002/mnfr.201801053\n\n\nScripps research-led team receives $14.2M NIH award to map the body’s “hidden sixth sense.” (2025, October 8). Retrieved November 13, 2025, from https://www.scripps.edu/news-and-events/press-room/2025/20251008-nih-award.html\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733\n\n\nSwanson, L. W. (2012). Brain architecture: Understanding the basic plan. Oxford University Press.\n\n\nTheWhoVEVO. (2016). The who - pinball wizard (live at the isle of wight, 1970). YouTube. Retrieved from https://www.youtube.com/watch?v=-J03yCE15rg&list=RD-J03yCE15rg&start_radio=1\n\n\nTodorov, N. (2014, July 6). Did you know how many different kinds of sensors go inside a smartphone? Retrieved March 27, 2023, from https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone_id57885\n\n\nWikipedia contributors. (2025, August 17). Psychophysics. Retrieved from https://en.wikipedia.org/wiki/Psychophysics",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   },
   {
     "objectID": "slides/wk-12-2026-11-13-sensory-systems.html#repeating-signals",
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#repeating-signals",
     "title": "Sensory Systems",
     "section": "Repeating signals",
-    "text": "Repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time"
+    "text": "Repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
   }
 ]

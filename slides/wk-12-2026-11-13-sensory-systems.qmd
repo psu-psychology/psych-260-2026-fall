@@ -18,6 +18,7 @@ format: revealjs
 
 ## Today's topics
 
+- Wrap-up on vision
 - Sensory systems
 
 # Sensory Systems
