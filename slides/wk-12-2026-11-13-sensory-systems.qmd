@@ -18,8 +18,28 @@ format: revealjs
 
 ## Today's topics
 
+- Quiz 3 results
 - Wrap-up on vision
 - Sensory systems
+
+# Quiz 3 results
+
+```{r}
+#| label: fig-quiz-03-histogram
+#| fig-cap: "Histogram of scores for Quiz 03. Passing scores are indicated in teal."
+
+library(ggplot2)
+library(dplyr)
+readr::read_csv("../private/quizzes/quiz-03/Reports/Canvas Report - Exam 23661 - Section 001.csv", show_col_types = FALSE) |>
+  select(FA26_QUIZ_3) |>
+  mutate(passing = FA26_QUIZ_3 >= .7*10) |>
+  ggplot() +
+  aes(x = FA26_QUIZ_3, fill = passing) +
+  geom_bar() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  xlab("")
+```
 
 # Sensory Systems
 
@@ -489,7 +509,8 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Hearing thresholds non-uniform
 
-![http://auditoryneuroscience.com/](http://auditoryneuroscience.com/sites/default/files/inline-images/HLdata_0.png)
+![@Jin2024-cq](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f6bc/10808389/35b59b2f7ae3/jao-2023-00626f1.jpg){#fig-jin-2024-auditory-thresholds}
+
 
 ## Two-point touch thresholds
 
@@ -553,8 +574,6 @@ plot(g, vertex.size=50, vertex.color="gray")
 ## Next time
 
 - Somatosensation
-
-# Resources
 
 # Resources
 

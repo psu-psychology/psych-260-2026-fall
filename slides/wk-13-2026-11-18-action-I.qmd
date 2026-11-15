@@ -1,0 +1,482 @@
+---
+title: "Action I"
+fig-align: "center"
+format: revealjs
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=hdcTmpvDO0I width="100%" height="70%" >}}
+
+-- @Reviews2012-fg
+
+## Announcements
+
+- Exam 3, Wednesday, December 3, 2026
+
+## In the news
+
+![@Fontanelli2025-yp](../include/img/fontanelli-2025-title.png)
+
+---
+
+>Significant disparities persist in race, ethnicity, and age representation in neuromuscular disease clinical research, highlighting the need for more inclusive study designs.
+
+-- @Fontanelli2025-yp
+
+---
+
+![@Fontanelli2025-yp Figure 2](../include/img/fontanelli-2025-fig-02.png)
+
+---
+
+![@Fontanelli2025-yp Figure 3](../include/img/fontanelli-2025-fig-03.png){#fig-fontanelli-2025-fig-3 width="65%"}
+
+## Why should you care?
+
+- How confident are you that research *your* physicians are relying upon reflects *your* ethnic background?
+
+## Today's topics
+
+- Warm up
+- Action
+- Exam 3 review
+
+# Warm up
+
+---
+
+### All of the statements about the science of perception are true, except:
+
+::: {.incremental}
+- A. Scientific psychology started by focusing on perception.
+- B. Psychophysics is the discipline most closely associated with it.
+- C. The relationship between physical properties (like brightness) and perceptual judgements (like magnitude) are often non-linear.
+- D. People can't report accurately or consistently about their perceptual experiences.
+:::
+
+---
+
+### All of the statements about the science of perception are true, except:
+
+- *A. Scientific psychology started by focusing on perception.*
+- *B. Psychophysics is the discipline most closely associated with the science of perception.*
+- *C. The relationship between physical properties (like brightness) and perceptual judgements (like magnitude) are often non-linear.*
+- **D. People can't report accurately or consistently about their perceptual experiences.**
+
+--- 
+
+### There are clearly defined maps on the surface of the cerebral cortex for many sensory channels with the exception of:
+
+::: {.incremental}
+- A. Vision
+- B. Olfaction/gustation (chemical senses)
+- C. Audition
+- D. Somatosensation
+:::
+
+--- 
+
+### There are clearly defined maps on the surface of the cerebral cortex for many sensory channels with the exception of:
+
+- ~~A. Vision~~
+- **B. Olfaction/gustation (chemical senses)**
+- ~~C. Audition~~
+- ~~D. Somatosensation~~
+
+---
+
+### "Minty"-tasting foods are also perceived as cool because:
+
+::: {.incremental}
+- A. The same receptor in the skin responds to menthol and cooler temperatures.
+- B. Separate receptors for menthol and cool temperatures activate the same regions of cortex.
+- C. Hot and cold receptors mix-up minty and spicy signals.
+- D. Most foods that use mint are served cold.
+:::
+
+---
+
+### "Minty"-tasting foods are also perceived as cool because:
+
+- A. **The same receptor in the skin responds to menthol and cooler temperatures.**
+- ~~B. Separate receptors for menthol and cool temperatures activate the same regions of cortex.~~
+- ~~C. Hot and cold receptors mix-up minty and spicy signals.~~
+- ~~D. Most foods that use mint are served cold.~~
+
+---
+
+### These areas of the skin have large numbers of cutaneous receptors:
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- A. Calf
+- B. Face
+- C. Fingertips
+- D. B and C.
+:::
+:::
+::: {.column width=50%}
+:::
+::::
+
+---
+
+### These areas of the skin have large numbers of cutaneous receptors:
+
+:::: {.columns}
+::: {.column width=50%}
+- ~~A. Calf~~
+- *B. Face*
+- *C. Fingertips*
+- **D. B and C.**
+:::
+::: {.column width=50%}
+![](../include/img/two-point-thresholds.jpg)
+:::
+::::
+
+# Action
+
+## Behavior as a system
+
+:::: {.columns}
+::: {.column width=50%}
+- Inputs (sensation/perception)
+- Processing (emotion/cognition)
+- Outputs
+:::
+::: {.column width=50%}
+```{mermaid}
+flowchart TD
+  I(input) --> P[processing]
+  P --> O(output)
+```
+:::
+::::
+
+## Multiple outputs
+
+:::: {.columns}
+::: {.column width=50%}
+- Autonomic
+- Endocrine
+- Secretions, excretions
+- Behavior
+  - Body movements
+  - Vocalization
+:::
+::: {.column width=50%}
+```{mermaid}
+flowchart TD
+  P(processing) --> A[ANS]
+  P --> H(endocrine)
+  P --> S(secretions, excretions)
+  P --> B(behavior/action)
+  B --> M(movements)
+  B --> V(vocalizations)
+```
+:::
+::::
+
+## Movement types 1
+
+::: {.incremental}
+- Locomotion
+- Reaching, grasping, manipulation
+- Facial expressions
+- Eye/head movements
+- Maintainance of posture, balance
+:::
+    
+## Movement types 2
+
+::: {.incremental}
+- Reflexes
+  + Simple, highly stereotyped, unlearned, rapid
+- vs. planned or voluntary actions
+  + Complex, flexible, acquired, slower
+  - Discrete (reaching) vs. rhythmic (walking)
+  - Ballistic (no feedback) vs. controlled (feedback)
+  - Sequential
+::: 
+    
+## Muscle types
+
+:::: {.columns}
+::: {.column width=50%}
+- Cardiac
+- Smooth
+    + Arteries, hair follicles, uterus, intestines
+    - Involuntary
+    + Regulated by ANS
+:::
+::: {.column width=50%}
+![](http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg)
+:::
+::::
+
+## Types
+
+:::: {.columns}
+::: {.column width=50%}
+- Striated (striped)
+    + Skeletal
+    + Voluntary control
+    - Mostly connected to tendons and bones
+    - Regulated by somatic part of PNS
+:::
+::: {.column width=50%}
+![](http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg)
+:::
+::::
+
+## Skeletal muscle groups
+
+- Axial
+    + Trunk, neck, hips
+- Proximal
+    + Shoulder/elbow, pelvis/knee
+- Distal
+    + Hands/fingers, feet/toes
+    
+## Skeletal muscles
+
+:::: {.columns}
+::: {.column width=40%}
+- 650+ muscles
+- 40% of total body mass
+- 50-75% of total body proteins
+- @Frontera2015-rt
+- millions of motor neurons
+:::
+::: {.column width=30%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c4/Anterior_View_of_Muscles.jpg)
+:::
+::: {.column width=30%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/6/69/Posterior_View_of_Muscles.jpg)
+:::
+::::
+
+## Muscle fiber types
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Fast twitch/fatiguing
+    + Type II (A & B)
+    + White meat
+- Slow twitch/fatiguing
+    + Type I
+    + Red/dark meat
+:::
+:::
+::: {.column width=50%}
+![](../include/img/turkey.jpg){fig-align="right"}
+:::
+::::
+
+---
+
+<!-- Orchestra -->
+![](https://www.mrqsmusic.com/uploads/1/8/1/9/18198925/1269360_2.jpg)
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- Motor neuron
+  - Cell body in ventral or lateral horn of spinal cord
+  - Axons exit spinal cord via ventral root
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- Synapse at neuromuscular junction
+    + Release acetylcholine (ACh) onto skeletal muscle fiber
+:::
+::: {.column width=50%}
+![](http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- Motor endplate on muscle fiber
+    + Contains nicotinic ACh receptors (nAChR)
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- nAChR receptor opens
+  - Na+ enters; K+ exits
+  - Combined effect excitatory
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
++ Generates excitatory endplate potential (EPP)
+    + Muscle fiber depolarizes
+    + Depolarization spreads along fiber
+    + Ca++ released from stores inside muscle
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Muscle fibers segmented into sarcomeres
+- Myofibrils (w/in sarcomere)
+    + Paired actin & mysosin proteins
+    + “Molecular gears”
+- Ca++ plus energy source (ATP)
+    - Bind, move, unbind (repeat)
+:::
+::: {.column width=50%}
+![](../include/img/muscle-fibers-biopsych.jpg){fig-align="right"}
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- No "reverse" gear
+  - Only contract
+  - Must be pulled to stretch/extend
+- Muscles often arranged in agonist/antagonist pairs
+:::
+::: {.column width=50%}
+![](http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg){fig-align="right"}
+:::
+::::
+
+## Marionette analogy
+
+![Giphy: Bob Baker Marionette Theater](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxMzAxMzI2MXB2NXpvdTduOXF0ZWIzOG5zejMycGtmbzlkaXN6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7b9mwnBioe3hcwvK/giphy.gif){fig-align="center"}
+
+## Muscles are sensory organs, too!
+
+## Muscle fiber types
+
+:::: {.columns}
+::: {.column width=50%}
+- **Intrafusal** fibers
+    + Sense length/tension
+    + Ennervated (contract) via gamma ($\gamma$) motor neuron activation
+    + Contain muscle spindles (sensory organs linked to Ia afferents)
+:::
+::: {.column width=50%}
+![](../include/img/muscle-fiber-types.jpg){fig-align="right"}
+:::
+::::
+
+## Muscle fiber types
+
+:::: {.columns}
+::: {.column width=50%}
+- **Extrafusal** fibers
+    + Generate force
+    + Ennervated (contract) via alpha ($\alpha$) motor neurons
+:::
+::: {.column width=50%}
+![](../include/img/muscle-fiber-types.jpg){fig-align="right"}
+:::
+::::
+
+## Monosynaptic stretch (myotatic) reflex
+
+:::: {.columns}
+::: {.column width=50%}
+- Muscle stretched (length increases)
+- Muscle spindle in intrafusal fiber activates
+- Ia afferent sends signal to spinal cord
+    + Activates alpha ($\alpha$) motor neuron
+:::
+::: {.column width=50%}
+![](../include/img/intrafusal-extrafusal-fibers.jpg){fig-align="right"}
+:::
+::::
+
+## Monosynaptic stretch (myotatic) reflex
+
+:::: {.columns}
+::: {.column width=50%}
+- Muscle contracts, shortens length
+- Gamma ($\gamma$) motor neuron fires to take up intrafusal fiber slack
+:::
+::: {.column width=50%}
+![](../include/img/intrafusal-extrafusal-fibers.jpg){fig-align="right"}
+:::
+::::
+
+## Avoiding tremor
+
+:::: {.columns}
+::: {.column width=50%}
+- Polysynaptic *inhibition* of antagonist muscle
+- Prevents/dampens tremor
+
+- Remember: Brain gets fast(est) sensory info from spindles
+:::
+::: {.column width=50%}
+![](../include/img/stretch-reflex.jpg){fig-align="right"}
+:::
+::::
+
+## Why this matters...
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjNXIxOGNzejhuaGNrcThxYzA1NGt5MG13YXY0eTJlNjM0NnlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeZvq8yltmsUfq2sgX/giphy.gif){fig-align="center"}
+
+# Wrap up
+
+## Main points
+
+- 650+ skeletal muscles control voluntary human movement, balance/posture control
+- Large diameter, thickly myelinated axons control skeletal muscles
+- Motor neurons release ACh onto nicotinic receptors (AChR) in motor endplate
+
+## Main points
+
+- Depolarization of muscle fiber causes Ca++ release
+  - Triggers actin & myosin proteins to cause muscle contraction 
+- Muscles are sensory organs AND force/movement producers
+- Monosynaptic stretch reflex
+
+## Next time
+
+- Quiz 3
+- Action II
+
+# Resources
+
+# Resources
+
+{{< include _about-refs.qmd >}}

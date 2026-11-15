@@ -285,7 +285,7 @@
 
 *Somatosensation*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-13-2026-11-16-somatosensation.qmd) |
 
 ### Wed, Nov 18 {-}
 
@@ -309,6 +309,8 @@
 ### Mon, Nov 30 {-}
 
 *Exam 3 review*
+
+<!-- Honors students presentation -->
 
 ### Wed, Dec 02 {-}
 
