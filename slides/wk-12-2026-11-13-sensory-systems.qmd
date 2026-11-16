@@ -313,7 +313,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 ## Common features
 
 - Signals change across time and space
-  - Repeating patterns
+  - Detect repeating patterns
 - Comparisons across multiple sensors
 - Specialized neurons
 - Receptive fields
@@ -549,7 +549,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 - Psychology originated with the study of perception
 - Closing the behavioral loop
   - from sensation to action
-  - important scientific goal
+  - and from action to perception
 :::
 ::: {.column width=40%}
 ![](../include/img/perception-action-cycle.jpg)

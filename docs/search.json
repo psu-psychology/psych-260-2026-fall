@@ -290,7 +290,7 @@
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#common-features",
     "title": "Sensory Systems",
     "section": "Common features",
-    "text": "Common features\n\nSignals change across time and space\n\nRepeating patterns\n\nComparisons across multiple sensors\nSpecialized neurons\nReceptive fields\nBrain regions contain topographic maps\nSensitivity is non-uniform",
+    "text": "Common features\n\nSignals change across time and space\n\nDetect repeating patterns\n\nComparisons across multiple sensors\nSpecialized neurons\nReceptive fields\nBrain regions contain topographic maps\nSensitivity is non-uniform",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -587,7 +587,7 @@
     "href": "slides/wk-12-2026-11-13-sensory-systems.html#main-points",
     "title": "Sensory Systems",
     "section": "Main points",
-    "text": "Main points\n\n\n\nPsychology originated with the study of perception\nClosing the behavioral loop\n\nfrom sensation to action\nimportant scientific goal",
+    "text": "Main points\n\n\n\nPsychology originated with the study of perception\nClosing the behavioral loop\n\nfrom sensation to action\nand from action to perception",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10250,7 +10250,7 @@
     "href": "slides/wk-13-2026-11-16-somatosensation.html#todays-topics",
     "title": "Somatosensation",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nSomatosensation"
+    "text": "Today’s topics\n\nWrap-up on sensory systems\n\nLink to 2026-11-13 slides\n\nSomatosensation (Part 1 of 2)"
   },
   {
     "objectID": "slides/wk-13-2026-11-16-somatosensation.html#what-is-it",
@@ -10292,7 +10292,7 @@
     "href": "slides/wk-13-2026-11-16-somatosensation.html#external-senses",
     "title": "Somatosensation",
     "section": "External senses",
-    "text": "External senses\n\nWhat’s out there and where is it located?\n\n\n\n\nCutaneous (receptors in the skin) senses\n\nHot, cold\nPressure\nVibration\n\nPlus kinesthesia (why?)"
+    "text": "External senses\n\n\n\nWhat’s out there and where is it located?\nCutaneous (receptors in the skin) senses\n\nHot, cold\nPressure\nVibration\n\nPlus kinesthesia (why?)"
   },
   {
     "objectID": "slides/wk-13-2026-11-16-somatosensation.html#cutaneous-receptors",
@@ -10404,7 +10404,7 @@
     "href": "slides/wk-13-2026-11-16-somatosensation.html#next-time",
     "title": "Somatosensation",
     "section": "Next time",
-    "text": "Next time\n\nAction I"
+    "text": "Next time\n\nSomatosensation II"
   },
   {
     "objectID": "slides/wk-13-2026-11-16-somatosensation.html#about",
@@ -10418,7 +10418,7 @@
     "href": "slides/wk-13-2026-11-16-somatosensation.html#references",
     "title": "Somatosensation",
     "section": "References",
-    "text": "References\n\n\n\n\nCastilla, V. (2007). Vestibulo-ocular reflex 13/25. YouTube. Retrieved from https://www.youtube.com/watch?v=j_R0LcPnZ_w\n\n\ncogmonaut. (2010). Phantom limb video. YouTube. Retrieved from https://www.youtube.com/watch?v=1mHIv5ToMTM\n\n\nRoss-Topic, D. (2018). Touch me in the morning. YouTube. Retrieved from https://www.youtube.com/watch?v=nvZfQzlS9t8\n\n\nThePoliceVEVO. (2010). The police - king of pain (official music video). YouTube. Retrieved from https://www.youtube.com/watch?v=yuOPRfq-q6U&list=RDyuOPRfq-q6U&start_radio=1"
+    "text": "References\n\n\n\n\nCastilla, V. (2007). Vestibulo-ocular reflex 13/25. YouTube. Retrieved from https://www.youtube.com/watch?v=j_R0LcPnZ_w\n\n\nRoss-Topic, D. (2018). Touch me in the morning. YouTube. Retrieved from https://www.youtube.com/watch?v=nvZfQzlS9t8"
   },
   {
     "objectID": "slides/wk-13-2026-11-16-somatosensation.html#footnotes",
@@ -10657,5 +10657,19 @@
     "title": "Action I",
     "section": "Why should you care?",
     "text": "Why should you care?\n\nHow confident are you that research your physicians are relying upon reflects your ethnic background?"
+  },
+  {
+    "objectID": "slides/wk-13-2026-11-16-somatosensation.html#main-points",
+    "href": "slides/wk-13-2026-11-16-somatosensation.html#main-points",
+    "title": "Somatosensation",
+    "section": "Main points",
+    "text": "Main points\n\nPerceiving Where\n\nSomatotopic maps – locations on skin\nKinesthesia – configuration of limbs"
+  },
+  {
+    "objectID": "slides/wk-13-2026-11-16-somatosensation.html#main-points-1",
+    "href": "slides/wk-13-2026-11-16-somatosensation.html#main-points-1",
+    "title": "Somatosensation",
+    "section": "Main points",
+    "text": "Main points\n\nPerceiving What\n\nPatterns of smoothness, roughness, shape, temperature\n\nFunctional segregation\n\nMultiple receptors, parallel axon pathways"
   }
 ]

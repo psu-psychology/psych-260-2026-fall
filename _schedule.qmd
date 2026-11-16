@@ -283,20 +283,20 @@
 
 ### Mon, Nov 16 {-}
 
-*Somatosensation*
+*Somatosensation I*
 
 - *Slides*:  | [html](slides/wk-13-2026-11-16-somatosensation.qmd) |
 
 ### Wed, Nov 18 {-}
 
-*Action I*
+*Somatosensation II*
 
 <!-- - *Read*: MM pp 148-157 -->
 - *Slides*:  | [html](slides/) |
 
 ### Fri, Nov 20
 
-*Quiz 4; Action II*
+*Quiz 4; Action I*
 
 - *Slides*:  | [html](slides/) |
 
