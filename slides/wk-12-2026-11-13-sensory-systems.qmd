@@ -527,7 +527,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Somatosensory homunculus
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif){fig-align="center" width="65%"}
+![](../include/img/homunculus.jpg){fig-align="center" width="65%"}
 
 ## Sequential & parallel processing
 

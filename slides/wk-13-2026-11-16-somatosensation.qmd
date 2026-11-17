@@ -215,45 +215,6 @@ format: revealjs
 :::
 ::::
 
-## Somatotopic maps
-
-:::: {.columns}
-::: {.column width=50%}
-- In thalamus & cerebral cortex
-:::
-::: {.column width=50%}
-![](../include/img/s1.jpg)
-:::
-::::
-
-## Maps non-uniform
-
-:::: {.columns}
-::: {.column width=50%}
-- Some areas of skin activate disproportionately sized areas of the cerebral cortex
-  - hands, face, lips & tongue
-- More sensors in skin...
-- More axons to brain...
-- Larger areas in brain
-:::
-::: {.column width=50%}
-![](../include/img/homunculus.jpg){fig-align="right" width="65%"}
-:::
-::::
-
----
-
-## Parallel pathways
-
-:::: {.columns}
-::: {.column width=50%}
-- S1 maintains functional segregation of input types
-:::
-::: {.column width=50%}
-![](../include/img/s1-columns.jpg)
-:::
-::::
-
 # Wrap up
 
 ## Main points

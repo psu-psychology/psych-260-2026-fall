@@ -289,14 +289,14 @@
 
 ### Wed, Nov 18 {-}
 
-*Somatosensation II*
+*From somatosensation to action*
 
 <!-- - *Read*: MM pp 148-157 -->
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-13-2026-11-18-action-I.qmd) |
 
 ### Fri, Nov 20
 
-*Quiz 4; Action I*
+*Quiz 4; Action II*
 
 - *Slides*:  | [html](slides/) |
 

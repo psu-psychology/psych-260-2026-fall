@@ -1,5 +1,5 @@
 ---
-title: "Action I"
+title: "From somatosensation to action"
 fig-align: "center"
 format: revealjs
 ---
@@ -14,29 +14,8 @@ format: revealjs
 
 ## Announcements
 
+- Quiz 4, this Friday, November 20, 2026
 - Exam 3, Wednesday, December 3, 2026
-
-## In the news
-
-![@Fontanelli2025-yp](../include/img/fontanelli-2025-title.png)
-
----
-
->Significant disparities persist in race, ethnicity, and age representation in neuromuscular disease clinical research, highlighting the need for more inclusive study designs.
-
--- @Fontanelli2025-yp
-
----
-
-![@Fontanelli2025-yp Figure 2](../include/img/fontanelli-2025-fig-02.png)
-
----
-
-![@Fontanelli2025-yp Figure 3](../include/img/fontanelli-2025-fig-03.png){#fig-fontanelli-2025-fig-3 width="65%"}
-
-## Why should you care?
-
-- How confident are you that research *your* physicians are relying upon reflects *your* ethnic background?
 
 ## Today's topics
 
@@ -52,7 +31,7 @@ format: revealjs
 
 ::: {.incremental}
 - A. Scientific psychology started by focusing on perception.
-- B. Psychophysics is the discipline most closely associated with it.
+- B. Psychophysics is the discipline most closely associated with the science of perception.
 - C. The relationship between physical properties (like brightness) and perceptual judgements (like magnitude) are often non-linear.
 - D. People can't report accurately or consistently about their perceptual experiences.
 :::
@@ -106,40 +85,61 @@ format: revealjs
 - ~~C. Hot and cold receptors mix-up minty and spicy signals.~~
 - ~~D. Most foods that use mint are served cold.~~
 
----
+# Somatosensation II
 
-### These areas of the skin have large numbers of cutaneous receptors:
+## Somatotopic maps
 
 :::: {.columns}
 ::: {.column width=50%}
-::: {.incremental}
-- A. Calf
-- B. Face
-- C. Fingertips
-- D. B and C.
-:::
+- In thalamus & cerebral cortex
 :::
 ::: {.column width=50%}
+![](../include/img/s1.jpg)
+:::
+::::
+
+## Maps non-uniform
+
+:::: {.columns}
+::: {.column width=50%}
+- Some areas of skin activate disproportionately sized areas of the cerebral cortex
+  - hands, face, lips & tongue
+- More sensors in skin...
+- More axons to brain...
+- Larger areas in brain
+:::
+::: {.column width=50%}
+![](../include/img/homunculus.jpg){fig-align="right" width="65%"}
 :::
 ::::
 
 ---
 
-### These areas of the skin have large numbers of cutaneous receptors:
+## Parallel pathways
 
 :::: {.columns}
 ::: {.column width=50%}
-- ~~A. Calf~~
-- *B. Face*
-- *C. Fingertips*
-- **D. B and C.**
+- S1 maintains functional segregation of input types
 :::
 ::: {.column width=50%}
-![](../include/img/two-point-thresholds.jpg)
+![](../include/img/s1-columns.jpg)
 :::
 ::::
 
-# Action
+## Main points
+
+- Perceiving Where
+    + Somatotopic maps -- locations on skin
+    + Kinesthesia -- configuration of limbs
+    
+## Main points
+
+- Perceiving What
+    + Patterns of smoothness, roughness, shape, temperature
+- Functional segregation
+  - Multiple receptors, parallel axon pathways
+
+# Action I
 
 ## Behavior as a system
 
@@ -219,7 +219,7 @@ flowchart TD
 :::
 ::::
 
-## Types
+## Muscle types
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -472,7 +472,7 @@ flowchart TD
 
 ## Next time
 
-- Quiz 3
+- Quiz 4
 - Action II
 
 # Resources
