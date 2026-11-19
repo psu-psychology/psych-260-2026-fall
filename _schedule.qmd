@@ -298,7 +298,7 @@
 
 *Quiz 4; Action II*
 
-- *Slides*:  | [html](slides/) |
+- *Slides*:  | [html](slides/wk-13-2026-11-20-action-II.qmd) |
 
 ## Thanksgiving Break
 

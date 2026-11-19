@@ -382,78 +382,6 @@ flowchart TD
 
 ![Giphy: Bob Baker Marionette Theater](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxMzAxMzI2MXB2NXpvdTduOXF0ZWIzOG5zejMycGtmbzlkaXN6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7b9mwnBioe3hcwvK/giphy.gif){fig-align="center"}
 
-## Muscles are sensory organs, too!
-
-## Muscle fiber types
-
-:::: {.columns}
-::: {.column width=50%}
-- **Intrafusal** fibers
-    + Sense length/tension
-    + Ennervated (contract) via gamma ($\gamma$) motor neuron activation
-    + Contain muscle spindles (sensory organs linked to Ia afferents)
-:::
-::: {.column width=50%}
-![](../include/img/muscle-fiber-types.jpg){fig-align="right"}
-:::
-::::
-
-## Muscle fiber types
-
-:::: {.columns}
-::: {.column width=50%}
-- **Extrafusal** fibers
-    + Generate force
-    + Ennervated (contract) via alpha ($\alpha$) motor neurons
-:::
-::: {.column width=50%}
-![](../include/img/muscle-fiber-types.jpg){fig-align="right"}
-:::
-::::
-
-## Monosynaptic stretch (myotatic) reflex
-
-:::: {.columns}
-::: {.column width=50%}
-- Muscle stretched (length increases)
-- Muscle spindle in intrafusal fiber activates
-- Ia afferent sends signal to spinal cord
-    + Activates alpha ($\alpha$) motor neuron
-:::
-::: {.column width=50%}
-![](../include/img/intrafusal-extrafusal-fibers.jpg){fig-align="right"}
-:::
-::::
-
-## Monosynaptic stretch (myotatic) reflex
-
-:::: {.columns}
-::: {.column width=50%}
-- Muscle contracts, shortens length
-- Gamma ($\gamma$) motor neuron fires to take up intrafusal fiber slack
-:::
-::: {.column width=50%}
-![](../include/img/intrafusal-extrafusal-fibers.jpg){fig-align="right"}
-:::
-::::
-
-## Avoiding tremor
-
-:::: {.columns}
-::: {.column width=50%}
-- Polysynaptic *inhibition* of antagonist muscle
-- Prevents/dampens tremor
-
-- Remember: Brain gets fast(est) sensory info from spindles
-:::
-::: {.column width=50%}
-![](../include/img/stretch-reflex.jpg){fig-align="right"}
-:::
-::::
-
-## Why this matters...
-
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjNXIxOGNzejhuaGNrcThxYzA1NGt5MG13YXY0eTJlNjM0NnlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeZvq8yltmsUfq2sgX/giphy.gif){fig-align="center"}
 
 # Wrap up
 
@@ -467,8 +395,6 @@ flowchart TD
 
 - Depolarization of muscle fiber causes Ca++ release
   - Triggers actin & myosin proteins to cause muscle contraction 
-- Muscles are sensory organs AND force/movement producers
-- Monosynaptic stretch reflex
 
 ## Next time
 

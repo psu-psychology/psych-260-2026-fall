@@ -99,8 +99,8 @@ website:
             href: slides/wk-13-2026-11-16-somatosensation.qmd
           - text: "Wk 13 • Wed Nov 18"
             href: slides/wk-13-2026-11-18-action-I.qmd
-      #     - text: "Wk 13 • Thu Nov 20"
-      #       href: slides/wk-13-2025-11-20-action-I.qmd
+          - text: "Wk 13 • Fri Nov 20"
+            href: slides/wk-13-2026-11-20-action-II.qmd
       #     - text: "Wk 15 • Tue Dec 09"
       #       href: slides/wk-15-2025-12-09-memory.qmd
       #     - text: "Wk 15 • Thu Dec 11"
