@@ -1,0 +1,28 @@
+---
+title: "Exam 3 review"
+format: revealjs
+---
+
+# Preliminaries
+
+## Announcements
+
+- Exam 4
+- SEEQ scores
+
+## Today's topics
+
+- Quiz 4 results
+- Exam 3 review
+
+# Quiz 4 results
+
+# Exam 3 review
+
+# Wrap-up
+
+## Next time
+
+- Exam 3
+
+{{< include _about-refs.qmd >}}

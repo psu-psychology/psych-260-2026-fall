@@ -905,6 +905,4 @@ format: revealjs
 
 # Resources
 
-# Resources
-
 {{< include _about-refs.qmd >}}
