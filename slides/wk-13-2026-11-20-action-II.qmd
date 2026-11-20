@@ -159,7 +159,7 @@ format: revealjs
 ## Causes
 
 - Genetic + environmental influences
-    - Gene fragment (CAG) duplication
+    - Gene fragment (CAG^[cytosine-adenine-guanine]) duplication
     - High levels of *huntingtin* protein accumulate in basal ganglia
     - People with familial risk may want to consider genetic testing
 - No effective treatment
@@ -167,7 +167,7 @@ format: revealjs
     
 ---
 
-![@Gallagher2025-xb](../include/img/huntingtons-treatment.png)
+![@Gallagher2025-xb](../include/img/huntingtons-treatment.png){width="65%"}
 
 ## Amyotrophic Lateral Sclerosis (ALS; Lou Gehrig's Disease)
 
@@ -178,18 +178,24 @@ format: revealjs
 - No cure
 :::
 ::: {.column width=50%}
-![Stephen Hawking | Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg)
+![Stephen Hawking | Wikipedia^[By NASA - Original. Source (StarChild Learning Center). Archived directory listing at the Wayback Machine., Public Domain, https://commons.wikimedia.org/wiki/Special:Redirect/page/1657641]](https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg)
 :::
 ::::
 
 ---
 
-![@the-original2003-aw](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ALS_Affected_neurons_and_muscles.png/2560px-ALS_Affected_neurons_and_muscles.png)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/16/ALS_Affected_neurons_and_muscles.png){width="65%"}
 
-```{r, fig.cap="Wikipedia: https://commons.wikimedia.org/wiki/File:UMN_vs_LMN.png#/media/File:UMN_vs_LMN.png"}
-knitr::include_graphics("https://commons.wikimedia.org/wiki/File:UMN_vs_LMN.png#/media/File:UMN_vs_LMN.png")
-```
+---
 
-# Resources
+
+
+![Wikipedia^[By PaulWicks - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/Special:Redirect/page/132193932]](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Illustration_of_the_motor_neuron_tract_descending_from_primary_motor_cortex%2C_via_spinal_cord%2C_to_skeletal_muscle.jpg/3840px-Illustration_of_the_motor_neuron_tract_descending_from_primary_motor_cortex%2C_via_spinal_cord%2C_to_skeletal_muscle.jpg){width="65%"}
+
+# Wrap-up
+
+## Next time
+
+- Review for Exam 3
 
 {{< include _about-refs.qmd >}}
