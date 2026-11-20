@@ -18,14 +18,14 @@ format: revealjs
 ## Announcements
 
 - Exam 3, Wednesday, December 3, 2026
-
+- Exam 4
+  - Wed, Dec 16, 4:40p - 6:30p
+  - Business Building 007
+  
 ## Today's topics
 
 - Quiz 4
 - Action II
-- Exam 4
-  - Wed, Dec 16, 4:40p - 6:30p
-  - Business Building 007
 
 # Quiz 4
 
